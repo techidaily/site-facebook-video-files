@@ -1,7 +1,7 @@
 ---
 title: "Tumblr Image Format Specifications"
-date: 2024-05-20T13:25:10.867Z
-updated: 2024-05-21T13:25:10.867Z
+date: 2024-06-08T05:42:41.082Z
+updated: 2024-06-09T05:42:41.082Z
 tags:
   - ai video
   - ai facebook
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes Tumblr Image Format Specifications"
 excerpt: "This Article Describes Tumblr Image Format Specifications"
 keywords: "Tumblr Img Formats,Tumblr Image Rules,Tumblr Photo Guidelines,Tumblr Picture Standards,Tumblr Image Specifications,Tumblr Blogging Images,Tumblr Picture Format"
-thumbnail: https://www.lifewire.com/thmb/9nO-4SAhKv2fMtcY3f2sR16dFNk=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/is-verizon-down-or-is-it-just-you-5069423-437db7b54e7c4a758e5f445dfa5edaea.jpg
+thumbnail: https://thmb.techidaily.com/01a9c6a754e21b99c858623b51177464f69009a94f81e88dbd632b404f3b4368.jpg
 ---
 
 ## Tumblr Image Format Specifications

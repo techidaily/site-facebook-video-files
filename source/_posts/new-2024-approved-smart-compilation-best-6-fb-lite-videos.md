@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Smart Compilation  Best 6 FB Lite Videos\""
-date: 2024-05-20T13:55:31.182Z
-updated: 2024-05-21T13:55:31.182Z
+date: 2024-06-08T05:42:47.176Z
+updated: 2024-06-09T05:42:47.176Z
 tags:
   - ai video
   - ai facebook
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] 2024 Approved: Smart Compilation: Best 6 FB Lite Videos\""
 excerpt: "\"This Article Describes [New] 2024 Approved: Smart Compilation: Best 6 FB Lite Videos\""
 keywords: "FB Lite Tips,Video Guide FB,Smart FB Upgrade,Optimize FB Settings,Efficient FB Usage,Facebook Compilation,FB Lite Essentials"
-thumbnail: https://www.lifewire.com/thmb/W3GWqmvVnsX-u0REEWJqqyOErDA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/dellstudentdiscount-e67f4f7e4b4b46cba7af6aa676fcf535.jpg
+thumbnail: https://thmb.techidaily.com/5ba7b3f6e60e87bd15e4d0d59cd473305f169947afe8b79e803b03fc556698ce.jpg
 ---
 
 ## Smart Compilation: Best 6 FB Lite Videos

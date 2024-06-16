@@ -1,7 +1,7 @@
 ---
 title: "\"Lyrics, Notes, and Beats - FB Style\""
-date: 2024-05-20T13:24:44.065Z
-updated: 2024-05-21T13:24:44.065Z
+date: 2024-06-08T05:42:44.014Z
+updated: 2024-06-09T05:42:44.014Z
 tags:
   - ai video
   - ai facebook
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes Lyrics, Notes, and Beats - FB Style\""
 excerpt: "\"This Article Describes Lyrics, Notes, and Beats - FB Style\""
 keywords: "FB Lyrics Analysis,FB Music Composition,FB Beat Mapping,FB Note Patterns,FB Rhythm Structures,FB Lyric Harmony,FB Melodic Beats"
-thumbnail: https://www.lifewire.com/thmb/Ar5baSJ1LWZdULSZ_APsNZRfyng=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/OpenAI-vs-ChatGPT-dc69f067088c4af6b7f0cb16376e94ee.jpg
+thumbnail: https://thmb.techidaily.com/573a01f636332d7e5c995b169e7da5e56cb9c949cb98537f68160223a0f7de27.jpg
 ---
 
 ## Lyrics, Notes, and Beats - FB Style

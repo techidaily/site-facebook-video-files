@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Masterclass  Setting Up Your First Facebook Page for 2024\""
-date: 2024-05-20T14:07:50.202Z
-updated: 2024-05-21T14:07:50.202Z
+date: 2024-06-08T05:42:47.597Z
+updated: 2024-06-09T05:42:47.597Z
 tags:
   - ai video
   - ai facebook
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] Masterclass: Setting Up Your First Facebook Page for 2024\""
 excerpt: "\"This Article Describes [New] Masterclass: Setting Up Your First Facebook Page for 2024\""
 keywords: "First FB Page Setup,Beginning FB Page Creation,Establishing Initial FB Account,Launching New FB Profile,Starting FB Page Basics,Founding FB Page Guide,Initiating FB Business Page"
-thumbnail: https://www.lifewire.com/thmb/jhGXgyCjWSFdhfPa2Q6YATjpP3E=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/Familyplayingvideogames-b0cc2d7f9abe42db8cc4fcc05af223bc.jpg
+thumbnail: https://thmb.techidaily.com/5e6778b56bd7ea57ea083d57b5f2921418b00d25e671abbc75a29215718a300d.jpg
 ---
 
 ## Masterclass: Setting Up Your First Facebook Page

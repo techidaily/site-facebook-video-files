@@ -1,7 +1,7 @@
 ---
 title: "\"Crafting Facebook SlideShow  An Instagram-Style Storytelling Guide\""
-date: 2024-05-20T13:35:05.903Z
-updated: 2024-05-21T13:35:05.903Z
+date: 2024-06-08T05:42:41.812Z
+updated: 2024-06-09T05:42:41.812Z
 tags:
   - ai video
   - ai facebook
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes Crafting Facebook SlideShow: An Instagram-Style Storytelling Guide\""
 excerpt: "\"This Article Describes Crafting Facebook SlideShow: An Instagram-Style Storytelling Guide\""
 keywords: "\"Social Media Slideshow,Insta-Storytelling Guide,Crafting FB Slideshows,Facebook Slide Show Tips,Storytelling in FB Slides,Instagram Slide Share,FB Stories Slide Art\""
-thumbnail: https://www.lifewire.com/thmb/k58vbJPuDCjL1Uf6h00LpxDd_5A=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/white-office-desk-table-with-a-lot-of-things-on-it--top-view-with-copy-space--637047700-5a24617b4e46ba001a6d6d23.jpg
+thumbnail: https://thmb.techidaily.com/db345622b66c3b6984b775950925cc8114e2a134a67c761a2d6a6d2fb5b65330.jpg
 ---
 
 ## Crafting Facebook SlideShow: An Instagram-Style Storytelling Guide

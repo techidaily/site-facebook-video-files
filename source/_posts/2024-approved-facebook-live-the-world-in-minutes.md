@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Facebook Live  The World in Minutes\""
-date: 2024-05-20T13:31:50.506Z
-updated: 2024-05-21T13:31:50.506Z
+date: 2024-06-08T05:42:43.323Z
+updated: 2024-06-09T05:42:43.323Z
 tags:
   - ai video
   - ai facebook
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Facebook Live: The World in Minutes\""
 excerpt: "\"This Article Describes 2024 Approved: Facebook Live: The World in Minutes\""
 keywords: "\"Facebook Live Trends,Real-Time Global Updates,Instant World News,Moments in Minutes TV,Quick Global Views FB,Social Media Broadcasting,LIVE News Snapshot\""
-thumbnail: https://www.lifewire.com/thmb/UVKHhU4tpPF0Y4bcgrLg69Iug_8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/handstypingonkeyboardCROPPED-6b13200ac0d24ef58817343cc4975ebd.jpg
+thumbnail: https://thmb.techidaily.com/287414ff43ab53f27880b8114eed3693184381a70cdfc416ba85990af80f04e8.jpg
 ---
 
 ## Facebook Live: The World in Minutes

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  What To Do If the Facebook Message Shows It’s You in This Video?\""
-date: 2024-05-20T13:59:01.462Z
-updated: 2024-05-21T13:59:01.462Z
+date: 2024-06-08T05:42:40.939Z
+updated: 2024-06-09T05:42:40.939Z
 tags:
   - ai video
   - ai facebook
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] 2024 Approved: What To Do If the Facebook Message Shows It’s You in This Video?\""
 excerpt: "\"This Article Describes [New] 2024 Approved: What To Do If the Facebook Message Shows It’s You in This Video?\""
 keywords: "Fix FaceDMP Error,Clear FB Glitch,Resolve FB Spoofing,Stop Fake FB Alert,Unblock True User,Identify Real Account,Block Suspicious Video"
-thumbnail: https://www.lifewire.com/thmb/jgYC2LQD_DfpMsJmfadVTJNxl5c=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/Strong-AI-vs-Weak-AI-d04f84282874473da514a4e4ad8b8690.jpg
+thumbnail: https://thmb.techidaily.com/65d11e70a3e2b524202510534160699ecec295d81962cec51e81800c7f637654.jpg
 ---
 
 ## What To Do If the Facebook Message Shows It’s You in This Video?

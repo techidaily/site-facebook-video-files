@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  CaptureSocial  FB Videos to Files\""
-date: 2024-05-20T13:58:35.021Z
-updated: 2024-05-21T13:58:35.021Z
+date: 2024-06-08T05:42:48.221Z
+updated: 2024-06-09T05:42:48.221Z
 tags:
   - ai video
   - ai facebook
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: CaptureSocial: FB Videos to Files\""
 excerpt: "\"This Article Describes 2024 Approved: CaptureSocial: FB Videos to Files\""
 keywords: "VideoFBExport,FBToFileConvert,SaveFacebookVids,DownloadFBVideos,SocialVideoSave,FBVideosDownload,ExportFBMediaFiles"
-thumbnail: https://www.lifewire.com/thmb/AfexZ2-k2mQOT3K5CpxU6ZDxBBU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/outlook-email-laptop-54a6bbf773ea4d67b3714ccbab66d8ed.jpg
+thumbnail: https://thmb.techidaily.com/443fa3d21137649dff0319f1c3c3070702e32a7b2f673e094959a8fdb4cdbd5b.jpg
 ---
 
 ## CaptureSocial: FB Videos to Files

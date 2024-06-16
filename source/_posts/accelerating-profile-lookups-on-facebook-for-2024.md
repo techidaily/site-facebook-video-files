@@ -1,7 +1,7 @@
 ---
 title: "Accelerating Profile Lookups on Facebook for 2024"
-date: 2024-05-20T13:43:57.760Z
-updated: 2024-05-21T13:43:57.760Z
+date: 2024-06-08T05:42:46.709Z
+updated: 2024-06-09T05:42:46.709Z
 tags:
   - ai video
   - ai facebook
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes Accelerating Profile Lookups on Facebook for 2024"
 excerpt: "This Article Describes Accelerating Profile Lookups on Facebook for 2024"
 keywords: "FB Profile Access Speed,Quick FB User Search,FB Identity Lookup Fast,Optimize FB User Query,Enhanced FB ID Retrieval,Accelerated Facebook Profiles,Speedy FB Account Lookups"
-thumbnail: https://www.lifewire.com/thmb/jPrdYdSLjslalhW7IaTG5T7eeCw=/300x200/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1012916614-9c7175b024cf4ef2b9f4a523914c9304.jpg
+thumbnail: https://thmb.techidaily.com/42d888d9431637ab1388aeb276d6888b24b9d1d85a816656ff3b301d8b067e97.jpg
 ---
 
 ## Accelerating Profile Lookups on Facebook

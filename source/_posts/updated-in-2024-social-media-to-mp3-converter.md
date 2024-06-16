@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Social Media to Mp3 Converter"
-date: 2024-05-20T13:43:51.171Z
-updated: 2024-05-21T13:43:51.171Z
+date: 2024-06-08T05:42:44.145Z
+updated: 2024-06-09T05:42:44.145Z
 tags:
   - ai video
   - ai facebook
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [Updated] In 2024, Social Media to Mp3 Converter"
 excerpt: "This Article Describes [Updated] In 2024, Social Media to Mp3 Converter"
 keywords: "\"MP3 Download Tool,Social Media Audio Extractor,Convert Tweets To Music,Online Media Audio Conversion,Platform-Based Audio File,Streaming Content Converter,Mp3 Conversion Service\""
-thumbnail: https://www.lifewire.com/thmb/q5x1j07W_OCrfDQzv8J7AXu53ds=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/how-to-connect-chromecast-to-a-mobile-hotspot-2107d18431604b07aa857499aafb1a60.jpg
+thumbnail: https://thmb.techidaily.com/43b3016567177cad6fe84b916b9b05812f511a2dc184d4caf7d23cf42a2ae057.jpg
 ---
 
 ## Social Media to Mp3 Converter

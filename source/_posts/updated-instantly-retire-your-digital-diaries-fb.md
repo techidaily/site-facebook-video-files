@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Instantly Retire Your Digital Diaries (FB)"
-date: 2024-05-20T13:33:33.220Z
-updated: 2024-05-21T13:33:33.220Z
+date: 2024-06-08T05:42:40.993Z
+updated: 2024-06-09T05:42:40.993Z
 tags:
   - ai video
   - ai facebook
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [Updated] Instantly Retire Your Digital Diaries (FB)"
 excerpt: "This Article Describes [Updated] Instantly Retire Your Digital Diaries (FB)"
 keywords: "Retire FB Diaries,Instant Digital Exit,Delete Facebook Journals,Quick FB Deactivation,Easily Remove FB Accounts,Immediate FB Privacy,Abruptly Close FB Page"
-thumbnail: https://www.lifewire.com/thmb/UYzt2Tr4AZa3CbzWYhHXCRzkASk=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/freespacefirestick-d92102a4f6dd47e2936787982b0709f9.jpg
+thumbnail: https://thmb.techidaily.com/be26802ef5bb50783815300426404d3fea7e0b5a3f7f648e31ee7c5865304f02.jpg
 ---
 
 ## Instantly Retire Your Digital Diaries (FB)

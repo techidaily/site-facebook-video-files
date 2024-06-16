@@ -1,7 +1,7 @@
 ---
 title: "[New] Capture and Save FB Videos on Windows, Mac for 2024"
-date: 2024-05-20T13:36:26.636Z
-updated: 2024-05-21T13:36:26.636Z
+date: 2024-06-08T05:42:41.294Z
+updated: 2024-06-09T05:42:41.294Z
 tags:
   - ai video
   - ai facebook
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [New] Capture and Save FB Videos on Windows, Mac for 2024"
 excerpt: "This Article Describes [New] Capture and Save FB Videos on Windows, Mac for 2024"
 keywords: "Windows FB Video Save,Mac FB Video Capture,FB Video Saving Tips,FB Video to PC Storage,Secure FB Videos Windows,Directly Download FB Videos,Extracting FB Videos Easily"
-thumbnail: https://www.lifewire.com/thmb/3T4om8_B6d6YEULAtPWYjhC-0sU=/300x200/filters:no_upscale():max_bytes(150000):strip_icc()/xxl-desktop-pc-98013994-5c4dcc47c9e77c0001380389.jpg
+thumbnail: https://thmb.techidaily.com/ef372663750da3323ed4b8491ee9b4b175fd85bfcc73dd50c99f11aa454f80c7.jpg
 ---
 
 ## Capture and Save FB Videos on Windows, Mac

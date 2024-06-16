@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Unlock Laughter Traps  20 Quirky FB Detention Anecdotes for Amusement\""
-date: 2024-05-20T13:35:04.233Z
-updated: 2024-05-21T13:35:04.233Z
+date: 2024-06-08T05:42:47.053Z
+updated: 2024-06-09T05:42:47.053Z
 tags:
   - ai video
   - ai facebook
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] 2024 Approved: Unlock Laughter Traps: 20 Quirky FB Detention Anecdotes for Amusement\""
 excerpt: "\"This Article Describes [Updated] 2024 Approved: Unlock Laughter Traps: 20 Quirky FB Detention Anecdotes for Amusement\""
 keywords: "Funny FB Detentions,Humorous Social Blocks,Amusing Teen Flogs,Laughter in FB Jams,Quirky Online Reprimands,Teen Humor Incidents,Joking About FB Bans"
-thumbnail: https://www.lifewire.com/thmb/eRGHIfyY7XLVnijHEhZdbc86gZ4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/brainstorming-business-businessman-businesswoman-colleagues-communication-1431569-pxhere.com-a3fe04375b74482188dd8e567d8d348d.jpg
+thumbnail: https://thmb.techidaily.com/06b4f561e77b6da888e1e3e26d3fff8eafe69267efcd4ca3c81ccca7b6840330.jpg
 ---
 
 ## Unlock Laughter Traps: 20 Quirky FB Detention Anecdotes for Amusement

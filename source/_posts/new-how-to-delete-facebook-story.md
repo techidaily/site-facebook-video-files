@@ -1,7 +1,7 @@
 ---
 title: "[New] How to Delete Facebook Story?"
-date: 2024-05-20T13:45:11.365Z
-updated: 2024-05-21T13:45:11.365Z
+date: 2024-06-08T05:42:42.017Z
+updated: 2024-06-09T05:42:42.017Z
 tags:
   - ai video
   - ai facebook
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [New] How to Delete Facebook Story?"
 excerpt: "This Article Describes [New] How to Delete Facebook Story?"
 keywords: "Deleting FB Stories,Remove Facebook Snap,Unshare on FaceBook,Wipe Facebook Video,Clear FB Live Posts,Erase Social Story,Disable Facebook Share"
-thumbnail: https://www.lifewire.com/thmb/Qa72eBfCZc6Kch4bXzH3ZVm1XTU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/LifewireClubhousePrimary-6ea7cf41b0884f88b419ec23bc3c35be.jpg
+thumbnail: https://thmb.techidaily.com/cabed3ff31b82926ba008513e58f8543d937e5a9afb11a07e4133edf1c0ffefb.jpg
 ---
 
 ## Removing Your Facebook Live Video: Tech Steps

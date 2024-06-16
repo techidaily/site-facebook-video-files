@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Facebook to MP3 Converter Tool"
-date: 2024-05-20T14:00:45.022Z
-updated: 2024-05-21T14:00:45.022Z
+date: 2024-06-08T05:42:45.966Z
+updated: 2024-06-09T05:42:45.967Z
 tags:
   - ai video
   - ai facebook
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [Updated] Facebook to MP3 Converter Tool"
 excerpt: "This Article Describes [Updated] Facebook to MP3 Converter Tool"
 keywords: "Facebook Audio Conversion,MP3 Download Tool,Convert FB Audio,Social Media MP3,MP3 Creator App,Online Music Converter,Free MP3 Converter"
-thumbnail: https://www.lifewire.com/thmb/DUmN2Dmd5lnkrBUDS2H-a1OpNcY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/twitchdown-71287ccb41b64eb19a607868887d3e34.jpg
+thumbnail: https://thmb.techidaily.com/088a2140549716da6b5748cac96819433a88c8dbf67bc5c9abb78e2279e38684.jpg
 ---
 
 ## Facebook to MP3 Converter Tool

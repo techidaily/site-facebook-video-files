@@ -1,7 +1,7 @@
 ---
 title: "Social Media Story Scooper for 2024"
-date: 2024-05-20T14:01:22.705Z
-updated: 2024-05-21T14:01:22.705Z
+date: 2024-06-08T05:42:48.288Z
+updated: 2024-06-09T05:42:48.288Z
 tags:
   - ai video
   - ai facebook
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes Social Media Story Scooper for 2024"
 excerpt: "This Article Describes Social Media Story Scooper for 2024"
 keywords: "Social Story Tools,Media Content Scoop,Engage Stories Easy,Brand Social Scoops,Interactive Story Ready,Shareable Story Collector,Viral Stories Manager"
-thumbnail: https://www.lifewire.com/thmb/XEmNY2XXmdFN8cULyGG57iImpok=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/outlookcopilot05-956518ea12234406945d579c7f351886.jpg
+thumbnail: https://thmb.techidaily.com/fd283428cd4cb2c0907e2d15b8c7aa3306b361f3c11c9903f383663675146f0a.jpg
 ---
 
 ## Social Media Story Scooper

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Unlock Joy Behind the Walls  20 Funniest Fb Detainment Scenarios\""
-date: 2024-05-20T13:38:34.029Z
-updated: 2024-05-21T13:38:34.029Z
+date: 2024-06-08T05:42:48.326Z
+updated: 2024-06-09T05:42:48.326Z
 tags:
   - ai video
   - ai facebook
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] Unlock Joy Behind the Walls: 20 Funniest Fb Detainment Scenarios\""
 excerpt: "\"This Article Describes [New] Unlock Joy Behind the Walls: 20 Funniest Fb Detainment Scenarios\""
 keywords: "Joyful FB Incidents,Hilarity in FB Arrests,Laughter in Social Blocking,Humorous Facebook Captures,Funny Fb Detainment Tales,Comical Facebook Seized,Hilarious Online Lockdown"
-thumbnail: https://www.lifewire.com/thmb/dyswmYNpv0N5nDaCdhxQ7fAUz7s=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/Taylor-Dent-candid-02cfe5d4fc174cd585cfc43cb77b48f7.jpg
+thumbnail: https://thmb.techidaily.com/144ba6c2b445ab473f613c1a9b64b4025f153684504ed90b87c56b4f36e8f03d.jpg
 ---
 
 ## Unlock Joy Behind the Walls: 20 Funniest Fb Detainment Scenarios

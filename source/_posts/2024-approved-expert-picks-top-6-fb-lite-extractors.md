@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Expert Picks  Top 6 FB Lite Extractors\""
-date: 2024-05-20T13:46:08.534Z
-updated: 2024-05-21T13:46:08.534Z
+date: 2024-06-08T05:42:44.969Z
+updated: 2024-06-09T05:42:44.969Z
 tags:
   - ai video
   - ai facebook
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Expert Picks: Top 6 FB Lite Extractors\""
 excerpt: "\"This Article Describes 2024 Approved: Expert Picks: Top 6 FB Lite Extractors\""
 keywords: "FB Lite Extractor #1,Optimal Lite Extractor,Premier Facebook Extraction,Best Lite Data Grab,Top Social Media Extractor,Expert Lite Extract,Leading Lite Extractor"
-thumbnail: https://www.lifewire.com/thmb/lwyffvP10dLE4EinuE3HUVO38bo=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1342255561-483b636ee00f40a1b3d91d1969b1aaf6.jpg
+thumbnail: https://thmb.techidaily.com/4286d1d9e7f9f222d6b24d7259e18b93ce578dc75aedffe72b83d7d3b1179de6.jpg
 ---
 
 ## Expert Picks: Top 6 FB Lite Extractors

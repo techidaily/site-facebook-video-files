@@ -1,7 +1,7 @@
 ---
 title: "\"Ideal Choices  Priority 6 FB Lite Vids\""
-date: 2024-05-20T14:05:03.863Z
-updated: 2024-05-21T14:05:03.863Z
+date: 2024-06-08T05:42:47.568Z
+updated: 2024-06-09T05:42:47.568Z
 tags:
   - ai video
   - ai facebook
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes Ideal Choices: Priority 6 FB Lite Vids\""
 excerpt: "\"This Article Describes Ideal Choices: Priority 6 FB Lite Vids\""
 keywords: "FB Lite Videos,Ideal FB Content,Popular FB Channels,Priority Video Sources,Essential FB Selections,Top FB Video Picks,Best FB Vids Guide"
-thumbnail: https://www.lifewire.com/thmb/yeBMpxlKjRXXKI0Ay67NUTI2xl0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/hexadecimal-code-security-key-krzysztof-zmij-e-plus-getty-images-57c76b825f9b5829f4bd185e.jpg
+thumbnail: https://thmb.techidaily.com/356d504c4e521db72b45b5ec62fa587016c69e83da4a3303db46e26dc1ec6ec7.jpg
 ---
 
 ## Ideal Choices: Priority 6 FB Lite Vids

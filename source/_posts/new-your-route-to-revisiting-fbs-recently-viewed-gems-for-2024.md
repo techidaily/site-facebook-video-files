@@ -1,7 +1,7 @@
 ---
 title: "[New] Your Route to Revisiting Fb’s Recently Viewed Gems for 2024"
-date: 2024-05-20T13:34:30.035Z
-updated: 2024-05-21T13:34:30.035Z
+date: 2024-06-08T05:42:46.739Z
+updated: 2024-06-09T05:42:46.739Z
 tags:
   - ai video
   - ai facebook
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [New] Your Route to Revisiting Fb’s Recently Viewed Gems for 2024"
 excerpt: "This Article Describes [New] Your Route to Revisiting Fb’s Recently Viewed Gems for 2024"
 keywords: "Fb's RV List,Recent FB Sights,Top Facebook Items,Find FB Likes Fast,Explore FB Viewed Content,Navigate to Facebook Favorites,Accessing Popular FB Videos"
-thumbnail: https://www.lifewire.com/thmb/8WqruqRuI3DvnOciFRtMSEwttKs=/2000x0/filters:no_upscale():max_bytes(150000):strip_icc()/SocialMedia_GettyImages-1167165311_KornburutWoradee_EyeEm_CROPPED-9cc5d3f943a74a51b2f4fe746197af63.jpg
+thumbnail: https://thmb.techidaily.com/2ceae87a9b9364e8de7f8199f6943542799e9e444d1e94cece6744b91d0b78e1.jpg
 ---
 
 ## Your Route to Revisiting Fb’s Recently Viewed Gems

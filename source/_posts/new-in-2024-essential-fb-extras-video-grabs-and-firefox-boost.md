@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Essential FB Extras  Video Grabs & FireFox Boost\""
-date: 2024-05-20T13:46:20.290Z
-updated: 2024-05-21T13:46:20.290Z
+date: 2024-06-08T05:42:40.538Z
+updated: 2024-06-09T05:42:40.538Z
 tags:
   - ai video
   - ai facebook
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] In 2024, Essential FB Extras: Video Grabs & FireFox Boost\""
 excerpt: "\"This Article Describes [New] In 2024, Essential FB Extras: Video Grabs & FireFox Boost\""
 keywords: "Facebook Video Grabs,FB Extra Tools,Video Capture FB,Firefox Boosting,Social Media Extras,Grab Video FB,Enhance FireFox"
-thumbnail: https://www.lifewire.com/thmb/lx45d5znCjBzyeBL8vl_6s2kjOI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/motorola-razr-40-ultra-Lifestyle-6-c1e1e14eeedd4b9da726d158e4d4633b.jpeg
+thumbnail: https://thmb.techidaily.com/ae8528ae334175808b74ac01fefc618d6dd771a5548956162285f37bc39ffc3e.jpeg
 ---
 
 ## Essential FB Extras: Video Grabs & FireFox Boost

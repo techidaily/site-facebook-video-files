@@ -1,7 +1,7 @@
 ---
 title: "\"Top 15 Facebook Videograbber Add-Ons, Compatible with FireFox\""
-date: 2024-05-20T14:02:41.648Z
-updated: 2024-05-21T14:02:41.648Z
+date: 2024-06-08T05:42:40.366Z
+updated: 2024-06-09T05:42:40.366Z
 tags:
   - ai video
   - ai facebook
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes Top 15 Facebook Videograbber Add-Ons, Compatible with FireFox\""
 excerpt: "\"This Article Describes Top 15 Facebook Videograbber Add-Ons, Compatible with FireFox\""
 keywords: "\"FB Video Grab Extensions,Firefox Grabbing Tools,Top FF Video Plugins,Best FF Videograbber Add-Ons,FF Videograb Ads,High-Quality FF Video Grab,FireFox Videograbbing Tips\""
-thumbnail: https://www.lifewire.com/thmb/bbeiFr7M7Hblm82AcPyl3Z3IAu4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/001_how-to-fix-it-when-roku-tv-sound-is-not-working-5198644-bc2ace5bd66c4dcb9ba516eac5fc3df8.jpg
+thumbnail: https://thmb.techidaily.com/9b3d4059cce82d617824aff75bbe2c1cfb1dda056b7a7373daee332b511aa58b.jpg
 ---
 
 ## Top 15 Facebook Videograbber Add-Ons, Compatible with FireFox

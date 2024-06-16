@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Cross-Media Broadcasting  4 Strategies to Air FB Livests on TV\""
-date: 2024-05-20T13:44:32.189Z
-updated: 2024-05-21T13:44:32.189Z
+date: 2024-06-08T05:42:43.785Z
+updated: 2024-06-09T05:42:43.785Z
 tags:
   - ai video
   - ai facebook
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] Cross-Media Broadcasting: 4 Strategies to Air FB Livests on TV\""
 excerpt: "\"This Article Describes [New] Cross-Media Broadcasting: 4 Strategies to Air FB Livests on TV\""
 keywords: "\"FB Live TV Strategy,Cross Media Broadcasting,TV FB Livestream Tips,Livestream TV Strategies,Airing Facebook on TV,Multi-Media Broadcast Plans,Livestream TV Integration\""
-thumbnail: https://www.lifewire.com/thmb/GQlgkzUTMGKItpippJomoeB0SlE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/483598317-56a104ab5f9b58eba4b6b0f6.jpg
+thumbnail: https://thmb.techidaily.com/49570c4e8b47ea82b7ecf56be528fbefc2ec46d8620a3399012917fa562508d1.jpg
 ---
 
 ## Cross-Media Broadcasting: 4 Strategies to Air FB Livests on TV

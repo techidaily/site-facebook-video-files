@@ -1,7 +1,7 @@
 ---
 title: "Extract & Save FB Videos on PC/Mac, Anywhere for 2024"
-date: 2024-05-20T13:36:14.903Z
-updated: 2024-05-21T13:36:14.903Z
+date: 2024-06-08T05:42:41.659Z
+updated: 2024-06-09T05:42:41.659Z
 tags:
   - ai video
   - ai facebook
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes Extract & Save FB Videos on PC/Mac, Anywhere for 2024"
 excerpt: "This Article Describes Extract & Save FB Videos on PC/Mac, Anywhere for 2024"
 keywords: "Save FB Videos PC,FB Video Extraction,Mobile Download FB,WebFB Video Capture,Mac FB Video Grab,PC FB Video Extract,IOS FB Video Download"
-thumbnail: https://www.lifewire.com/thmb/KLuam83BrZsFZ3VSU4PH8DBGYxY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/before-you-buy-a-video-projector-1847845-v3-ED-8a08e03f2cfc4835a13872618bd4ad00.png
+thumbnail: https://thmb.techidaily.com/c9e5ca8d00ac8479f694130618d3f9a3080c0193f44d3a38cfaa7537d0961fac.png
 ---
 
 ## Extract & Save FB Videos on PC/Mac, Anywhere

@@ -1,7 +1,7 @@
 ---
 title: "[New] Path Profile Picture Dimensions"
-date: 2024-05-20T14:04:39.506Z
-updated: 2024-05-21T14:04:39.506Z
+date: 2024-06-08T05:42:42.892Z
+updated: 2024-06-09T05:42:42.892Z
 tags:
   - ai video
   - ai facebook
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [New] Path Profile Picture Dimensions"
 excerpt: "This Article Describes [New] Path Profile Picture Dimensions"
 keywords: "Profile Pic Sizes,Image Dimensions,PNG Size,JPG Width Height,Photo Resolution,Icon Dimension,Img Aspect Ratio"
-thumbnail: https://www.lifewire.com/thmb/aGZqNAAWZxGqTIdxV5jFhxBFP10=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/firetvremoteapp-5c05dd3546e0fb0001924ea6.jpg
+thumbnail: https://thmb.techidaily.com/b2d913b57df62249e08cf6aa2213e0e218bf0ce45d452041bd7c83bf359b02fd.jpg
 ---
 
 ## Path Profile Picture Dimensions
