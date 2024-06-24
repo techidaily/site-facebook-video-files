@@ -1,7 +1,7 @@
 ---
 title: "\"Social Network Synergy  Broadcasting Twitch on Social Media Platforms\""
-date: 2024-05-20T13:30:51.892Z
-updated: 2024-05-21T13:30:51.892Z
+date: 2024-06-15T12:55:55.167Z
+updated: 2024-06-16T12:55:55.167Z
 tags:
   - ai video
   - ai facebook
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes Social Network Synergy: Broadcasting Twitch on Social Media Platforms\""
 excerpt: "\"This Article Describes Social Network Synergy: Broadcasting Twitch on Social Media Platforms\""
 keywords: "\"Twitch Streaming,Social Media Integration,Cross-Platform Sharing,Content Distribution,Multiplatform Engagement,Synergy Broadcasting,Networked Streaming\""
-thumbnail: https://www.lifewire.com/thmb/OvgDF4DN2kQY2wqfN-oCDktYpM4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/best-time-of-day-to-instagram-3485858-1-5bb3cc9046e0fb002612537d.jpg
+thumbnail: https://thmb.techidaily.com/485101ae8f555e145174a15eda6071c25617b2b00c96089d339b8e4537366b75.jpg
 ---
 
 ## Social Network Synergy: Broadcasting Twitch on Social Media Platforms

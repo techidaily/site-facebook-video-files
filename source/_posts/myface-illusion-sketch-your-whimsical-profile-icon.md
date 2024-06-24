@@ -1,7 +1,7 @@
 ---
 title: "\"MyFace Illusion  Sketch Your Whimsical Profile Icon\""
-date: 2024-05-20T13:43:28.005Z
-updated: 2024-05-21T13:43:28.005Z
+date: 2024-06-15T12:55:50.391Z
+updated: 2024-06-16T12:55:50.391Z
 tags:
   - ai video
   - ai facebook
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes MyFace Illusion: Sketch Your Whimsical Profile Icon\""
 excerpt: "\"This Article Describes MyFace Illusion: Sketch Your Whimsical Profile Icon\""
 keywords: "MyFace Illusions,Whimsical Portraits,Sketched Icons,Personalized Avatars,Artful Profile Pics,Fantasy Face Images,Creative ID Designs"
-thumbnail: https://www.lifewire.com/thmb/KmpUDy2KhOtVFCwrVqYfhospdqo=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/Suddenlinkoutagemap-567fe5868896469eb3a47fb1774bde20.JPG
+thumbnail: https://thmb.techidaily.com/db54d4e94bdc568181a5a19bde06cb60cc627002afae7c9a75d3a396e9c852b9.JPG
 ---
 
 ## MyFace Illusion: Sketch Your Whimsical Profile Icon

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] From Darkness to Daylight  Funniest Incarcerated Facebook Friends Quotes\""
-date: 2024-05-20T14:08:05.382Z
-updated: 2024-05-21T14:08:05.382Z
+date: 2024-06-15T12:55:43.860Z
+updated: 2024-06-16T12:55:43.860Z
 tags:
   - ai video
   - ai facebook
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] From Darkness to Daylight: Funniest Incarcerated Facebook Friends Quotes\""
 excerpt: "\"This Article Describes [Updated] From Darkness to Daylight: Funniest Incarcerated Facebook Friends Quotes\""
 keywords: "Dark to Light Humor,Jailfriends Quotes,Prisoner Comedy,Inmates' Laughs,Lockdown Wit,Chained Funny Friends,Confined Chuckles"
-thumbnail: https://www.lifewire.com/thmb/3EaGmOjI9xUMKQ-wPQrbB84mOE0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-117845409-836cfa7c69e148a59e0feae1f247d604.jpg
+thumbnail: https://thmb.techidaily.com/6befd60c173a5cd8b8d9dfcf598dea7f7e1558ad2a50419820d4a5c540b52039.jpg
 ---
 
 ## From Darkness to Daylight: Funniest Incarcerated Facebook Friends Quotes

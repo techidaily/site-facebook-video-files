@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, Breakdown  FB Video Aspect Ratios\""
-date: 2024-05-20T13:34:15.063Z
-updated: 2024-05-21T13:34:15.063Z
+date: 2024-06-15T12:56:00.275Z
+updated: 2024-06-16T12:56:00.275Z
 tags:
   - ai video
   - ai facebook
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] In 2024, Breakdown: FB Video Aspect Ratios\""
 excerpt: "\"This Article Describes [Updated] In 2024, Breakdown: FB Video Aspect Ratios\""
 keywords: "Social Media Vids Ratio,Facebook Video Format,Videograph Feature Layout,Content Video Proportion,Profile Video Dimensions,Platform Video Aspects,Media Display Ratios"
-thumbnail: https://www.lifewire.com/thmb/asCAao3Tfs8ZxVZumyLz52-mVek=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-increase-internet-speed-5181475-b6fd84098c634a04a6934302184c5b1b.jpg
+thumbnail: https://thmb.techidaily.com/84aaf27f955a6ba5c37b777f8ab3f4dc75b3cebc10a8c5dcc535bfa16bc60ba0.jpg
 ---
 
 ## Breakdown: FB Video Aspect Ratios

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Tactics to Triumph  Secrets of Successful Social Media Videos\""
-date: 2024-05-20T13:26:34.440Z
-updated: 2024-05-21T13:26:34.440Z
+date: 2024-06-15T12:55:48.042Z
+updated: 2024-06-16T12:55:48.042Z
 tags:
   - ai video
   - ai facebook
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] Tactics to Triumph: Secrets of Successful Social Media Videos\""
 excerpt: "\"This Article Describes [Updated] Tactics to Triumph: Secrets of Successful Social Media Videos\""
 keywords: "Video SEO Tips,Social Media Strategies,Successful Content Boosts,Viral Video Techniques,Engaging Video SEO,Video Marketing Secrets,Profitable Video Tactics"
-thumbnail: https://www.lifewire.com/thmb/1Rilb0YlbOjJJAdvvsoO0ipjdIY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/mixed-race-woman-buying-christmas-presents-online-with-credit-card-84527986-582352235f9b58d5b1ea09cc.jpg
+thumbnail: https://thmb.techidaily.com/603cef112c71acaaa3fdccdd6f7a956de3ad09701fee843146114a343a411d66.jpg
 ---
 
 ## Tactics to Triumph: Secrets of Successful Social Media Videos

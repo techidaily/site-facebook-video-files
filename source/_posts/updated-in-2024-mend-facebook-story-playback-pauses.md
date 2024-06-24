@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Mend Facebook Story Playback Pauses"
-date: 2024-05-20T13:51:48.940Z
-updated: 2024-05-21T13:51:48.940Z
+date: 2024-06-15T12:55:47.863Z
+updated: 2024-06-16T12:55:47.863Z
 tags:
   - ai video
   - ai facebook
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [Updated] In 2024, Mend Facebook Story Playback Pauses"
 excerpt: "This Article Describes [Updated] In 2024, Mend Facebook Story Playback Pauses"
 keywords: "FB Stories Pause,Fix FB Story Halt,Stop FB Playback Errors,Correct FB Video Freeze,Resolve FB Story Pause Issue,Fix FB Video Halt,Mend FB Video Stoppage"
-thumbnail: https://www.lifewire.com/thmb/eM4hZGgmiddhaEuS0uvmoeRFwaY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/Chromecast-vs-Roku-33a3c5676af0480bb0d9a294aca6bfc2.jpg
+thumbnail: https://thmb.techidaily.com/9681e2a52e53572a5b2a969e09d45c7b049caa711109cfbd8cfddd28b50dfbe3.jpg
 ---
 
 ## Mend Facebook Story Playback Pauses

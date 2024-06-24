@@ -1,7 +1,7 @@
 ---
 title: "How to Find Videos on Facebook, In 2024"
-date: 2024-05-20T13:29:12.556Z
-updated: 2024-05-21T13:29:12.556Z
+date: 2024-06-15T12:55:50.695Z
+updated: 2024-06-16T12:55:50.695Z
 tags:
   - ai video
   - ai facebook
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes How to Find Videos on Facebook, In 2024"
 excerpt: "This Article Describes How to Find Videos on Facebook, In 2024"
 keywords: "Facebook Video Search,Locate FB Videos,Find Facebook Media,Access FB Vids Easily,Identify FB Video Content,Discover FB Video Posts,Uncover FB Video Sharing"
-thumbnail: https://www.lifewire.com/thmb/vGea9IMJ2mafP4ogm_KBVWanTqc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/Chatbot-98bb632dc24547c19c5f7c6b2844fe1b.jpg
+thumbnail: https://thmb.techidaily.com/981f5aab13809d22943cf0e3715f6a9d6dac906b3d14ad5b24428ee14ae4807c.jpg
 ---
 
 ## How to Find Videos on Facebook?

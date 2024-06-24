@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Key Selections  Top 6 FB Lite Video Grabs\""
-date: 2024-05-20T13:27:57.263Z
-updated: 2024-05-21T13:27:57.263Z
+date: 2024-06-15T12:55:57.626Z
+updated: 2024-06-16T12:55:57.626Z
 tags:
   - ai video
   - ai facebook
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] Key Selections: Top 6 FB Lite Video Grabs\""
 excerpt: "\"This Article Describes [New] Key Selections: Top 6 FB Lite Video Grabs\""
 keywords: "FB Lite Videos,Top FB Content,Video SEO,Social Media Grabbing,Popular FB Posts,Engaging FB Share,Lite Video Tactics"
-thumbnail: https://www.lifewire.com/thmb/URfhDakQRolYp20WmiqrjjYoMks=/540x405/filters:no_upscale():max_bytes(150000):strip_icc()/familyroadtrippodcasts-e4b22e7c5ac143eabcded615bbc3a823.jpg
+thumbnail: https://thmb.techidaily.com/a23b6166dff1d71405deccff3c580ba47c280d1fae23b982db1e3d6f2479cd12.jpg
 ---
 
 ## Key Selections: Top 6 FB Lite Video Grabs

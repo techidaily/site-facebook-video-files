@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  How to Watch Facebook Live on Roku\""
-date: 2024-05-20T13:34:38.403Z
-updated: 2024-05-21T13:34:38.403Z
+date: 2024-06-15T12:55:56.519Z
+updated: 2024-06-16T12:55:56.519Z
 tags:
   - ai video
   - ai facebook
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: How to Watch Facebook Live on Roku\""
 excerpt: "\"This Article Describes 2024 Approved: How to Watch Facebook Live on Roku\""
 keywords: "Stream FB Live Roku,Roku FB Live Viewing,FB Live Roku TV,Roku FB Live Stream,Watch Fb Live Roku,Access FB Live on Roku,Enable Roku FB Live"
-thumbnail: https://www.lifewire.com/thmb/othVrwedy18jRwJXSb6DbEme79Y=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/184845075-56a6a5753df78cf7728f91cf.jpg
+thumbnail: https://thmb.techidaily.com/922f3c41ec2a1fbc3c661b8fc51d0028e0ed70c9ac6f093a3392525ae0eba424.jpg
 ---
 
 ## How to Watch Facebook Live on Roku

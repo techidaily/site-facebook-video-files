@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] ChatCast Collector - FB Groups for 2024\""
-date: 2024-05-20T13:59:16.024Z
-updated: 2024-05-21T13:59:16.024Z
+date: 2024-06-15T12:55:49.923Z
+updated: 2024-06-16T12:55:49.923Z
 tags:
   - ai video
   - ai facebook
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] ChatCast Collector - FB Groups for 2024\""
 excerpt: "\"This Article Describes [Updated] ChatCast Collector - FB Groups for 2024\""
 keywords: "ChatCast Podcasting,FB Group Audio,Community Castings,Social Media Showcases,Podcast Networking,FB Discussion Hubs,Digital Forum Broadcasts"
-thumbnail: https://www.lifewire.com/thmb/tbPESzzILzk9X04fO9qTcwgJkdY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/android-fotoo-0a616886a0824ebcb610688c8eb5a667.jpg
+thumbnail: https://thmb.techidaily.com/bb05cc1f39777472d93269752aa648567cff43de237a4feeb628da33c12d9648.jpg
 ---
 
 ## ChatCast Collector - FB Groups

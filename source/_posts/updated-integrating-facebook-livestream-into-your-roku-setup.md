@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Integrating Facebook Livestream Into Your Roku Setup"
-date: 2024-05-20T14:07:10.164Z
-updated: 2024-05-21T14:07:10.164Z
+date: 2024-06-15T12:55:43.433Z
+updated: 2024-06-16T12:55:43.433Z
 tags:
   - ai video
   - ai facebook
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [Updated] Integrating Facebook Livestream Into Your Roku Setup"
 excerpt: "This Article Describes [Updated] Integrating Facebook Livestream Into Your Roku Setup"
 keywords: "Stream on Roku with FB Live,Roku + Facebook Livestream,FB Live, Roku Integration,Connecting Roku to FB Live,Enhance Roku Viewing,Roku's Social TV Experience,Roku and Facebook Broadcast"
-thumbnail: https://www.lifewire.com/thmb/5XcgcbUa63FAQkMNaQPACrX_mYQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/hashtag-56a9fe065f9b58b7d0006572.jpg
+thumbnail: https://thmb.techidaily.com/6dd8f57eda55f51f780fa0fbffb1950bf2ad081249b06af69891f71aad7773d2.jpg
 ---
 
 ## Integrating Facebook Livestream Into Your Roku Setup

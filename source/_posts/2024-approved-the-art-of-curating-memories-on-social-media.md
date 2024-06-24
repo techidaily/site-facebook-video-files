@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Art of Curating Memories on Social Media\""
-date: 2024-05-20T13:44:43.356Z
-updated: 2024-05-21T13:44:43.356Z
+date: 2024-06-15T12:55:55.773Z
+updated: 2024-06-16T12:55:55.773Z
 tags:
   - ai video
   - ai facebook
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: The Art of Curating Memories on Social Media\""
 excerpt: "\"This Article Describes 2024 Approved: The Art of Curating Memories on Social Media\""
 keywords: "Memory Curation Tips,Social Media Archive,Memory Sharing Strategies,Digital Collage Creation,Online Storytelling Techniques,Moments Preservation,Curated Profile Highlights"
-thumbnail: https://www.lifewire.com/thmb/8yj4A4h-WC4nUxpd0s5dSLOUi6k=/300x200/filters:no_upscale():max_bytes(150000):strip_icc()/netflix-iphone-lede-5954e15a16e343deadfdd40c08483247.jpg
+thumbnail: https://thmb.techidaily.com/f51042103ff6c3f87c92a84096e29bdaf9eccd433a92cd047a35aea4a9510783.jpg
 ---
 
 ## The Art of Curating Memories on Social Media

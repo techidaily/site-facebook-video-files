@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Online Upgrade  Fb Story Repository\""
-date: 2024-05-20T13:56:48.788Z
-updated: 2024-05-21T13:56:48.788Z
+date: 2024-06-15T12:55:59.107Z
+updated: 2024-06-16T12:55:59.107Z
 tags:
   - ai video
   - ai facebook
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Online Upgrade: Fb Story Repository\""
 excerpt: "\"This Article Describes 2024 Approved: Online Upgrade: Fb Story Repository\""
 keywords: "\"Social Media Archive,FB Stories Database,Online Content Collection,Digital Story Library,E-Booking Stories Hub,Web Saved Fb Narratives,Interactive Story Repository\""
-thumbnail: https://www.lifewire.com/thmb/RGG5Yrj4wygeHF_4EtUcyBLLzK8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/Screenshot2023-08-11at4.09.52PM-a2b7cc4dc04d49deac45f59296fd703f.jpg
+thumbnail: https://thmb.techidaily.com/e16b75fed413636ad54c914cb03e40ea47ab207cb6190aa0c6171995d867746d.jpg
 ---
 
 ## Online Upgrade: Fb Story Repository

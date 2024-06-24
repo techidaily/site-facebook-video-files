@@ -1,7 +1,7 @@
 ---
 title: "Share TikTok Videos to Facebook in Quick Easy Steps"
-date: 2024-05-20T13:56:40.386Z
-updated: 2024-05-21T13:56:40.386Z
+date: 2024-06-15T12:55:47.672Z
+updated: 2024-06-16T12:55:47.672Z
 tags:
   - ai video
   - ai facebook
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes Share TikTok Videos to Facebook in Quick Easy Steps"
 excerpt: "This Article Describes Share TikTok Videos to Facebook in Quick Easy Steps"
 keywords: "Share TikTok Video FB,Fast FB Sharing TikTok,TikTok FB Posting Guide,Easy TikTok to Facebook,TikTok Content for FB,Quick TikTok FB Upload,Simplify TikTok FB Share"
-thumbnail: https://www.lifewire.com/thmb/R3lz9sqjFIJ8bsy-_L1OGfmqrMI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/tpmslightcomeson-59daaa4a68e1a20010dc0c97.jpg
+thumbnail: https://thmb.techidaily.com/783d5a68cd1201f00d72d69bc7ad0995ab16e6e244585454342ca9de98074a9b.jpg
 ---
 
 ## Share TikTok Videos to Facebook in Quick Easy Steps

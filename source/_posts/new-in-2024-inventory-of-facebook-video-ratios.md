@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Inventory of Facebook Video Ratios"
-date: 2024-05-20T13:48:14.198Z
-updated: 2024-05-21T13:48:14.198Z
+date: 2024-06-15T12:55:56.219Z
+updated: 2024-06-16T12:55:56.219Z
 tags:
   - ai video
   - ai facebook
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [New] In 2024, Inventory of Facebook Video Ratios"
 excerpt: "This Article Describes [New] In 2024, Inventory of Facebook Video Ratios"
 keywords: "\"FB Video Ratio List,Inventory: FB Video Aspects,Social Media Video Proportion,FB Video Dimensions Analysis,Facebook Video Sizing Breakdown,FB Video Ratio Compilation,Avg. FB Video Proportions\""
-thumbnail: https://www.lifewire.com/thmb/dMPS7xdJyHFzVyJkCHD1luzOMsY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1307216070-0e099dda13034522b872849a6b02d975.jpg
+thumbnail: https://thmb.techidaily.com/cf88e87b734b5b9f59ddbd2f8f99680f9b1ec3ba8de831308f2fd3fe15c5bbed.jpg
 ---
 
 ## Inventory of Facebook Video Ratios

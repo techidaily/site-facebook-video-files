@@ -1,7 +1,7 @@
 ---
 title: "[New] How to Convert Facebook Video to MP4 720P/1080p/HD Online and Free?"
-date: 2024-05-20T13:47:56.553Z
-updated: 2024-05-21T13:47:56.553Z
+date: 2024-06-15T12:55:44.296Z
+updated: 2024-06-16T12:55:44.296Z
 tags:
   - ai video
   - ai facebook
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [New] How to Convert Facebook Video to MP4 720P/1080p/HD Online and Free?"
 excerpt: "This Article Describes [New] How to Convert Facebook Video to MP4 720P/1080p/HD Online and Free?"
 keywords: "FB Video Conversion,MP4 HD Conversion,Convert Facebook Videos,Free Video to MP4,Online FB Video Upgrade,FB Video to High Definition,Convert Social Media Video"
-thumbnail: https://www.lifewire.com/thmb/W5SdHvmRm1AkZ_3S___KYhBKNBA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/linksys-classic-micro-router-pro-6-8b16a5f340964425bdb89a3cc2f42e5d.jpg
+thumbnail: https://thmb.techidaily.com/74a4a1093c21fbed5ca77d48b3d1459dd3aa5036bc18134bd1752c7ab7f277b6.jpg
 ---
 
 ## How to Convert Facebook Video to MP4 720P/1080p/HD Online and Free?

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Stepwise Guide for Discovering Recent Watch History on FB"
-date: 2024-05-20T13:36:50.455Z
-updated: 2024-05-21T13:36:50.455Z
+date: 2024-06-15T12:55:43.683Z
+updated: 2024-06-16T12:55:43.683Z
 tags:
   - ai video
   - ai facebook
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [Updated] Stepwise Guide for Discovering Recent Watch History on FB"
 excerpt: "This Article Describes [Updated] Stepwise Guide for Discovering Recent Watch History on FB"
 keywords: "Facebook Watch History Guide,Latest FB Watch Activity,Find FB Viewed Videos,Track FB Recent Views,Uncover FB Watch List,Insight Into FB Video Watching,Update on FB Viewed Content"
-thumbnail: https://www.lifewire.com/thmb/VhWXwk4rULRvURLd-ts4rpfPSxw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1250476440-2ff779100e984029aa752236f9791b11.jpg
+thumbnail: https://thmb.techidaily.com/580872e4bd4e21da3535470ce3b918e09ae5b8653067a4110ec11928ef11818a.jpg
 ---
 
 ## Stepwise Guide for Discovering Recent Watch History on FB

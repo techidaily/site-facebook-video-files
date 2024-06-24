@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Social Scanning Shorthand  Efficient Profile Hunting on FB\""
-date: 2024-05-20T13:51:36.781Z
-updated: 2024-05-21T13:51:36.781Z
+date: 2024-06-15T12:55:47.635Z
+updated: 2024-06-16T12:55:47.635Z
 tags:
   - ai video
   - ai facebook
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Social Scanning Shorthand: Efficient Profile Hunting on FB\""
 excerpt: "\"This Article Describes 2024 Approved: Social Scanning Shorthand: Efficient Profile Hunting on FB\""
 keywords: "Social Scan Profiles,FB Quick Search,Shorthand Sifting,Fast FB Profiling,Network Scanning Shortcuts,Efficient Profile Find,Friendly Social Search"
-thumbnail: https://www.lifewire.com/thmb/lyejnHHQyXQkYWVYf1snTmiUGp8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-562872463-58b6d99e5f9b5860463e44c6.jpg
+thumbnail: https://thmb.techidaily.com/1cfdb45880b22613393e076dccb2e4b9121be109b6dcfeb0d6890b8517504874.jpg
 ---
 
 ## Social Scanning Shorthand: Efficient Profile Hunting on FB

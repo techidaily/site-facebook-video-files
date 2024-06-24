@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Undisclosed Browsing of FB Stories"
-date: 2024-05-20T13:39:07.892Z
-updated: 2024-05-21T13:39:07.892Z
+date: 2024-06-15T12:55:52.182Z
+updated: 2024-06-16T12:55:52.182Z
 tags:
   - ai video
   - ai facebook
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [Updated] Undisclosed Browsing of FB Stories"
 excerpt: "This Article Describes [Updated] Undisclosed Browsing of FB Stories"
 keywords: "Facebook Story Viewing,FB Story Surveillance,Unauthorized FB Story Access,FB Privacy Breach,Social Media Screen Scan,Covert FB Browsing,Secret FB Story Watching,FB Story Peek,Sneaky Fb Views,Illicit Stories Watch,Secret Stories Check,Hidden Fb Scenes,Unseen Story Glimpses,Covert Browsing Stories"
-thumbnail: https://www.lifewire.com/thmb/2TMdHA_-QJ9i9jXdODI1YU3AS1A=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-599385920-588399ba5f9b58bdb36fa754.jpg
+thumbnail: https://thmb.techidaily.com/c16b1e731514b90b733ef5726536377276b9f0da4bb0ae7f591c4a5f178d3c77.jpg
 ---
 
 ## Undisclosed Browsing of FB Stories

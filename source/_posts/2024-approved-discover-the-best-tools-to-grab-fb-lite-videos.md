@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Discover the Best Tools to Grab FB Lite Videos\""
-date: 2024-05-20T13:56:42.488Z
-updated: 2024-05-21T13:56:42.488Z
+date: 2024-06-15T12:56:00.743Z
+updated: 2024-06-16T12:56:00.743Z
 tags:
   - ai video
   - ai facebook
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Discover the Best Tools to Grab FB Lite Videos\""
 excerpt: "\"This Article Describes 2024 Approved: Discover the Best Tools to Grab FB Lite Videos\""
 keywords: "FB Video Grabber,FB Lite Capture,Lite Videos Toolkit,Optimal FB Download,Social Media Video Extraction,Efficient Video Tools,Best FB Video Repository"
-thumbnail: https://www.lifewire.com/thmb/asCAao3Tfs8ZxVZumyLz52-mVek=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-increase-internet-speed-5181475-b6fd84098c634a04a6934302184c5b1b.jpg
+thumbnail: https://thmb.techidaily.com/84aaf27f955a6ba5c37b777f8ab3f4dc75b3cebc10a8c5dcc535bfa16bc60ba0.jpg
 ---
 
 ## Discover the Best Tools to Grab FB Lite Videos

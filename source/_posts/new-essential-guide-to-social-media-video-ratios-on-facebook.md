@@ -1,7 +1,7 @@
 ---
 title: "[New] Essential Guide to Social Media Video Ratios on Facebook"
-date: 2024-05-20T13:56:45.008Z
-updated: 2024-05-21T13:56:45.008Z
+date: 2024-06-15T12:55:48.507Z
+updated: 2024-06-16T12:55:48.507Z
 tags:
   - ai video
   - ai facebook
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [New] Essential Guide to Social Media Video Ratios on Facebook"
 excerpt: "This Article Describes [New] Essential Guide to Social Media Video Ratios on Facebook"
 keywords: "FB Video Ratio Guide,Optimal FB Video Sizes,Best FB Videos Formats,Max Fb Video Width,Min Fb Video Height,Ideal FB Video Aspect,Facebook Video Dimensions"
-thumbnail: https://www.lifewire.com/thmb/FeFlIcCklglc-ZZhIfOn5FD8Abs=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-980040652-7e26f73679474e408073232940348264.jpg
+thumbnail: https://thmb.techidaily.com/2c97ca9c03a4b90ac808b47e7a1e56e2bf5202bf8ec2d002abc5e5f18888aaa6.jpg
 ---
 
 ## Essential Guide to Social Media Video Ratios on Facebook

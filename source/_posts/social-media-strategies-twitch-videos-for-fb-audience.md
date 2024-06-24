@@ -1,7 +1,7 @@
 ---
 title: "\"Social Media Strategies  Twitch Videos for FB Audience\""
-date: 2024-05-20T13:57:15.958Z
-updated: 2024-05-21T13:57:15.958Z
+date: 2024-06-15T12:55:49.465Z
+updated: 2024-06-16T12:55:49.465Z
 tags:
   - ai video
   - ai facebook
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes Social Media Strategies: Twitch Videos for FB Audience\""
 excerpt: "\"This Article Describes Social Media Strategies: Twitch Videos for FB Audience\""
 keywords: "Social Media Growth,Twitch Content Reach,FB Video Engagement,Streaming Platform Tactics,Strategic Video Marketing,Vlog Audience Expansion,Interactive Brand Promotion"
-thumbnail: https://www.lifewire.com/thmb/iiWVzm4s4kgB56je2Puyg9dJC24=/300x200/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1250476440-2ff779100e984029aa752236f9791b11.jpg
+thumbnail: https://thmb.techidaily.com/7232672881e7d137d3952f765be2610288c45b29a2009d979134d6c02c0bbdb8.jpg
 ---
 
 ## Social Media Strategies: Twitch Videos for FB Audience

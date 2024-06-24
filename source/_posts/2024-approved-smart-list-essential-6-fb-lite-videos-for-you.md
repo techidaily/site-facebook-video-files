@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Smart List  Essential 6 FB Lite Videos for You\""
-date: 2024-05-20T13:30:31.244Z
-updated: 2024-05-21T13:30:31.244Z
+date: 2024-06-15T12:55:51.826Z
+updated: 2024-06-16T12:55:51.826Z
 tags:
   - ai video
   - ai facebook
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Smart List: Essential 6 FB Lite Videos for You\""
 excerpt: "\"This Article Describes 2024 Approved: Smart List: Essential 6 FB Lite Videos for You\""
 keywords: "FB Lite Video Guide,Smart Social Media Tips,Essential FB Lite Content,Lite Facebook Advice,Key FB Lite Videos,Efficient Social Media Use,Optimizing Lite FB Views"
-thumbnail: https://www.lifewire.com/thmb/hyYtaWXKlis6dtyCCRyVf2h_7pU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/galaxy-s24-plus-23772c8fac4a47e0af1c0cae35011bff.jpg
+thumbnail: https://thmb.techidaily.com/22dc377b14c8750c75c360ab6d9b7d702e69a18c8a5a08c607e9cd26432f995f.jpg
 ---
 
 ## Smart List: Essential 6 FB Lite Videos for You

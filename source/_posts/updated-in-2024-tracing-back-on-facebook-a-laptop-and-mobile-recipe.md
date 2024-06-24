@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, Tracing Back on Facebook  A Laptop & Mobile Recipe\""
-date: 2024-05-20T13:33:20.844Z
-updated: 2024-05-21T13:33:20.844Z
+date: 2024-06-15T12:55:45.750Z
+updated: 2024-06-16T12:55:45.750Z
 tags:
   - ai video
   - ai facebook
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] In 2024, Tracing Back on Facebook: A Laptop & Mobile Recipe\""
 excerpt: "\"This Article Describes [Updated] In 2024, Tracing Back on Facebook: A Laptop & Mobile Recipe\""
 keywords: "FB Tracing Guide,Fb Profile History,Trace FB Account,FB ID Retrieval,Backtrack FB Usage,Laptop Mobile FB Trace,Facebook Usage Trail"
-thumbnail: https://www.lifewire.com/thmb/4J2iVgv99e0e6zd-RILzsk4gPzo=/360x240/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1134410016-75c4b547097941299e55dceeef4b764c.jpg
+thumbnail: https://thmb.techidaily.com/9b6e560f5ae8bf8946a31c995d6c73a4779b962b2219e90738423fb3fbbee898.jpg
 ---
 
 ## Tracing Back on Facebook: A Laptop & Mobile Recipe

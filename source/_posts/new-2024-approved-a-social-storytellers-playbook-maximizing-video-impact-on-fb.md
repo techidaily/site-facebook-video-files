@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  A Social Storyteller’s Playbook  Maximizing Video Impact on FB\""
-date: 2024-05-20T13:36:23.707Z
-updated: 2024-05-21T13:36:23.707Z
+date: 2024-06-15T12:55:53.751Z
+updated: 2024-06-16T12:55:53.751Z
 tags:
   - ai video
   - ai facebook
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] 2024 Approved: A Social Storyteller’s Playbook: Maximizing Video Impact on FB\""
 excerpt: "\"This Article Describes [New] 2024 Approved: A Social Storyteller’s Playbook: Maximizing Video Impact on FB\""
 keywords: "Video Impact Strategy,Max Video FB Reach,Effective Video Stories,Social Storytelling Tips,Engaging FB Content,Video SEO on Social Media,Maximizing FB Video Views"
-thumbnail: https://www.lifewire.com/thmb/tbPESzzILzk9X04fO9qTcwgJkdY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/android-fotoo-0a616886a0824ebcb610688c8eb5a667.jpg
+thumbnail: https://thmb.techidaily.com/bb05cc1f39777472d93269752aa648567cff43de237a4feeb628da33c12d9648.jpg
 ---
 
 ## A Social Storyteller’s Playbook: Maximizing Video Impact on FB

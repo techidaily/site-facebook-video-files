@@ -1,7 +1,7 @@
 ---
 title: "\"Cut Down on Effort  Schedule Fb Posts for Free for 2024\""
-date: 2024-05-20T13:59:04.829Z
-updated: 2024-05-21T13:59:04.829Z
+date: 2024-06-15T12:55:47.549Z
+updated: 2024-06-16T12:55:47.549Z
 tags:
   - ai video
   - ai facebook
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes Cut Down on Effort: Schedule Fb Posts for Free for 2024\""
 excerpt: "\"This Article Describes Cut Down on Effort: Schedule Fb Posts for Free for 2024\""
 keywords: "\"Save Time Posting FB,Free FB Scheduling Tips,No-Effort FB Posts,Free FB Post Planner,Effortless Fb Content,Schedule FB Updates,Posts on Hold for Free\""
-thumbnail: https://www.lifewire.com/thmb/DCkyrrIKF6IlOibLq3FWXS7tDbE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/Google-Nest-Audio-vs-Google-Nest-Mini-2-85c4f29a43b24769a97f645fc3dd5687.jpg
+thumbnail: https://thmb.techidaily.com/8dc40963abf93641fc12fb3ff0b8fa0a43902050db781f6bcdf9e50e7619aa67.jpg
 ---
 
 ## Cut Down on Effort: Schedule Fb Posts for Free

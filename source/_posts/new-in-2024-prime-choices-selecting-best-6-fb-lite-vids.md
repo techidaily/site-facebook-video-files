@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Prime Choices  Selecting Best 6 FB Lite Vids\""
-date: 2024-05-20T13:33:17.101Z
-updated: 2024-05-21T13:33:17.101Z
+date: 2024-06-15T12:55:51.406Z
+updated: 2024-06-16T12:55:51.406Z
 tags:
   - ai video
   - ai facebook
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] In 2024, Prime Choices: Selecting Best 6 FB Lite Vids\""
 excerpt: "\"This Article Describes [New] In 2024, Prime Choices: Selecting Best 6 FB Lite Vids\""
 keywords: "FB Lite Videos Guide,Video Selection Tips,Top Lite Facebook Vids,Best Lite FB Video Picks,Prime Lite Content Choices,Selecting Superior Lite Vids,Optimal Lite Facebook Video"
-thumbnail: https://www.lifewire.com/thmb/qTkJRf5hInrQrK9KKLcFyjldqzg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/galaxy-watch-45383eb20ff548eb8e29770d344c8fb5.jpg
+thumbnail: https://thmb.techidaily.com/78f06b81f7c57e1e88ac6a7fa4601f5ae07cf7d31be3889aa12b125cc68b1e89.jpg
 ---
 
 ## Prime Choices: Selecting Best 6 FB Lite Vids

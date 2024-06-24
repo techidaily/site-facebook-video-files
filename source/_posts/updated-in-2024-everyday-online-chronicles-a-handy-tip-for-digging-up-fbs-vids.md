@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, Everyday Online Chronicles  A Handy Tip for Digging Up FB's Vids\""
-date: 2024-05-20T14:05:48.747Z
-updated: 2024-05-21T14:05:48.747Z
+date: 2024-06-15T12:55:44.328Z
+updated: 2024-06-16T12:55:44.328Z
 tags:
   - ai video
   - ai facebook
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] In 2024, Everyday Online Chronicles: A Handy Tip for Digging Up FB's Vids\""
 excerpt: "\"This Article Describes [Updated] In 2024, Everyday Online Chronicles: A Handy Tip for Digging Up FB's Vids\""
 keywords: "Facebook Video Hints,FB Videography Guide,Social Media Video Searches,YouTube FB Content,Digital Media Explorer,Online Video Discovery,FB Video Tips Daily"
-thumbnail: https://www.lifewire.com/thmb/jcDMD7YP-90SNEWHDVuuC4ooVT8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/broken-camera-2-56a0e0f85f9b58eba4b4be7f.JPG
+thumbnail: https://thmb.techidaily.com/d6f225de23330f252c6d5195ffc58e836dfeb5e08b530725208b4f5fec9ae8dd.JPG
 ---
 
 ## Everyday Online Chronicles: A Handy Tip for Digging Up FB's Vids

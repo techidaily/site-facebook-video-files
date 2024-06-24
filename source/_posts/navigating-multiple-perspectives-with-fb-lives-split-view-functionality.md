@@ -1,7 +1,7 @@
 ---
 title: "Navigating Multiple Perspectives with FB Live's Split View Functionality"
-date: 2024-05-20T13:43:28.424Z
-updated: 2024-05-21T13:43:28.424Z
+date: 2024-06-15T12:55:53.885Z
+updated: 2024-06-16T12:55:53.885Z
 tags:
   - ai video
   - ai facebook
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes Navigating Multiple Perspectives with FB Live's Split View Functionality"
 excerpt: "This Article Describes Navigating Multiple Perspectives with FB Live's Split View Functionality"
 keywords: "\"FB Live Split View,Multi-Perspective Streaming,Real-Time Interaction,Splitting Camera Features,Live Chat Dual Monitors,Perspectives in Video Call,Social Media Split Screen\""
-thumbnail: https://www.lifewire.com/thmb/2HIGgSfFwJMJv2GwoFjD2sN-20U=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/MoMoProductions-560f76601a724b09847c6683cea09540.jpg
+thumbnail: https://thmb.techidaily.com/fed3ffae9229ff3a7d3580519bb324f0e6bad8a6cd96fa55cbded24321f049a3.jpg
 ---
 
 ## Navigating Multiple Perspectives with FB Live's Split View Functionality

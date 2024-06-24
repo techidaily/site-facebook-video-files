@@ -1,7 +1,7 @@
 ---
 title: "Fix “Facebook Messenger Not Sending Videos” On iPhone and Android for 2024"
-date: 2024-05-20T13:57:23.557Z
-updated: 2024-05-21T13:57:23.557Z
+date: 2024-06-15T12:56:00.564Z
+updated: 2024-06-16T12:56:00.564Z
 tags:
   - ai video
   - ai facebook
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes Fix “Facebook Messenger Not Sending Videos” On iPhone and Android for 2024"
 excerpt: "This Article Describes Fix “Facebook Messenger Not Sending Videos” On iPhone and Android for 2024"
 keywords: "Fix Messenger Video Issue,Send Videos on FBM iOS,Troubleshoot FB Messaging,Enable Message Video,Resolve Android FBM Errors,IPhone Messenger Video Send,Mobile Video Share Fix"
-thumbnail: https://www.lifewire.com/thmb/85rwStNr21lvFIjCfmY8ErdogYI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/wimbledonlivestream-c22d5eefbf8f40e9b25ba4cab1734ece.jpg
+thumbnail: https://thmb.techidaily.com/e1c4df4174fbb7e774640c12444893c833b651d1c12bd8c02f2b01f747786c25.jpg
 ---
 
 ## Fix “Facebook Messenger Not Sending Videos” On iPhone and Android

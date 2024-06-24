@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, Mastering Full-Screen FB Video Settings\""
-date: 2024-05-20T14:06:22.600Z
-updated: 2024-05-21T14:06:22.600Z
+date: 2024-06-15T12:56:00.353Z
+updated: 2024-06-16T12:56:00.353Z
 tags:
   - ai video
   - ai facebook
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] In 2024, Mastering Full-Screen FB Video Settings\""
 excerpt: "\"This Article Describes [Updated] In 2024, Mastering Full-Screen FB Video Settings\""
 keywords: "\"Fullscreen FB Video Settings,Master FB Video Fullscreen,Optimize FB Video View,Enhance FB Video Display,FB Video Control Mastery,Full-Screen FB Video Optimization,Customizing FB Video Mode\""
-thumbnail: https://www.lifewire.com/thmb/mK-HmnWarrLiD8ffOlJlcSgm-2U=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/unnamed-6870a02faf0b4509a94bb66c2b174d72.jpg
+thumbnail: https://thmb.techidaily.com/6f24909f969f84628da7cca908a8ecbcf1f1310799ac0e990b393370971b6be4.jpg
 ---
 
 ## Mastering Full-Screen FB Video Settings

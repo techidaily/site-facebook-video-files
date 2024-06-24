@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Jailbreak Comedy Hour  Best FB Moments of Amusement and Awe\""
-date: 2024-05-20T14:03:12.779Z
-updated: 2024-05-21T14:03:12.779Z
+date: 2024-06-15T12:55:43.709Z
+updated: 2024-06-16T12:55:43.709Z
 tags:
   - ai video
   - ai facebook
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] Jailbreak Comedy Hour: Best FB Moments of Amusement and Awe\""
 excerpt: "\"This Article Describes [Updated] Jailbreak Comedy Hour: Best FB Moments of Amusement and Awe\""
 keywords: "\"Jailbreak Laughs,Funny FB Stories,Amusing Memes,Humorous Social Feeds,Comedy Moments FB,Awe-Inspiring Memories,Quirky Facebook Highlights\""
-thumbnail: https://www.lifewire.com/thmb/bJZjivkvkiXSPidjAhZPdQz2Xu8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-545995058-58ed21243df78cadab023f3c.jpg
+thumbnail: https://thmb.techidaily.com/6a8b7b3cdb25a03e07ba1819bb3940ce3cb079bf3680cebd2f9e48a956c136d3.jpg
 ---
 
 ## Jailbreak Comedy Hour: Best FB Moments of Amusement and Awe

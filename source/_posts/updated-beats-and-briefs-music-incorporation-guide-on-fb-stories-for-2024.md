@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Beats and Briefs  Music Incorporation Guide on FB Stories for 2024\""
-date: 2024-05-20T13:34:50.430Z
-updated: 2024-05-21T13:34:50.430Z
+date: 2024-06-15T12:55:57.741Z
+updated: 2024-06-16T12:55:57.741Z
 tags:
   - ai video
   - ai facebook
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] Beats and Briefs: Music Incorporation Guide on FB Stories for 2024\""
 excerpt: "\"This Article Describes [Updated] Beats and Briefs: Music Incorporation Guide on FB Stories for 2024\""
 keywords: "Music in FB Stories,Beats for Stories,Short Sound Snippets,Instagram Audio Tips,Social Media Music Guide,Profile Beat Moments,Storytelling with Melodies"
-thumbnail: https://www.lifewire.com/thmb/YmyWpMubSoQ4agwqZDoQursEKUI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/Kandi2-1c86a437105c42a48b11c2ea2641dd26.jpg
+thumbnail: https://thmb.techidaily.com/dd35b2620aef06a2c26e9ff65a2086f109aae48f6d7a98734e3d694a85ccf4d4.jpg
 ---
 
 ## Beats and Briefs: Music Incorporation Guide on FB Stories
