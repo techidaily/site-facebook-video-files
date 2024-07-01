@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Social Media Strategy – FB Video Angles\""
-date: 2024-05-20T13:53:42.124Z
-updated: 2024-05-21T13:53:42.124Z
+date: 2024-06-30T13:14:37.588Z
+updated: 2024-07-01T13:14:37.588Z
 tags:
   - ai video
   - ai facebook
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Social Media Strategy – FB Video Angles\""
 excerpt: "\"This Article Describes 2024 Approved: Social Media Strategy – FB Video Angles\""
 keywords: "Social Media Videos,Facebook Content Strategy,Engaging FB Posts,Effective FB Campaigns,Video Marketing Tactics,Promoting Through FB,Innovative FB Angles"
-thumbnail: https://www.lifewire.com/thmb/e34U4Sz8Eu2kehlu7lsMEta8saI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-578188655-5859a6685f9b586e028a9c96.jpg
+thumbnail: https://thmb.techidaily.com/a5bc9c78cbf7ddebb3c4b881340c3ed8f01e0b70f6fee4b10bf3f28b3b2740fa.jpg
 ---
 
 ## Social Media Strategy – FB Video Angles

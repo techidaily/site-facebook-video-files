@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  What Does a Blue Icon Signify on FB Messenger?\""
-date: 2024-05-20T13:59:00.193Z
-updated: 2024-05-21T13:59:00.193Z
+date: 2024-06-30T13:14:31.041Z
+updated: 2024-07-01T13:14:31.041Z
 tags:
   - ai video
   - ai facebook
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] 2024 Approved: What Does a Blue Icon Signify on FB Messenger?\""
 excerpt: "\"This Article Describes [New] 2024 Approved: What Does a Blue Icon Signify on FB Messenger?\""
 keywords: "FB Messenger Symbols,FB Blue Icons Meaning,Messenger Icon Interpretation,Facebook Message Indicators,FB Sign Language Emoji,Social Media Color Codes,UI Elements in FB Chat"
-thumbnail: https://www.lifewire.com/thmb/-_m0G8vbbxxIlkvVQDjlQ1eCN-4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-541916248-593842a43df78c537be2cf44.jpg
+thumbnail: https://thmb.techidaily.com/69a1f779573ffb1d9703aa1f0c2a82407b77bc35052e19faef90f3eeabcd3dc4.jpg
 ---
 
 ## What Does a Blue Icon Signify on FB Messenger?

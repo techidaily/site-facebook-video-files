@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Quick Fixes  The Hands-On Guide to Generating Timely Captions on FB Media\""
-date: 2024-05-20T13:52:08.961Z
-updated: 2024-05-21T13:52:08.961Z
+date: 2024-06-30T13:14:36.226Z
+updated: 2024-07-01T13:14:36.226Z
 tags:
   - ai video
   - ai facebook
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] Quick Fixes: The Hands-On Guide to Generating Timely Captions on FB Media\""
 excerpt: "\"This Article Describes [New] Quick Fixes: The Hands-On Guide to Generating Timely Captions on FB Media\""
 keywords: "Quick FB Captioning Tips,Fast FB Media Descriptions,Immediate FB Captions Guide,Efficient FB Content Labels,Timely FB Post Captions,Hasty FB Media Titles,Swift FB Captioning Techniques"
-thumbnail: https://www.lifewire.com/thmb/KLuam83BrZsFZ3VSU4PH8DBGYxY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/before-you-buy-a-video-projector-1847845-v3-ED-8a08e03f2cfc4835a13872618bd4ad00.png
+thumbnail: https://thmb.techidaily.com/c9e5ca8d00ac8479f694130618d3f9a3080c0193f44d3a38cfaa7537d0961fac.png
 ---
 
 ## Quick Fixes: The Hands-On Guide to Generating Timely Captions on FB Media

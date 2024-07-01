@@ -1,7 +1,7 @@
 ---
 title: "Etsy Listing Image Ratio Advice"
-date: 2024-05-20T13:59:29.009Z
-updated: 2024-05-21T13:59:29.009Z
+date: 2024-06-30T13:14:30.283Z
+updated: 2024-07-01T13:14:30.283Z
 tags:
   - ai video
   - ai facebook
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes Etsy Listing Image Ratio Advice"
 excerpt: "This Article Describes Etsy Listing Image Ratio Advice"
 keywords: "\"Etsy Image Tips,Selllisting Img Ratios,Etsy Shop Imag Proper,Correct Etys ListImg,Advice: Etsy Photo Ratio,Optimal Image for Etys,Etsy Img Ratio Guidelines\""
-thumbnail: https://www.lifewire.com/thmb/zI28yjfnv7eQCZlBOqEIm_iplMU=/540x405/filters:no_upscale():max_bytes(150000):strip_icc()/samsung-galaxy-s24-ultra-d98962629d6f44f1ba48f09829e604eb.jpeg
+thumbnail: https://thmb.techidaily.com/4278a11dc73e1c0d6c218af281491c5ebbfcb593f38d324f2ddde851d89b6bd2.jpeg
 ---
 
 ## Etsy Listing Image Ratio Advice

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Enabling YouTube and Facebook on Apple TV for 2024"
-date: 2024-05-20T13:27:35.285Z
-updated: 2024-05-21T13:27:35.285Z
+date: 2024-06-30T13:14:34.966Z
+updated: 2024-07-01T13:14:34.966Z
 tags:
   - ai video
   - ai facebook
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [Updated] Enabling YouTube and Facebook on Apple TV for 2024"
 excerpt: "This Article Describes [Updated] Enabling YouTube and Facebook on Apple TV for 2024"
 keywords: "Apple TV YouTube Access,IOS TV App Integration,Apple TV Social Media Connect,Streaming with Apple TV,YouTube Support on TV,Facebook App for Apple TV,Enabling Social Networks TV"
-thumbnail: https://www.lifewire.com/thmb/684HYeKVF7NwmTyrhJBo9KopPFA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-538600261-56c643115f9b5879cc3d6bde.jpg
+thumbnail: https://thmb.techidaily.com/0bb0f990e78102071e50c31f7028b725d7f6b1084837b38e9693d564989750d9.jpg
 ---
 
 ## Enabling YouTube and Facebook on Apple TV

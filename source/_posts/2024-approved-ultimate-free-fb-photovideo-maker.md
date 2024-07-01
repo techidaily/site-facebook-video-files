@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Ultimate Free FB Photo/Video Maker\""
-date: 2024-05-20T13:37:27.844Z
-updated: 2024-05-21T13:37:27.844Z
+date: 2024-06-30T13:14:33.824Z
+updated: 2024-07-01T13:14:33.824Z
 tags:
   - ai video
   - ai facebook
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Ultimate Free FB Photo/Video Maker\""
 excerpt: "\"This Article Describes 2024 Approved: Ultimate Free FB Photo/Video Maker\""
 keywords: "\"Free FB Image Maker,FB Video Creator,Easy FB Photo Editor,Free Social Media Uploader,Instant FB Content Producer,No-Cost FB Media Builder,Simple FB Photo/Video Maker\""
-thumbnail: https://www.lifewire.com/thmb/2TMdHA_-QJ9i9jXdODI1YU3AS1A=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-599385920-588399ba5f9b58bdb36fa754.jpg
+thumbnail: https://thmb.techidaily.com/c16b1e731514b90b733ef5726536377276b9f0da4bb0ae7f591c4a5f178d3c77.jpg
 ---
 
 ## Ultimate Free FB Photo/Video Maker

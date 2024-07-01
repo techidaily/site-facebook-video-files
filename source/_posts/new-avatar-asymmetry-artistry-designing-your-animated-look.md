@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Avatar Asymmetry Artistry  Designing Your Animated Look\""
-date: 2024-05-20T13:50:26.937Z
-updated: 2024-05-21T13:50:26.937Z
+date: 2024-06-30T13:14:31.685Z
+updated: 2024-07-01T13:14:31.685Z
 tags:
   - ai video
   - ai facebook
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] Avatar Asymmetry Artistry: Designing Your Animated Look\""
 excerpt: "\"This Article Describes [New] Avatar Asymmetry Artistry: Designing Your Animated Look\""
 keywords: "Avatar Animation Art,Asymmetric Design,Animated Look Creation,Character Anime Style,Visual Animator Skills,Dynamic Body Artistry,Animated Figures Design"
-thumbnail: https://www.lifewire.com/thmb/ZOjx6qoOgacS0nkioW0MRpwFWw0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/google-maps-traffic-tablet-1e4db031d7cc44cc9de00bd3bf3780a4.jpg
+thumbnail: https://thmb.techidaily.com/a6cda5d3da29aa302f42489d12b2f7ee98a977d6c686fb1e190a7cb786bdcbab.jpg
 ---
 
 ## Avatar Asymmetry Artistry: Designing Your Animated Look

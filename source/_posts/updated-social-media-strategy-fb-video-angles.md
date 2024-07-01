@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Social Media Strategy – FB Video Angles"
-date: 2024-05-20T13:41:05.749Z
-updated: 2024-05-21T13:41:05.749Z
+date: 2024-06-30T13:14:37.311Z
+updated: 2024-07-01T13:14:37.311Z
 tags:
   - ai video
   - ai facebook
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [Updated] Social Media Strategy – FB Video Angles"
 excerpt: "This Article Describes [Updated] Social Media Strategy – FB Video Angles"
 keywords: "Social Media Videos,Facebook Content Strategy,Engaging FB Posts,Effective FB Campaigns,Video Marketing Tactics,Promoting Through FB,Innovative FB Angles"
-thumbnail: https://www.lifewire.com/thmb/DyoHit2PNu7-aSHxtkhq-lAOR7c=/540x405/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-459261809-357446c3aca34ee38c08d3aebe7502f3.jpg
+thumbnail: https://thmb.techidaily.com/f00def1c04cb418f21da5c60f199b078da943127e970aa7acf9eb30479f71c91.jpg
 ---
 
 ## Social Media Strategy – FB Video Angles

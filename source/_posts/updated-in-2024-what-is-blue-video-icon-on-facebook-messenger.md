@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, What Is Blue Video Icon on Facebook Messenger?"
-date: 2024-05-20T13:44:24.640Z
-updated: 2024-05-21T13:44:24.640Z
+date: 2024-06-30T13:14:38.970Z
+updated: 2024-07-01T13:14:38.970Z
 tags:
   - ai video
   - ai facebook
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [Updated] In 2024, What Is Blue Video Icon on Facebook Messenger?"
 excerpt: "This Article Describes [Updated] In 2024, What Is Blue Video Icon on Facebook Messenger?"
 keywords: "FB Messenger Blue Icons,FB Message Icon Guide,Messenger Blue Icon Meaning,Understand Messenger Icons,Facebook Messaging Symbols,Decode FB Icons,Blue Icon on FB Chat"
-thumbnail: https://www.lifewire.com/thmb/zq7Ptz05T3_xqwHwvLIjO0zEc0g=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/Bananaplug2-58dadbd83df78c5162067ddf.jpg
+thumbnail: https://thmb.techidaily.com/a4a765e99a54a380752423d8d88b32966a3339aa9293b1bce2b9a95dc690dd25.jpg
 ---
 
 ## Information | What Is Blue Video Icon on Facebook Messenger?

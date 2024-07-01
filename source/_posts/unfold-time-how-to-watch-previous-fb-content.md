@@ -1,7 +1,7 @@
 ---
 title: "\"Unfold Time  How To Watch Previous FB Content\""
-date: 2024-05-20T13:32:47.606Z
-updated: 2024-05-21T13:32:47.606Z
+date: 2024-06-30T13:14:35.409Z
+updated: 2024-07-01T13:14:35.409Z
 tags:
   - ai video
   - ai facebook
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes Unfold Time: How To Watch Previous FB Content\""
 excerpt: "\"This Article Describes Unfold Time: How To Watch Previous FB Content\""
 keywords: "View Past FB Videos,FB History Streaming,Watch Old Facebook Posts,Access Old FB Content,Replay FB Video Archive,Previous FB Media Playback,FB Time Travel Watch"
-thumbnail: https://www.lifewire.com/thmb/fG6Pu3LhRio7OKkUuoDFn1ttKWw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/airplay-hotels-79786809711d42e9a7827915015cfd17.jpg
+thumbnail: https://thmb.techidaily.com/92290ca438acc7b53d6d463fb220788f23c7aae03036a5859c384dd9ace3b529.jpg
 ---
 
 ## Unfold Time: How To Watch Previous FB Content

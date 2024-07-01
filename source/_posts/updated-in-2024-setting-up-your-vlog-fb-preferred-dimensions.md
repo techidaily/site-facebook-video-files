@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, Setting Up Your Vlog  FB Preferred Dimensions\""
-date: 2024-05-20T13:31:37.628Z
-updated: 2024-05-21T13:31:37.628Z
+date: 2024-06-30T13:14:39.551Z
+updated: 2024-07-01T13:14:39.551Z
 tags:
   - ai video
   - ai facebook
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] In 2024, Setting Up Your Vlog: FB Preferred Dimensions\""
 excerpt: "\"This Article Describes [Updated] In 2024, Setting Up Your Vlog: FB Preferred Dimensions\""
 keywords: "Vlog Setup Guide,Video Vlogging Tips,FB Video Optimization,Vlogger Video Sizing,Social Media Video Standards,YouTube/Facebook Video Dimensions,Content Creation Best Practices"
-thumbnail: https://www.lifewire.com/thmb/TYlonbITONJw8xjZiugj3nr8x0k=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/image5-a09202a279f54f0fb179c8cbcb2acc92.png
+thumbnail: https://thmb.techidaily.com/bd73d50e5d9ed4daeccbe66a94668b925bf784c3cbb50495af3357fea0a04a08.png
 ---
 
 ## Setting Up Your Vlog: FB Preferred Dimensions

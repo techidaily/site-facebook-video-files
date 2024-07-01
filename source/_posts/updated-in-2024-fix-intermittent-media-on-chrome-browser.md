@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Fix Intermittent Media on Chrome Browser"
-date: 2024-05-20T13:45:25.870Z
-updated: 2024-05-21T13:45:25.870Z
+date: 2024-06-30T13:14:27.646Z
+updated: 2024-07-01T13:14:27.646Z
 tags:
   - ai video
   - ai facebook
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [Updated] In 2024, Fix Intermittent Media on Chrome Browser"
 excerpt: "This Article Describes [Updated] In 2024, Fix Intermittent Media on Chrome Browser"
 keywords: "Chrome Media Fix,Media Playback Error,Solve Chrome Media,Chrome Video Fixing,Stop Media Glitches,Chrome Audio Intermittent,Fix Chrome Media Disruption"
-thumbnail: https://www.lifewire.com/thmb/eQJYMtRR0wndZgPOcyJktnsAmG4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/Apple-M4-chip-badge-240507_big.jpg.large_2x-bffc7b551c6846e3995047c8d122112d.jpg
+thumbnail: https://thmb.techidaily.com/796380b2f6e477c41fdb5986a336623e799bf688b4a29cd4a3d817de3e2d744c.jpg
 ---
 
 ## Fix Intermittent Media on Chrome Browser

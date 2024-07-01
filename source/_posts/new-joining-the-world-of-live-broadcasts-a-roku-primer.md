@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Joining the World of Live Broadcasts  A Roku Primer\""
-date: 2024-05-20T13:40:39.349Z
-updated: 2024-05-21T13:40:39.349Z
+date: 2024-06-30T13:14:37.939Z
+updated: 2024-07-01T13:14:37.939Z
 tags:
   - ai video
   - ai facebook
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] Joining the World of Live Broadcasts: A Roku Primer\""
 excerpt: "\"This Article Describes [New] Joining the World of Live Broadcasts: A Roku Primer\""
 keywords: "Roku Broadcasting Guide,Roku Live Streaming Basics,Start with Roku Live,Learn Roku Video Streaming,Roku's Live TV Features,Master Roku Broadcasting,Essential Roku Stream Tips"
-thumbnail: https://www.lifewire.com/thmb/5Hk3OeMwXnJsYVlAr-DvpgKR1cA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/Netflix-vs-Max-314e297891b54d66ba48792cae9b2934.jpg
+thumbnail: https://thmb.techidaily.com/8c3b13a3ac83a5d3d00093c2a17a7909556b01cc18d6b9abd17e301fcbcbc6e6.jpg
 ---
 
 ## Joining the World of Live Broadcasts: A Roku Primer

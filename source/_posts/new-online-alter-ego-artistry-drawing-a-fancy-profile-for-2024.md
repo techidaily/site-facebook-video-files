@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Online Alter-Ego Artistry  Drawing a Fancy Profile for 2024\""
-date: 2024-05-20T13:53:22.865Z
-updated: 2024-05-21T13:53:22.865Z
+date: 2024-06-30T13:14:39.639Z
+updated: 2024-07-01T13:14:39.639Z
 tags:
   - ai video
   - ai facebook
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] Online Alter-Ego Artistry: Drawing a Fancy Profile for 2024\""
 excerpt: "\"This Article Describes [New] Online Alter-Ego Artistry: Drawing a Fancy Profile for 2024\""
 keywords: "\"Online IDArt,Fancy Profile Sketch,E-Identity Creation,Digital Persona Design,Virtual AlterEgo,Artistic Avatar Making,Pixels of Personality\""
-thumbnail: https://www.lifewire.com/thmb/oUsuZ8YSqdbEK9Z30gubHVa5QNI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-12489005711-a34c10ab34b54fec94a92bf181c0f456.jpg
+thumbnail: https://thmb.techidaily.com/9e326dc97d7b2a04840d4bac29152fee0a09ec2e5c8519728e8db299bf3f1234.jpg
 ---
 
 ## Online Alter-Ego Artistry: Drawing a Fancy Profile

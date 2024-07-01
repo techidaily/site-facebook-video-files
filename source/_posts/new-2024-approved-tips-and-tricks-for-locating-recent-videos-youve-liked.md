@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Tips & Tricks for Locating Recent Videos You've Liked\""
-date: 2024-05-20T13:49:52.677Z
-updated: 2024-05-21T13:49:52.677Z
+date: 2024-06-30T13:14:37.893Z
+updated: 2024-07-01T13:14:37.893Z
 tags:
   - ai video
   - ai facebook
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] 2024 Approved: Tips & Tricks for Locating Recent Videos You've Liked\""
 excerpt: "\"This Article Describes [New] 2024 Approved: Tips & Tricks for Locating Recent Videos You've Liked\""
 keywords: "Video Find Tips,Recent Video Locate,Favorite Video Search,Quick Like Vid Hunt,Liked Videos Locator,Tip for Lost Videos,Trick to Find Vids"
-thumbnail: https://www.lifewire.com/thmb/sXDkXR4uqlH0fi0xOmWZKLuZ0XU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1214532639-57ab1d744d2c4ff086695eda92890eb4.jpg
+thumbnail: https://thmb.techidaily.com/971161d0d4b1da3c5be518691bc7a9fd7e29d3fe831ffe5683f3df2b7e432663.jpg
 ---
 
 ## Tips & Tricks for Locating Recent Videos You've Liked

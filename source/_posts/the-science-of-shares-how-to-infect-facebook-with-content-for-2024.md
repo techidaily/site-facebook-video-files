@@ -1,7 +1,7 @@
 ---
 title: "\"The Science of Shares  How to Infect Facebook with Content for 2024\""
-date: 2024-05-20T13:53:43.380Z
-updated: 2024-05-21T13:53:43.380Z
+date: 2024-06-30T13:14:37.664Z
+updated: 2024-07-01T13:14:37.664Z
 tags:
   - ai video
   - ai facebook
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes The Science of Shares: How to Infect Facebook with Content for 2024\""
 excerpt: "\"This Article Describes The Science of Shares: How to Infect Facebook with Content for 2024\""
 keywords: "Share Science Tips,Infuse FB Content,Engaging FB Posts,Viral Content Strategies,Social Media Insights,FB Content Optimization,Influencing Facebook Audiences"
-thumbnail: https://www.lifewire.com/thmb/Yk18C2JpdeHxzNdqdb-EFRV41fk=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/iphone_photo-5beafcda46e0fb00514cbb56.jpg
+thumbnail: https://thmb.techidaily.com/98a90a980daafb5d4122c6bec488811f000154f10382aff0b3452de9d0f47411.jpg
 ---
 
 ## The Science of Shares: How to Infect Facebook with Content

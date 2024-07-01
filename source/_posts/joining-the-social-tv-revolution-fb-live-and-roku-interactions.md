@@ -1,7 +1,7 @@
 ---
 title: "\"Joining the Social TV Revolution  FB Live & Roku Interactions\""
-date: 2024-05-20T14:06:32.041Z
-updated: 2024-05-21T14:06:32.041Z
+date: 2024-06-30T13:14:31.292Z
+updated: 2024-07-01T13:14:31.292Z
 tags:
   - ai video
   - ai facebook
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes Joining the Social TV Revolution: FB Live & Roku Interactions\""
 excerpt: "\"This Article Describes Joining the Social TV Revolution: FB Live & Roku Interactions\""
 keywords: "\"Social TV Live Join,Facebook TV Streaming,Live TV on Roku,Real-Time TV Viewing,Roku Social Broadcast,Interactive TV Sessions,Media Platform Integration\""
-thumbnail: https://www.lifewire.com/thmb/aGZqNAAWZxGqTIdxV5jFhxBFP10=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/firetvremoteapp-5c05dd3546e0fb0001924ea6.jpg
+thumbnail: https://thmb.techidaily.com/b2d913b57df62249e08cf6aa2213e0e218bf0ce45d452041bd7c83bf359b02fd.jpg
 ---
 
 ## Joining the Social TV Revolution: FB Live & Roku Interactions

@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Essential Tactics for Viral FB Video Marketing"
-date: 2024-05-20T13:42:13.817Z
-updated: 2024-05-21T13:42:13.817Z
+date: 2024-06-30T13:14:36.687Z
+updated: 2024-07-01T13:14:36.687Z
 tags:
   - ai video
   - ai facebook
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [New] In 2024, Essential Tactics for Viral FB Video Marketing"
 excerpt: "This Article Describes [New] In 2024, Essential Tactics for Viral FB Video Marketing"
 keywords: "Viral Video Strategies,FB Video Promotion,Shareable Content Tips,Engaging Video Marketing,Social Media Video Success,Video Growth Hacks,Popularity Boosting Videos"
-thumbnail: https://www.lifewire.com/thmb/FWDwuZy1CDGbqb0qwCy_mcmpESI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/best-sports-movies-creed-michael-b-jordan-cbca95120e5243edb7eca00403eaa626.jpg
+thumbnail: https://thmb.techidaily.com/efc3f590fc068b65cc8e4c4fda82884c66683db0be7b320fd391a90a34b6fb91.jpg
 ---
 
 ## Essential Tactics for Viral FB Video Marketing

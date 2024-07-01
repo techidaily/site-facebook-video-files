@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Enriched Video Presentation  Implementing LC and BB on Social Platforms\""
-date: 2024-05-20T13:33:10.856Z
-updated: 2024-05-21T13:33:10.856Z
+date: 2024-06-30T13:14:36.558Z
+updated: 2024-07-01T13:14:36.558Z
 tags:
   - ai video
   - ai facebook
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] 2024 Approved: Enriched Video Presentation: Implementing LC and BB on Social Platforms\""
 excerpt: "\"This Article Describes [Updated] 2024 Approved: Enriched Video Presentation: Implementing LC and BB on Social Platforms\""
 keywords: "Social Media Videos,Enhanced Video Content,Live Streaming Tech,Augmented Video Effects,Broadcast Over IP,Blended Bandwidth,Layer Compression Systems"
-thumbnail: https://www.lifewire.com/thmb/mDhQu1u6C7xH80NuMlX64UBqcQg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-99308150-060a5046853e43e083e9a358e487211d.jpg
+thumbnail: https://thmb.techidaily.com/78fc2ce8486dc3d6564f3f5f4f837891a8fa189d01a8b699d519ecb10291bd82.jpg
 ---
 
 ## Enriched Video Presentation: Implementing LC and BB on Social Platforms
