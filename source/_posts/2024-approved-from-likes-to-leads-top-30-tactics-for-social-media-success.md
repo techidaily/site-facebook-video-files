@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  From Likes to Leads  Top 30 Tactics for Social Media Success\""
-date: 2024-05-20T13:38:25.219Z
-updated: 2024-05-21T13:38:25.219Z
+date: 2024-07-08T04:10:10.379Z
+updated: 2024-07-09T04:10:10.379Z
 tags:
   - ai video
   - ai facebook
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: From Likes to Leads: Top 30 Tactics for Social Media Success\""
 excerpt: "\"This Article Describes 2024 Approved: From Likes to Leads: Top 30 Tactics for Social Media Success\""
 keywords: "From Likes To Leads,Social Media Strategies,Lead Generation on Social,Social Media Conversion,Top Social Tactics,Successful Social Engagement,Boosting Leads via Social"
-thumbnail: https://www.lifewire.com/thmb/RZ6a_Dm3h0STkAi4OwMdfZPBurY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/DTS-Virtual-X-logo-w-illustration-xxbb-59403d7b3df78c537b1ef6b2.jpg
+thumbnail: https://thmb.techidaily.com/73ab3c04255810df2615a2a01c8a14174dd9b221f2d60ec5b3831dd32989cbba.jpg
 ---
 
 ## From Likes to Leads: Top 30 Tactics for Social Media Success

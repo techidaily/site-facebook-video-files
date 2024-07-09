@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Video Frame Techniques  Applying Letterboxing & Black Bars to FB Media\""
-date: 2024-05-20T13:29:53.596Z
-updated: 2024-05-21T13:29:53.596Z
+date: 2024-07-08T04:10:12.533Z
+updated: 2024-07-09T04:10:12.533Z
 tags:
   - ai video
   - ai facebook
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] Video Frame Techniques: Applying Letterboxing & Black Bars to FB Media\""
 excerpt: "\"This Article Describes [New] Video Frame Techniques: Applying Letterboxing & Black Bars to FB Media\""
 keywords: "Video Frame Art,Letterbox Effects,Black Bar Methods,Framesetting Tips,Content Cropping,Aspect Ratio Adjust,FB Media Techniques"
-thumbnail: https://www.lifewire.com/thmb/ppKJHMiBSGTcJo7ZO_c42xw7lhY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-140173628BetsieVanDerMeer-5927117e5f9b5859509a476c.jpg
+thumbnail: https://thmb.techidaily.com/24c4d966d5ae08b9992d6ca8e560b523aa54e9e6e811859d2e2792db0d3e9e3a.jpg
 ---
 
 ## Video Frame Techniques: Applying Letterboxing & Black Bars to FB Media

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Evade Social Media Shunning  FB's Hidden Do's & Don'ts\""
-date: 2024-05-20T14:08:04.157Z
-updated: 2024-05-21T14:08:04.157Z
+date: 2024-07-08T04:10:14.949Z
+updated: 2024-07-09T04:10:14.949Z
 tags:
   - ai video
   - ai facebook
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] Evade Social Media Shunning: FB's Hidden Do's & Don'ts\""
 excerpt: "\"This Article Describes [Updated] Evade Social Media Shunning: FB's Hidden Do's & Don'ts\""
 keywords: "Avoid Social Exclusion,Facebook Guidelines,NoFB Ban Do's,Evade Unfollowing,FB Engagement Rules,Shunning on Social,Online Interaction Tips"
-thumbnail: https://www.lifewire.com/thmb/2gxAzAc_OikfHgs7hZQUd2KPfAc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/Photos-b2b85ad036374eb1b6a01076ce3bbacd.jpg
+thumbnail: https://thmb.techidaily.com/a55de6d667ce151e4f6994d9b6a4777fce149eccc985ca7253a27ff290bf8c11.jpg
 ---
 
 ## Evade Social Media Shunning: FB's Hidden Do's & Don'ts

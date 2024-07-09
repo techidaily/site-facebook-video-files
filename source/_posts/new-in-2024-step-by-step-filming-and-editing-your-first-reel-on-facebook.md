@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Step-by-Step  Filming and Editing Your First Reel on Facebook\""
-date: 2024-05-20T13:56:06.661Z
-updated: 2024-05-21T13:56:06.661Z
+date: 2024-07-08T04:10:12.584Z
+updated: 2024-07-09T04:10:12.584Z
 tags:
   - ai video
   - ai facebook
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] In 2024, Step-by-Step: Filming and Editing Your First Reel on Facebook\""
 excerpt: "\"This Article Describes [New] In 2024, Step-by-Step: Filming and Editing Your First Reel on Facebook\""
 keywords: "Film Reel Basics,Edit FB Video Tips,Social Media Filming Guide,Facebook Videography Steps,Beginner's Video Editing,First FB Movie Creation,Online Video Production Start"
-thumbnail: https://www.lifewire.com/thmb/EAqZr-HjkZo5i0jwoEEUqZxRCpc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1437209125-b47ae60035f248e2b01b781f50f919c1.jpg
+thumbnail: https://thmb.techidaily.com/6190a0016cd0db6cebefe5acaadd207d01333c2584c8d35c887e62fae8bb62c7.jpg
 ---
 
 ## Step-by-Step: Filming and Editing Your First Reel on Facebook

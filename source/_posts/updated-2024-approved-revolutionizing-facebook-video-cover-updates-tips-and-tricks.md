@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Revolutionizing Facebook Video Cover Updates  Tips and Tricks\""
-date: 2024-06-08T05:42:41.946Z
-updated: 2024-06-09T05:42:41.946Z
+date: 2024-07-08T04:10:10.608Z
+updated: 2024-07-09T04:10:10.608Z
 tags:
   - ai video
   - ai facebook
@@ -37,7 +37,7 @@ Facebook lets its users [create a profile video](https://tools.techidaily.com/wo
 
    1. Once you have updated to the latest version of Facebook on your iOS device, you need to open the FB app and tap the ‘More’ button in the bottom right.
 
-![facebook profile 1 ](https://images.wondershare.com/filmora/article-images/facebook-profile-1.jpg)
+![facebook profile 1](https://images.wondershare.com/filmora/article-images/facebook-profile-1.jpg)
 
    1. Tap the ‘View your profile’ button on top.
 
@@ -131,7 +131,7 @@ Facebook lets its users [create a profile video](https://tools.techidaily.com/wo
 
    1. Once you have updated to the latest version of Facebook on your iOS device, you need to open the FB app and tap the ‘More’ button in the bottom right.
 
-![facebook profile 1 ](https://images.wondershare.com/filmora/article-images/facebook-profile-1.jpg)
+![facebook profile 1](https://images.wondershare.com/filmora/article-images/facebook-profile-1.jpg)
 
    1. Tap the ‘View your profile’ button on top.
 
@@ -225,7 +225,7 @@ Facebook lets its users [create a profile video](https://tools.techidaily.com/wo
 
    1. Once you have updated to the latest version of Facebook on your iOS device, you need to open the FB app and tap the ‘More’ button in the bottom right.
 
-![facebook profile 1 ](https://images.wondershare.com/filmora/article-images/facebook-profile-1.jpg)
+![facebook profile 1](https://images.wondershare.com/filmora/article-images/facebook-profile-1.jpg)
 
    1. Tap the ‘View your profile’ button on top.
 
@@ -319,7 +319,7 @@ Facebook lets its users [create a profile video](https://tools.techidaily.com/wo
 
    1. Once you have updated to the latest version of Facebook on your iOS device, you need to open the FB app and tap the ‘More’ button in the bottom right.
 
-![facebook profile 1 ](https://images.wondershare.com/filmora/article-images/facebook-profile-1.jpg)
+![facebook profile 1](https://images.wondershare.com/filmora/article-images/facebook-profile-1.jpg)
 
    1. Tap the ‘View your profile’ button on top.
 

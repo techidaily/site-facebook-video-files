@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  First Steps on Social Landscape  Creating a Facebook Account\""
-date: 2024-05-20T13:48:10.841Z
-updated: 2024-05-21T13:48:10.841Z
+date: 2024-07-08T04:10:16.758Z
+updated: 2024-07-09T04:10:16.758Z
 tags:
   - ai video
   - ai facebook
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] 2024 Approved: First Steps on Social Landscape: Creating a Facebook Account\""
 excerpt: "\"This Article Describes [New] 2024 Approved: First Steps on Social Landscape: Creating a Facebook Account\""
 keywords: "New to Facebook,Create FB Profile,Start Your FB Journey,Join Facebook,Initial FB Signup,Make a Facebook Account,Begin Social Media"
-thumbnail: https://www.lifewire.com/thmb/_y5z3SeWTZCgEYYCyYR-kdazEb0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/DeanH1-74b7b6d4129b4eac9e22e9cc72ce6215.png
+thumbnail: https://thmb.techidaily.com/c36628b8a77d9c8656bc14c8b8281e34c21620e4322ca2c6d47a165e3e9293b6.png
 ---
 
 ## First Steps on Social Landscape: Creating a Facebook Account
