@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] The New Short-Form FB Story\""
-date: 2024-05-20T13:49:40.904Z
-updated: 2024-05-21T13:49:40.904Z
+date: 2024-07-14T01:31:30.139Z
+updated: 2024-07-15T01:31:30.139Z
 tags:
   - ai video
   - ai facebook
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] The New Short-Form FB Story\""
 excerpt: "\"This Article Describes [Updated] The New Short-Form FB Story\""
 keywords: "\"FB Story Now,Short FB Stories,FB Video Clip,Brief FB Content,Facebook Micro-Stories,Quick FB Narratives,Miniature FB Videos\""
-thumbnail: https://www.lifewire.com/thmb/1oTLM8c4-z9nA7_v0didGYoARWc=/540x405/filters:no_upscale():max_bytes(150000):strip_icc()/CherieKloss1-c0ada8b85c6a4e1d819a441e25dbfeb1.jpeg
+thumbnail: https://thmb.techidaily.com/fd52a4ddb4c67fef5b4a68a7a51c8e47e5f13f4d158884cb761f8f838fb72e26.jpeg
 ---
 
 ## The New Short-Form FB Story
@@ -35,6 +35,9 @@ The first step is very basic. All you got to do is open your Facebook App.
 
 ![Launch Facebook](https://images.wondershare.com/filmora/article-images/2021/facebook-short-videos-and-everything-about-them-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Step 2: Scroll Down
 
 Once your app is up and running, scroll down. After about 3 to 4 posts, you will see a template that saysAltAlt short videos with several videos present.
@@ -69,6 +72,9 @@ Since it is a new feature, it is possible that your app still has not been updat
 
 The next step is to go to your settings and search for Facebook in the apps.
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Search for Facebook](https://images.wondershare.com/filmora/article-images/2021/facebook-short-videos-and-everything-about-them-5.jpg)
 
 **Step 4: Clear the Data**
@@ -109,6 +115,9 @@ The first step is simple. YouAltAlt open your Facebook app.
 
 Once your app has launched, scroll down to the short videos section.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Scroll to Short Videos](https://images.wondershare.com/filmora/article-images/2021/facebook-short-videos-and-everything-about-them-9.jpg)
 
 **Step 3: Tap on three dots**
@@ -193,6 +202,9 @@ Import the media files you want to add to the short video on Facebook. It can be
 
 After selecting the files, you drag and drop them down on the timeline in the sequence you want them to play in.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Drag and Drop footage](https://images.wondershare.com/filmora/article-images/2021/facebook-short-videos-and-everything-about-them-19.jpg)
 
 **Step 4: Edit the Footage**\>
@@ -276,3 +288,51 @@ Although the young generation has shifted to Instagram and Snapchat, the previou
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-latest-android-selection-ranked-top-10-apps-for-saving-facebook-videos/"><u>[Updated] 2024 Approved  Latest Android Selection  Ranked Top 10 Apps for Saving Facebook Videos</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-leveraging-facebooks-potential-the-most-effective-video-ad-approaches-for-2024/"><u>[Updated] Leveraging Facebook's Potential  The Most Effective Video Ad Approaches for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-your-ultimate-guide-to-accessing-facebook-content-on-applemedia-hub/"><u>[Updated] 2024 Approved  Your Ultimate Guide to Accessing Facebook Content on AppleMedia Hub</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/techniques-for-live-broadcasting-recorded-videographies-on-fb/"><u>Techniques for Live Broadcasting Recorded Videographies on FB</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-setting-up-a-memorable-social-media-presence-with-covers/"><u>[New] In 2024, Setting Up a Memorable Social Media Presence with Covers</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-how-to-proficiently-use-twitter-archives/"><u>[New] 2024 Approved  How to Proficiently Use Twitter Archives?</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-what-is-a-watermark-how-to-watermark-your-facebook-photosvideos-for-2024/"><u>[Updated] What Is a Watermark? How to Watermark Your Facebook Photos/Videos for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ftware-no-problem-youtube-downloads-for-2024/"><u>No Software, No Problem  YouTube Downloads for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-youtube-shorts-ultimate-guide/"><u>[Updated] YouTube Shorts Ultimate Guide</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/elevate-your-content-game-with-professional-facebook-slideshow-techniques/"><u>Elevate Your Content Game with Professional Facebook Slideshow Techniques</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-3-things-you-must-know-about-fake-snapchat-location-on-oppo-k11x-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Things You Must Know about Fake Snapchat Location On Oppo K11x | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/pros-playbook-achieving-crystal-clear-slow-motion-with-hero-10-for-2024/"><u>Pros' Playbook  Achieving Crystal Clear Slow Motion with Hero 10 for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-transforming-daily-routine-into-a-social-media-journey-on-fb/"><u>[Updated] In 2024, Transforming Daily Routine Into a Social Media Journey on FB</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/augmented-commerce-frontiers-for-2024/"><u>Augmented Commerce Frontiers for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-instagram-tracking-essentials-choosing-the-best-data-visualization-apps/"><u>[New] In 2024, Instagram Tracking Essentials  Choosing the Best Data Visualization Apps</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-discover-the-top-mac-speech-to-text-apps-that-dont-need-downloads/"><u>Updated 2024 Approved Discover the Top Mac Speech-to-Text Apps That Dont Need Downloads</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-the-blueprint-for-traffic-boost-masterful-techniques-for-effective-fb-videos/"><u>[New] 2024 Approved  The Blueprint for Traffic Boost  Masterful Techniques for Effective FB Videos</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-the-art-of-producing-captivating-facebook-video-content/"><u>[Updated] In 2024, The Art of Producing Captivating Facebook Video Content</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/facebook-feed-breakthroughs-seeing-your-videos/"><u>Facebook Feed Breakthroughs  Seeing Your Videos</u></a></li>
+<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-honor-magic-6-pro-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your Honor Magic 6 Pro | Dr.fone</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-step-by-step-voice-modification-secrets-from-pro-tiktokers/"><u>[New] 2024 Approved  Step-by-Step Voice Modification Secrets From Pro TikTokers</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-the-legal-side-to-posting-videos-on-digital-platforms-like-fb/"><u>[Updated] In 2024, The Legal Side to Posting Videos on Digital Platforms Like FB</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-how-to-react-when-youre-your-own-reflection-in-a-video-call-for-2024/"><u>[Updated] How to React When You're Your Own Reflection in a Video Call for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/best-xiaomi-redmi-note-12-pro-5g-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>Best Xiaomi Redmi Note 12 Pro 5G Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-step-by-step-guide-to-optimizing-fb-in-stream-advertising-for-2024/"><u>[Updated] Step-by-Step Guide to Optimizing FB In-Stream Advertising for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/the-ultimate-guide-to-adjusting-to-new-facebook-ranking-criteria-for-2024/"><u>The Ultimate Guide to Adjusting to New Facebook Ranking Criteria for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-perfect-your-instagram-game-with-smart-video-posting-techniques-for-2024/"><u>[New] Perfect Your Instagram Game with Smart Video Posting Techniques for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-how-can-i-go-live-on-facebook/"><u>[Updated] 2024 Approved  How Can I Go Live on Facebook?</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-unveiling-the-secrets-of-facebook-lives-dual-display-for-2024/"><u>[Updated] Unveiling the Secrets of Facebook Live's Dual Display for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-fast-and-free-fb-video-conversion-tools-for-mp3-files/"><u>[Updated] In 2024, Fast and Free  FB Video Conversion Tools for MP3 Files</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-blueprint-for-buzzing-outro/"><u>[New] 2024 Approved  Blueprint for Buzzing Outro</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-leveraging-youtube-for-seamless-facebook-sharing-for-2024/"><u>[New] Leveraging YouTube for Seamless Facebook Sharing for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-screen-mirroring-apple-iphone-xs-max-to-tv-or-pc-drfone-by-drfone-ios/"><u>In 2024, How Screen Mirroring Apple iPhone XS Max to TV or PC? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-maximize-impact-with-professional-grade-fb-cover-videos/"><u>[New] 2024 Approved  Maximize Impact with Professional-Grade FB Cover Videos</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-digital-dexterity-fine-tuning-funny-videos-for-facebook-and-insta-laughs/"><u>2024 Approved  Digital Dexterity  Fine-Tuning Funny Videos for Facebook and Insta Laughs</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-phenomenal-edits-the-digital-illusionists-art/"><u>In 2024, Phenomenal Edits  The Digital Illusionist's Art</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-unlocking-content-how-to-see-more-on-fb-feed/"><u>[Updated] 2024 Approved  Unlocking Content  How to See More on FB Feed</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-stealthy-watcher-fb-story-viewer/"><u>[New] In 2024, Stealthy Watcher  FB Story Viewer</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-navigating-youtube-to-facebook-sharing-pathways-for-2024/"><u>[New] Navigating YouTube to Facebook Sharing Pathways for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-reset-a-locked-tecno-spark-20c-phone-by-drfone-android/"><u>How to Reset a Locked Tecno Spark 20C Phone</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-in-2024-the-ultimate-list-top-10-free-green-screen-apps-for-android-and-ios/"><u>New In 2024, The Ultimate List Top 10 Free Green Screen Apps for Android & iOS</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-free-mp4-conversion-tutorial-from-facebooks-high-definition-videos/"><u>[New] 2024 Approved  Free MP4 Conversion Tutorial From Facebook's High-Definition Videos</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-revolutionizing-content-with-square-shapes-for-social-media-gains/"><u>[New] In 2024, Revolutionizing Content with Square Shapes for Social Media Gains</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-prime-pc-screensaver-record-pro/"><u>[New] Prime PC Screensaver Record Pro</u></a></li>
+</ul></div>

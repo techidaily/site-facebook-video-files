@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, The ABC's of Amassing Affection on FB  Squaring Up Your Video Strategy\""
-date: 2024-06-30T13:14:27.396Z
-updated: 2024-07-01T13:14:27.396Z
+date: 2024-07-14T00:44:20.416Z
+updated: 2024-07-15T00:44:20.416Z
 tags:
   - ai video
   - ai facebook
@@ -217,6 +217,9 @@ Let’s see how to make square videos on Facebook using Adobe Premiere Pro–
 
 First you need to import video to Premiere Pro. Go to File > Import, and then select the video you want to square. Next, drag the video to timeline.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![import video premiere](https://images.wondershare.com/filmora/article-images/import-video-premiere.JPG)
 
 **Step 2：Sequence settings**
@@ -335,6 +338,9 @@ First you need to import video to Premiere Pro. Go to File > Import, and then se
 
 Click Sequence in the top, and then select Sequence Settings. First to seclect ARRI Cinema to activiate the settings. In the video area, adjust the frame size. You need to keep horizontal and vertical number the same in order to create square video. Here, we adjsut it to 600\. Leave the rest options the same. Click OK.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
 ![Sequence settings](https://images.wondershare.com/filmora/article-images/sequence-setting.JPG)
 
 **Step 3：Export**
@@ -421,6 +427,9 @@ You got to right click on the selected video and then select ‘Crop & Zoom’ f
 
 Now, on the edit panel hit the ‘Crop Clip’ button and select 1:1 from the bottom. The square video area can be adjusted from the preview window.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![edit panel](https://images.wondershare.com/filmora/article-images/crop-zoom-panel.JPG)
 
 **Step 4: Save changes and export**
@@ -431,6 +440,9 @@ Here, you need to press ‘OK’ and export the file to your computer. Later you
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 4: How to create square videos by Adobe Premiere
 
 Another way to edit square videos on Facebook is using [Adobe Premier Pro](https://www.adobe.com/products/premiere.html). Though, it is a paid application the videos are quite impressive. It allows you flexibility for editing photos and videos with a wide range of features.
@@ -492,3 +504,48 @@ Follow @Shanoon Cox
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-samsung-galaxy-s23-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Samsung Galaxy S23 | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/tailored-guide-to-following-and-watching-facebook-broadcasts/"><u>Tailored Guide to Following and Watching Facebook Broadcasts</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/fb-download-made-simple-free-and-convenient-options-of-23-online-for-2024/"><u>FB Download Made Simple  Free & Convenient Options of '23 Online for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-best-look-ups-for-gopro-movies-select-15-luts/"><u>2024 Approved  Best Look-Ups for GoPro Movies  Select 15 LUTs</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/all-you-need-to-know-about-mega-greninja-for-tecno-spark-20-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For Tecno Spark 20 | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/efficiently-access-your-facebook-lite-videos-with-these-top-apps-of-2023-for-2024/"><u>Efficiently Access Your Facebook Lite Videos with These Top Apps of 2023 for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-decrypting-fb-chat-videography-a-detailed-approach/"><u>[Updated] Decrypting FB Chat Videography  A Detailed Approach</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/elevating-roi-in-facebooks-animated-advertising-arena/"><u>Elevating ROI in Facebook's Animated Advertising Arena</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-how-to-share-twitch-stream-on-facebook/"><u>[New] How to Share Twitch Stream on Facebook?</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/seamless-stories-from-the-past-accessing-older-fb-content-on-pcmobile/"><u>Seamless Stories From The Past  Accessing Older FB Content on PC/Mobile</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-vivo-t2-5g-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Vivo T2 5G | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-how-to-make-viral-buzz-on-facebook/"><u>[New] In 2024, How to Make Viral Buzz on Facebook</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-choose-your-view-facebook-video-aspect-ratio/"><u>[New] Choose Your View  Facebook Video Aspect Ratio</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-comprehensive-mp4-video-downloader-review/"><u>2024 Approved  Comprehensive MP4 Video Downloader Review</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/blueprint-for-creating-striking-fb-video-advertisements/"><u>Blueprint for Creating Striking FB Video Advertisements</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-leading-edge-approaches-for-fb-ads/"><u>2024 Approved  Leading Edge Approaches for FB Ads</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-connecting-live-streamers-easily-share-from-twitch-to-fb/"><u>In 2024, Connecting Live Streamers  Easily Share From Twitch to FB</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-quintessential-writing-across-the-movie-matrix/"><u>[Updated] Quintessential Writing Across the Movie Matrix</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/unravel-time-on-your-screen-fresh-perspectives-to-watch-youtube-backwards/"><u>Unravel Time on Your Screen  Fresh Perspectives to Watch YouTube Backwards</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-essential-tags-for-tiktok-fame-and-viral-potential-for-2024/"><u>[Updated] Essential Tags for TikTok Fame and Viral Potential for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/enhancing-video-aesthetics-with-bb-and-lc-overlays-on-facebook-for-2024/"><u>Enhancing Video Aesthetics with BB and LC Overlays on Facebook for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/broadcasting-best-practices-twitch-facebook-integration/"><u>Broadcasting Best Practices  Twitch-Facebook Integration</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-create-stunning-whiteboard-animations-with-these-top-5-tools/"><u>New 2024 Approved Create Stunning Whiteboard Animations with These Top 5 Tools</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-ways-to-watch-facebook-live-on-tv/"><u>[New] 2024 Approved  Ways To Watch Facebook Live On TV</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-vivo-y100i-power-5g-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Vivo Y100i Power 5G | Dr.fone</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/trusted-agencies-for-safe-follower-additions/"><u>Trusted Agencies for Safe Follower Additions</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/best-pokemons-for-pvp-matches-in-pokemon-go-for-tecno-spark-10c-drfone-by-drfone-virtual-android/"><u>Best Pokemons for PVP Matches in Pokemon Go For Tecno Spark 10C | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/audience-friendly-techniques-for-monitoring-facebook-live/"><u>Audience-Friendly Techniques for Monitoring Facebook Live</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/leveraging-likeability-strategies-for-going-viral-on-facebook-for-2024/"><u>Leveraging Likeability  Strategies for Going Viral on Facebook for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-elevate-your-content-game-youtube-and-facebook-sync/"><u>[Updated] Elevate Your Content Game  YouTube & Facebook Sync</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-top-7-digital-tools-for-seamless-audio-cutting-and-editing/"><u>New Top 7 Digital Tools for Seamless Audio Cutting and Editing</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/crafting-captivating-campaigns-elevating-roi-in-fbs-animation-space-for-2024/"><u>Crafting Captivating Campaigns  Elevating ROI in FB's Animation Space for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-turn-onoff-motion-blur-in-minecraft-in-2024/"><u>How to Turn On/Off Motion Blur in Minecraft, In 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/etsy-listing-image-ratio-advice-for-2024/"><u>Etsy Listing Image Ratio Advice for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-achieving-financial-gain-through-youtube-videos/"><u>[New] In 2024, Achieving Financial Gain Through YouTube Videos</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-does-samsung-galaxy-m14-4g-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does Samsung Galaxy M14 4G Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fake-gps-on-infinix-zero-5g-2023-turbo-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>How To Fake GPS On Infinix Zero 5G 2023 Turbo For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/direct-mp3-download-for-fb-video-tracks/"><u>Direct MP3 Download for FB Video Tracks</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-groupwatcher-pro-hd-downloader/"><u>[Updated] GroupWatcher Pro HD Downloader</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-whatsapp-integration-for-facebook-video-posts/"><u>[Updated] 2024 Approved  WhatsApp Integration for Facebook Video Posts</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-pcs-premiere-selection-of-ps3-game-simulations/"><u>[New] In 2024, PC's Premiere Selection of PS3 Game Simulations</u></a></li>
+</ul></div>

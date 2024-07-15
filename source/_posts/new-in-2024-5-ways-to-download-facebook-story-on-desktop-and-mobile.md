@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, 5 Ways to Download Facebook Story on Desktop and Mobile"
-date: 2024-05-20T13:31:32.237Z
-updated: 2024-05-21T13:31:32.237Z
+date: 2024-07-14T00:44:05.011Z
+updated: 2024-07-15T00:44:05.011Z
 tags:
   - ai video
   - ai facebook
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [New] In 2024, 5 Ways to Download Facebook Story on Desktop and Mobile"
 excerpt: "This Article Describes [New] In 2024, 5 Ways to Download Facebook Story on Desktop and Mobile"
 keywords: "FB Story Mobile Downloads,Desktop FB Story Save,Mobile FB Story Download,FB Stories Extract,FB Story Desktop Access,FB Story on Devices,FB Story Saving Methods"
-thumbnail: https://www.lifewire.com/thmb/lbzpxme_ga81qcGBD3b8dYYnHHk=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-145068362-42882d9921284cc598391b5402a72a69.jpg
+thumbnail: https://thmb.techidaily.com/f5d1594082aca6452dbc25a49388a37fc7e84721f123ecd76572cb92530c4365.jpg
 ---
 
 ## 5 Ways to Download Facebook Story on Desktop and Mobile
@@ -120,6 +120,9 @@ Paste the URL in the box and click **download**. Select **download in normal qua
 
 ![how to download facebook story - getvid](https://images.wondershare.com/filmora/article-images/2022/03/download-facebook-story-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2: How to Download Facebook Story with Chrome Extensions?
 
 Chrome extensions facilitate Chrome browsing in many ways. Extensions usually help in using features that are not usable in their original application. For instance, if you want to download a story from Facebook, there is no such option on Facebook. So, you might have to use the Facebook story downloader chrome extension to get this done. We have handpicked the following two best extensions for you. Let’s explore them.
@@ -241,7 +244,7 @@ For Win 7 or later (64-bit)
 
 For macOS 10.12 or later
 
-![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
+![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg) Secure Download
 
 [![iOS](https://images.wondershare.com/assets/images-common/badges-apple.svg)](https://app.adjust.com/w06dr6m%5F19za1f6) [![Android](https://images.wondershare.com/assets/images-common/badges-google.svg)](https://app.adjust.com/w06dr6m%5F19za1f6)
 
@@ -479,7 +482,7 @@ For Win 7 or later (64-bit)
 
 For macOS 10.12 or later
 
-![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
+![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg) Secure Download
 
 [![iOS](https://images.wondershare.com/assets/images-common/badges-apple.svg)](https://app.adjust.com/w06dr6m%5F19za1f6) [![Android](https://images.wondershare.com/assets/images-common/badges-google.svg)](https://app.adjust.com/w06dr6m%5F19za1f6)
 
@@ -521,6 +524,9 @@ If you want to keep your Facebook stories around for longer than a day, you can 
 
 ## A cross-platform for making videos anywhere for all creators
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![filmora-02](https://images.wondershare.com/filmora/filmora12/side_brand_filmora12.png)
 
  Why your video editing isn't good enough? How about some creative inspo?
@@ -702,6 +708,9 @@ Tap any video or photo in Facebook Story and click download
 
 ![Filmora logo](https://images.wondershare.com/filmora/logo_icon/wondershare-filmora-logo-horizontal.png) ![filmora product interface](https://images.wondershare.com/filmora/images/common/filmora-product-banner.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Best Tool to Edit Facebook Videos - Filmora
 
 * Cut, trim, split, rotate Facebook videos easily
@@ -717,7 +726,7 @@ For Win 7 or later (64-bit)
 
 For macOS 10.12 or later
 
-![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
+![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg) Secure Download
 
 [![iOS](https://images.wondershare.com/assets/images-common/badges-apple.svg)](https://app.adjust.com/w06dr6m%5F19za1f6) [![Android](https://images.wondershare.com/assets/images-common/badges-google.svg)](https://app.adjust.com/w06dr6m%5F19za1f6)
 
@@ -870,6 +879,9 @@ Click on the installed extension and select **open Facebook**.
 
 Select the **download** button at the top right corner of the video—select options from the quality.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3: How to Download Facebook Stories on Mobile?
 
 #### 1\. Save Story for Facebook Stories-Download
@@ -955,7 +967,7 @@ For Win 7 or later (64-bit)
 
 For macOS 10.12 or later
 
-![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
+![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg) Secure Download
 
 [![iOS](https://images.wondershare.com/assets/images-common/badges-apple.svg)](https://app.adjust.com/w06dr6m%5F19za1f6) [![Android](https://images.wondershare.com/assets/images-common/badges-google.svg)](https://app.adjust.com/w06dr6m%5F19za1f6)
 
@@ -996,3 +1008,72 @@ Follow @Shanoon Cox
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-lava-blaze-curve-5g-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Lava Blaze Curve 5G? Here is How | Dr.fone</u></a></li>
+<li><a href="https://animation-videos.techidaily.com/new-2024-approved-the-art-of-comics-learn-how-to-do-funny-cartoon-drawings/"><u>New 2024 Approved The Art of Comics - Learn How to Do Funny Cartoon Drawings</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-a-comprehensive-guide-to-building-facebook-slideshow-mastery/"><u>In 2024, A Comprehensive Guide to Building Facebook Slideshow Mastery</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unleashing-funimate-on-android-step-by-step-apk-tutorial/"><u>2024 Approved  Unleashing Funimate on Android - Step-by-Step APK Tutorial</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-step-by-step-podcast-rss-feeds-a-practical-approach/"><u>2024 Approved  Step-by-Step Podcast RSS Feeds  A Practical Approach</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-unmatched-access-the-finest-5-browser-tools-for-fb-videos/"><u>[Updated] 2024 Approved  Unmatched Access  The Finest 5 Browser Tools for FB Videos</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-intense-close-ups-in-minecraft-five-simple-steps/"><u>[New] Intense Close-Ups in Minecraft  Five Simple Steps</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-the-soundtrack-strategy-addmpy-in-videos-on-fb/"><u>[Updated] 2024 Approved  The Soundtrack Strategy  Addmpy in Videos on FB</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-seamless-facebook-broadcast-integrating-obs-with-devices/"><u>[Updated] 2024 Approved  Seamless Facebook Broadcast  Integrating OBS with Devices</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-in-depth-analysis-of-the-nero-waveshaper-toolkit/"><u>Updated In-Depth Analysis of the Nero WaveShaper Toolkit</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-from-jokes-to-laughter-waves-how-to-craft-memes-on-9gag/"><u>[Updated] From Jokes to Laughter Waves  How to Craft Memes on 9GAG</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-from-observer-to-participant-enrich-your-online-experience-with-fb/"><u>In 2024, From Observer to Participant  Enrich Your Online Experience with FB</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/selecting-the-perfect-day-for-podcast-drops-for-2024/"><u>Selecting the Perfect Day for Podcast Drops for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-zooming-ahead-best-practices-for-screenshares/"><u>[New] In 2024, Zooming Ahead  Best Practices for Screenshares</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/in-2024-speed-up-your-storytelling-time-lapse-video-creation-in-final-cut-pro/"><u>In 2024, Speed Up Your Storytelling Time Lapse Video Creation in Final Cut Pro</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-enhance-fb-story-visibility-with-these-tips/"><u>In 2024, Enhance FB Story Visibility with These Tips</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-the-elite-list-of-youtube-player-applications-for-2024/"><u>[Updated] The Elite List of YouTube Player Applications for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-10-most-admirable-photo-frame-apps/"><u>[Updated] The 10 Most Admirable Photo Frame Apps</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-detailed-tutorial-to-rotate-videos-in-cyberlink-powerdirector/"><u>Updated In 2024, Detailed Tutorial to Rotate Videos in Cyberlink PowerDirector</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-guide-to-perfect-everyday-tiktok-footage-expert-advice-for-2024/"><u>[New] Guide to Perfect Everyday TikTok Footage  Expert Advice for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/online-obsession-the-8-must-watch-titles-for-2024/"><u>Online Obsession  The 8 Must-Watch Titles for 2024</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-can-i-get-more-stardust-in-pokemon-go-on-honor-x50-gt-drfone-by-drfone-virtual-android/"><u>In 2024, How can I get more stardust in pokemon go On Honor X50 GT? | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/core-skills-in-the-art-of-digital-animation-for-2024/"><u>Core Skills in the Art of Digital Animation for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-the-monetization-blueprint-for-your-youtube-ventures-on-fb/"><u>[Updated] In 2024, The Monetization Blueprint for Your YouTube Ventures on FB</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-socialvideocutter-download-feature/"><u>[New] 2024 Approved  SocialVideoCutter  Download Feature</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-revenue-revolution-how-to-design-effective-animated-fb-ads/"><u>[New] In 2024, Revenue Revolution  How to Design Effective Animated FB Ads</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/becoming-the-ultimate-streamer-on-youtube-and-twitch-using-obs-for-2024/"><u>Becoming the Ultimate Streamer on YouTube and Twitch Using OBS for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-creatives-making-marvel-virtual-worlds-vivid/"><u>[Updated] 2024 Approved  Creatives Making Marvel Virtual Worlds Vivid</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/in-2024-make-a-lasting-impression-5-leading-photo-slideshow-software/"><u>In 2024, Make a Lasting Impression 5 Leading Photo Slideshow Software</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-is-greyed-out-on-iphone-14-plus-how-to-bypass-by-drfone-ios/"><u>In 2024, Apple ID is Greyed Out On iPhone 14 Plus How to Bypass?</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-obs-recording-tech-breakdown-comparing-leading-screen-recorders/"><u>[New] OBS Recording Tech Breakdown  Comparing Leading Screen Recorders</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/discover-easy-fb-ad-videos-free-creation-kit-available/"><u>Discover Easy FB Ad Videos – FREE Creation Kit Available</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/gen-of-video-visionaries/"><u>Next Gen of Video Visionaries</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-spotlight-on-the-innovators-shaping-discords-visual-language/"><u>[New] Spotlight on the Innovators Shaping Discord's Visual Language</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/unlocking-the-secrets-of-success-top-strategies-for-fb-video-growth/"><u>Unlocking the Secrets of Success  Top Strategies for FB Video Growth</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-latest-pulse-of-facebooks-evolution/"><u>[New] Latest Pulse of Facebook's Evolution</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-essential-software-for-recording-educational-experiences/"><u>2024 Approved  Essential Software for Recording Educational Experiences</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-harnessing-the-power-of-mov-recording-in-windows-10/"><u>[Updated] Harnessing the Power of MOV Recording in Windows 10</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-how-to-amplify-facebook-stories-with-music-elements/"><u>2024 Approved  How to Amplify Facebook Stories with Music Elements</u></a></li>
+<li><a href="https://facebook.techidaily.com/networking-neutrality-right-to-suspend-trump-but-for-how-long/"><u>Networking Neutrality: Right to Suspend Trump, But for How Long?</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-do-i-stop-someone-from-tracking-my-infinix-smart-7-hd-drfone-by-drfone-virtual-android/"><u>How Do I Stop Someone From Tracking My Infinix Smart 7 HD? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/socialmediarecorder-toolkit/"><u>SocialMediaRecorder Toolkit</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/cyberspace-liberation-overthrowing-hacks-on-facebook-for-2024/"><u>Cyberspace Liberation  Overthrowing Hacks on Facebook for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-best-snapchat-filters-and-lenses-that-you-want-to-try-for-2024/"><u>[New] Best Snapchat Filters and Lenses That You Want to Try for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-exploring-copyright-policy-instantaneous-removal-of-personal-videos/"><u>[New] Exploring Copyright Policy  Instantaneous Removal of Personal Videos</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-mastering-wirecast-for-facebook-live-broadcasts/"><u>[Updated] Mastering Wirecast for Facebook Live Broadcasts</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-transform-online-sales-with-these-premier-15-facebook-monitoring-tools-for-2024/"><u>[New] Transform Online Sales with These Premier 15 Facebook Monitoring Tools for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-magix-acid-pro-unveiled-and-options-examined/"><u>In 2024, Magix ACID Pro Unveiled & Options Examined</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-optimized-visual-quality-black-bar-and-box-frame-for-social-media-posts/"><u>[Updated] Optimized Visual Quality  Black Bar & Box Frame for Social Media Posts</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-the-efficacy-of-vlcs-screen-recording/"><u>[Updated] In 2024, The Efficacy of VLC's Screen Recording</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/navigating-the-landscape-of-fb-video-advertising-with-best-practices-for-2024/"><u>Navigating the Landscape of FB Video Advertising with Best Practices for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-innovative-approaches-to-elevate-roi-in-your-fb-ads-with-animation/"><u>[New] Innovative Approaches to Elevate ROI in Your FB Ads with Animation</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-premier-fb-viewing-sites-ranked-1-10/"><u>[Updated] Premier FB Viewing Sites Ranked #1-10</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/mastering-facebook-video-sharing-essential-tips/"><u>Mastering Facebook Video Sharing  Essential Tips</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/unseen-strategies-how-to-tap-into-your-facebook-message-library/"><u>Unseen Strategies  How to Tap Into Your Facebook Message Library</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-crucial-collections-8-innovative-products-to-boost-your-professional-edge/"><u>In 2024, Crucial Collections  8 Innovative Products to Boost Your Professional Edge</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-prevent-freezing-of-streamed-videos-in-chrome/"><u>[Updated] 2024 Approved  Prevent Freezing of Streamed Videos in Chrome</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/the-art-of-video-marketing-11-tips-to-skyrocket-fb-traffic/"><u>The Art of Video Marketing  11 Tips to Skyrocket FB Traffic</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-iphone-8-plus-with-imei-code-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 8 Plus with IMEI Code?</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-integrating-social-networks-sharing-fb-videos-on-whatsapp/"><u>In 2024, Integrating Social Networks  Sharing FB Videos on WhatsApp</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-syncing-your-browser-with-auto-play-feature-in-facebook-for-2024/"><u>[New] Syncing Your Browser with Auto-Play Feature in Facebook for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-the-complete-checklist-for-recording-fb-chats-and-meets/"><u>[New] In 2024, The Complete Checklist for Recording FB Chats and Meets</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/twitch-sharing-techniques-for-facebook-integration/"><u>Twitch Sharing Techniques for Facebook Integration</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-finding-the-perfect-video-dimensions-on-facebook/"><u>2024 Approved  Finding the Perfect Video Dimensions on Facebook</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-superior-ff-videograbber-package-easy-and-reliable/"><u>[New] 2024 Approved  Superior FF Videograbber Package - Easy and Reliable</u></a></li>
+</ul></div>

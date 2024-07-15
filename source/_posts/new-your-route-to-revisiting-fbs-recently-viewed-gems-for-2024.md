@@ -1,7 +1,7 @@
 ---
 title: "[New] Your Route to Revisiting Fb’s Recently Viewed Gems for 2024"
-date: 2024-06-08T05:42:46.739Z
-updated: 2024-06-09T05:42:46.739Z
+date: 2024-07-14T00:51:57.064Z
+updated: 2024-07-15T00:51:57.064Z
 tags:
   - ai video
   - ai facebook
@@ -98,6 +98,9 @@ If you have a slow/dull internet connection there are chances that your video is
 
 Sometimes a quick restart can ensure a swift Facebook video play. So, close the Facebook application on your device and relaunch it. Alternatively, check if there are any recent updates available for the app. If you see any, update the app accordingly.
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### How to Delete Watch History on Facebook?
 
 Keep note that your watch history is accessible by you only. However, if you are still skeptical (due to privacy issues), delete the watch history of Facebook. Here's how you can do so:
@@ -272,11 +275,17 @@ This means that you cannot access your watch history using someone else's Facebo
 * Click on Activity Log. On the left side, go to the Filters section.
 * After that, click on More. It's located below the Comments.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![facebook watched videos on the web](https://images.wondershare.com/filmora/article-images/2021/watched-videos-on-facebook-1.jpg)
 
 * On doing so, you will be able to see a list of filters. From the list, click on "Videos You've Watched."
 * This will open the list of videos that you have watched on Facebook. Make sure to select the ones that you want to watch again.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2\. How to Find Recently Watched Videos on Facebook App?
 
 Facebook application is one of the most common media to watch Facebook videos. That's why we will be mentioning the way to find recently watched videos through the Facebook app. Just like the web version, the process here is simple.
@@ -288,6 +297,9 @@ However, make sure you have the Facebook application installed on your device. I
 * At the top side of your phone screen, go to the Category drop-down menu.
 * Look for the "Videos You've Watched" filter. Tap on the same.
 
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![watched videos on facebook app](https://images.wondershare.com/filmora/article-images/2021/watched-videos-on-facebook-2.jpg)
 
 * This filter will open the list of all the videos you have watched through your account. Look for the one that you want and watch the same.
@@ -496,3 +508,51 @@ So, that's how you can find watched videos on Facebook. The steps are pretty eas
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-leveraging-snapkit-a-tactical-approach/"><u>2024 Approved  Leveraging SnapKit  A Tactical Approach</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-exploring-8-open-source-video-collaboration-software-picks/"><u>[Updated] Exploring 8 Open Source Video Collaboration Software Picks</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/unveiling-the-ultimate-strategy-to-record-your-favorite-streamed-series-hulu-for-2024/"><u>Unveiling the Ultimate Strategy to Record Your Favorite Streamed Series (Hulu) for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/learn-to-produce-must-see-fb-music-videos-today/"><u>Learn to Produce Must-See FB Music Videos Today</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-delete-gmail-account-withwithout-password-on-samsung-galaxy-a15-4g-by-drfone-android/"><u>In 2024, Delete Gmail Account With/Without Password On Samsung Galaxy A15 4G</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-unravel-the-mystery-of-accessing-your-watchlist-on-facebook/"><u>[Updated] In 2024, Unravel the Mystery of Accessing Your Watchlist on Facebook</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-browsing-made-memorable-the-leading-screen-recorder-software/"><u>In 2024, Browsing Made Memorable  The Leading Screen Recorder Software</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-unveiling-the-hidden-fixes-for-fb-video-upload-woes/"><u>[Updated] In 2024, Unveiling the Hidden Fixes for Fb Video Upload Woes</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/tips-for-snagging-quality-streams-on-facebook/"><u>Tips for Snagging Quality Streams on Facebook</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-leveraging-hashtags-to-enhance-fb-user-engagement-for-2024/"><u>[New] Leveraging Hashtags to Enhance FB User Engagement for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-perfectly-preserve-facebook-films-with-top-5-chrome-plugs-for-2024/"><u>[Updated] Perfectly Preserve Facebook Films with Top 5 Chrome Plugs for 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-harmonizing-audiovisual-elements-the-science-of-dynamic-volume-reduction/"><u>Updated Harmonizing Audiovisual Elements The Science of Dynamic Volume Reduction</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-uniting-viewers-facebook-live-on-the-big-screen/"><u>[New] 2024 Approved  Uniting Viewers  Facebook Live on the Big Screen</u></a></li>
+<li><a href="https://extra-support.techidaily.com/stabilized-snapshots-best-tripods-for-iphonesandroids-for-2024/"><u>Stabilized Snapshots  Best Tripods for iPhones/Androids for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-premier-hd-picks-for-impeccable-video-recorders/"><u>[New] Premier HD Picks for Impeccable Video Recorders</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-lightning-lens-work-a-guide-to-speedy-google-collage-creation/"><u>[Updated] Lightning Lens Work  A Guide to Speedy Google Collage Creation</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-the-updated-method-to-bypass-samsung-galaxy-z-flip-5-frp-by-drfone-android/"><u>In 2024, The Updated Method to Bypass Samsung Galaxy Z Flip 5 FRP</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-to-address-the-application-was-unable-to-start-xc000003e-on-win11-and-11/"><u>Strategies to Address The Application Was Unable to Start Xc000003e on Win11 & 11</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-avatar-asymmetry-artistry-designing-your-animated-look/"><u>[New] Avatar Asymmetry Artistry  Designing Your Animated Look</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-maximize-fun-the-finest-ios-apps-for-loading-fb-videos/"><u>[New] In 2024, Maximize Fun  The Finest iOS Apps for Loading FB Videos</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-how-to-view-old-stories-on-facebook-find-story-archive-easily/"><u>[Updated] 2024 Approved  How to View Old Stories on Facebook  Find Story Archive Easily</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-5-ways-to-send-ringtones-from-apple-iphone-6-to-iphone-including-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 5 Ways to Send Ringtones from Apple iPhone 6 to iPhone Including iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-the-formula-for-a-high-ranking-online-persona/"><u>[Updated] In 2024, The Formula for a High-Ranking Online Persona</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-the-most-efficient-video-editing-tools-for-your-computer-for-2024/"><u>Updated The Most Efficient Video Editing Tools for Your Computer for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-master-social-media-youtube-to-facebook-links-for-2024/"><u>[Updated] Master Social Media  YouTube to Facebook Links for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-social-network-synergy-enhancing-story-sharing/"><u>[New] 2024 Approved  Social Network Synergy  Enhancing Story Sharing</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-from-free-to-paid-an-introduction-to-disconitro-benefits/"><u>[New] From Free to Paid  An Introduction to DiscoNitro Benefits</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/pioneering-techniques-to-enhance-fb-video-ads/"><u>Pioneering Techniques to Enhance Fb Video Ads</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-uncovering-methods-for-preserving-social-media-moments-status-videos/"><u>[New] 2024 Approved  Uncovering Methods for Preserving Social Media Moments - Status Videos</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-clandestine-glimpse-at-fb-flashbacks/"><u>In 2024, Clandestine Glimpse at Fb Flashbacks</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-unveiled-list-leading-top-10-facebook-video-downloaders-for-android-for-2024/"><u>[Updated] Unveiled List  Leading Top 10 Facebook Video Downloaders for Android for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-5-best-audio-video-mixers/"><u>Updated In 2024, 5 Best Audio Video Mixers</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-tailoring-timeline-memories-the-look-back-video-expertise/"><u>[Updated] 2024 Approved  Tailoring Timeline Memories  The Look Back Video Expertise</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-merge-moments-seamlessly-from-tiktok-to-facebook/"><u>[Updated] 2024 Approved  Merge Moments Seamlessly  From TikTok, To Facebook</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2023s-top-rated-facebook-live-viewing-software/"><u>[Updated] 2023'S Top-Rated Facebook Live Viewing Software</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-one-step-guide-for-sharing-tiktok-videos-on-facebook-for-2024/"><u>[Updated] One-Step Guide for Sharing TikTok Videos on Facebook for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-step-by-step-tutorial-download-save-and-share-gifs-from-social-networks-like-fb/"><u>[New] In 2024, Step-by-Step Tutorial  Download, Save, and Share GIFs From Social Networks Like FB</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/downloading-fb-audio-nuggets-for-2024/"><u>Downloading FB Audio Nuggets for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/premier-5-film-scraper-apps/"><u>Premier 5 Film Scraper Apps</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-combined-sound-and-sight-workstation/"><u>[Updated] 2024 Approved  Combined Sound & Sight Workstation</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-tips-for-incorporating-songs-into-social-media-video-content/"><u>[New] 2024 Approved  Tips for Incorporating Songs Into Social Media Video Content</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-maximizing-roi-setting-up-and-assessing-fb-instream-ads/"><u>[New] 2024 Approved  Maximizing ROI  Setting Up & Assessing FB Instream Ads</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-poco-m6-pro-4g-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Poco M6 Pro 4G | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-navigating-social-media-streams-iphone-and-android-best-practices-for-2024/"><u>[Updated] Navigating Social Media Streams  IPhone & Android Best Practices for 2024</u></a></li>
+</ul></div>

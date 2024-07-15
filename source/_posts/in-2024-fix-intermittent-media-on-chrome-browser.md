@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Fix Intermittent Media on Chrome Browser"
-date: 2024-05-20T13:47:54.874Z
-updated: 2024-05-21T13:47:54.874Z
+date: 2024-07-14T01:26:39.645Z
+updated: 2024-07-15T01:26:39.645Z
 tags:
   - ai video
   - ai facebook
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes In 2024, Fix Intermittent Media on Chrome Browser"
 excerpt: "This Article Describes In 2024, Fix Intermittent Media on Chrome Browser"
 keywords: "Chrome Media Fix,Media Playback Error,Solve Chrome Media,Chrome Video Fixing,Stop Media Glitches,Chrome Audio Intermittent,Fix Chrome Media Disruption"
-thumbnail: https://www.lifewire.com/thmb/7-p_9NYo8JG4i-R6e8BAGzrNRL8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/ManworkingonMacBook-a850f8204081407191ff533c32018943.jpg
+thumbnail: https://thmb.techidaily.com/4f656e715f1d971ec63a65c3318a7fb3ef54198880a460fef17224e3b3660509.jpg
 ---
 
 ## Fix Intermittent Media on Chrome Browser
@@ -63,6 +63,9 @@ Social networking websites are not always perfect. They are always undergoing th
 
 To do so, go to the "Settings" menu on your Android phone and navigate to "Apps and Notifications." Click on the "Facebook" app and then hit the "Uninstall" button. Facebook app will be uninstalled. For reinstalling the app, you can head to the Play Store. The download of the updated version will help you get rid of the problem for sure.
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ![reinstall facebook android version](https://images.wondershare.com/filmora/article-images/2021/facebook-videos-not-playing-2.jpg)
 
 ### Method 4: Remove Junk Apps
@@ -545,6 +548,9 @@ Logging out and then logging back in saves us the trouble of **Facebook videos n
 
 If you are an iPhone user facing the problem of **Facebook video not playing continuously,** allow us to help you through it. The sub-section revolves around methods to eliminate **Facebook videos not playing on iPhone.**
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 1: Use a Browser to Watch Videos
 
 Most of the time, the Facebook app goes through bugs and viruses that take time to recover. Meanwhile, the user can switch to the browser and log in there. The user can access Safari, Firefox, Chrome, or any other browser from iPhone.
@@ -575,6 +581,9 @@ Another workable procedure revolves around resetting the network settings of you
 
 ![reset iphone network settings](https://images.wondershare.com/filmora/article-images/2021/facebook-videos-not-playing-9.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 6: Reboot Your iPhone
 
 You can also reboot your iPhone if the **Facebook video not playing continuously** enhances. To do so, press and hold down the Power and Volume Up button. The device will be rebooted successfully.
@@ -619,6 +628,9 @@ Click on "Clear Browsing Data" and tick mark "Cached images and files." Tap "Cle
 
 ![clear cache data](https://images.wondershare.com/filmora/article-images/2021/facebook-videos-not-playing-14.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 4: A Powerful Video Editor in Business- Wondershare Filmora
 
 [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) has brought a storm of workable features related to video editing. It helps creative professionals perform advanced steps easily without facing any complications. Following are some powerful video editing traits that you can use to edit Facebook videos.
@@ -656,3 +668,64 @@ Facebook is our last resort when you are an introvert trying to get through the 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-twitter-reaction-videos-a-comprehensive-overview/"><u>[New] 2024 Approved  Twitter Reaction Videos  A Comprehensive Overview</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-voice-overhaul-hacks-for-discord-chatters-top-free-solutions-for-2024/"><u>[Updated] Voice Overhaul Hacks for Discord Chatters - Top Free Solutions for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/building-a-better-tiktok-profile-step-by-step/"><u>Building a Better TikTok Profile Step-by-Step</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-instagram-feed-adding-videos/"><u>In 2024, Instagram Feed  Adding Videos</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-televising-facebook-video-content-a-possibility/"><u>[New] Televising Facebook Video Content  A Possibility ?</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/6-most-used-4k-youtube-converters-to-compare/"><u>6 Most-Used 4K YouTube Converters to Compare</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-accessible-gamers-soundtrack-without-restrictions/"><u>[Updated] 2024 Approved  Accessible Gamers' Soundtrack Without Restrictions</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-a-guide-to-profitable-animated-fb-advertising-techniques/"><u>[Updated] A Guide to Profitable, Animated FB Advertising Techniques</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-prevent-social-discomfort-block-options/"><u>[Updated] Prevent Social Discomfort  Block Options</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-enlarge-facebook-videos-to-full-screen-for-impact/"><u>In 2024, Enlarge Facebook Videos to Full Screen for Impact</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-maximize-mobile-viewing-sharper-chromebook-and-phone-videos/"><u>2024 Approved  Maximize Mobile Viewing  Sharper Chromebook and Phone Videos</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-2024-approved-melody-compendium-the-15-best-music-selections-for-different-visual-media-types/"><u>Updated 2024 Approved Melody Compendium The 15 Best Music Selections for Different Visual Media Types</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-tactics-to-triumph-secrets-of-successful-social-media-videos/"><u>[Updated] Tactics to Triumph  Secrets of Successful Social Media Videos</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-leap-into-instagram-stardom-with-ease/"><u>[New] In 2024, Leap Into Instagram Stardom with Ease</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-navigating-virtual-boards-with-ease-a-guide-to-using-google-meet-on-diverse-devices/"><u>[New] Navigating Virtual Boards with Ease  A Guide to Using Google Meet on Diverse Devices</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-master-the-momentum-sending-viral-videos-soaring/"><u>[Updated] In 2024, Master the Momentum  Sending Viral Videos Soaring</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/uploading-movies-instagram-guide-for-2024/"><u>Uploading Movies  Instagram Guide for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-track-imei-number-of-nokia-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of Nokia Through Google Earth?</u></a></li>
+<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-vivo-t2-pro-5g-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Vivo T2 Pro 5G without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-how-to-calculate-pixel-calculator-ratio/"><u>New How to Calculate Pixel Calculator Ratio</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/stepwise-guide-to-travel-back-in-time-with-facebooks-archive-laptop-and-mobile-for-2024/"><u>Stepwise Guide to Travel Back in Time with Facebook's Archive (Laptop & Mobile) for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-androidios-resolve-youtube-freezing/"><u>In 2024, Android/iOS  Resolve YouTube Freezing</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-unifying-social-media-platforms-tiktok-and-fb-connected/"><u>[New] Unifying Social Media Platforms  TikTok & FB Connected</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-navigating-exit-the-guide-to-disconnecting-from-a-discord-community-for-2024/"><u>[New] Navigating Exit  The Guide to Disconnecting From a Discord Community for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-innovating-tiktok-posts-for-twitters-platform/"><u>[New] 2024 Approved  Innovating TikTok Posts for Twitter's Platform</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-seamless-video-integration-on-youtube-platform/"><u>[Updated] Seamless Video Integration on YouTube Platform</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-crafting-innovative-fb-videos-unique-ad-creation-techniques/"><u>[Updated] Crafting Innovative FB Videos  Unique Ad Creation Techniques</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-amplify-your-brand-a-guide-to-better-facebook-page-scores/"><u>2024 Approved  Amplify Your Brand  A Guide to Better Facebook Page Scores</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-how-to-rank-your-facebook-page/"><u>[New] How to Rank Your Facebook Page</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-top-calming-virtual-worlds-on-pc/"><u>[New] Top Calming Virtual Worlds on PC</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-capturing-and-keeping-your-social-media-moments/"><u>2024 Approved  Capturing and Keeping Your Social Media Moments</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-exclusive-fb-video-downloads-enhance-firefox-use/"><u>In 2024, Exclusive FB Video Downloads  Enhance Firefox Use</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-online-facebook-downloader-mp3/"><u>[Updated] Online Facebook Downloader MP3</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-power-of-words-in-marketing-top-20-essentials/"><u>2024 Approved  The Power of Words in Marketing - Top 20 Essentials</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-escape-the-permanent-suspension-top-fb-jailbreak-tips/"><u>[New] Escape the Permanent Suspension  Top FB Jailbreak Tips</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-how-to-skillfully-secure-and-save-gif-images-from-facebooks-domain/"><u>2024 Approved  How To Skillfully Secure and Save GIF Images From Facebook's Domain</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/capture-and-save-fb-videos-on-windows-mac-for-2024/"><u>Capture and Save FB Videos on Windows, Mac for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/the-ultimate-guide-incorporating-facebook-live-into-websites/"><u>The Ultimate Guide  Incorporating Facebook LIVE Into Websites</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-time-travel-on-fb-accessing-historical-posts/"><u>2024 Approved  Time Travel on FB  Accessing Historical Posts</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-non-root-android-audio-logging-step-by-step/"><u>[New] 2024 Approved  Non-Root Android Audio Logging, Step by Step</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-seamlessly-connect-with-friends-and-family-via-skype-call/"><u>In 2024, Seamlessly Connect with Friends & Family via Skype Call</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-top-tech-to-freeze-gaming-moments-in-pcmac-screenshots-for-2024/"><u>[New] Top Tech to Freeze Gaming Moments in PC/Mac Screenshots for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-a-comprehensive-guide-to-building-facebook-slideshow-mastery/"><u>[New] A Comprehensive Guide to Building Facebook Slideshow Mastery</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/fb-video-downloads-and-direct-mp3-conversion-for-2024/"><u>FB Video Downloads & Direct MP3 Conversion for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-the-hottest-8-video-clips-trending-today-online/"><u>[New] The Hottest 8 Video Clips Trending Today Online</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/proven-3-step-framework-for-creating-persuasive-facebook-ad-content-for-2024/"><u>Proven 3-Step Framework for Creating Persuasive Facebook Ad Content for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-real-time-facebook-footage-the-top-5-live-streaming-apps/"><u>2024 Approved  Real-Time Facebook Footage  The Top 5 Live-Streaming Apps</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-the-historical-context/"><u>[New] 2024 Approved  The Historical Context</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-in-2024-conquer-views-the-quintessential-selection-of-tiktok-font-creators/"><u>[Updated] In 2024, Conquer Views  The Quintessential Selection of TikTok Font Creators</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-social-media-mastery-embedding-twitch-streams-on-fb/"><u>[Updated] Social Media Mastery  Embedding Twitch Streams on FB</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-navigating-fb-video-aspects-ratios-explained/"><u>2024 Approved  Navigating FB Video Aspects  Ratios Explained</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-streaming-social-feeds-on-your-smart-tv-whats-next/"><u>2024 Approved  Streaming Social Feeds on Your Smart TV  What's Next?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-vivo-x100-pro-by-fonelab-android-recover-photos/"><u>How To  Restore Missing Photos Files from Vivo X100 Pro.</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-enhancing-engagement-streaming-historical-video-events-on-facebook/"><u>[Updated] Enhancing Engagement  Streaming Historical Video Events on Facebook</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-from-flat-to-fabulous-converting-videos-for-vr-with-ease/"><u>Updated In 2024, From Flat to Fabulous Converting Videos for VR with Ease</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-make-the-most-of-your-apple-iphone-12-mini-lock-screen-with-notifications-drfone-by-drfone-ios/"><u>How to Make the Most of Your Apple iPhone 12 mini Lock Screen with Notifications? | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-collage-geniuses-discover-top-12-projects/"><u>In 2024, Collage Geniuses  Discover Top 12 Projects</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Discover Easy FB Ad Videos – FREE Creation Kit Available\""
-date: 2024-06-23T05:23:35.909Z
-updated: 2024-06-24T05:23:35.909Z
+date: 2024-07-14T01:58:45.339Z
+updated: 2024-07-15T01:58:45.339Z
 tags:
   - ai video
   - ai facebook
@@ -92,6 +92,9 @@ Go to the **Media** section and now you can upload up to 10 images or videos and
 
 Once you’ve begun to create your vid, you’ll find a button under the **Media** tab. Click Add Image and a window will open for you to select images - you can choose from the images on your account, your particular Facebook page you’re creating the ad for, your Instagram, or upload stock images.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![add Facebook ads image assets](https://images.wondershare.com/filmora/article-images/add-image-assets.jpg)
 
 When adding images to media, remember to choose images that are the same size and orientation. This will make your life easier and your ad look more appealing!
@@ -177,11 +180,14 @@ As we said before, Facebook has billions daily users, and here are just a few re
 
 No matter what your business, video is a tool you should be taking advantage of, and with stats like these, Facebook is a great place to start getting your video ads out there!
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
 ### What Could You Use the Creation Kit For?
 
 Whatever the purpose of your video, you’ll find the Facebook Video Creation Kit to be quite useful for you. You can create your ad using video footage, or simply add some photos for a slideshow effect.
 
-This is great for **promoting products and services, introducing new businesses or ideas, or simply sharing something cool** that you’ve created with your friends. Not only does it showcase your photos or products, you’ll be able to add your **own text, links**, and **info to promote** your stuff exactly the way you want to![![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
+This is great for **promoting products and services, introducing new businesses or ideas, or simply sharing something cool** that you’ve created with your friends. Not only does it showcase your photos or products, you’ll be able to add your **own text, links**, and **info to promote** your stuff exactly the way you want to ![![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ## Conclusion
 
@@ -357,7 +363,7 @@ No matter what your business, video is a tool you should be taking advantage of,
 
 Whatever the purpose of your video, you’ll find the Facebook Video Creation Kit to be quite useful for you. You can create your ad using video footage, or simply add some photos for a slideshow effect.
 
-This is great for **promoting products and services, introducing new businesses or ideas, or simply sharing something cool** that you’ve created with your friends. Not only does it showcase your photos or products, you’ll be able to add your **own text, links**, and **info to promote** your stuff exactly the way you want to![![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
+This is great for **promoting products and services, introducing new businesses or ideas, or simply sharing something cool** that you’ve created with your friends. Not only does it showcase your photos or products, you’ll be able to add your **own text, links**, and **info to promote** your stuff exactly the way you want to ![![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ## Conclusion
 
@@ -533,7 +539,7 @@ No matter what your business, video is a tool you should be taking advantage of,
 
 Whatever the purpose of your video, you’ll find the Facebook Video Creation Kit to be quite useful for you. You can create your ad using video footage, or simply add some photos for a slideshow effect.
 
-This is great for **promoting products and services, introducing new businesses or ideas, or simply sharing something cool** that you’ve created with your friends. Not only does it showcase your photos or products, you’ll be able to add your **own text, links**, and **info to promote** your stuff exactly the way you want to![![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
+This is great for **promoting products and services, introducing new businesses or ideas, or simply sharing something cool** that you’ve created with your friends. Not only does it showcase your photos or products, you’ll be able to add your **own text, links**, and **info to promote** your stuff exactly the way you want to ![![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ## Conclusion
 
@@ -594,6 +600,9 @@ At first, you’ll need to select campaign objective, which is what you would li
 * Lead Generation
 * Conversions
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![choosing Facebook campaign marketing objective](https://images.wondershare.com/filmora/article-images/choosing-campaign-marketing-objective.jpg)
 
 Depending on what exactly you want to achieve from your ad, you’ll select a particular objective. Each one aims to help you reach your goal - whether that’s video views, leading people to your website, or getting them to buy your product. Depending on the objective you choose, your pricing could be different.
@@ -620,6 +629,9 @@ Go to the **Media** section and now you can upload up to 10 images or videos and
 
 Once you’ve begun to create your vid, you’ll find a button under the **Media** tab. Click Add Image and a window will open for you to select images - you can choose from the images on your account, your particular Facebook page you’re creating the ad for, your Instagram, or upload stock images.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![add Facebook ads image assets](https://images.wondershare.com/filmora/article-images/add-image-assets.jpg)
 
 When adding images to media, remember to choose images that are the same size and orientation. This will make your life easier and your ad look more appealing!
@@ -709,7 +721,7 @@ No matter what your business, video is a tool you should be taking advantage of,
 
 Whatever the purpose of your video, you’ll find the Facebook Video Creation Kit to be quite useful for you. You can create your ad using video footage, or simply add some photos for a slideshow effect.
 
-This is great for **promoting products and services, introducing new businesses or ideas, or simply sharing something cool** that you’ve created with your friends. Not only does it showcase your photos or products, you’ll be able to add your **own text, links**, and **info to promote** your stuff exactly the way you want to![![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
+This is great for **promoting products and services, introducing new businesses or ideas, or simply sharing something cool** that you’ve created with your friends. Not only does it showcase your photos or products, you’ll be able to add your **own text, links**, and **info to promote** your stuff exactly the way you want to ![![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ## Conclusion
 
@@ -748,3 +760,53 @@ Follow @Shanoon Cox
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-files.techidaily.com/new-inside-look-at-evasion-the-ultimate-guide-to-fb-block-avoidance-for-2024/"><u>[New] Inside Look at Evasion  The Ultimate Guide to FB Block Avoidance for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-guide-to-altering-your-facebook-background-image/"><u>[New] In 2024, Guide to Altering Your Facebook Background Image</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-fill-the-airwaves-with-no-cost-songs-for-2024/"><u>[Updated] Fill the Airwaves with No-Cost Songs for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-best-mobile-and-desktop-apps-adjusting-audio-playback-speed/"><u>In 2024, Best Mobile & Desktop Apps  Adjusting Audio Playback Speed</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-transform-your-video-presentation-with-updated-covers/"><u>[Updated] In 2024, Transform Your Video Presentation with Updated Covers</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/from-passive-page-peeps-to-paying-patrons-facebook-monetization-magic/"><u>From Passive Page Peeps to Paying Patrons  Facebook Monetization Magic</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-music-syncing-for-iphones-and-androids-in-fb-for-2024/"><u>[New] Music Syncing for iPhones & Androids in FB for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-masterful-post-placement-to-surge-video-views/"><u>[New] In 2024, Masterful Post Placement to Surge Video Views</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-unleash-potential-superior-strategies-for-personalized-facebook-profiles/"><u>[Updated] 2024 Approved  Unleash Potential  Superior Strategies for Personalized Facebook Profiles</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-a-tecno-camon-20-premier-5g-easily-by-drfone-android/"><u>How To Unlock a Tecno Camon 20 Premier 5G Easily?</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/revitalize-disappearing-watch-thumbnail/"><u>Revitalize Disappearing Watch Thumbnail</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-troubleshooting-stalled-video-sending-on-iphone-and-androids-messenger/"><u>[Updated] 2024 Approved  Troubleshooting Stalled Video Sending on iPhone and Android's Messenger</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-rhythm-renders-infusing-sound-into-your-visual-storytelling-fb/"><u>[New] 2024 Approved  Rhythm Renders  Infusing Sound Into Your Visual Storytelling (FB)</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-how-to-optimize-your-social-media-presence-post-facebook-change/"><u>[Updated] 2024 Approved  How to Optimize Your Social Media Presence Post-Facebook Change</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/insider-secrets-to-sharpen-your-photoshop-skills/"><u>Insider Secrets to Sharpen Your Photoshop Skills</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-how-to-create-a-clideo-slideshow-simply/"><u>New How to Create a Clideo Slideshow Simply</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-trailblazing-through-time-era-images-explore-3-inverse-techniques-on-facebook/"><u>[Updated] In 2024, Trailblazing Through Time-Era Images  Explore 3 Inverse Techniques on Facebook</u></a></li>
+<li><a href="https://techidaily.com/remove-google-frp-lock-on-t2x-5g-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP Lock on T2x 5G</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/proven-strategies-to-skyrocket-your-fb-search-results-rankings/"><u>Proven Strategies to Skyrocket Your FB Search Results Rankings</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-full-guide-to-unlock-apple-iphone-se-2020-with-itunes-by-drfone-ios/"><u>In 2024, Full Guide to Unlock Apple iPhone SE (2020) with iTunes</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/fbs-top-songs-on-screen-a-step-by-step-vlog-series/"><u>FB's Top Songs on Screen  A Step-by-Step Vlog Series</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-top-10-youtube-video-grabber-apps-best-in-class-compatibility/"><u>[New] In 2024, Top 10 YouTube Video Grabber Apps, Best-in-Class Compatibility</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/digital-game-chronicles-snappy-screenshots-for-every-moment/"><u>Digital Game Chronicles  Snappy Screenshots for Every Moment</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-master-facebooks-hd-livestreaming-techniques-for-2024/"><u>[Updated] Master Facebook’s HD Livestreaming Techniques for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-the-mystery-of-non-existent-videos-insight-into-fb-feed-absence/"><u>[Updated] In 2024, The Mystery of Non-Existent Videos  Insight Into FB Feed Absence</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-facebooks-unique-media-the-top-ios-downloader-tools-revealed-today-for-2024/"><u>[New] Facebook's Unique Media  The Top iOS Downloader Tools Revealed Today for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-essential-tips-for-effective-fb-live-split-screens-for-2024/"><u>[New] Essential Tips for Effective FB Live Split Screens for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-the-ultimate-list-of-popular-videos-online/"><u>[Updated] In 2024, The Ultimate List of Popular Videos Online</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-from-concept-to-completion-building-effective-facebook-covers/"><u>[Updated] 2024 Approved  From Concept to Completion  Building Effective Facebook Covers</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-quickly-quicken-recognition-with-these-disco-tags/"><u>[Updated] Quickly Quicken Recognition with These Disco Tags</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-navigating-the-landscape-of-facebook-ad-effectiveness-for-2024/"><u>[New] Navigating the Landscape of Facebook Ad Effectiveness for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-understanding-the-meaning-of-facebooks-blue-emoji/"><u>[New] 2024 Approved  Understanding the Meaning of Facebook's Blue Emoji</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-unexpected-10-best-kept-facebook-memes/"><u>[Updated] 2024 Approved  Unexpected  10 Best-Kept Facebook Memes</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-elevating-video-post-visibility-on-fb-groups/"><u>[New] 2024 Approved  Elevating Video Post Visibility on FB Groups</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-forget-your-finstas-quickly-iosandroid-advice/"><u>[New] In 2024, Forget Your Finstas Quickly  IOS/Android Advice</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-unveiling-tv-friendly-practices-for-facebook-lives/"><u>[New] In 2024, Unveiling TV-Friendly Practices for Facebook Lives</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-your-personal-playlist-on-the-go-for-2024/"><u>[Updated] Your Personal Playlist On-the-Go for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/easy-pathway-to-fish-chatter-alteration-within-win-environment/"><u>Easy Pathway to Fish Chatter Alteration Within Win Environment</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-leverage-creative-studio-for-maximum-youtube-reach-and-engagement/"><u>[Updated] Leverage Creative Studio for Maximum YouTube Reach and Engagement</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-smooth-sailing-for-social-broadcasts-fixing-interruptions-on-fb-for-2024/"><u>[New] Smooth Sailing for Social Broadcasts  Fixing Interruptions on FB for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-principles-for-designing-fb-ad-content/"><u>[Updated] In 2024, Principles for Designing FB Ad Content</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/a-comparative-review-of-top-6-chrome-devices-offering-advanced-voice-manipulation-features-filmmagicworkshop/"><u>A Comparative Review of Top 6 Chrome Devices Offering Advanced Voice Manipulation Features - FilmMagicWorkshop</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-how-to-add-music-to-facebook-videos/"><u>[New] 2024 Approved  How to Add Music to Facebook Videos?</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-enrich-facebook-tales-unlimited-no-cost-online-and-mobile-upgrades/"><u>[Updated] In 2024, Enrich Facebook Tales  Unlimited, No-Cost Online & Mobile Upgrades</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-profile-pictorialism-designing-your-exaggerated-visage-for-2024/"><u>[New] Profile Pictorialism  Designing Your Exaggerated Visage for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-how-to-autoplay-facebook-videos/"><u>[New] 2024 Approved  How to Autoplay Facebook Videos</u></a></li>
+</ul></div>

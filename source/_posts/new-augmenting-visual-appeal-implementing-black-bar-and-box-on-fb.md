@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Augmenting Visual Appeal  Implementing Black Bar & Box on FB\""
-date: 2024-05-20T13:28:31.327Z
-updated: 2024-05-21T13:28:31.327Z
+date: 2024-07-14T00:36:16.382Z
+updated: 2024-07-15T00:36:16.382Z
 tags:
   - ai video
   - ai facebook
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] Augmenting Visual Appeal: Implementing Black Bar & Box on FB\""
 excerpt: "\"This Article Describes [New] Augmenting Visual Appeal: Implementing Black Bar & Box on FB\""
 keywords: "FB Design Boost,Facebook UI Enhance,Black Borders Feature,Social Media Aesthetics,Graphic Elements Upgrade,Visual Branding on FB,Box Shadow Effect UI"
-thumbnail: https://www.lifewire.com/thmb/ifWTsHLsL5LJcm41bwMfP8A6f4g=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1129377245-31d2afce07c34729a07592c518bd5b25.jpg
+thumbnail: https://thmb.techidaily.com/c522feb97d3790da90f4e047ee57c321868c402d131fe0f5a053db33ae9c232d.jpg
 ---
 
 ## Augmenting Visual Appeal: Implementing Black Bar & Box on FB
@@ -47,6 +47,9 @@ This method is suitable for users whose source videos are not in square format (
 
 * 2\. Go to **File**\-**Import Media** and import the source file to the Media library (let’s say it’s 1920\*1080 at 16:9)
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![import-sample-video](https://images.wondershare.com/filmora/article-images/import-sample-video.jpg)
 
 * 3\. Drag and drop the source video to the timeline, and a black letterbox will be created automatically in the preview window, cause the source file didn’t match the 1:1 ratio you set for the project
@@ -55,6 +58,9 @@ This method is suitable for users whose source videos are not in square format (
 
 * 4\. Add a subtitle under **Titles** tab to the letterbox at the top and bottom and custom the texts you want.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![add-letterbox-title](https://images.wondershare.com/filmora/article-images/add-letterbox-title.jpg)
 
 And you can also go to the **Elements** tab, and add some creative elements such as emoji to the letterbox.
@@ -84,6 +90,9 @@ This method is suitable for the source videos in a 1:1 ratio (e.g. 1080\*1080). 
 * 3\. To create a letterbox, choose the option **Titles**. Now you will be shown a variety of subtitles and credit styles
 * 4\. Select **Subtitles**, then add a subtitle style that has a black background to your video, such as Subtitle 1,2,3, etc.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![add-doll-subtitle](https://images.wondershare.com/filmora/article-images/add-doll-subtitle.jpg)
 
 * 5\. You will see that the subtitle appears on the video in real time. Here you can adjust the width and height of the subtitle. Make it so that that black bar covers the lower end of the video completely and delete the text
@@ -257,6 +266,9 @@ And you can also go to the **Elements** tab, and add some creative elements such
 
 * 6\. Upload the exported square video to Facebook, and show how it looks like on Facebook.
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ![post-on-facebook](https://images.wondershare.com/filmora/article-images/post-on-facebook.jpg)
 
 ## Method 2: Create a Letterbox by Adding Text Shapes
@@ -424,3 +436,44 @@ Follow @Liza Brown
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-files.techidaily.com/updated-the-essential-guide-for-gopro-live-streams-to-social-media-hubs/"><u>[Updated] The Essential Guide for GoPro Live Streams to Social Media Hubs</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-mastering-video-placement-on-social-media-platforms/"><u>2024 Approved  Mastering Video Placement on Social Media Platforms</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-in-2024-master-the-charts-your-guide-to-hot-tiktok-dances/"><u>[Updated] In 2024, Master the Charts  Your Guide to Hot TikTok Dances</u></a></li>
+<li><a href="https://extra-information.techidaily.com/sparks-limits-explored-by-djis-new-contender-mavic-air/"><u>Spark's Limits Explored by DJI's New Contender, Mavic Air</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-from-social-media-videos-to-audible-mp3s-one-click-conversion/"><u>In 2024, From Social Media Videos to Audible MP3s - One Click Conversion</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/top-10-airplay-apps-in-itel-p40plus-for-streaming-drfone-by-drfone-android/"><u>Top 10 AirPlay Apps in Itel P40+ for Streaming | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/jump-into-the-moment-with-these-8-trendy-videos-on-fb-for-2024/"><u>Jump Into the Moment with These 8 Trendy Videos on FB for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-handling-the-youre-there-mistake-in-fb-messages/"><u>[New] Handling the You're There Mistake in FB Messages</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-turn-social-media-audio-into-mp3/"><u>In 2024, Turn Social Media Audio Into MP3</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/easy-steps-to-directly-share-videos-from-iphoneipad/"><u>Easy Steps to Directly Share Videos From iPhone/iPad</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/hidden-highlight-harvester-for-2024/"><u>Hidden Highlight Harvester for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-keeping-the-connection-strong-avoiding-livestream-interruptions-on-facebook/"><u>In 2024, Keeping the Connection Strong  Avoiding Livestream Interruptions on Facebook</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-maximizing-profile-video-attraction-strategies/"><u>[New] Maximizing Profile Video Attraction Strategies</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-traversing-the-terrain-of-facebooks-video-hub/"><u>2024 Approved  Traversing the Terrain of Facebook’s Video Hub</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-achieve-full-screen-display-in-social-media-videos/"><u>[Updated] 2024 Approved  Achieve Full-Screen Display in Social Media Videos</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-htc-vive-review-the-most-immersive-vr-headset/"><u>[New] HTC Vive Review – The Most Immersive VR Headset</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/instant-hd-fb-content-downloader-for-2024/"><u>Instant HD FB Content Downloader for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-unlocking-fb-video-content-sharing-from-windows-pc-ios-android/"><u>[New] Unlocking FB Video Content Sharing From Windows PC, iOS, Android</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-how-to-make-discord-gif-pfp-solved/"><u>New 2024 Approved How to Make Discord GIF PFP? Solved</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-the-path-to-an-irresistible-cover-video/"><u>2024 Approved  The Path to an Irresistible Cover Video</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-how-to-uncover-hidden-facebook-vids-updated-guide/"><u>2024 Approved  How to Uncover Hidden Facebook Vids (Updated Guide)</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-access-global-grooves-at-zero-price/"><u>[Updated] 2024 Approved  Access Global Grooves at Zero Price</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-why-does-facebook-use-a-blue-icon-insights-into-chat-communication/"><u>2024 Approved  Why Does Facebook Use a Blue Icon? Insights Into Chat Communication</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-access-premium-imagery-no-copyright-restrictions/"><u>[New] Access Premium Imagery, No Copyright Restrictions</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-get-and-use-pokemon-go-promo-codes-on-vivo-s17e-drfone-by-drfone-virtual-android/"><u>How to Get and Use Pokemon Go Promo Codes On Vivo S17e | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-the-ultimate-checklist-for-top-notch-fb-cover-videos/"><u>In 2024, The Ultimate Checklist for Top-Notch FB Cover Videos</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-mastering-facebook-cover-videos-tips-and-configuration-guide/"><u>[New] Mastering Facebook Cover Videos  Tips & Configuration Guide</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-mastering-netflixs-split-screen-functionality/"><u>[Updated] Mastering Netflix's Split Screen Functionality</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/how-can-you-stream-a-pre-recorded-video-live-on-facebook-in-2024/"><u>How Can You Stream A Pre-Recorded Video Live on Facebook, In 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-navigating-facebooks-copyright-enforcement-on-live-feeds/"><u>[Updated] Navigating Facebook's Copyright Enforcement on Live Feeds</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-amplifying-tv-screens-through-fb-live-integration/"><u>[Updated] In 2024, Amplifying TV Screens Through FB Live Integration</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/unveiling-new-perspectives-streaming-aerial-content-on-facebook-for-2024/"><u>Unveiling New Perspectives  Streaming Aerial Content on Facebook for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/unplugging-pauses-from-social-streams-a-2023-approach-to-fixing-livestream-issues-for-2024/"><u>Unplugging Pauses From Social Streams  A 2023 Approach to Fixing Livestream Issues for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-best-mp4-to-facebook-converter-for-2024/"><u>[New] Best MP4 to Facebook Converter for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-becoming-part-of-the-global-community-your-guide-to-facebook/"><u>[New] In 2024, Becoming Part of the Global Community  Your Guide to Facebook</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-virtual-broadcast-archivers/"><u>In 2024, Virtual Broadcast Archivers</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/restore-lost-fb-watch-video-button-for-2024/"><u>Restore Lost FB Watch Video Button for 2024</u></a></li>
+</ul></div>

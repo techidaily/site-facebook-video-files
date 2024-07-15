@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  11 Must-Know Tricks for Effective FB Video SEO and Performance\""
-date: 2024-06-08T05:42:42.648Z
-updated: 2024-06-09T05:42:42.648Z
+date: 2024-07-14T02:15:39.015Z
+updated: 2024-07-15T02:15:39.015Z
 tags:
   - ai video
   - ai facebook
@@ -59,6 +59,9 @@ Shorter videos between 2 minutes effectively perform in comparison to longer ver
 
 A majority of Facebook users watch videos on their mobile phone or tablets. So shooting your social media video in vertical mode is pleasing to the eyes, while viewing it on a mobile. Portrait (vertically-aligned) videos have a better hit rate compared to horizontal shots. Keeping that in mind, make sure to create your new videos in a mobile friendly manner.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![facebook vidoe vertical](https://images.wondershare.com/filmora/article-images/facebook-video-vertical.JPG)
 
 ### 5\. Feature a Video on Facebook Page
@@ -102,6 +105,9 @@ So, Facebook marketing videos need to cash on this aspect. These videos need to 
 
 ![mobile friendly](https://images.wondershare.com/filmora/article-images/mobile-users.JPG)
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 9\. Posting time is important
 
 Knowing the right time to post your social media video on Facebook or any other social media platform is vital.
@@ -297,6 +303,9 @@ Shorter videos between 2 minutes effectively perform in comparison to longer ver
 
 A majority of Facebook users watch videos on their mobile phone or tablets. So shooting your social media video in vertical mode is pleasing to the eyes, while viewing it on a mobile. Portrait (vertically-aligned) videos have a better hit rate compared to horizontal shots. Keeping that in mind, make sure to create your new videos in a mobile friendly manner.
 
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 ![facebook vidoe vertical](https://images.wondershare.com/filmora/article-images/facebook-video-vertical.JPG)
 
 ### 5\. Feature a Video on Facebook Page
@@ -434,6 +443,18 @@ Well! We have just said about the thumbnail on your Facebook video. The social m
 
 When there is a weak internet connection, the videos on Facebook might not auto-play; they would display a static image there. Don’t exceed the 90 characters Ad copy limit for the thumbnail, in case your video has text on it. Try to keep it as less as you can to adhere to Facebook’s 20% text policy.
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![facebook thumbnail](https://images.wondershare.com/filmora/article-images/facebook-thumbnail.JPG)
 
 ### 7\. Leverage Facebook 360 Videos
@@ -520,3 +541,37 @@ Facebook marketing videos would gain more focus and fan following, if you make u
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-list-of-pokemon-go-joysticks-on-huawei-p60-drfone-by-drfone-virtual-android/"><u>In 2024, List of Pokémon Go Joysticks On Huawei P60 | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/strategies-for-effective-360-video-broadcasts-on-fb-for-2024/"><u>Strategies for Effective 360 Video Broadcasts on FB for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-transform-ordinary-posts-into-masterpieces-top-10-grid-makers/"><u>[New] 2024 Approved  Transform Ordinary Posts Into Masterpieces  Top 10 Grid Makers</u></a></li>
+<li><a href="https://extra-information.techidaily.com/srt-to-sub-guide-practical-conversion-methods/"><u>SRT to SUB Guide  Practical Conversion Methods</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-digital-dive-capturing-the-days-lifelike-snapshots-on-fb/"><u>[New] In 2024, Digital Dive  Capturing the Day's Lifelike Snapshots on FB</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/secure-social-screen-avoid-facebook-vids-for-2024/"><u>Secure Social Screen  Avoid Facebook Vids for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-the-economics-of-youtube-marketing-strategies/"><u>[New] In 2024, The Economics of YouTube Marketing Strategies</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-navigating-the-viral-internet-landscape/"><u>[Updated] Navigating the Viral Internet Landscape</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-understanding-the-mechanics-how-to-follow-facebook-live/"><u>2024 Approved  Understanding the Mechanics  How to Follow Facebook Live</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-resolving-face-swap-glitches-in-facebook-chat/"><u>[Updated] Resolving Face Swap Glitches in Facebook Chat</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-how-to-skillfully-secure-and-save-gif-images-from-facebooks-domain/"><u>[New] In 2024, How To Skillfully Secure and Save GIF Images From Facebook's Domain</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-navigating-phantoms-reverse-video-capabilities/"><u>[New] Navigating Phantom's Reverse Video Capabilities</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-direct-mp4-uploader-for-facebook-services/"><u>[New] 2024 Approved  Direct MP4 Uploader for Facebook Services</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/discover-engaging-free-slide-shows-with-these-amazing-template-selections/"><u>Discover Engaging, Free Slide Shows with These Amazing Template Selections</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-busting-the-myth-of-perfect-follower-numbers-on-social-media/"><u>[New] In 2024, Busting the Myth of 'Perfect' Follower Numbers on Social Media</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-techniques-for-transforming-facespace-lives-into-tv-content/"><u>[New] Techniques for Transforming Facespace Lives Into TV Content</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-digital-detective-work-cracking-the-code-to-live-streams/"><u>[New] 2024 Approved  Digital Detective Work  Cracking the Code to Live Streams</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-2023-facebook-short-videos-and-everything-about-them/"><u>[Updated] In 2024, 2023 | Facebook Short Videos and Everything About Them</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-exclusive-the-leading-five-fb-videos/"><u>[Updated] In 2024, Exclusive  The Leading Five FB Videos</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-dslr-mastery-broadcasting-with-facebook-live-via-computer-for-2024/"><u>[New] DSLR Mastery  Broadcasting with Facebook Live via Computer for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/the-impact-of-visual-storytelling-maximizing-roi-through-fb-ad-animation-for-2024/"><u>The Impact of Visual Storytelling  Maximizing ROI Through FB Ad Animation for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/forgot-iphone-passcode-again-unlock-apple-iphone-7-without-passcode-now-drfone-by-drfone-ios/"><u>Forgot iPhone Passcode Again? Unlock Apple iPhone 7 Without Passcode Now | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-etsy-listing-image-ratio-advice/"><u>[New] In 2024, Etsy Listing Image Ratio Advice</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-immediate-measures-to-reactivate-stopped-facebook-live/"><u>[New] In 2024, Immediate Measures to Reactivate Stopped Facebook LIVE</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-efficient-twitters-to-facebooks-exchanging-for-2024/"><u>[Updated] Efficient Twitters to Facebooks Exchanging for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-no-fuss-no-muss-5-simple-online-tone-generators-free/"><u>New In 2024, No Fuss, No Muss 5 Simple Online Tone Generators Free</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-2023-tech-scoop-efficiently-tracking-down-fb-vids-for-2024/"><u>[New] 2023 Tech Scoop  Efficiently Tracking Down FB Vids for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-guide-for-gopro-professionals/"><u>[Updated] The Ultimate Guide for GoPro Professionals</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-quiet-browsing-of-fb-narratives/"><u>[Updated] Quiet Browsing of FB Narratives</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-in-depth-guide-to-installing-microsofts-movie-maker/"><u>In 2024, In-Depth Guide to Installing Microsoft's Movie Maker</u></a></li>
+</ul></div>

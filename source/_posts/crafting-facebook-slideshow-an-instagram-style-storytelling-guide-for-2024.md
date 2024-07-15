@@ -1,7 +1,7 @@
 ---
 title: "\"Crafting Facebook SlideShow  An Instagram-Style Storytelling Guide for 2024\""
-date: 2024-06-30T13:14:40.099Z
-updated: 2024-07-01T13:14:40.099Z
+date: 2024-07-14T00:57:51.836Z
+updated: 2024-07-15T00:57:51.836Z
 tags:
   - ai video
   - ai facebook
@@ -94,6 +94,9 @@ You must choose the right aspect ratio for Facebook slideshow. You can select as
 
 ![edit slideshow aspect ratioon facebook](https://images.wondershare.com/filmora/article-images/slideshow-maker-setting.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Step 3: Change image duration
 
 The whole duration can't be larger than 15 seconds, so it is not suggested to import many images. For each image, you can choose 0.5, 1, 2, 3, 4 and 5 seconds.
@@ -106,6 +109,9 @@ You can also choose None or Fade to add transition. If you want to have a better
 
 ![add transition to Facebook slideshow](https://images.wondershare.com/filmora/filmora-business/transition-facebook-slideshow.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Step 5: Add music to slideshow
 
 Music plays an important in making slidedhow, so it is highly suggested to add music to Facebook slideshow. Now, music has went to a different tab. You can add music in this tab. Before, you can only add music to slidehow from the music Facebook offered for you. The new change is you can add your own music track to your slideshow. If you have some royalty free music, this feature is a life saver. You can choose the music style you like to use. On Facebook slideshow maker, you can edit images. It supports music format WAV, MP3, M4A, FLAC and OGG. After all settings are done, you can start uploading photos. Click plus icon and then choose whether you want to choose images from your computer or take a photo right away. Now you can see all of them are on your timeline.
@@ -122,6 +128,9 @@ Now click play icon to preivew it. It is highly recommended to add title and des
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3: Facebook slideshow maker: another way to make slideshow
 
 #### Step 1: Add photos for Facebook Slideshow
@@ -466,6 +475,9 @@ Music plays an important in making slidedhow, so it is highly suggested to add m
 
 ![Add music to facebook slideshow](https://images.wondershare.com/filmora/filmora-business/add-music-facebook-slideshow.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Step 6: Test Facebook slideshow
 
 Now click Create Slideshow. You can enter message to explain this slideshow. Each slideshow can play from 0.5 to 5 seconds. You can edit the photos before you publishing. It is adviced to check your slideshow before publishing it. You can't edit it after it is published.
@@ -752,3 +764,52 @@ Follow @Shanoon Cox
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-files.techidaily.com/fb-video-direction-whats-the-right-angle-in-2024/"><u>FB Video Direction  What's the Right Angle, In 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-decoding-the-latest-shifts-in-facebook-landscape/"><u>2024 Approved  Decoding the Latest Shifts in Facebook Landscape</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-honor-100-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Honor 100 to iPad | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-from-ground-to-heavens-a-mobile-panorama-journey/"><u>2024 Approved  From Ground to Heavens  A Mobile Panorama Journey</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/unlocking-the-purpose-and-function-of-facebooks-status-emoji-for-2024/"><u>Unlocking the Purpose and Function of Facebook's Status Emoji for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-art-of-zoom-setup-ensuring-smooth-video-conferencing/"><u>[Updated] The Art of Zoom Setup  Ensuring Smooth Video Conferencing</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-fixing-glitches-seeing-your-own-face-in-fb-live/"><u>[Updated] Fixing Glitches  Seeing Your Own Face in FB Live</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-overcoming-deceptive-user-presentation-on-facebook/"><u>[Updated] Overcoming Deceptive User-Presentation on Facebook</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-supercharge-your-social-media-experience-with-the-best-chrome-vids-extensions/"><u>2024 Approved  Supercharge Your Social Media Experience with the Best Chrome Vids Extensions</u></a></li>
+<li><a href="https://extra-information.techidaily.com/top-8-subtitle-editors-transforming-into-srt-format-for-windows-and-macos/"><u>Top 8 Subtitle Editors Transforming Into SRT Format for Windows & MacOS</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-when-worlds-crumble-premium-guide-to-top-zombie-games/"><u>[Updated] In 2024, When Worlds Crumble  Premium Guide to Top Zombie Games</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-enhancing-outdoor-vision-with-gopro-and-live-streaming-platforms/"><u>2024 Approved  Enhancing Outdoor Vision with GoPro and Live Streaming Platforms</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/freefire-gaming-guide-maximizing-video-impact-for-2024/"><u>FreeFire Gaming Guide  Maximizing Video Impact for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-live-stream-success-tackling-common-2023-interruption-cases-in-fb/"><u>[New] Live Stream Success  Tackling Common 2023 Interruption Cases in FB</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/oppo-a1-5g-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Oppo A1 5G Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-seek-out-all-shared-media-on-messenger-platform/"><u>[New] Seek Out All Shared Media on Messenger Platform</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-emancipate-your-engagement-facebook-restored/"><u>In 2024, Emancipate Your Engagement  Facebook Restored</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-the-unseen-tactics-to-dodge-facebook-shunning/"><u>[Updated] The Unseen Tactics to Dodge Facebook Shunning</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-secrets-to-save-your-favorite-igtv-on-phoneandroid/"><u>[New] 2024 Approved  Secrets to Save Your Favorite IGTV on Phone/Android</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-share-a-world-view-iphone-360-film-techniques/"><u>2024 Approved  Share a World View  IPhone 360 Film Techniques</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/resolving-face-swap-glitches-in-facebook-chat-for-2024/"><u>Resolving Face Swap Glitches in Facebook Chat for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-facebook-feed-breakthroughs-seeing-your-videos/"><u>[New] Facebook Feed Breakthroughs  Seeing Your Videos</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/real-time-streaming-methods-for-facebook-video-uploads-for-2024/"><u>Real-Time Streaming Methods for Facebook Video Uploads for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/guide-on-how-to-erase-iphone-11-pro-max-devices-entirely-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>Guide on How To Erase iPhone 11 Pro Max Devices Entirely | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-unlocking-the-archive-of-yesteryear-how-to-view-facebook-past-content/"><u>In 2024, Unlocking the Archive of Yesteryear  How To View Facebook Past Content</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-6-ways-to-transfer-contacts-from-xiaomi-redmi-note-12r-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 6 Ways To Transfer Contacts From Xiaomi Redmi Note 12R to iPhone | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-top-playlist-hits-social-medias-1-10-video-winners/"><u>2024 Approved  Top Playlist Hits  Social Media's #1-#10 Video Winners</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-retro-social-media-revelations-mastering-outdated-fb-functionality/"><u>In 2024, Retro Social Media Revelations  Mastering Outdated FB Functionality</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/delving-into-sns-hdr-pros-merits-and-peer-comparisons/"><u>Delving Into SNS HDR Pro's Merits & Peer Comparisons</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-transform-your-igtv-backgrounds-with-style-for-2024/"><u>[New] Transform Your IGTV Backgrounds with Style for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-the-ultimate-guide-to-delete-social-media-streaming/"><u>In 2024, The Ultimate Guide to Delete Social Media Streaming</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-optimize-your-social-media-with-autoplay-vids-on-fb/"><u>[Updated] Optimize Your Social Media with Autoplay Vids on FB</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-from-zero-to-hero-how-to-generate-fb-trends/"><u>2024 Approved  From Zero to Hero  How to Generate Fb Trends</u></a></li>
+<li><a href="https://animation-videos.techidaily.com/new-are-you-ready-to-animate-game-character-from-scratch-in-2024/"><u>New Are You Ready to Animate Game Character From Scratch, In 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-the-professionals-method-for-soundless-iphone-video-editing-for-2024/"><u>New The Professionals Method for Soundless iPhone Video Editing for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-the-adventure-begins-with-panasonics-hx-a1-action-recorder/"><u>2024 Approved  The Adventure Begins with Panasonic's HX-A1 Action Recorder</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/exploring-premium-free-lut-options-a-guide-to-quality-tools-for-2024/"><u>Exploring Premium-Free LUT Options  A Guide to Quality Tools for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-maximize-impact-with-custom-icons-and-graphics-on-your-instagram-posts/"><u>[New] Maximize Impact with Custom Icons and Graphics on Your Instagram Posts</u></a></li>
+<li><a href="https://extra-information.techidaily.com/elite-narrative-constructions-within-eight-genre-bounds/"><u>Elite Narrative Constructions Within Eight Genre Bounds</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-online-video-promotion-experts/"><u>New Online Video Promotion Experts</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-transforming-archived-content-for-livestream-audiences-on-facebook/"><u>In 2024, Transforming Archived Content for Livestream Audiences on Facebook</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/lectura-de-relojes-en-espanol-un-camino-inicial/"><u>Lectura De Relojes en Español: Un Camino Inicial</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-musical-enhancements-for-social-video-sharing-platforms-fb/"><u>2024 Approved  Musical Enhancements for Social Video Sharing Platforms (FB)</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-exclusive-7-secure-download-services/"><u>In 2024, Exclusive 7 Secure Download Services</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/transitioning-from-smartphone-to-watching-fb-videos-on-appletv-for-2024/"><u>Transitioning From Smartphone to Watching FB Videos on AppleTV for 2024</u></a></li>
+</ul></div>

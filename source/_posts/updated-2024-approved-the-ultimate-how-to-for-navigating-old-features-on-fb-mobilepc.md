@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  The Ultimate How-To for Navigating Old Features on FB, Mobile/PC\""
-date: 2024-05-20T13:55:34.952Z
-updated: 2024-05-21T13:55:34.952Z
+date: 2024-07-14T01:46:54.420Z
+updated: 2024-07-15T01:46:54.420Z
 tags:
   - ai video
   - ai facebook
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] 2024 Approved: The Ultimate How-To for Navigating Old Features on FB, Mobile/PC\""
 excerpt: "\"This Article Describes [Updated] 2024 Approved: The Ultimate How-To for Navigating Old Features on FB, Mobile/PC\""
 keywords: "Facebook Navigation Guide,FB Interface Old Features,Mobility in FB Usage,PC & Mobile FB Tips,Navigating Old Facebook UI,Updated FB Navigation,Mastering Old FB Platforms"
-thumbnail: https://www.lifewire.com/thmb/rZku5zCaEfnG8T6yK9VSmeeUEOE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/Apple-iOS-17-iPhone-15-Pro-3-up-075d95cec8ae4942b082e63617876547.jpg
+thumbnail: https://thmb.techidaily.com/fa466aca4e0117af9ede098ff5beff07b4b780680a77e468de6afed425dad313.jpg
 ---
 
 ## The Ultimate How-To for Navigating Old Features on FB, Mobile/PC
@@ -37,6 +37,9 @@ Facebook has a complex interface, but it will be much easier to navigate it once
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1: How to View Old Stories on iPhone/Android Facebook App?
 
 Facebook mobile application is one of the convenient ways of using it as it has a user-friendly interface. You can quickly post stories through the Facebook mobile app and interact with your friends. Here is how you can view old stories on a mobile app:
@@ -55,6 +58,9 @@ By clicking on the **More option**, you will see a few more options appear. Clic
 
 On the story archive option, you will see three dots on the top right option. It provides you with a choice to save stories or not. You can turn on the save archives option to save every story you post so that you can view it later.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2: How to View Stories on Facebook Desktop?
 
 You can use Facebook on your desktop; it is feasible to use it on a desktop when you are using it for professional purposes such as blogging or business. It is possible to view old Facebook stories through desktop also; here is how:
@@ -69,6 +75,9 @@ Once you click on the story archive, all your **old stories** will appear in seq
 
 **Note:** You can only view stories through the above process if you have turned on your story archive option. Click on settings to turn it on or off as per your choice.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3: How to View A Friend’s Old Facebook Story?
 
 It is nearly impossible to view your friend’s story once it has disappeared. You cannot watch the stories even if they are achieved. However, there is one way to view old stories of your friends. Here is how:
@@ -343,6 +352,9 @@ When you click on the story **archive**, you will see all your old stories in se
 
 Facebook is an excellent platform to interact with your audience, and the story is one of the best features to give your friends a glimpse of your life. Going through old stories can refresh a lot of our memories. If you did not know how to see old stories on Facebook, now you do.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 Liza Brown
@@ -484,3 +496,47 @@ Follow @Liza Brown
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/updated-mastering-business-on-instagram-a-step-by-step-guide/"><u>[Updated] Mastering Business on Instagram  A Step-by-Step Guide</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-unlocking-facebook-freedom-the-ultimate-avoidance-blueprint/"><u>[New] In 2024, Unlocking Facebook Freedom  The Ultimate Avoidance Blueprint</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-get-ready-for-dramatic-slow-motion-free-video-editing-tutorial-filmora/"><u>New In 2024, Get Ready for Dramatic Slow Motion Free Video Editing Tutorial - Filmora</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-top-facebook-video-mp4-downloaders/"><u>[Updated] In 2024, Top Facebook Video MP4 Downloaders</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/2024-approved-voice-over-made-easy-fcp-recording-tips-and-tricks/"><u>2024 Approved Voice Over Made Easy FCP Recording Tips and Tricks</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/top-11-best-online-facebook-cover-photo-makers/"><u>Top 11 Best Online Facebook Cover Photo Makers</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-infinix-smart-8-plus-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Infinix Smart 8 Plus to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/how-to-create-gifs-from-youtube-videos-for-2024/"><u>How to Create GIFs From YouTube Videos for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-breakthrough-practices-in-youtube-video-saving/"><u>[New] In 2024, Breakthrough Practices in YouTube Video Saving</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-androidios-users-guide-to-facebook-live-broadcasting/"><u>In 2024, Android/iOS Users' Guide to Facebook Live Broadcasting</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-bridging-the-gap-between-facebook-videos-and-apple-tv-compatibility/"><u>[Updated] Bridging the Gap Between Facebook Videos and Apple TV Compatibility</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/2024-approved-the-most-straightforward-guide-to-learning-how-to-clone-your-voice/"><u>2024 Approved The Most Straightforward Guide to Learning How to Clone Your Voice</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-building-a-broad-spectrum-audience-with-multichannel-strategy/"><u>[New] In 2024, Building a Broad-Spectrum Audience with Multichannel Strategy</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-methods-to-change-gps-location-on-oppo-k11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Methods to Change GPS Location On Oppo K11 5G | Dr.fone</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-preserving-your-snapchat-moments-beyond-app/"><u>[New] In 2024, Preserving Your SnapChat Moments Beyond App</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/leveraging-linkedin-groups-effectively/"><u>Leveraging LinkedIn Groups Effectively</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/avoidance-techniques-no-more-fb-vlogs-for-2024/"><u>Avoidance Techniques  No More FB Vlogs for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-bypassing-google-account-with-vnrom-bypass-for-vivo-v30-by-drfone-android/"><u>In 2024, Bypassing Google Account With vnROM Bypass For Vivo V30</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/trending-titles-navigating-through-facebooks-hot-takes/"><u>Trending Titles  Navigating Through Facebook's Hot Takes</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-bridging-the-gap-between-social-platform-and-streaming-devices/"><u>In 2024, Bridging the Gap Between Social Platform and Streaming Devices</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/effortless-melodies-free-facebook-download-for-2024/"><u>Effortless Melodies  Free Facebook Download for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/future-proof-your-facebook-strategy-with-2024s-top-trends/"><u>Future-Proof Your Facebook Strategy with 2024'S Top Trends</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-ipogo-will-be-the-new-ispoofer-on-google-pixel-7a-drfone-by-drfone-virtual-android/"><u>In 2024, iPogo will be the new iSpoofer On Google Pixel 7a? | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-kinemasters-comprehensive-guide-to-green-screen-usage/"><u>[Updated] Kinemaster's Comprehensive Guide to Green Screen Usage</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-navigating-the-nuances-of-premieres-fullscreen-mode/"><u>In 2024, Navigating the Nuances of Premiere's Fullscreen Mode</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-cutting-edge-video-processing-free-hd1080p-from-ff-videos/"><u>In 2024, Cutting Edge Video Processing  Free HD/1080P From FF Videos</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-unlock-content-premier-iphoneipad-apps-for-fb-video-loading-for-2024/"><u>[Updated] Unlock Content  Premier iPhone/iPad Apps for FB Video Loading for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/beat-the-purchase-free-fb-playlists-download/"><u>Beat the Purchase  Free FB Playlists Download</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-top-10-games-like-ghost-of-tsushima/"><u>[Updated] Top 10 Games Like Ghost of Tsushima</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/vidextracter-facebook-streams/"><u>VidExtracter  Facebook Streams</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/top-20-cheerful-facebook-incarceration-gems-for-a-happy-mood-enhancement/"><u>Top 20 Cheerful Facebook Incarceration Gems for a Happy Mood Enhancement</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-10-essential-aspect-ratio-resizer-tools-you-need-for-2024/"><u>New 10 Essential Aspect Ratio Resizer Tools You Need for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/methods-to-autoplay-youtube-videos-on-facebook-in-2024/"><u>Methods to Autoplay Youtube Videos on Facebook, In 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/mastering-sales-select-from-these-top-15-facebook-analytics-pros/"><u>Mastering Sales  Select From These Top 15 Facebook Analytics Pros</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/the-ultimate-routine-for-accessing-and-playing-fb-videos-via-apple-tv/"><u>The Ultimate Routine for Accessing and Playing FB Videos via Apple TV</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/optimize-profitability-the-science-behind-high-roi-fb-animatons/"><u>Optimize Profitability  The Science Behind High-ROI FB Animatons</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/elite-tips-for-crafting-winning-fb-videos/"><u>Elite Tips for Crafting Winning FB Videos</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/online-beat-finder-no-cash-fb/"><u>Online Beat Finder  No Cash (FB)</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-electrical-upgrades/"><u>2024 Approved  Electrical Upgrades</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-understanding-the-dynamics-of-facebooks-in-stream-ad-model/"><u>[Updated] 2024 Approved  Understanding the Dynamics of Facebook's In-Stream Ad Model</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, Behind-the-Scenes Access to User Vids on Facebook\""
-date: 2024-06-30T13:14:33.291Z
-updated: 2024-07-01T13:14:33.291Z
+date: 2024-07-14T00:48:13.715Z
+updated: 2024-07-15T00:48:13.715Z
 tags:
   - ai video
   - ai facebook
@@ -525,6 +525,9 @@ From the dropdown menu, click on “Activity Log.”
 
 On the left of your screen, you will see an Activity log panel. Click on "Logged actions and other activity."
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Select “Logged actions and other activity”](https://images.wondershare.com/filmora/article-images/2021/find-videos-on-facebook-11.png)
 
 **Step 6: Select “Videos you’ve watched”**
@@ -533,6 +536,9 @@ From the list of activities, select “Videos you’ve watched.” This will dis
 
 ![Select “Videos you’ve watched”](https://images.wondershare.com/filmora/article-images/2021/find-videos-on-facebook-12.png)
 
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Finding Recently Watched Videos on Phone
 
 Now, let's see how it works on the mobile. Follow the step-by-step guideline.
@@ -665,6 +671,9 @@ In the Menu, scroll down to see the "Saved" tab. Click on it.
 
 In order to view the saved video quickly, click on “See All” under the Most Recent tab.
 
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
 ![Click on “See All”](https://images.wondershare.com/filmora/article-images/2021/find-videos-on-facebook-7.png)
 
 **Step 5: Filter the Items**
@@ -679,6 +688,9 @@ Scroll through the videos to find the one you want.
 
 The steps given above will lead you to your Saved videos.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
 ## Part 2\. How to Find Videos on Facebook You Recently Watched?
 
 Suppose you were watching a video that you wanted to save, but somehow it got displaced, and you cannot find it again. In that case, you can go to Facebook's recently watched videos.
@@ -800,3 +812,47 @@ We hope it helps!
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-the-ultimate-guide-to-linking-fb-stories/"><u>2024 Approved  The Ultimate Guide to Linking FB Stories</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-master-igtv-edits-top-10-tools-ranked-for-2024/"><u>[New] Master IGTV Edits  Top 10 Tools Ranked for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-master-the-art-of-sharing-gaming-moments-xboxfb-livestream/"><u>2024 Approved  Master the Art of Sharing Gaming Moments  Xbox/FB Livestream</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/fostering-a-community-best-practices-for-youtubers/"><u>Fostering a Community  Best Practices for YouTubers</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-engage-broadly-embedding-twitch-videos-on-fb/"><u>In 2024, Engage Broadly  Embedding Twitch Videos on FB</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/maximizing-your-earnings-how-to-monetize-facebook-videos-successfully-for-2024/"><u>Maximizing Your Earnings  How to Monetize Facebook Videos Successfully for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-smart-social-media-strategies-from-youtube-to-facebook/"><u>2024 Approved  Smart Social Media Strategies  From YouTube To Facebook</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-the-blue-badge-breakdown-a-guide-to-social-media-credibility/"><u>In 2024, The Blue Badge Breakdown  A Guide to Social Media Credibility</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-step-by-step-perfecting-fbs-360-streams/"><u>[Updated] Step-by-Step  Perfecting FB's 360 Streams</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2023-best-facebook-video-downloader-and-addons-for-firefox-for-2024/"><u>2023 | Best Facebook Video Downloader And Addons for Firefox for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-online-beat-finder-no-cash-fb/"><u>In 2024, Online Beat Finder  No Cash (FB)</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-navigating-facebook-for-uhd-1080p-content/"><u>[Updated] Navigating Facebook for UHD (1080P) Content</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-edit-on-the-fly-10-free-video-speed-changing-apps-for-mobile-devices/"><u>In 2024, Edit on the Fly 10 Free Video Speed Changing Apps for Mobile Devices</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/sharing-excellence-twitch-live-to-your-facebook-circle-for-2024/"><u>Sharing Excellence  Twitch Live to Your Facebook Circle for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/understanding-sudden-account-lockdowns-on-copyright-violations-for-2024/"><u>Understanding Sudden Account Lockdowns on Copyright Violations for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-fixing-video-transmission-issues-on-facebook-chat-for-iosandroid/"><u>In 2024, Fixing Video Transmission Issues on Facebook Chat for iOS/Android</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-fb-sounds-unlimited-grab-and-go/"><u>[Updated] FB Sounds Unlimited  Grab & Go</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-realme-narzo-60-5g-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock Realme Narzo 60 5G PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-take-flight-with-social-media-dji-drone-streaming-basics/"><u>[New] Take Flight with Social Media  DJI Drone Streaming Basics</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/mastering-facebook-live-broadcasting-recorded-videos-for-2024/"><u>Mastering Facebook Live  Broadcasting Recorded Videos for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-networked-narratives-recorder/"><u>In 2024, Networked Narratives Recorder</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-instagram-photo-perfection-applying-stylish-borders/"><u>[New] In 2024, Instagram Photo Perfection  Applying Stylish Borders</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-key-tips-for-configuring-and-measuring-effective-fb-instream-ads/"><u>[Updated] Key Tips for Configuring and Measuring Effective FB Instream Ads</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-escaping-reality-top-10-games-like-gta-v-but-not/"><u>[Updated] Escaping Reality - Top 10 Games Like GTA V (But Not)</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-public-access-zen-beats-for-2024/"><u>[Updated] Public Access Zen Beats for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-the-essential-pathway-to-creating-attractive-video-covers-on-facebook/"><u>[Updated] The Essential Pathway to Creating Attractive Video Covers on Facebook</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-unlocking-video-revenue-potential-the-facebook-marketing-playbook/"><u>[New] Unlocking Video Revenue Potential  The Facebook Marketing Playbook</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-times-tail-in-snapchat-video-backtracking-guide/"><u>2024 Approved  Time's Tail in Snapchat  Video Backtracking Guide</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-kickstarting-a-vlog-key-hardware-and-apps/"><u>[Updated] Kickstarting a Vlog  Key Hardware & Apps</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-pixels-to-perfection-crafting-stunning-photo-collage-journeys/"><u>2024 Approved  Pixels to Perfection  Crafting Stunning Photo Collage Journeys</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-unleashing-the-power-of-tales-complimentary-apps-galore/"><u>2024 Approved  Unleashing the Power of Tales  Complimentary Apps Galore</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-harnessing-new-trends-transmitting-fb-videos-through-whatsapp/"><u>[New] Harnessing New Trends  Transmitting FB Videos Through WhatsApp</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-troubleshooting-techniques-for-sudden-facebook-live-freezes/"><u>[Updated] Troubleshooting Techniques for Sudden Facebook Live Freezes</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-the-new-era-facebook-video-autoplay-explained/"><u>In 2024, The New Era  Facebook Video Autoplay Explained</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-navigating-sponsorships-partnering-effectively-with-brands-live/"><u>2024 Approved  Navigating Sponsorships  Partnering Effectively with Brands Live</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-from-invisible-to-iconic-top-strategies-for-standout-facebook-profiles/"><u>In 2024, From Invisible to Iconic  Top Strategies for Standout Facebook Profiles</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-streamline-your-views-the-ultimate-8-fb-movie-download-guide/"><u>2024 Approved  Streamline Your Views  The Ultimate #8 FB Movie Download Guide</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-crossing-thresholds-in-ctas-anticipating-fb-ad-shifts/"><u>[New] Crossing Thresholds in CTAs  Anticipating FB Ad Shifts</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-effortlessly-download-top-5-chromium-plug-ins-for-fb-video-access/"><u>[New] Effortlessly Download  Top 5 Chromium Plug-Ins for FB Video Access</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-unlock-the-potential-of-dslr-with-facebook-live-compatible-pcsmacs/"><u>2024 Approved  Unlock the Potential of DSLR with Facebook LIVE, Compatible PCs/Macs</u></a></li>
+</ul></div>

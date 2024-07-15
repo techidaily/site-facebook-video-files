@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Accessing All Shared Content in Messenger Chats"
-date: 2024-05-20T13:51:27.122Z
-updated: 2024-05-21T13:51:27.122Z
+date: 2024-07-14T01:36:04.611Z
+updated: 2024-07-15T01:36:04.611Z
 tags:
   - ai video
   - ai facebook
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes In 2024, Accessing All Shared Content in Messenger Chats"
 excerpt: "This Article Describes In 2024, Accessing All Shared Content in Messenger Chats"
 keywords: "\"Messenger Share Access,Chat Message Sharing,Messaging Integration,Cross-Chat Content,Unified Chat Sharing,Social Media Message Linking,Group Chat Information Exchange\""
-thumbnail: https://www.lifewire.com/thmb/9Yt_RjRUC9OKjWNte1YSKLjW9fs=/564x250/filters:no_upscale():max_bytes(150000):strip_icc()/ConnectedCarTech_metamorworks_GettyImages-966859036_CROPPED-a9460403602c4b67a7a8c1acd599c9be.jpg
+thumbnail: https://thmb.techidaily.com/5f1d20c9cdc38cb1d77f47c43dee5a5d477e2ff178ada3de9653ceb21ae65a7a.jpg
 ---
 
 ## Accessing All Shared Content in Messenger Chats
@@ -43,6 +43,9 @@ Part 3: [Get All Shared Photos And Videos on Messenger Mobile App](#step3)
 
 Part 4: [Create Your Own Videos and Share to Your Friends on Facebook Messenger](#step4)
 
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1: All You Need to Know About Facebook Messenger
 
 The world of instant messaging has transformed since the advent of Messenger. In August, 2011 the facebook chat was replaced by Messenger but you can use Messenger even when you don’t have a facebook account. The app can be used on web, desktop and mobile apps, including Android and Apple, which makes it compatible with the Apple watch.
@@ -55,6 +58,9 @@ Amongst all the fantastic features of Facebook Messenger, it collects all the me
 
 For all those unfamiliar with the last feature, we will guide you in detail on how you can access photos and videos in your messenger chat.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2: How Can You View All Photos And Videos on Desktop App
 
 One always faces some kind of trouble when we are navigating another version of the same app. The case gets particularly sensitive when some essential or memorable pictures and videos are involved.
@@ -181,6 +187,14 @@ But, do not worry if you find it challenging to navigate the messenger website j
 3. When you open the conversation, click on the three small dots on the top right corner to open the information about a conversation.
 4. Then click on **Shared Media**to access all the pictures and videos that you have sent to this particular contact.
 
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![click on Shared Media](https://images.wondershare.com/filmora/article-images/2021/view-all-shared-videos-and-photos-on-messenger-1.png)
 
 You can do that with any contact. This way, you will be able to see videos and photos even when you have misplaced them on the phone. You can forward them to other contacts from there as well.
@@ -283,6 +297,9 @@ But, do not worry if you find it challenging to navigate the messenger website j
 
 You can do that with any contact. This way, you will be able to see videos and photos even when you have misplaced them on the phone. You can forward them to other contacts from there as well.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3: Get All Shared Photos And Videos on Messenger Mobile App
 
 No worries if you are an android user and can not find how to view your shares videos and photos with a particular contact. Often we share a video or a picture with someone but find it tedious to look through the whole chat to locate that video.
@@ -440,3 +457,43 @@ Especially with the Wondershare Filmora app, you can create numerous new videos 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-files.techidaily.com/chatcam-video-saver-app/"><u>ChatCam Video Saver App</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-the-ultimate-method-to-locate-fb-watched-content/"><u>[Updated] 2024 Approved  The Ultimate Method to Locate FB Watched Content</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-unlocking-live-streams-rokus-path-to-fb-live/"><u>[Updated] 2024 Approved  Unlocking Live Streams  Roku's Path to FB LIVE</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-11-passcode-without-computer-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 11 Passcode without Computer? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-the-blue-badge-breakdown-a-guide-to-social-media-credibility/"><u>[New] In 2024, The Blue Badge Breakdown  A Guide to Social Media Credibility</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-the-enigma-exchange-where-anonymity-meets-digital-riches-2023-edition/"><u>[Updated] 2024 Approved  The Enigma Exchange  Where Anonymity Meets Digital Riches, 2023 Edition</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-streamline-fb-video-downloads-the-best-firefox-plugins-and-tools-of-the-year-for-2024/"><u>[New] Streamline FB Video Downloads  The Best Firefox Plugins and Tools of the Year for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-enhance-your-speaking-style-with-av-voice-changers-a-comprehensive-guide/"><u>Updated In 2024, Enhance Your Speaking Style with AV Voice Changers A Comprehensive Guide</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-recorded-reality-facebook-live-2023/"><u>[New] In 2024, Recorded Reality  Facebook Live, 2023</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/ace-your-fb-video-campaigns-with-these-powerful-tricks/"><u>Ace Your FB Video Campaigns with These Powerful Tricks</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-stream-like-a-pro-fb-live-tips-2023/"><u>[New] 2024 Approved  Stream Like a Pro  FB Live Tips 2023</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-the-process-to-enable-incessant-auto-video-on-facebook/"><u>[Updated] 2024 Approved  The Process to Enable Incessant Auto-Video on Facebook</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-mastery-guide-swiftly-switching-facebook-profile-pictures-for-2024/"><u>[Updated] Mastery Guide  Swiftly Switching Facebook Profile Pictures for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-overcoming-sync-issues-ensuring-smooth-video-sharing-on-mobile-messengers/"><u>[New] 2024 Approved  Overcoming Sync Issues  Ensuring Smooth Video Sharing on Mobile Messengers</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-tailoring-your-content-for-split-screen-audiences-via-facebook-lives-for-2024/"><u>[New] Tailoring Your Content for Split Screen Audiences via Facebook Lives for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-step-by-step-uploading-to-instagrams-feed/"><u>[New] In 2024, Step-By-Step  Uploading to Instagram's Feed</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unveiling-filmora-its-10-most-attractive-features/"><u>2024 Approved  Unveiling Filmora  Its 10 Most Attractive Features</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-posting-youtube-videos-to-your-facebook-feed/"><u>[New] In 2024, Posting YouTube Videos to Your Facebook Feed</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-smooth-reels-enhancing-android-video-clarity-for-2024/"><u>[New] Smooth 'Reels'  Enhancing Android Video Clarity for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-the-right-to-appeal-steps-following-abrupt-video-content-suspension/"><u>[New] 2024 Approved  The Right to Appeal  Steps Following Abrupt Video Content Suspension</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-the-roadmap-to-creating-unforgettable-facebook-cover-videos-for-2024/"><u>[Updated] The Roadmap to Creating Unforgettable Facebook Cover Videos for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-unlocking-tiktok-a-comprehensive-guide-for-macpc/"><u>[New] 2024 Approved  Unlocking TikTok  A Comprehensive Guide for Mac/PC</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-mastering-google-meet-easy-backdrop-swap-for-pc-and-phones-for-2024/"><u>[Updated] Mastering Google Meet  Easy Backdrop Swap for PC & Phones for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-the-ultimate-guide-to-font-customization-in-ae/"><u>[Updated] 2024 Approved  The Ultimate Guide to Font Customization in AE</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-seamless-transition-fb-video-sharing-via-whatsapp/"><u>[Updated] In 2024, Seamless Transition  FB Video Sharing via WhatsApp</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-the-blueprint-for-becoming-a-trending-force-on-facebook/"><u>[New] 2024 Approved  The Blueprint for Becoming a Trending Force on Facebook</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/most-asked-questions-about-pokemon-go-battle-league-rewards-on-apple-iphone-14-plus-drfone-by-drfone-virtual-ios/"><u>Most Asked Questions about Pokemon Go Battle League Rewards On Apple iPhone 14 Plus | Dr.fone</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/beating-the-blues-of-overly-green-a-mac-video-editors-handbook-for-2024/"><u>Beating the Blues of Overly Green  A Mac Video Editor's Handbook for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-proven-strategies-for-unveiling-pure-photospace-using-photopea/"><u>In 2024, Proven Strategies for Unveiling Pure Photospace Using Photopea</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-unveiling-the-hidden-process-of-downloading-fb-content/"><u>[Updated] In 2024, Unveiling the Hidden Process of Downloading Fb Content</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-how-to-denoise-with-ai-for-2024/"><u>New How to DeNoise with AI for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-navigating-facebook-for-uhd-1080p-content/"><u>[New] 2024 Approved  Navigating Facebook for UHD (1080P) Content</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-in-2024-ideal-eq-settings-to-maximize-your-devices-hearing-capabilities/"><u>New In 2024, Ideal EQ Settings to Maximize Your Devices Hearing Capabilities</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/in-2024-a-symphony-for-the-ears-ranking-the-top-8-filmmaking-sonic-experiences/"><u>In 2024, A Symphony for the Ears Ranking the Top 8 Filmmaking Sonic Experiences</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-in-2024-best-gopro-quik-alternatives-for-desktop-video-editing/"><u>New In 2024, Best GoPro Quik Alternatives for Desktop Video Editing</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/a-comprehensive-guide-to-facebooks-full-screen-feature/"><u>A Comprehensive Guide to Facebook's Full Screen Feature</u></a></li>
+</ul></div>

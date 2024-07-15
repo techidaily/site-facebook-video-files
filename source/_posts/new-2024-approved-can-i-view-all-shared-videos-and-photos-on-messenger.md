@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Can I View All Shared Videos And Photos on Messenger?\""
-date: 2024-07-08T04:10:15.973Z
-updated: 2024-07-09T04:10:15.973Z
+date: 2024-07-14T01:52:36.798Z
+updated: 2024-07-15T01:52:36.798Z
 tags:
   - ai video
   - ai facebook
@@ -43,6 +43,9 @@ Part 3: [Get All Shared Photos And Videos on Messenger Mobile App](#step3)
 
 Part 4: [Create Your Own Videos and Share to Your Friends on Facebook Messenger](#step4)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1: All You Need to Know About Facebook Messenger
 
 The world of instant messaging has transformed since the advent of Messenger. In August, 2011 the facebook chat was replaced by Messenger but you can use Messenger even when you don’t have a facebook account. The app can be used on web, desktop and mobile apps, including Android and Apple, which makes it compatible with the Apple watch.
@@ -55,6 +58,9 @@ Amongst all the fantastic features of Facebook Messenger, it collects all the me
 
 For all those unfamiliar with the last feature, we will guide you in detail on how you can access photos and videos in your messenger chat.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
 ## Part 2: How Can You View All Photos And Videos on Desktop App
 
 One always faces some kind of trouble when we are navigating another version of the same app. The case gets particularly sensitive when some essential or memorable pictures and videos are involved.
@@ -72,6 +78,9 @@ Here you can view all the media files that are arranged according to their date.
 
 And, you are done. You can now use the above steps to access multimedia in any chat.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Finding Photos And Videos on Messenger Website
 
 While the Desktop app is excellent to use when you are not using messenger on your phone, most of us just go to the messenger site and chat away. Sometimes it’s just easier to chat on your browser and not open any apps.
@@ -101,6 +110,9 @@ Messenger allows you to access that within seconds. All you need to do is follow
 
 1. Now, click on **View Photos and Videos** to view all the photos and videos shared with the contact.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![click on View Photos and Videos](https://images.wondershare.com/filmora/article-images/2021/view-all-shared-videos-and-photos-on-messenger-3.png)
 
 If you are an iPhone or iPad user, then you can follow the same method given above to see the multimedia shared with a contact.
@@ -432,3 +444,57 @@ Especially with the Wondershare Filmora app, you can create numerous new videos 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-pioneering-techniques-to-enhance-fb-video-ads/"><u>[Updated] 2024 Approved  Pioneering Techniques to Enhance Fb Video Ads</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-how-to-expose-and-rectify-vanished-videos-on-fb/"><u>[New] In 2024, How to Expose and Rectify Vanished Videos on FB</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-secure-your-insta-reels-with-simple-download-strategies/"><u>[Updated] 2024 Approved  Secure Your Insta Reels with Simple Download Strategies</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-unlocking-social-media-success-rising-through-the-facebook-leaderboard/"><u>[New] 2024 Approved  Unlocking Social Media Success  Rising Through the Facebook Leaderboard</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-crafting-irresistible-profile-videos/"><u>In 2024, Crafting Irresistible Profile Videos</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-zany-zeal-your-ultimate-guide-to-wildest-tiktok-picks/"><u>[New] Zany Zeal  Your Ultimate Guide to Wildest TikTok Picks</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-strategies-for-uploading-and-live-streaming-past-videos-on-facebook-for-2024/"><u>[Updated] Strategies for Uploading and Live Streaming Past Videos on Facebook for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-interlinking-platforms-twitch-to-facebook-transfer/"><u>[New] In 2024, Interlinking Platforms  Twitch to Facebook Transfer</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/essential-guide-to-leveraging-videos-in-social-media-ads/"><u>Essential Guide to Leveraging Videos in Social Media Ads</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/a-step-by-step-guide-to-crafting-immersive-fb-video-experienenas-for-2024/"><u>A Step-by-Step Guide to Crafting Immersive FB Video Experienenas for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-best-vertical-video-editing-apps-for-ios-and-android-devices/"><u>New In 2024, Best Vertical Video Editing Apps for iOS and Android Devices</u></a></li>
+<li><a href="https://howto.techidaily.com/why-does-my-google-pixel-8-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Google Pixel 8 Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-fix-pokemon-go-route-not-working-on-honor-x50i-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Pokemon Go Route Not Working On Honor X50i? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/effortless-device-integration-with-obs-for-streaming-on-pcmac/"><u>Effortless Device Integration with OBS for Streaming on PC/Mac</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-looking-for-permission-to-view-friends-entirely-shared-media/"><u>[Updated] In 2024, Looking for Permission to View Friend’s Entirely Shared Media</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-social-media-strategy-broadcasting-twitch-to-facebook-for-2024/"><u>[New] Social Media Strategy  Broadcasting Twitch to Facebook for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/pinnacle-of-camera-quality-top-18-4k-camcorders-for-2024/"><u>Pinnacle of Camera Quality - Top 18 4K Camcorders for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-how-do-i-explore-every-shared-piece-by-friends-on-messages/"><u>[New] 2024 Approved  How Do I Explore Every Shared Piece by Friends on Messages?</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-digital-disarmament-regaining-fb-power/"><u>2024 Approved  Digital Disarmament  Regaining FB Power</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/unlock-social-media-8-free-fb-extractors/"><u>Unlock Social Media  8 FREE FB Extractors</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-use-phone-clone-to-migrate-your-sony-xperia-1-v-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Use Phone Clone to Migrate Your Sony Xperia 1 V Data? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-converting-fb-videos-to-tv-friendly-formats/"><u>[Updated] Converting FB Videos to TV-Friendly Formats</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/shadowed-browsing-in-fb-stories/"><u>Shadowed Browsing in Fb Stories</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-how-to-post-tweets-on-facebook-for-2024/"><u>[New] How to Post Tweets on Facebook for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-get-facebook-links-no-cash-required/"><u>[New] In 2024, Get Facebook Links, No Cash Required</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-mastering-the-marketplace-30-advanced-fb-techniques-explored/"><u>[Updated] In 2024, Mastering the Marketplace  30 Advanced FB Techniques Explored</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-tricks-to-prevent-fb-video-advertisements-on-screen-for-2024/"><u>[New] Tricks to Prevent FB Video Advertisements on Screen for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-livestream-grabber-by-fb/"><u>[New] In 2024, LiveStream Grabber by FB</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-discard-the-audio-how-to-isolate-and-remove-sound-in-ios-video-playbacks/"><u>Updated In 2024, Discard the Audio How to Isolate and Remove Sound in iOS Video Playbacks</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-unveiling-the-20-core-strategies-for-effective-facebook-video-ads-for-2024/"><u>[Updated] Unveiling the 20 Core Strategies for Effective Facebook Video Ads for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-the-battle-of-broadcads-vimeo-and-youtubes-face-off/"><u>[Updated] The Battle of Broadcads  Vimeo & YouTube's Face-Off</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/in-2024-windows-video-editing-software-top-imovie-alternatives/"><u>In 2024, Windows Video Editing Software Top iMovie Alternatives</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-top-8-authentic-youtube-growth-tools/"><u>[Updated] Top 8 Authentic YouTube Growth Tools</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/efficiently-change-your-facebook-videos-into-mp3-songs/"><u>Efficiently Change Your Facebook Videos Into MP3 Songs</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-streamline-your-media-convert-fb-videos-to-mp4-hd1080p-for-free/"><u>[New] 2024 Approved  Streamline Your Media - Convert FB Videos to MP4 HD/1080P for Free</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-instant-video-playback-on-fb-enabling-auto-play-of-youtube-videos-for-2024/"><u>[Updated] Instant Video Playback on FB  Enabling Auto-Play of Youtube Videos for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-socialvideocutter-download-feature/"><u>[Updated] 2024 Approved  SocialVideoCutter  Download Feature</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-how-do-i-access-the-full-range-of-shared-media-on-messenger-in-2024/"><u>[New] How Do I Access the Full Range of Shared Media on Messenger, In 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-unlock-full-scale-viewing-on-facebook/"><u>[New] 2024 Approved  Unlock Full-Scale Viewing on Facebook</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-the-ultimate-list-of-top-tier-facebook-profile-picture-designers-for-2024/"><u>[New] The Ultimate List of Top-Tier Facebook Profile Picture Designers for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-the-best-practices-book-for-fb-video-marketing/"><u>[Updated] 2024 Approved  The Best Practices Book for FB Video Marketing</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-peephole-to-private-facebook-worlds-for-2024/"><u>[Updated] Peephole to Private Facebook Worlds for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-a-previously-synced-google-account-from-your-infinix-note-30-pro-by-drfone-android/"><u>In 2024, How to Remove a Previously Synced Google Account from Your Infinix Note 30 Pro</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-master-the-art-of-excluding-commercial-videos-from-social-media-for-2024/"><u>[New] Master the Art of Excluding Commercial Videos From Social Media for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-demystifying-the-symbolism-of-a-blue-marker-in-facebook-chats/"><u>[New] Demystifying the Symbolism of a Blue Marker in Facebook Chats</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-maximizing-reach-tweeting-on-facebook-for-2024/"><u>[Updated] Maximizing Reach  Tweeting on Facebook for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/crafting-squares-for-viral-videos-in-a-social-media-world/"><u>Crafting Squares for Viral Videos in a Social Media World</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-premium-fb-videograbber-tools-secure-fast-file-grab/"><u>[Updated] In 2024, Premium FB Videograbber Tools  Secure, Fast File Grab</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-superior-mp4-channel-updater-for-2024/"><u>[Updated] Superior MP4 Channel Updater for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/the-money-trail-for-youtube-creators-revenue-realization-for-2024/"><u>The Money Trail for YouTube Creators  Revenue Realization for 2024</u></a></li>
+</ul></div>

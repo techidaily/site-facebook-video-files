@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Embedding Audio in Instant Storytelling Platforms"
-date: 2024-07-08T04:10:15.471Z
-updated: 2024-07-09T04:10:15.471Z
+date: 2024-07-14T01:50:30.341Z
+updated: 2024-07-15T01:50:30.341Z
 tags:
   - ai video
   - ai facebook
@@ -296,6 +296,9 @@ Everyone wants to make their social media accounts fun and interactive to attrac
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1: How to Create a Music-only Facebook Story?
 
 Music-only stories are becoming a Facebook trend and a way to let people know the songs you are currently hooked to. Do you know how to add music-only stories? If not, here is how to do it:
@@ -316,6 +319,9 @@ After tapping on the song of your choice, you can edit it. You can change the mu
 
 Click done on the right corner to post the music story. Your story will be available for 24 hours for viewers to watch.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Edit FB Music](https://images.wondershare.com/filmora/article-images/edit-facebook-music-sticker.jpg)
 
 Note: Currently, you can add music stories on Facebook mobile app only. On a desktop, you can only create a photo story or text story.
@@ -360,6 +366,9 @@ Drag video to timeline, hover the cursor over the audio and video file until a +
 
 Double click on the audio file within the panel given on the top of the Filmora screen. You will find a few options to edit audio, such as fade-in, fade-out, equalizer, volume, etc.
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![edit FB music story](https://images.wondershare.com/filmora/article-images/edit-facebook-story-music-filmora.jpg)
 
  **Step 4: Export edited file**
@@ -392,6 +401,9 @@ A user can also select elements from the given options. You can add a poll, emoj
 
 ![edit FB music story lyric](https://images.wondershare.com/filmora/article-images/edit-facebook-music-sticker-color-elements.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## FAQs About Adding Music to Facebook Story
 
 1. **Can you add music to Facebook Story from a computer?**
@@ -568,3 +580,51 @@ Follow @Shanoon Cox
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-files.techidaily.com/the-art-of-visual-storytelling-for-online-platforms/"><u>The Art of Visual Storytelling for Online Platforms</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-your-personal-playlist-on-the-go-for-2024/"><u>[Updated] Your Personal Playlist On-the-Go for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-top-10-youtube-video-grabber-apps-best-in-class-compatibility/"><u>[New] In 2024, Top 10 YouTube Video Grabber Apps, Best-in-Class Compatibility</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-design-principles-for-captivating-fb-advertising/"><u>[Updated] Design Principles for Captivating FB Advertising</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-exploring-the-significance-of-pfp-on-tiktok-platform-for-2024/"><u>[Updated] Exploring the Significance of PFP on TikTok Platform for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-leading-10-models-premier-4k-dslr-shoulder-rigs/"><u>[New] Leading 10 Models  Premier 4K DSLR Shoulder Rigs</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/framefusion-media-suite/"><u>FrameFusion Media Suite</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-rhythm-renders-infusing-sound-into-your-visual-storytelling-fb/"><u>[New] 2024 Approved  Rhythm Renders  Infusing Sound Into Your Visual Storytelling (FB)</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/revitalize-disappearing-watch-thumbnail/"><u>Revitalize Disappearing Watch Thumbnail</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/adopting-a-simple-yet-powerful-approach-to-advertising-content-for-2024/"><u>Adopting a Simple Yet Powerful Approach to Advertising Content for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-concepts-behind-striking-fb-video-promos/"><u>[Updated] Concepts Behind Striking FB Video Promos</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-understanding-the-meaning-of-facebooks-blue-emoji/"><u>[New] 2024 Approved  Understanding the Meaning of Facebook's Blue Emoji</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-youtube-gurus-summit-expedition/"><u>[Updated] 2024 Approved  YouTube Gurus Summit Expedition</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-profile-pictorialism-designing-your-exaggerated-visage-for-2024/"><u>[New] Profile Pictorialism  Designing Your Exaggerated Visage for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-unveiling-tv-friendly-practices-for-facebook-lives/"><u>[New] In 2024, Unveiling TV-Friendly Practices for Facebook Lives</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-honor-magic-5-lite-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Honor Magic 5 Lite without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/proven-strategies-to-skyrocket-your-fb-search-results-rankings/"><u>Proven Strategies to Skyrocket Your FB Search Results Rankings</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-troubleshooting-stalled-video-sending-on-iphone-and-androids-messenger/"><u>[Updated] 2024 Approved  Troubleshooting Stalled Video Sending on iPhone and Android's Messenger</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-techniques-to-transfer-data-from-realme-gt-5-pro-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Techniques to Transfer Data from Realme GT 5 Pro to iPhone 15/14/13/12 | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/celebrating-the-best-ten-music-video-lives-for-2024/"><u>Celebrating the Best Ten Music Video Lives for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/from-passive-page-peeps-to-paying-patrons-facebook-monetization-magic/"><u>From Passive Page Peeps to Paying Patrons  Facebook Monetization Magic</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-funny-photos-for-iphones/"><u>In 2024, Funny Photos for IPhones</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-decoding-the-mysteries-of-outdated-facebook-sharing-pcmobile-style/"><u>[New] Decoding the Mysteries of Outdated Facebook Sharing, PC/Mobile Style</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-unlocking-apowersofts-zero-cost-screen-recording/"><u>[New] Unlocking Apowersoft's Zero-Cost Screen Recording</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-transform-videos-into-gifs-28-converter-reviews/"><u>New Transform Videos Into GIFs 28 Converter Reviews</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-top-7-packet-opening-experience-hacks/"><u>In 2024, Top 7 Packet Opening Experience Hacks</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-superstar-status-secrets-a-step-by-step-plan-for-lightning-fame-on-social-media-giant-instagram/"><u>[New] In 2024, Superstar Status Secrets  A Step-by-Step Plan for Lightning Fame on Social Media Giant Instagram</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-smooth-sailing-for-social-broadcasts-fixing-interruptions-on-fb-for-2024/"><u>[New] Smooth Sailing for Social Broadcasts  Fixing Interruptions on FB for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-unexpected-10-best-kept-facebook-memes/"><u>[Updated] 2024 Approved  Unexpected  10 Best-Kept Facebook Memes</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-green-screen-ease-crafting-effective-youtube-ctas/"><u>[Updated] 2024 Approved  Green Screen Ease  Crafting Effective YouTube CTAs</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-the-ultimate-list-of-popular-videos-online/"><u>[Updated] In 2024, The Ultimate List of Popular Videos Online</u></a></li>
+<li><a href="https://animation-videos.techidaily.com/best-15-horror-animes-that-will-trigger-a-heart-attack/"><u>Best 15 Horror Animes That Will Trigger a Heart Attack</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-trim-your-videos-with-ease-top-10-pc-and-web-solutions/"><u>New Trim Your Videos with Ease Top 10 PC and Web Solutions</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-joke-fusion-best-meme-concepts-for-special-occasions/"><u>[Updated] Joke Fusion  Best Meme Concepts for Special Occasions</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/fbs-top-songs-on-screen-a-step-by-step-vlog-series/"><u>FB's Top Songs on Screen  A Step-by-Step Vlog Series</u></a></li>
+<li><a href="https://extra-information.techidaily.com/uncovering-potential-through-skilled-interviewing/"><u>Uncovering Potential Through Skilled Interviewing</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/in-2024-the-ultimate-list-of-online-animation-creators-for-jaw-dropping-videos/"><u>In 2024, The Ultimate List of Online Animation Creators for Jaw-Dropping Videos</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/discord-broadcast-mastery-the-ultimate-guide-for-novices-and-pros/"><u>Discord Broadcast Mastery  The Ultimate Guide for Novices and Pros</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-bypassing-ban-secret-insights-into-avoiding-fb-blacklist/"><u>2024 Approved  Bypassing Ban  Secret Insights Into Avoiding FB Blacklist</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-transform-your-video-presentation-with-updated-covers/"><u>[Updated] In 2024, Transform Your Video Presentation with Updated Covers</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-principles-for-designing-fb-ad-content/"><u>[Updated] In 2024, Principles for Designing FB Ad Content</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-trailblazing-through-time-era-images-explore-3-inverse-techniques-on-facebook/"><u>[Updated] In 2024, Trailblazing Through Time-Era Images  Explore 3 Inverse Techniques on Facebook</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-unleash-potential-superior-strategies-for-personalized-facebook-profiles/"><u>[Updated] 2024 Approved  Unleash Potential  Superior Strategies for Personalized Facebook Profiles</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-the-mystery-of-non-existent-videos-insight-into-fb-feed-absence/"><u>[Updated] In 2024, The Mystery of Non-Existent Videos  Insight Into FB Feed Absence</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, How to Delete Facebook Story?"
-date: 2024-06-30T13:14:28.443Z
-updated: 2024-07-01T13:14:28.443Z
+date: 2024-07-14T00:54:28.291Z
+updated: 2024-07-15T00:54:28.291Z
 tags:
   - ai video
   - ai facebook
@@ -58,6 +58,9 @@ Let's begin with the mobile Facebook application:
 
 **Step 3: There will be a Delete Photo option. You need to select that.**
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![delete Facebook Story from desktop](https://images.wondershare.com/filmora/article-images/delete-facebook-story-from-desktop.jpg)
 
 **Step 4:** Finally, click on the Delete option again, and you are done. This Facebook story is removed.
@@ -276,6 +279,9 @@ Let's begin with the mobile Facebook application:
 
 **Step 2:** You will see three dots in your story. Please click on that.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ![Facebook Story 3 dots](https://images.wondershare.com/filmora/article-images/facebook-story-three-dots.jpg)
 
 **Step 3: There will be a Delete Photo option. You need to select that.**
@@ -387,6 +393,9 @@ Let's begin with the mobile Facebook application:
 
 **Step 2:** You will see three dots in your story. Please click on that.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Facebook Story 3 dots](https://images.wondershare.com/filmora/article-images/facebook-story-three-dots.jpg)
 
 **Step 3: There will be a Delete Photo option. You need to select that.**
@@ -451,6 +460,9 @@ If you don't want to see someone else’s story, then you can mute their stories
 
 Visit the Stories section, and then tap on a story of a person that you don't want to see. There will be three dots on the top right, select it and then click on the Mute option, and the specific person's stories will be muted.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![delete other's Facebook Story](https://images.wondershare.com/filmora/article-images/delete-people-facebook-story.jpg)
 
 **Conclusion**
@@ -488,3 +500,57 @@ Follow @Richard Bennett
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-files.techidaily.com/what-does-a-blue-icon-signify-on-fb-messenger/"><u>What Does a Blue Icon Signify on FB Messenger?</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-insights-into-a-common-icon-what-is-fbs-blue-video-symbol/"><u>[New] Insights Into a Common Icon  What Is FB’s Blue Video Symbol?</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/mastery-of-autoplay-functionality-in-fb-video-streams/"><u>Mastery of Autoplay Functionality in Fb Video Streams</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-unveiling-secrets-to-broadcast-recordings-on-facebook-live-for-2024/"><u>[Updated] Unveiling Secrets to Broadcast Recordings on Facebook Live for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-unveiling-techniques-from-recording-room-to-facebook-lives-for-2024/"><u>[New] Unveiling Techniques  From Recording Room to Facebook Lives for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-top-ranked-independent-offline-mobile-gaming-android/"><u>[New] Top-Ranked Independent Offline Mobile Gaming (Android)</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/establishing-whatsapp-meeting-rooms-efficiently-for-2024/"><u>Establishing WhatsApp Meeting Rooms Efficiently for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-elevating-facebook-vids-with-fullscreen/"><u>[New] Elevating Facebook Vids with Fullscreen</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/the-soundtrack-strategy-addmpy-in-videos-on-fb/"><u>The Soundtrack Strategy  Addmpy in Videos on FB</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-revamping-screens-recording-the-future-on-spring/"><u>[Updated] In 2024, Revamping Screens Recording  The Future on Spring</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/elevate-your-earnings-on-social-media-youtube-mastery-on-the-networking-powerhouse-for-2024/"><u>Elevate Your Earnings on Social Media  YouTube Mastery on the Networking Powerhouse for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-excellent-top-10-budget-cam-recorder-software/"><u>2024 Approved  Excellent Top 10 Budget Cam Recorder Software</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/dealing-with-disconnected-live-video-sessions-on-facebook/"><u>Dealing with Disconnected LIVE Video Sessions on Facebook</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-transform-your-fb-vids-to-full-screen/"><u>[New] In 2024, Transform Your FB Vids to Full Screen</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-breakthrough-techniques-for-building-intricate-iphone-photo-collages/"><u>2024 Approved  Breakthrough Techniques for Building Intricate iPhone Photo Collages</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/financial-fortune-with-facebook-video-marketing-key-strategies-explored-for-2024/"><u>Financial Fortune with Facebook Video Marketing  Key Strategies Explored for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-enhancing-clarity-in-low-quality-facebook-streams/"><u>2024 Approved  Enhancing Clarity in Low-Quality Facebook Streams</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-vivo-s18e-drfone-by-drfone-virtual-android/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On Vivo S18e | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-streamlining-video-communication-in-laptop-using-whatsapp-desktop/"><u>[New] In 2024, Streamlining Video Communication in Laptop Using WhatsApp Desktop</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/engage-grow-and-rise-triple-threat-tactics-for-facebook-pages/"><u>Engage, Grow, and Rise  Triple Threat Tactics for Facebook Pages</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-motorola-edge-40-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Motorola Edge 40</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-accelerated-mp4-conversion-for-fb-media/"><u>In 2024, Accelerated MP4 Conversion for FB Media</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/run-lumafusion-on-mac-download-and-alternative-options-for-2024/"><u>Run Lumafusion on Mac Download and Alternative Options for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-do-you-need-a-royalty-free-5-seconds-countdown-video-for-your-video-but-dont-not-where-to-find-one-we-will-introduce-you-to-the-best-hd-and-4k-clips/"><u>In 2024, Do You Need a Royalty-Free 5 Seconds Countdown Video for Your Video but Dont Not Where to Find One? We Will Introduce You to the Best HD and 4K Clips that You Can Always Try Anytime</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-guide-to-creating-the-best-video-collages/"><u>Updated 2024 Approved Guide To Creating the Best Video Collages</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-infinix-note-30-vip-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Infinix Note 30 VIP Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-incognito-observer-of-online-chronicles/"><u>In 2024, Incognito Observer of Online Chronicles</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-unfolding-the-world-on-iphone-perfect-fb-video-sharing/"><u>[New] In 2024, Unfolding the World on iPhone  Perfect FB Video Sharing</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-disabling-push-notifications-for-commercial-content/"><u>[Updated] Disabling Push Notifications for Commercial Content</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-how-to-eliminate-live-sharing-on-devices/"><u>[New] How to Eliminate Live Sharing on Devices</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-transforming-your-videos-first-impression-fb-cover-makeover-techniques/"><u>[New] 2024 Approved  Transforming Your Videos' First Impression  FB Cover Makeover Techniques</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-uploading-and-showcasing-videos-on-instagram-made-easy-for-2024/"><u>[Updated] Uploading and Showcasing Videos on Instagram Made Easy for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/11-essential-steps-for-fb-video-showcasing-success-for-2024/"><u>11 Essential Steps for FB Video Showcasing Success for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/unfold-time-how-to-watch-previous-fb-content/"><u>Unfold Time  How To Watch Previous FB Content</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-break-new-ground-in-social-sagas-free-extended-versions-await/"><u>2024 Approved  Break New Ground in Social Sagas – Free, Extended Versions Await</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-unveiling-the-best-tools-to-download-your-favorite-fb-videos-on-firefox-updated/"><u>[Updated] 2024 Approved  Unveiling the Best Tools to Download Your Favorite FB Videos on FireFox, Updated</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-subtle-sound-level-lowering-in-fl-studio/"><u>2024 Approved  Subtle Sound Level Lowering in FL Studio</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-achieve-stardom-in-the-digital-world-by-growing-your-facebook-followers/"><u>[Updated] Achieve Stardom in the Digital World by Growing Your Facebook Followers</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/ideal-extras-for-improving-gopro-experience/"><u>Ideal Extras for Improving GoPro Experience</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/facebook-to-mp4-mastery-learn-how-to-convert-video-online-without-costs-for-2024/"><u>Facebook to MP4 Mastery  Learn How To Convert Video Online Without Costs for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-from-capture-to-share-the-art-of-live-360-broadcasting-on-fb/"><u>2024 Approved  From Capture to Share  The Art of Live 360 Broadcasting on FB</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-tune-in-for-a-song-fb-music-experience/"><u>[New] In 2024, Tune In for a Song  FB Music Experience</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/giggle-gps-navigating-to-the-heart-of-jocular-tones/"><u>Giggle GPS Navigating to the Heart of Jocular Tones</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/directface-vidcutter-utility/"><u>DirectFace VidCutter Utility</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-cease-playback-failures-fix-facebook-videos/"><u>2024 Approved  Cease Playback Failures - Fix Facebook Videos</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-twitch-and-friendly-networks-efficient-crossposting/"><u>[New] In 2024, Twitch and Friendly Networks  Efficient Crossposting</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-free-facebook-linker-top-8-options-available-online/"><u>[New] Free Facebook Linker  Top 8 Options Available Online</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-maximize-your-vr-journey-oculus-rift-readiness/"><u>[Updated] Maximize Your VR Journey  Oculus Rift Readiness</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/effortless-troubleshooting-for-graphics-cards/"><u>Effortless Troubleshooting for Graphics Cards</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/master-downloader-facebook-and-firefox-integration/"><u>Master Downloader  Facebook & FireFox Integration</u></a></li>
+</ul></div>

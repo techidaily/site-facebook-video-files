@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Videography on FB  Horizontal or Vertical Placement, In 2024\""
-date: 2024-05-20T13:24:42.397Z
-updated: 2024-05-21T13:24:42.397Z
+date: 2024-07-14T00:26:20.985Z
+updated: 2024-07-15T00:26:20.985Z
 tags:
   - ai video
   - ai facebook
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] Videography on FB: Horizontal or Vertical Placement, In 2024\""
 excerpt: "\"This Article Describes [New] Videography on FB: Horizontal or Vertical Placement, In 2024\""
 keywords: "FB Video Orientation,Social Media Video Placement,Horizonal FB Video Layout,Vertical FB Video Stance,FB Post Image Alignment,Videography on Facebook,Social Media Video Angle"
-thumbnail: https://www.lifewire.com/thmb/w__b5H1ALARvE9PEAJwyPXbsJbU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1223359568-22a7c4307de54e4cb8138418119b6f50.jpg
+thumbnail: https://thmb.techidaily.com/3b4f38d4b261acb2c277f07ba409b2b6a3f82798b238b26870bf6daec55fc8dc.jpg
 ---
 
 ## Videography on FB: Horizontal or Vertical Placement?
@@ -65,6 +65,9 @@ So, in order to engage the maximum audience, it is best to upload a vertical Fac
 
 Moreover, an analysis of the stats shows that vertical videos give you more value for your money than horizontal videos. In addition to this, a study also found that the completion rates of vertical videos were 4% higher than horizontal videos.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2\. Size Aspect Ratio for Facebook Vertical or Horizontal Videos
 
 When talking about the orientation of a video, an important concept that one must know is the Size Aspect Ratio.
@@ -99,6 +102,9 @@ Import the video whose orientation you want to adjust to Filmora. It will appear
 
 ![Add the Video to Timeline](https://images.wondershare.com/filmora/article-images/2021/is-facebook-videos-vertical-or-horizontal-4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Step 3: Go to “Crop and Zoom”
 
 Right-click on the video clip and click on the “Crop and Zoom” option. A pop-up will appear consisting of five different options: Custom, 16:9, 4:3, 1:1, and 9:16.
@@ -151,6 +157,9 @@ Furthermore, you should go for horizontal videos if you plan on watching them on
 
 So, if you want to share a video of your group of friends on Facebook, make a horizontal video. Since Facebook did not completely shift to vertical videos, horizontal videos still work without ruining the outlook of your Feed.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### When to Make a Vertical Facebook Video?
 
 The reason that vertical videos have become so popular is because of the shape of our smartphones. Since our smartphones have a vertical orientation, thus vertical videos are more feasible. This is because users hold their phones upright 94% of the time.
@@ -363,6 +372,9 @@ Other aspect ratios that Facebook supports are given below in the image.
 
 ![Supported Aspect Ratios for Facebook Ads](https://images.wondershare.com/filmora/article-images/2021/is-facebook-videos-vertical-or-horizontal-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3\. Bonus Tip! How to Make Horizontal or Vertical Video Using Wondershare Filmora
 
 Now that you have an idea of what aspect ratios are and how you can set Facebook videos’ orientation, it is time for you to use one of the best video editing tools, Wondershare Filmora!
@@ -432,3 +444,42 @@ So, go ahead and start sharing your vertical or horizontal Facebook videos!
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-files.techidaily.com/updated-your-personal-playlist-on-the-go/"><u>[Updated] Your Personal Playlist On-the-Go</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-snapchat-intro-video-breakdown-size-format-duration/"><u>2024 Approved  SnapChat Intro Video Breakdown  Size, Format, Duration</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-youtube-video-dimension-standards/"><u>[Updated] YouTube Video Dimension Standards</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-unlock-the-power-top-12-audio-converters-revealed/"><u>New Unlock the Power Top 12 Audio Converters Revealed</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/channel-up-the-essential-guide-to-computer-and-mobile-video-upload-for-2024/"><u>Channel Up  The Essential Guide to Computer & Mobile Video Upload for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/the-essentials-of-forming-collaborative-zones-on-whatsapp-for-2024/"><u>The Essentials of Forming Collaborative Zones on WhatsApp for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-the-best-practices-book-for-fb-video-marketing/"><u>2024 Approved  The Best Practices Book for FB Video Marketing</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/2024-approved-top-15-must-see-tiktok-innovations/"><u>2024 Approved  Top 15 Must-See TikTok Innovations</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-insiders-look-at-streaming-content-on-social-media-platforms/"><u>[New] Insider's Look at Streaming Content on Social Media Platforms</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-transform-your-facebook-presence-with-these-11-video-marketing-tips/"><u>In 2024, Transform Your Facebook Presence with These 11 Video Marketing Tips</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/navigating-video-uploads-and-enhancements-in-instagram-for-2024/"><u>Navigating Video Uploads and Enhancements in Instagram for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-troubleshooting-sudden-facebook-live-hiccups/"><u>2024 Approved  Troubleshooting Sudden Facebook Live Hiccups</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-in-2024-optimize-your-content-mix-twt-to-insta-video-sharing-techniques/"><u>[New] In 2024, Optimize Your Content Mix  Twt-to-Insta Video Sharing Techniques</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-android-and-iphones-powerful-picklist-boosting-facebook-likeability/"><u>[Updated] In 2024, Android & iPhone's Powerful Picklist  Boosting Facebook Likeability</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/will-televising-facebook-vids-become-a-trend-in-2024/"><u>Will Televising Facebook Vids Become a Trend , In 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-social-media-strategy-optimizing-your-facebook-story/"><u>In 2024, Social Media Strategy  Optimizing Your Facebook Story</u></a></li>
+<li><a href="https://change-location.techidaily.com/the-magnificent-art-of-pokemon-go-streaming-on-samsung-galaxy-m14-4g-drfone-by-drfone-virtual-android/"><u>The Magnificent Art of Pokemon Go Streaming On Samsung Galaxy M14 4G? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-unintended-erasure-violated-video-removal/"><u>In 2024, Unintended Erasure  Violated Video Removal</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-ultimate-guide-of-hdr-photo-on-iphone-camera-for-2024/"><u>The Ultimate Guide of HDR Photo on iPhone Camera for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unlocking-impressive-hdr-potential-with-our-tutorial/"><u>[Updated] Unlocking Impressive HDR Potential with Our Tutorial</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-insight-into-online-media-distribution-and-fb-copyright-policies/"><u>2024 Approved  Insight Into Online Media Distribution and FB Copyright Policies</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-top-5-chrome-plug-ins-for-effortless-facebook-video-downloads/"><u>[Updated] Top 5 Chrome Plug-Ins for Effortless Facebook Video Downloads</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-minute-by-minute-mastery-the-top-ten-on-youtube-daily/"><u>[New] Minute-by-Minute Mastery  The Top Ten on YouTube Daily</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-tackling-the-challenge-of-video-not-broadcasting-via-fb-messenger/"><u>[New] Tackling the Challenge of Video Not Broadcasting via FB Messenger</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/effortless-online-audio-accessibility-ideal-tools-for-iphone-and-youtube-for-2024/"><u>Effortless Online Audio Accessibility  Ideal Tools for iPhone & YouTube for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/leveraging-a-3-step-writing-system-for-social-media-success-with-fb-ads-for-2024/"><u>Leveraging a 3-Step Writing System for Social Media Success with FB Ads for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-the-complete-handbook-to-converting-audio-files-to-wav-for-2024/"><u>New The Complete Handbook to Converting Audio Files to Wav for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-joining-the-world-of-live-broadcasts-a-roku-primer/"><u>[New] Joining the World of Live Broadcasts  A Roku Primer</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-rectify-faux-face-display-on-social-network-engagements/"><u>2024 Approved  Rectify Faux Face Display on Social Network Engagements</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-oppo-find-n3-flip-online-without-jailbreak-by-drfone-android/"><u>In 2024, How to Unlock SIM Card on Oppo Find N3 Flip online without jailbreak</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-decoding-steps-to-access-your-channels-eyeballs/"><u>[New] In 2024, Decoding Steps to Access Your Channel's Eyeballs</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-youtubes-top-5-apps-that-trim-your-long-video-links-down/"><u>2024 Approved  Youtube’s Top 5 Apps That Trim Your Long Video Links Down</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-beat-the-purchase-free-fb-playlists-download/"><u>[Updated] In 2024, Beat the Purchase  Free FB Playlists Download</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-transforming-archived-content-for-livestream-audiences-on-facebook/"><u>[Updated] Transforming Archived Content for Livestream Audiences on Facebook</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-youtubes-buzzing-titles-roundup-1-8/"><u>[Updated] YouTube's Buzzing Titles Roundup  #1-#8</u></a></li>
+</ul></div>

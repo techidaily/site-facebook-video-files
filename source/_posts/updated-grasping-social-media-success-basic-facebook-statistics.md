@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Grasping Social Media Success  Basic Facebook Statistics\""
-date: 2024-05-20T13:50:04.284Z
-updated: 2024-05-21T13:50:04.284Z
+date: 2024-07-14T01:32:28.068Z
+updated: 2024-07-15T01:32:28.068Z
 tags:
   - ai video
   - ai facebook
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] Grasping Social Media Success: Basic Facebook Statistics\""
 excerpt: "\"This Article Describes [Updated] Grasping Social Media Success: Basic Facebook Statistics\""
 keywords: "Social Media Trends,Facebook Growth Stats,FB User Insights,Social Engagement Figures,Marketing on Facebook,Social Strategy Metrics,Branding via Facebook"
-thumbnail: https://www.lifewire.com/thmb/iarZB_EFbm9GNptJUkKRT5Iko6U=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/lg-screen-share-menu-yellow-819f174e11fa46eb9ab39a80d20a6872.jpg
+thumbnail: https://thmb.techidaily.com/fcf5c5ea9608f76f888a293e8f1d7735a9ef3d7b559d6f2e28e14efe6f5fdf86.jpg
 ---
 
 ## Grasping Social Media Success: Basic Facebook Statistics
@@ -139,6 +139,9 @@ Follow @Shanoon Cox
 
  But, you need to remain updated and in the loop with the regular and fresh developments taking place on your page every now and then.
 
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
 ## Part 2: Where to Find Facebook Insights
 
  To find out the audience demographic, audience’s response, and page performance on Facebook, [you need to check the Facebook page insights](https://www.facebook.com/help/268680253165747?helpref=search&sr=1&query=insights). It shows you past two years data. The demographic data like the gender, location or age is only available when the data reaches 100 or more traffic on the Page Insight page. The community pages insight is not shown.
@@ -209,6 +212,9 @@ Follow @Shanoon Cox
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 Shanoon Cox
@@ -305,6 +311,9 @@ Follow @Shanoon Cox
 
  Measuring the success of your Facebook page and posts is now easy with Facebook Insights. Keep a track of your posts and preferences of your audiences and run the campaigns successfully. Follow the above points to use the Facebook Insights without any confusion.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
@@ -369,6 +378,9 @@ Follow @Shanoon Cox
 
  In Hide, Report as Spam, and Unlikes, you may check the negative people count on your page. When the negative engagement of the people is more, lesser people can view your post in future.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![insights post reach](https://images.wondershare.com/filmora/article-images/insights-post-reach.JPG)
 
 ### 4\. Post Promotion
@@ -436,3 +448,49 @@ Follow @Shanoon Cox
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-ultimate-download-manager-best-youtube-downloader-apps/"><u>[Updated] 2024 Approved  Ultimate Download Manager  Best YouTube Downloader Apps</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/social-media-savvy-how-to-download-status-vids-on-fb/"><u>Social Media Savvy  How to Download Status Vids on FB</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/driving-engagement-and-returns-animated-advertising-on-facebook/"><u>Driving Engagement and Returns  Animated Advertising on Facebook</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-facebook-live-in-action-2023-edition/"><u>2024 Approved  Facebook Live in Action  2023 Edition</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-dance-away-worries-with-these-20-soothing-country-hits-tiktok-edition/"><u>[New] Dance Away Worries with These 20 Soothing Country Hits (TikTok Edition)</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-unlock-the-power-of-engagement-to-monetize-facebook-for-2024/"><u>[New] Unlock the Power of Engagement to Monetize Facebook for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-uncovering-hidden-content-secrets-of-fb-suggested-vids-for-2024/"><u>[New] Uncovering Hidden Content  Secrets of FB Suggested Vids for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-the-ultimate-guide-to-transforming-old-videos-into-live-feeds/"><u>[Updated] In 2024, The Ultimate Guide to Transforming Old Videos Into Live Feeds</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-the-beginners-guide-to-watching-and-broadcasting-fb-live/"><u>[Updated] In 2024, The Beginner’s Guide to Watching & Broadcasting FB Live</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/livestreaming-pre-recorded-content-on-facebook-platform-for-2024/"><u>Livestreaming Pre-Recorded Content on Facebook Platform for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-from-ordinary-to-outstanding-unveiling-the-secrets-of-engaging-biographies/"><u>[Updated] From Ordinary to Outstanding  Unveiling the Secrets of Engaging Biographies</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-facebook-today-changes-and-what-they-mean-for-you/"><u>[New] Facebook Today  Changes and What They Mean for You</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/easy-guide-to-rectify-ios-and-android-videos-not-sent-by-messenger/"><u>Easy Guide to Rectify iOS and Android Videos Not Sent by Messenger</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-enhance-watchability-with-full-screen-on-fb-videos/"><u>2024 Approved  Enhance Watchability with Full-Screen on FB Videos</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-highest-hits-facebooks-favorite-videos/"><u>In 2024, Highest Hits  Facebook's Favorite Videos</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/advanced-mp4-encoder-for-social-sharing/"><u>Advanced MP4 Encoder for Social Sharing</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-infinix-hot-40-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Infinix Hot 40 to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-camcraze-evaluation-excellence-beyond-one-brand/"><u>[Updated] CamCraze Evaluation  Excellence Beyond One Brand</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-10-game-changing-techniques-to-amplify-your-facebook-presence/"><u>In 2024, 10 Game-Changing Techniques to Amplify Your Facebook Presence</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-unlock-fb-potential-with-2023s-top-free-tools-for-posts-for-2024/"><u>[New] Unlock FB Potential with 2023’S Top-Free Tools for Posts for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-turbo-charged-triumphs-short-track-22/"><u>In 2024, Turbo-Charged Triumphs  Short Track, '22</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/navigating-the-process-of-modifying-your-networks-visual-backdrop/"><u>Navigating the Process of Modifying Your Network's Visual Backdrop</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-troubleshooting-sudden-facebook-live-hiccups-for-2024/"><u>[New] Troubleshooting Sudden Facebook Live Hiccups for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-seamless-cross-posting-of-tiktok-content-to-facebook/"><u>[Updated] 2024 Approved  Seamless Cross-Posting of TikTok Content to Facebook</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-tips-to-dominate-kinemaster-and-identify-top-online-video-services/"><u>2024 Approved  Expert Tips to Dominate KineMaster & Identify Top Online Video Services</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/enhancing-fb-videos-with-background-tracks-a-guide/"><u>Enhancing FB Videos with Background Tracks  A Guide</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-televising-facebook-video-content-a-possibility/"><u>[Updated] 2024 Approved  Televising Facebook Video Content  A Possibility ?</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/hannel-success-story-optimal-themes-and-ideas-to-boost-content-for-2024/"><u>[New] Channel Success Story  Optimal Themes and Ideas to Boost Content for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-how-to-go-live-with-recorded-material-on-the-worlds-largest-social-network/"><u>[New] How to Go Live with Recorded Material on the World's Largest Social Network</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-expert-guide-to-crafting-effective-fb-videos/"><u>2024 Approved  Expert Guide to Crafting Effective FB Videos</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/captivating-your-network-streamlining-content-via-wirecast-to-facebook-for-2024/"><u>Captivating Your Network  Streamlining Content via Wirecast to Facebook for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-social-snapshots-highest-view-counts/"><u>[Updated] In 2024, Social Snapshots  Highest View Counts</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-building-chat-rooms-for-collaborative-discussion-on-whatsapp/"><u>[Updated] Building Chat Rooms for Collaborative Discussion on WhatsApp</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-the-art-of-effective-online-engagement-on-fb/"><u>[New] In 2024, The Art of Effective Online Engagement on FB</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-how-to-view-old-stories-on-facebook/"><u>2024 Approved  How to View Old Stories on Facebook?</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/solving-windows-10-flickering-issue/"><u>Solving Windows 10 Flickering Issue</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-how-can-you-create-animated-facebook-ads-with-high-roi/"><u>[Updated] How Can You Create Animated Facebook Ads With High ROI?</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/directx12-bugs-halting-halo-infinite-startup/"><u>DirectX12 Bugs Halting Halo Infinite Startup</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/fast-tracking-social-scanning-mastering-fb-profiles/"><u>Fast-Tracking Social Scanning  Mastering FB Profiles</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/enhance-connection-top-tips-to-craft-compelling-facebook-profiles-for-2024/"><u>Enhance Connection  Top Tips to Craft Compelling Facebook Profiles for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-check-if-your-lava-agni-2-5g-is-unlocked-by-drfone-android/"><u>In 2024, How To Check if Your Lava Agni 2 5G Is Unlocked</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-pictures-after-itel-a05s-has-been-deleted-by-fonelab-android-recover-pictures/"><u>Recover your pictures after Itel A05s has been deleted.</u></a></li>
+</ul></div>

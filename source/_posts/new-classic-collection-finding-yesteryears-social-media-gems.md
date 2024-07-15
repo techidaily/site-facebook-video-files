@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Classic Collection  Finding Yesteryear's Social Media Gems\""
-date: 2024-05-20T14:06:36.570Z
-updated: 2024-05-21T14:06:36.570Z
+date: 2024-07-14T02:15:44.516Z
+updated: 2024-07-15T02:15:44.516Z
 tags:
   - ai video
   - ai facebook
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] Classic Collection: Finding Yesteryear's Social Media Gems\""
 excerpt: "\"This Article Describes [New] Classic Collection: Finding Yesteryear's Social Media Gems\""
 keywords: "Vintage Social Memories,Yesteryears Social Media,Retro Network Finds,Classic Social Collectibles,Timeless Social Ephemera,Historical Social Content,Nostalgic Social Gems"
-thumbnail: https://www.lifewire.com/thmb/ntH4Wob_rUFyHlcFT37-lKRbH0w=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-458984485-c5d59864b6284b108e5f3005fe62ac34.jpg
+thumbnail: https://thmb.techidaily.com/b432bdff253fde3d555eb0e4e70a3a08238022a0a92405de9a612b975012aa5f.jpg
 ---
 
 ## Classic Collection: Finding Yesteryear's Social Media Gems
@@ -43,6 +43,9 @@ Facebook stories are a short generated collection of photos and videos that the 
 
 You can share the content on Facebook stories, which will appear at the top of the Facebook news feed. Also, if you are confused about how to view old stories on Facebook, users need to Tap on friends’ circle at the top area of the application, and while watching the story, one could also reply with a direct message feature.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2: How to See Old Facebook Stories on Desktop?
 
 Are you looking at how to see old stories on Facebook desktop? Let’s look at each step in detail:
@@ -61,6 +64,9 @@ Are you looking at how to see old stories on Facebook desktop? Let’s look at e
 
 Thus how to view old stories on Facebook desktop is very easy with above above-mentioned easy steps.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3: How to Watch Old Stories on Facebook on your Mobile?
 
 You can find and see the old stories on Facebook with the help of the archived section. Here following are the easy steps you could follow:
@@ -269,6 +275,9 @@ Also, Try using Wondershare Filmora for getting high-quality video editing featu
 
 Happy editing!
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 Shanoon Cox
@@ -311,6 +320,9 @@ Are you looking at how to see old stories on Facebook desktop? Let’s look at e
 
 **Step 3:** Now just tap on the “Story Archive” option from the list.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![facebook story archive](https://images.wondershare.com/filmora/article-images/2021/facebook-story-archive.jpg)
 
 **Step 4:** After this, you would be shown all the stories sequentially in the Story Archives section.
@@ -556,3 +568,44 @@ Follow @Shanoon Cox
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://sound-tweaking.techidaily.com/new-sonic-palette-an-intensive-look-at-avs-editors-features-user-reviews-and-alternate-choices-in-audio-editing-for-2024/"><u>New Sonic Palette An Intensive Look at AVS Editors Features, User Reviews, and Alternate Choices in Audio Editing for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-optimize-tasks-the-8-superior-facebook-schedulers-for-2024/"><u>[Updated] Optimize Tasks  The 8 Superior Facebook Schedulers for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-maximizing-engagement-essential-strategies-for-facebook-video-promotion/"><u>[New] In 2024, Maximizing Engagement  Essential Strategies for Facebook Video Promotion</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-soundtrack-to-life-fbs-music-offerings/"><u>[New] In 2024, Soundtrack to Life  FB's Music Offerings</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-unlock-the-potential-of-your-facebook-profile-with-covers/"><u>[Updated] 2024 Approved  Unlock the Potential of Your Facebook Profile with Covers</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/lock-your-oppo-reno-11-pro-5g-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>Lock Your Oppo Reno 11 Pro 5G Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-the-process-to-enable-incessant-auto-video-on-facebook/"><u>[New] In 2024, The Process to Enable Incessant Auto-Video on Facebook</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/2024-approved-the-best-value-video-editing-software-for-your-money/"><u>2024 Approved The Best Value Video Editing Software for Your Money</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/in-2024-top-notch-sound-engineers-for-optimizing-live-broadcasts/"><u>In 2024, Top-Notch Sound Engineers for Optimizing Live Broadcasts</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-expertsnap-recording-tool-win-10-version-for-2024/"><u>[New] ExpertSnap Recording Tool, Win 10 Version for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-ultimate-collection-optimal-fb-lite-videos/"><u>[New] 2024 Approved  Ultimate Collection  Optimal FB Lite Videos</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-top-10-windowsmaclinux-friendly-audio-editors-that-match-audacitys-capabilities-for-2024/"><u>New Top 10 Windows/Mac/Linux-Friendly Audio Editors That Match Audacitys Capabilities for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-7-pro-tips-to-enhance-your-foodie-filmography/"><u>2024 Approved  7 Pro Tips to Enhance Your Foodie Filmography</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-transform-tales-gratuitous-enhancements-across-platforms/"><u>[Updated] 2024 Approved  Transform Tales  Gratuitous Enhancements Across Platforms</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-melody-seeker-find-mp3-on-fb-for-2024/"><u>[Updated] Melody Seeker  Find MP3 on FB for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-transition-videos-to-tweets-effortlessly/"><u>[Updated] 2024 Approved  Transition Videos to Tweets Effortlessly</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-taking-flight-in-content-creation-dji-drones-and-fb-live/"><u>[New] In 2024, Taking Flight in Content Creation  DJI Drones & FB Live</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-mastering-content-capture-5-must-have-social-apps/"><u>[Updated] In 2024, Mastering Content Capture  5 Must-Have Social Apps</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-the-art-of-revisiting-historical-facebook-posts-mobilelaptop/"><u>[Updated] 2024 Approved  The Art of Revisiting Historical Facebook Posts (Mobile/Laptop)</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-mastery-manual-downloading-hd-videos-on-todays-digital-landscapes/"><u>[Updated] 2024 Approved  Mastery Manual  Downloading HD Videos on Today's Digital Landscapes</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-simplified-guide-to-creating-group-conversations/"><u>[Updated] In 2024, Simplified Guide to Creating Group Conversations</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-secrets-for-striking-fb-video-promos-for-2024/"><u>[New] Secrets for Striking FB Video Promos for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-unpacking-newscreenx-pros-recording-innovations/"><u>[Updated] Unpacking NewScreenX Pro’s Recording Innovations</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-the-secret-behind-the-blue-status-update-sticker/"><u>[Updated] In 2024, The Secret Behind the Blue Status Update Sticker</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-sculptive-strategies-in-creating-striking-fb-video-ads/"><u>[Updated] In 2024, Sculptive Strategies in Creating Striking Fb Video Ads</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-avchd-video-editing-software-top-recommendations/"><u>New AVCHD Video Editing Software Top Recommendations</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-sony-xperia-10-v-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Sony Xperia 10 V to Outlook | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/ways-to-trade-pokemon-go-from-far-away-on-vivo-y27-4g-drfone-by-drfone-virtual-android/"><u>Ways to trade pokemon go from far away On Vivo Y27 4G? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-unlock-potential-the-15-best-tools-for-transforming-fb-revenue/"><u>[New] In 2024, Unlock Potential  The 15 Best Tools for Transforming FB Revenue</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-permanent-record-keeper-facebook-live-extraction-techniques-for-2024/"><u>[New] Permanent Record Keeper  Facebook Live Extraction Techniques for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-maximizing-video-visibility-top-strategies-on-fb/"><u>[New] In 2024, Maximizing Video Visibility  Top Strategies on FB</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-free-audio-treasures-to-amplify-youtube-for-2024/"><u>[New] Free Audio Treasures to Amplify YouTube for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/the-smart-choice-instagram-video-dimensions-and-formats-for-2024/"><u>The Smart Choice  Instagram Video Dimensions and Formats for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/2024-approved-the-ultimate-showdown-adobe-premiere-vs-after-effects-for-video-creators/"><u>2024 Approved The Ultimate Showdown Adobe Premiere vs After Effects for Video Creators</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-2024-approved-boost-creativity-and-performance-with-these-top-10-free-tiktok-editors-for-mac/"><u>[Updated] 2024 Approved  Boost Creativity and Performance with These Top 10 FREE TikTok Editors for Mac</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-online-add-on-social-media-story-vault-for-2024/"><u>[Updated] Online Add-On  Social Media Story Vault for 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/find-crowd-cheering-effect-for-2024/"><u>Find Crowd Cheering Effect for 2024</u></a></li>
+</ul></div>

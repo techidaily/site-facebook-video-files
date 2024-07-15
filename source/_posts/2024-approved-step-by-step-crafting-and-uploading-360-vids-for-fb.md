@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Step-by-Step  Crafting & Uploading 360 Vids for FB\""
-date: 2024-05-20T14:04:41.573Z
-updated: 2024-05-21T14:04:41.573Z
+date: 2024-07-14T02:10:52.507Z
+updated: 2024-07-15T02:10:52.507Z
 tags:
   - ai video
   - ai facebook
@@ -187,6 +187,9 @@ Follow @Shanoon Cox
 
 **Timeline:** When you are ready to update your own 360 degree videos or wish to go through your earlier updates then visit Timeline.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 Shanoon Cox
@@ -234,6 +237,9 @@ Follow @Shanoon Cox
 
  In case if you are using any other device to capture your 360 degree videos then you may need to make manual adjustments for your 360 video formats.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to upload 360 degree videos on Facebook
 
  Uploading 360 video to Facebook is easy, just follow the steps below:
@@ -242,6 +248,9 @@ Follow @Shanoon Cox
 
  Step 2: Before you hit the publish button on your screen, go to the   **Advanced** tab.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Facebook 360 video upload](https://images.wondershare.com/filmora/article-images/facebook-360-video-upload.jpg)
 
  Step 3: Now select the option “This video was recorded in 360° format”. It will help your app to generate automated control for 360 degree content.
@@ -329,6 +338,9 @@ Follow @Shanoon Cox
 
  Step 2: Before you hit the publish button on your screen, go to the   **Advanced** tab.
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Facebook 360 video upload](https://images.wondershare.com/filmora/article-images/facebook-360-video-upload.jpg)
 
  Step 3: Now select the option “This video was recorded in 360° format”. It will help your app to generate automated control for 360 degree content.
@@ -392,3 +404,54 @@ Follow @Shanoon Cox
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-consumers-speak-the-vllo-narrative/"><u>In 2024, Consumers Speak  The VLLO Narrative</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-uncovering-key-differences-in-panoramic-and-vr-filmmaking/"><u>[Updated] Uncovering Key Differences in Panoramic & VR Filmmaking</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/maximizing-your-earnings-how-to-monetize-facebook-videos-successfully-for-2024/"><u>Maximizing Your Earnings  How to Monetize Facebook Videos Successfully for 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/premier-asmr-software-for-iphone-and-android/"><u>Premier ASMR Software for iPhone & Android</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/filmora-scrn-essentials-recording-your-desktop-in-minutes-for-2024/"><u>Filmora Scrn Essentials Recording Your Desktop in Minutes for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/sharing-excellence-twitch-live-to-your-facebook-circle-for-2024/"><u>Sharing Excellence  Twitch Live to Your Facebook Circle for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-free-filmora-13-download-edit-videos-like-a-pro/"><u>New Free Filmora 13 Download Edit Videos Like a Pro</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/decoding-the-mysteries-of-outdated-facebook-sharing-pcmobile-style-for-2024/"><u>Decoding the Mysteries of Outdated Facebook Sharing, PC/Mobile Style for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-finding-the-highlighted-online-discourse/"><u>[New] Finding the Highlighted Online Discourse</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-online-beat-finder-no-cash-fb/"><u>In 2024, Online Beat Finder  No Cash (FB)</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-step-by-step-perfecting-fbs-360-streams/"><u>[Updated] Step-by-Step  Perfecting FB's 360 Streams</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-networked-narratives-recorder/"><u>In 2024, Networked Narratives Recorder</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-becoming-an-instagram-editor-extraordinaire/"><u>[Updated] 2024 Approved  Becoming an Instagram Editor Extraordinaire</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-fixing-video-transmission-issues-on-facebook-chat-for-iosandroid/"><u>In 2024, Fixing Video Transmission Issues on Facebook Chat for iOS/Android</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-engage-broadly-embedding-twitch-videos-on-fb/"><u>In 2024, Engage Broadly  Embedding Twitch Videos on FB</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-smart-social-media-strategies-from-youtube-to-facebook/"><u>2024 Approved  Smart Social Media Strategies  From YouTube To Facebook</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-the-ultimate-list-best-gaming-intro-makers-for-windows-mac-and-online/"><u>New 2024 Approved The Ultimate List Best Gaming Intro Makers for Windows, Mac, and Online</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-troubleshooting-techniques-for-sudden-facebook-live-freezes/"><u>[Updated] Troubleshooting Techniques for Sudden Facebook Live Freezes</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-11-cutting-edge-techniques-for-optimizing-your-fb-videos-for-2024/"><u>[New] 11 Cutting-Edge Techniques for Optimizing Your FB Videos for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-the-blue-badge-breakdown-a-guide-to-social-media-credibility/"><u>In 2024, The Blue Badge Breakdown  A Guide to Social Media Credibility</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-the-new-era-facebook-video-autoplay-explained/"><u>In 2024, The New Era  Facebook Video Autoplay Explained</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/understanding-sudden-account-lockdowns-on-copyright-violations-for-2024/"><u>Understanding Sudden Account Lockdowns on Copyright Violations for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-navigating-facebook-for-uhd-1080p-content/"><u>[Updated] Navigating Facebook for UHD (1080P) Content</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-unveiling-google-meets-screen-alteration-techniques/"><u>[Updated] Unveiling Google Meet's Screen Alteration Techniques</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-explore-haunting-aural-landscapes/"><u>New Explore Haunting Aural Landscapes</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-the-ultimate-guide-to-linking-fb-stories/"><u>2024 Approved  The Ultimate Guide to Linking FB Stories</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2023-best-facebook-video-downloader-and-addons-for-firefox-for-2024/"><u>2023 | Best Facebook Video Downloader And Addons for Firefox for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-unleashing-the-power-of-tales-complimentary-apps-galore/"><u>2024 Approved  Unleashing the Power of Tales  Complimentary Apps Galore</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-harnessing-new-trends-transmitting-fb-videos-through-whatsapp/"><u>[New] Harnessing New Trends  Transmitting FB Videos Through WhatsApp</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-secure-5-insta-story-watchers-selection-for-2024/"><u>[Updated] Secure 5 Insta Story-Watchers' Selection for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-unlock-the-potential-of-dslr-with-facebook-live-compatible-pcsmacs/"><u>2024 Approved  Unlock the Potential of DSLR with Facebook LIVE, Compatible PCs/Macs</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-streamline-your-views-the-ultimate-8-fb-movie-download-guide/"><u>2024 Approved  Streamline Your Views  The Ultimate #8 FB Movie Download Guide</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-the-essential-pathway-to-creating-attractive-video-covers-on-facebook/"><u>[Updated] The Essential Pathway to Creating Attractive Video Covers on Facebook</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/mastering-facebook-live-broadcasting-recorded-videos-for-2024/"><u>Mastering Facebook Live  Broadcasting Recorded Videos for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-crossing-thresholds-in-ctas-anticipating-fb-ad-shifts/"><u>[New] Crossing Thresholds in CTAs  Anticipating FB Ad Shifts</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-take-flight-with-social-media-dji-drone-streaming-basics/"><u>[New] Take Flight with Social Media  DJI Drone Streaming Basics</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-master-the-art-of-sharing-gaming-moments-xboxfb-livestream/"><u>2024 Approved  Master the Art of Sharing Gaming Moments  Xbox/FB Livestream</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-in-2024-excellent-audio-editing-software-replacements-for-audacity/"><u>Updated In 2024, Excellent Audio Editing Software Replacements for Audacity</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-from-invisible-to-iconic-top-strategies-for-standout-facebook-profiles/"><u>In 2024, From Invisible to Iconic  Top Strategies for Standout Facebook Profiles</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-unlocking-video-revenue-potential-the-facebook-marketing-playbook/"><u>[New] Unlocking Video Revenue Potential  The Facebook Marketing Playbook</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-geo-blocking-and-how-to-bypass-it-on-itel-p40plus-drfone-by-drfone-virtual-android/"><u>What is Geo-Blocking and How to Bypass it On Itel P40+? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-key-tips-for-configuring-and-measuring-effective-fb-instream-ads/"><u>[Updated] Key Tips for Configuring and Measuring Effective FB Instream Ads</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-fb-sounds-unlimited-grab-and-go/"><u>[Updated] FB Sounds Unlimited  Grab & Go</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-vkontakte-profile-picture-info-pixel-count-codec-time/"><u>2024 Approved  VKontakte Profile Picture Info  Pixel Count, Codec, Time</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-effortlessly-download-top-5-chromium-plug-ins-for-fb-video-access/"><u>[New] Effortlessly Download  Top 5 Chromium Plug-Ins for FB Video Access</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/unlocking-social-networks-the-pathway-to-a-facebook-profile-for-2024/"><u>Unlocking Social Networks  The Pathway to a Facebook Profile for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-unraveling-the-enigma-how-to-download-messages-from-facebook/"><u>[New] Unraveling the Enigma  How to Download Messages From Facebook</u></a></li>
+</ul></div>

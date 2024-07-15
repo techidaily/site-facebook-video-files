@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Quick Fixes  The Hands-On Guide to Generating Timely Captions on FB Media\""
-date: 2024-06-30T13:14:36.226Z
-updated: 2024-07-01T13:14:36.226Z
+date: 2024-07-14T01:37:53.878Z
+updated: 2024-07-15T01:37:53.878Z
 tags:
   - ai video
   - ai facebook
@@ -47,6 +47,9 @@ SRT caption files are usually supported by almost all popular media players and 
 * Note that, each caption phrase need to be divided into several numbered sections so start with 1 and then press Enter.
 * The standard timing options for SubRip formats use to be milliseconds so you need to divide all phrases respectively into desired time slots. Keep on adding your phrases till the time you cover whole video.
 
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
 ![facebook subtitle create](https://images.wondershare.com/filmora/article-images/facebook-subtitle-create.jpg)
 
 * Now save this text file into SRT format by using Save and then All Files option. Add your desired file name and select file format as .srt. Hit Save option.
@@ -259,6 +262,9 @@ Once you have finished the text based editing task then hit the Export option av
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 Shanoon Cox
@@ -314,6 +320,9 @@ Save all updates when you are satisfied with preview.
 
 It is convenient to create captions in Facebook with the automatic generate tool or uploading the .SRT file, but if you want your text/subtitle with more cool visual effects, like dialog balloons, headings, we recommend you to use [Filmora](https://tools.techidaily.com/wondershare/filmora/download/). You can easily update intro, credit and captions as well as subtitles to your Facebook videos using Wondershare Filmora tool. If you want to make video for business, here comes [Filmora Business](https://tools.techidaily.com/wondershare/filmora/download/). It is a simple to use video editor to make short video on Facebook. You can make amazing Facebook videos. Download it now to have a try!
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 Here are few simple to follow steps
@@ -339,6 +348,14 @@ Once you have finished the text based editing task then hit the Export option av
 
 ![output format](https://images.wondershare.com/filmora/article-images/output-format.jpg)
 
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
@@ -372,3 +389,60 @@ Follow @Shanoon Cox
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-fb-video-placement-which-way-wins/"><u>[Updated] In 2024, FB Video Placement - Which Way Wins?</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/get-hooked-on-ez-grabber-a-step-by-step-downloading-guide-for-2024/"><u>Get Hooked on EZ Grabber  A Step-by-Step Downloading Guide for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-simplified-guide-to-structuring-ad-copy-on-social-media/"><u>[New] 2024 Approved  Simplified Guide to Structuring Ad Copy on Social Media</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-premier-list-top-free-video-recorder-software-explored/"><u>[Updated] Premier List - Top Free Video Recorder Software Explored</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-tackling-live-video-interruptions-on-social-media-fb-for-2024/"><u>[Updated] Tackling Live Video Interruptions on Social Media (FB) for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-budget-friendly-vlogging-cameras-unveiled-our-picks/"><u>In 2024, Budget-Friendly Vlogging Cameras Unveiled  Our Picks</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-techniques-for-ensuring-unbiased-decision-making/"><u>[New] 2024 Approved  Techniques For Ensuring Unbiased Decision-Making</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/2024-approved-budget-friendly-audio-file-modifier-for-mac-users/"><u>2024 Approved Budget-Friendly Audio File Modifier for Mac Users</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-exclusive-top-5-list-of-fb-video-downloaders-for-2024/"><u>[New] Exclusive TOP 5 List of FB Video Downloaders for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-efficiency-upgrade-uncover-the-8-premier-facebook-timetables-for-2024/"><u>[New] Efficiency Upgrade  Uncover the 8 Premier Facebook Timetables for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-modern-techniques-for-shrinking-digital-file-dimensions/"><u>New In 2024, Modern Techniques for Shrinking Digital File Dimensions</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-the-social-media-economy-maximizing-your-facebook-revenue-for-2024/"><u>[New] The Social Media Economy  Maximizing Your Facebook Revenue for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-the-role-of-free-exchange-in-discovery-for-2024/"><u>[Updated] The Role of Free Exchange in Discovery for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/leading-tweeters-choice-youtube-to-twitter-for-2024/"><u>Leading Tweeters' Choice  YouTube to Twitter for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/banish-flickering-effect-in-visuals/"><u>Banish Flickering Effect in Visuals</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-find-the-perfect-soundtrack-on-these-top-20-youtube-harmony-hubs-for-2024/"><u>[Updated] Find the Perfect Soundtrack on These Top 20 YouTube Harmony Hubs for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changeadd-location-filters-on-snapchat-for-your-samsung-galaxy-s24-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Add Location Filters on Snapchat For your Samsung Galaxy S24 | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-leveraging-likeability-for-business-profits-on-fb/"><u>[Updated] 2024 Approved  Leveraging Likeability for Business Profits on FB</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-streaming-gopro-on-social-platforms-a-step-by-step-guide/"><u>[New] 2024 Approved  Streaming GoPro on Social Platforms  A Step-by-Step Guide</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-exclusive-guide-to-the-best-20-incarceration-moments-that-spark-smiles-online/"><u>[New] 2024 Approved  Exclusive Guide to the Best 20 Incarceration Moments that Spark Smiles Online</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-professional-edge-adding-letterbox-frame-to-your-fb-videos/"><u>[Updated] In 2024, Professional Edge  Adding Letterbox Frame to Your FB Videos</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-blueprint-to-dominate-social-platforms/"><u>In 2024, The Blueprint to Dominate Social Platforms</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-turning-tides-in-photographic-history-retrieval-on-facebook-for-2024/"><u>[Updated] Turning Tides in Photographic History Retrieval on Facebook for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-the-hunt-for-hit-tunes-and-viral-videos-on-fb/"><u>[Updated] 2024 Approved  The Hunt for Hit Tunes and Viral Videos on FB</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-free-secure-video-calls-top-10-safe-apps-for-android-and-ios-users/"><u>[Updated] In 2024, Free, Secure Video Calls  Top 10 Safe Apps for Android and iOS Users</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-supercharged-strategies-to-locate-online-ids/"><u>[New] In 2024, Supercharged Strategies to Locate Online ID's</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/taming-time-capturing-stellar-slow-motion-videos-with-gopro/"><u>Taming Time  Capturing Stellar Slow Motion Videos with GoPro</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-elite-8-films-on-facebook-for-2024/"><u>[Updated] Elite 8 Films on Facebook for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/finding-the-perfect-pc-mini-vs-standard-sized-computers/"><u>Finding the Perfect PC: Mini Vs. Standard-Sized Computers</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-elevate-your-youtube-presence-with-optimal-post-times/"><u>[Updated] 2024 Approved  Elevate Your YouTube Presence with Optimal Post Times</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-most-popular-firefox-screenshots-and-recorders-for-2024/"><u>[New] Most Popular Firefox Screenshots & Recorders for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-facebook-videos-made-simple-unified-techniques-for-desktop-and-mobile-for-2024/"><u>[Updated] Facebook Videos Made Simple  Unified Techniques for Desktop & Mobile for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-instagram-storytelling-using-videos-effectively/"><u>[Updated] 2024 Approved  Instagram Storytelling  Using Videos Effectively</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/mastering-stills-extraction-in-windows-11-photos/"><u>Mastering Stills Extraction in Windows 11 Photos</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-from-concept-to-measurement-configuring-and-assessing-facebooks-in-stream-ads/"><u>2024 Approved  From Concept to Measurement  Configuring and Assessing Facebook's In-Stream Ads</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-peaceful-playtimes-premium-pc-titles/"><u>2024 Approved  Peaceful Playtimes  Premium PC Titles</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-the-ultimate-guide-incorporating-facebook-live-into-websites/"><u>[New] 2024 Approved  The Ultimate Guide  Incorporating Facebook LIVE Into Websites</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-punctuality-perfection-scheduling-fb-content-for-free-for-2024/"><u>[New] Punctuality Perfection  Scheduling FB Content for Free for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-the-ultimate-collection-best-10-android-phone-apps-for-excellent-audio-recording/"><u>Updated The Ultimate Collection Best 10 Android Phone Apps for Excellent Audio Recording</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-social-medias-best-video-enhancing-programs-2023/"><u>[New] 2024 Approved  Social Media's Best Video Enhancing Programs, 2023</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-the-compreenasional-path-to-post-perfection-instagram-video-upload-from-pcmac/"><u>[Updated] In 2024, The Compreenasional Path to Post-Perfection  Instagram Video Upload From PC/Mac</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-secrets-unlocked-mastering-the-art-of-facebook-vr-posting/"><u>[New] In 2024, Secrets Unlocked  Mastering the Art of Facebook VR Posting</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-the-freedom-of-filmmaking-top-android-video-editing-apps/"><u>2024 Approved  The Freedom of Filmmaking  Top Android Video Editing Apps</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-effortless-facebook-live-four-strategies-to-record-successfully/"><u>[New] 2024 Approved  Effortless Facebook Live  Four Strategies to Record Successfully</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-bypass-icloud-lock-on-iphone-11-pro-max-by-drfone-ios/"><u>How to Bypass iCloud Lock on iPhone 11 Pro Max</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-skyrocket-your-e-commerce-with-these-15-facebook-analytics/"><u>[New] 2024 Approved  Skyrocket Your E-Commerce with These 15 Facebook Analytics</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-simplified-guide-to-creating-group-conversations/"><u>[New] 2024 Approved  Simplified Guide to Creating Group Conversations</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-fb-video-hacks-instant-mp4-downloads/"><u>[New] In 2024, FB Video Hacks  Instant MP4 Downloads</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-effective-measures-to-block-pesky-video-ads-online/"><u>[New] 2024 Approved  Effective Measures to Block Pesky Video Ads Online</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-achieving-professional-editing-without-the-price-tag/"><u>[Updated] Achieving Professional Editing Without the Price Tag</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-mastering-the-art-of-auto-play-youtube-content-in-fb/"><u>[Updated] In 2024, Mastering the Art of Auto-Play YouTube Content in FB</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-essential-watchers-the-1-10-fb-apps/"><u>[Updated] 2024 Approved  Essential Watchers  The #1-#10 FB Apps</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-leaders-in-likeability-the-best-app-list-on-androidiphone/"><u>[New] In 2024, Leaders in Likeability  The Best App List on Android/iPhone</u></a></li>
+</ul></div>

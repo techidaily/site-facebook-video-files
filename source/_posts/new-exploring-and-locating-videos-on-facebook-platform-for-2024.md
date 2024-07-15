@@ -1,7 +1,7 @@
 ---
 title: "[New] Exploring and Locating Videos on Facebook Platform for 2024"
-date: 2024-05-20T13:35:26.257Z
-updated: 2024-05-21T13:35:26.257Z
+date: 2024-07-14T00:54:22.747Z
+updated: 2024-07-15T00:54:22.747Z
 tags:
   - ai video
   - ai facebook
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [New] Exploring and Locating Videos on Facebook Platform for 2024"
 excerpt: "This Article Describes [New] Exploring and Locating Videos on Facebook Platform for 2024"
 keywords: "FB Video Search,Find FB Videos,Explore FB Vids,Locate FB Videos,Navigate FB Video,Discover Facebook Videos,Access FB Video Content"
-thumbnail: https://www.lifewire.com/thmb/euGB2OxWSMCs0I-pIsw21DKONQM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/singled-out-687864396-593c83153df78c537b5d9e50.jpg
+thumbnail: https://thmb.techidaily.com/18a804e379d2e35c3dce7adfbd6c31163356bdf9fa867d443daa8eb75630573f.jpg
 ---
 
 ## Exploring and Locating Videos on Facebook Platform
@@ -129,7 +129,7 @@ To find Facebook videos that you have watched recently on the computer, follow t
 
 Open the browser and then go to the Facebook website. Log into your account.
 
-![Log in to your Facebook ](https://images.wondershare.com/filmora/article-images/2021/find-videos-on-facebook-9.png)
+![Log in to your Facebook](https://images.wondershare.com/filmora/article-images/2021/find-videos-on-facebook-9.png)
 
 **Step 2: Go to Your Profile**
 
@@ -187,13 +187,13 @@ From the Profile Settings, click on “Activity Log” and then scroll down. Cli
 
 ![Go to “Activity Log”](https://images.wondershare.com/filmora/article-images/2021/find-videos-on-facebook-15.png)
 
-![Click on “Logged actions and other activity.” ](https://images.wondershare.com/filmora/article-images/2021/find-videos-on-facebook-16.png)
+![Click on “Logged actions and other activity.”](https://images.wondershare.com/filmora/article-images/2021/find-videos-on-facebook-16.png)
 
 **Step 6: Click on “Videos you’ve watched.”**
 
 From the list of activities, tap on “Videos you’ve watched.”
 
-![Click on “Videos you’ve watched.” ](https://images.wondershare.com/filmora/article-images/2021/find-videos-on-facebook-17.png)
+![Click on “Videos you’ve watched.”](https://images.wondershare.com/filmora/article-images/2021/find-videos-on-facebook-17.png)
 
 The screen will display all the videos you have watched recently. Watch the one you were looking for and enjoy!
 
@@ -317,7 +317,7 @@ To find Facebook videos that you have watched recently on the computer, follow t
 
 Open the browser and then go to the Facebook website. Log into your account.
 
-![Log in to your Facebook ](https://images.wondershare.com/filmora/article-images/2021/find-videos-on-facebook-9.png)
+![Log in to your Facebook](https://images.wondershare.com/filmora/article-images/2021/find-videos-on-facebook-9.png)
 
 **Step 2: Go to Your Profile**
 
@@ -375,13 +375,16 @@ From the Profile Settings, click on “Activity Log” and then scroll down. Cli
 
 ![Go to “Activity Log”](https://images.wondershare.com/filmora/article-images/2021/find-videos-on-facebook-15.png)
 
-![Click on “Logged actions and other activity.” ](https://images.wondershare.com/filmora/article-images/2021/find-videos-on-facebook-16.png)
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![Click on “Logged actions and other activity.”](https://images.wondershare.com/filmora/article-images/2021/find-videos-on-facebook-16.png)
 
 **Step 6: Click on “Videos you’ve watched.”**
 
 From the list of activities, tap on “Videos you’ve watched.”
 
-![Click on “Videos you’ve watched.” ](https://images.wondershare.com/filmora/article-images/2021/find-videos-on-facebook-17.png)
+![Click on “Videos you’ve watched.”](https://images.wondershare.com/filmora/article-images/2021/find-videos-on-facebook-17.png)
 
 The screen will display all the videos you have watched recently. Watch the one you were looking for and enjoy!
 
@@ -505,7 +508,7 @@ To find Facebook videos that you have watched recently on the computer, follow t
 
 Open the browser and then go to the Facebook website. Log into your account.
 
-![Log in to your Facebook ](https://images.wondershare.com/filmora/article-images/2021/find-videos-on-facebook-9.png)
+![Log in to your Facebook](https://images.wondershare.com/filmora/article-images/2021/find-videos-on-facebook-9.png)
 
 **Step 2: Go to Your Profile**
 
@@ -561,15 +564,18 @@ You will see three dots beside the "Add to Story" button. Click on them. This wi
 
 From the Profile Settings, click on “Activity Log” and then scroll down. Click on “Logged actions and other activity.”
 
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Go to “Activity Log”](https://images.wondershare.com/filmora/article-images/2021/find-videos-on-facebook-15.png)
 
-![Click on “Logged actions and other activity.” ](https://images.wondershare.com/filmora/article-images/2021/find-videos-on-facebook-16.png)
+![Click on “Logged actions and other activity.”](https://images.wondershare.com/filmora/article-images/2021/find-videos-on-facebook-16.png)
 
 **Step 6: Click on “Videos you’ve watched.”**
 
 From the list of activities, tap on “Videos you’ve watched.”
 
-![Click on “Videos you’ve watched.” ](https://images.wondershare.com/filmora/article-images/2021/find-videos-on-facebook-17.png)
+![Click on “Videos you’ve watched.”](https://images.wondershare.com/filmora/article-images/2021/find-videos-on-facebook-17.png)
 
 The screen will display all the videos you have watched recently. Watch the one you were looking for and enjoy!
 
@@ -579,6 +585,9 @@ Videos are a very effective way of expressing yourself. If you wish to upload yo
 
 With Filmora, your videos can be raised to the professional level and help you interact with a larger audience.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 Facebook is such an all-rounded and well-thought-out application that it has everything and anything you require. It has so many useful features that assist you in expanding your social circle and easily interacting with friends and family.
@@ -693,7 +702,7 @@ To find Facebook videos that you have watched recently on the computer, follow t
 
 Open the browser and then go to the Facebook website. Log into your account.
 
-![Log in to your Facebook ](https://images.wondershare.com/filmora/article-images/2021/find-videos-on-facebook-9.png)
+![Log in to your Facebook](https://images.wondershare.com/filmora/article-images/2021/find-videos-on-facebook-9.png)
 
 **Step 2: Go to Your Profile**
 
@@ -751,16 +760,19 @@ From the Profile Settings, click on “Activity Log” and then scroll down. Cli
 
 ![Go to “Activity Log”](https://images.wondershare.com/filmora/article-images/2021/find-videos-on-facebook-15.png)
 
-![Click on “Logged actions and other activity.” ](https://images.wondershare.com/filmora/article-images/2021/find-videos-on-facebook-16.png)
+![Click on “Logged actions and other activity.”](https://images.wondershare.com/filmora/article-images/2021/find-videos-on-facebook-16.png)
 
 **Step 6: Click on “Videos you’ve watched.”**
 
 From the list of activities, tap on “Videos you’ve watched.”
 
-![Click on “Videos you’ve watched.” ](https://images.wondershare.com/filmora/article-images/2021/find-videos-on-facebook-17.png)
+![Click on “Videos you’ve watched.”](https://images.wondershare.com/filmora/article-images/2021/find-videos-on-facebook-17.png)
 
 The screen will display all the videos you have watched recently. Watch the one you were looking for and enjoy!
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Side note
 
 Videos are a very effective way of expressing yourself. If you wish to upload your own videos to Facebook, we recommend a video editor called Wondershare Filmora. Make a video and then use Wondershare Filmora and its multitude of features to edit the video.
@@ -800,3 +812,48 @@ We hope it helps!
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-the-vloggers-selection-premium-camera-lenses-compared/"><u>In 2024, The Vlogger's Selection  Premium Camera Lenses Compared</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/youtube-free-conversion-hack-turn-hd-fb-videos-into-high-res-mp4-for-free/"><u>YouTube-Free Conversion Hack  Turn HD FB Videos Into High-Res MP4 For Free</u></a></li>
+<li><a href="https://location-social.techidaily.com/edit-and-send-fake-location-on-telegram-for-your-xiaomi-redmi-note-12-proplus-5g-in-3-ways-drfone-by-drfone-virtual-android/"><u>Edit and Send Fake Location on Telegram For your Xiaomi Redmi Note 12 Pro+ 5G in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/transforming-your-facebook-display-photo-quickly/"><u>Transforming Your Facebook Display Photo Quickly</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/10-leading-mobile-vr-headsets-ranked/"><u>10 Leading Mobile VR Headsets Ranked</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-integrating-gopro-adventures-with-popular-social-media-channels/"><u>In 2024, Integrating GoPro Adventures with Popular Social Media Channels</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-countermoves-in-media-how-to-reverse-videos-for-2024/"><u>[Updated] Countermoves in Media  How to Reverse Videos for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-navigate-your-way-to-the-best-idevice-apps-for-extracting-content-from-facebook/"><u>2024 Approved  Navigate Your Way to the Best iDevice Apps for Extracting Content From Facebook</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-top-tips-for-creating-engaging-and-memorable-instagram-reels-for-2024/"><u>[New] Top Tips for Creating Engaging and Memorable Instagram Reels for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-easy-video-joiner-is-free-software-that-is-created-to-help-users-to-join-merge-and-combine-different-video-clips-to-form-a-single-movie/"><u>New Easy Video Joiner Is Free Software that Is Created to Help Users to Join, Merge and Combine Different Video Clips to Form a Single Movie</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-unleash-your-creativity-video-editing-tips-for-family-filmmakers/"><u>New 2024 Approved Unleash Your Creativity Video Editing Tips for Family Filmmakers</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-core-framework-principles-for-engaging-online-promotions/"><u>In 2024, Core Framework Principles for Engaging Online Promotions</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/maximizing-roi-setting-up-and-assessing-fb-instream-ads-for-2024/"><u>Maximizing ROI  Setting Up & Assessing FB Instream Ads for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-navigating-17-essential-steps-for-capturing-live-online-streams/"><u>[Updated] Navigating 17 Essential Steps for Capturing Live Online Streams</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-cut-out-facebook-stories-step-by-step-for-pc-and-phones/"><u>[Updated] Cut Out Facebook Stories  Step-By-Step for PC & Phones</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-mastering-soundtrack-addition-to-social-media-videos-on-facebook/"><u>In 2024, Mastering Soundtrack Addition to Social Media Videos on Facebook</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-elite-mp4-media-sender/"><u>[Updated] Elite MP4 Media Sender</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-facebook-linking-method-for-youtube-video-content/"><u>[Updated] Facebook Linking Method for YouTube Video Content</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-deciphering-fb-video-dimensions-for-perfect-sharing/"><u>2024 Approved  Deciphering FB Video Dimensions for Perfect Sharing</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/pro-gamers-audio-gold-5-essential-sound-devices/"><u>Pro Gamers' Audio Gold  5 Essential Sound Devices</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-high-quality-video-transfer-from-fb-to-mp4-no-cost-online-method/"><u>[Updated] High-Quality Video Transfer From FB to MP4 – No Cost Online Method</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-facebook-live-the-world-in-minutes/"><u>2024 Approved  Facebook Live  The World in Minutes</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/6-proven-ways-to-unlock-realme-narzo-n53-phone-when-you-forget-the-password-by-drfone-android/"><u>6 Proven Ways to Unlock Realme Narzo N53 Phone When You Forget the Password</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-elevate-your-content-game-youtube-and-facebook-sync/"><u>In 2024, Elevate Your Content Game  YouTube & Facebook Sync</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/mastering-the-art-of-downloading-fb-status-videos/"><u>Mastering the Art of Downloading Fb Status Videos</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-facebook-faults-recovering-login-credentials-quickly/"><u>2024 Approved  Facebook Faults? Recovering Login Credentials Quickly</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-leading-webcams-for-windows-10-enthusiasts-for-2024/"><u>[New] Leading Webcams for Windows 10 Enthusiasts for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/dose-life360-notify-me-when-someone-checks-my-location-on-apple-iphone-14-drfone-by-drfone-virtual-ios/"><u>Dose Life360 Notify Me When Someone Checks My Location On Apple iPhone 14? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-groupview-downloader-for-fb-streams/"><u>[Updated] GroupView Downloader for FB Streams</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-integrated-capture-camera-and-desktop-together/"><u>2024 Approved  Integrated Capture  Camera and Desktop Together</u></a></li>
+<li><a href="https://extra-information.techidaily.com/mobile-photography-mastering-dynamic-look-ups/"><u>Mobile Photography  Mastering Dynamic Look-Ups</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/leading-tools-top-6-fb-lite-video-extractors/"><u>Leading Tools  TOP 6 FB Lite Video Extractors</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-copyright-clash-immediate-consequences/"><u>[Updated] Copyright Clash, Immediate Consequences</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-a-deeper-dive-understanding-ez-grabbers-capabilities/"><u>[Updated] A Deeper Dive  Understanding EZ Grabber's Capabilities</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/the-ultimate-guide-to-tv-and-fb-live-synergy/"><u>The Ultimate Guide to TV and FB Live Synergy</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-privacy-focused-instagram-story-insight-methodology/"><u>In 2024, Privacy-Focused Instagram Story Insight Methodology</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-premium-free-fb-photovideo-producer-package/"><u>2024 Approved  Premium Free FB Photo/Video Producer Package</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-from-high-speed-to-serenity-making-captivating-slow-movies-on-instagram/"><u>[New] In 2024, From High-Speed to Serenity  Making Captivating Slow Movies on Instagram</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-lines-that-captivate-the-craft-of-writing-dialogue/"><u>In 2024, Lines That Captivate  The Craft of Writing Dialogue</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-comparing-vsdc-to-best-screen-recording-software/"><u>[Updated] 2024 Approved  Comparing VSDC to Best Screen Recording Software</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-capturing-motion-setting-up-a-timelapse-on-an-ipad/"><u>[New] 2024 Approved  Capturing Motion  Setting up a Timelapse on an iPad</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Troubleshooting Stalled Video Sending on iPhone and Android's Messenger\""
-date: 2024-06-08T05:42:50.333Z
-updated: 2024-06-09T05:42:50.333Z
+date: 2024-07-14T02:02:40.260Z
+updated: 2024-07-15T02:02:40.260Z
 tags:
   - ai video
   - ai facebook
@@ -105,6 +105,9 @@ However, in iOS, you will have to restart your device by pressing and holding th
 
 Head down to the settings, General, iPhone storage, and scroll down to Facebook Messenger. After tapping on Messenger, you will see an option to delete the app. Delete it and then open the App Store, from where you can easily reinstall Facebook messenger, and you will be good to go after logging in!
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ### **Fix 3: File Size Issue**
 
 Facebook itself allows the uploading of files up to 4 GB. Still, Facebook Messenger is limited to 25 MB, and the reason your videos or photos might not be getting through is that your file size is exceeding Facebook Messenger's file size limit.
@@ -247,6 +250,9 @@ Another unpopular and unconventional fix to this issue is that you can compress 
 
 This is a very simple issue with an even simpler fix. If your session has expired, it means that you have been logged in for too long and your hosting servers have timed out. Facebook Messenger will show either ‘Session Expired’ or ‘Session Timed Out’ depending on your software version.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Session Expired Facebook Messenger](https://images.wondershare.com/filmora/article-images/2021/facebook-messenger-not-sending-videos-9.png)
 
 All you have to do is press 'OK,' and it will take you to the login screen where you can put in your credentials, and you will be logged in to Facebook Messenger again, and then you can easily send messages, videos, and photos.
@@ -299,10 +305,25 @@ One of the most common problems is when your messages, photos, or videos are not
 
 Another reason why Facebook messenger is not sending messages could be that your device's storage is full or its cache memory has reached its maximum and is not registering anything new that is being fed into the application.
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### **Reason 3: File Size Exceeding Limit**
 
 One of the reasons that may be the cause of the failed photo or video upload can be that the file you are trying to upload exceeds the limits set by Facebook messenger. Messenger allows the size of any media file, photo, or video not to exceed 25 MB. If the size exceeds the limit, Facebook Messenger will show an error.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### **Reason 4: Session Expired**
 
 Facebook Messenger has a certain time limit after which your login session expires. It will give you a prompt saying the login session has expired. That can also be a reason why Messenger is not sending videos and photos.
@@ -552,3 +573,37 @@ Now there is no need to worry regardless of what device you have or what operati
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-files.techidaily.com/new-unveiling-the-secrets-of-fb-video-full-screen/"><u>[New] Unveiling the Secrets of FB Video Full-Screen</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/leveraging-hashtags-to-enhance-fb-user-engagement-for-2024/"><u>Leveraging Hashtags to Enhance FB User Engagement for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-transforming-your-profile-into-a-showstopper/"><u>2024 Approved  Transforming Your Profile Into a Showstopper</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-progressive-solutions-to-adding-vhs-effects-to-video-with-ease/"><u>Updated Progressive Solutions to Adding VHS Effects to Video with Ease</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-2023-rankings-best-video-players-on-instagram/"><u>[Updated] 2024 Approved  2023 Rankings  Best Video Players on Instagram</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-chatcast-collector-fb-groups-for-2024/"><u>[Updated] ChatCast Collector - FB Groups for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/top-8-private-video-downloaders-for-2024/"><u>Top 8 Private Video Downloaders for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-strategies-for-compelling-facebook-video-content/"><u>[New] Strategies for Compelling Facebook Video Content</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-maximizing-viewability-and-engagement-understanding-facebook-video-ratios/"><u>In 2024, Maximizing Viewability & Engagement  Understanding Facebook Video Ratios</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-save-space-and-time-with-fb-video-conversion-tools/"><u>[Updated] Save Space & Time with FB Video Conversion Tools</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/online-oasis-viewer-for-2024/"><u>Online Oasis Viewer for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-maximizing-engagement-essential-strategies-for-facebook-video-promotion/"><u>[New] Maximizing Engagement  Essential Strategies for Facebook Video Promotion</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-digital-dynamics-how-to-share-videos-effectively-on-facebooks-stage/"><u>[Updated] 2024 Approved  Digital Dynamics  How to Share Videos Effectively on Facebook's Stage</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-the-blueprint-to-youtube-wealth-smart-strategies-for-facebook-video-marketing/"><u>2024 Approved  The Blueprint to YouTube Wealth  Smart Strategies for Facebook Video Marketing</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-elevate-your-brand-youtube-thumbnail-design-sizing-and-optimization-techniques/"><u>New In 2024, Elevate Your Brand YouTube Thumbnail Design, Sizing, and Optimization Techniques</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-a-guide-to-tailoring-your-hashtag-strategy-for-maximum-engagement-and-conversion-rates-on-facebook/"><u>[Updated] In 2024, A Guide to Tailoring Your Hashtag Strategy for Maximum Engagement and Conversion Rates on Facebook</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-strengthening-your-brand-with-high-quality-fb-covers/"><u>[Updated] Strengthening Your Brand with High-Quality FB Covers</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-female-gamers-faction-yts-10-stars/"><u>[Updated] Female Gamers Faction  YT's #10 Stars</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-the-ultimate-guide-to-fb-timing-and-free-tools/"><u>[Updated] The Ultimate Guide to FB Timing & Free Tools</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-4-sim-location-trackers-to-easily-find-your-lost-vivo-y100-5g-device-by-drfone-android/"><u>Top 4 SIM Location Trackers To Easily Find Your Lost Vivo Y100 5G Device</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-composition-techniques-for-eye-catching-fb-ad-content-for-2024/"><u>[New] Composition Techniques for Eye-Catching FB Ad Content for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-watch-hulu-outside-us-on-itel-a60-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Itel A60 | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/does-xiaomi-redmi-12-5g-support-mkv-video-files-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Does Xiaomi Redmi 12 5G support MKV video files?</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-pokemon-go-no-gps-signal-heres-every-possible-solution-on-apple-iphone-13-drfone-by-drfone-virtual-ios/"><u>In 2024, Pokemon Go No GPS Signal? Heres Every Possible Solution On Apple iPhone 13 | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-conquering-the-crash-solutions-for-windows-10-photos-issues/"><u>2024 Approved  Conquering the Crash  Solutions for Windows 10 Photos Issues</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-system-of-iphone-14-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair System of iPhone 14 Plus? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-seamless-integration-of-fb-video-on-tv-screens/"><u>[New] Seamless Integration of Fb Video on TV Screens</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-surviving-the-social-shunning-fbs-invisible-rules-unveiled/"><u>[New] Surviving the Social Shunning  FB's Invisible Rules Unveiled</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-crafty-impostors-exposed-spotting-fabricated-followers-for-2024/"><u>[New] Crafty Impostors Exposed  Spotting Fabricated Followers for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-android-unlock-code-sim-unlock-your-tecno-pova-5-pro-phone-and-remove-locked-screen-by-drfone-android/"><u>In 2024, Android Unlock Code Sim Unlock Your Tecno Pova 5 Pro Phone and Remove Locked Screen</u></a></li>
+</ul></div>

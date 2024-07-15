@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  The Hunt for Hit Tunes and Viral Videos on FB\""
-date: 2024-06-30T13:14:34.565Z
-updated: 2024-07-01T13:14:34.565Z
+date: 2024-07-14T01:52:33.408Z
+updated: 2024-07-15T01:52:33.408Z
 tags:
   - ai video
   - ai facebook
@@ -345,6 +345,9 @@ From the list of activities, select “Videos you’ve watched.” This will dis
 
 ![Select “Videos you’ve watched”](https://images.wondershare.com/filmora/article-images/2021/find-videos-on-facebook-12.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Finding Recently Watched Videos on Phone
 
 Now, let's see how it works on the mobile. Follow the step-by-step guideline.
@@ -373,6 +376,9 @@ You will see three dots beside the "Add to Story" button. Click on them. This wi
 
 From the Profile Settings, click on “Activity Log” and then scroll down. Click on “Logged actions and other activity.”
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Go to “Activity Log”](https://images.wondershare.com/filmora/article-images/2021/find-videos-on-facebook-15.png)
 
 ![Click on “Logged actions and other activity.”](https://images.wondershare.com/filmora/article-images/2021/find-videos-on-facebook-16.png)
@@ -569,10 +575,16 @@ From the Profile Settings, click on “Activity Log” and then scroll down. Cli
 
 From the list of activities, tap on “Videos you’ve watched.”
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
 ![Click on “Videos you’ve watched.”](https://images.wondershare.com/filmora/article-images/2021/find-videos-on-facebook-17.png)
 
 The screen will display all the videos you have watched recently. Watch the one you were looking for and enjoy!
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Side note
 
 Videos are a very effective way of expressing yourself. If you wish to upload your own videos to Facebook, we recommend a video editor called Wondershare Filmora. Make a video and then use Wondershare Filmora and its multitude of features to edit the video.
@@ -800,3 +812,49 @@ We hope it helps!
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://android-unlock.techidaily.com/how-to-change-lock-screen-wallpaper-on-motorola-moto-g-stylus-2023-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Motorola Moto G Stylus (2023)</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-quick-tip-to-uncover-your-recently-watched-movies-on-fb-for-2024/"><u>[New] Quick Tip to Uncover Your Recently Watched Movies on FB for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-interactive-tips-youtube-to-facebook-shareability/"><u>[New] 2024 Approved  Interactive Tips  YouTube to Facebook Shareability</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/best-pokemons-for-pvp-matches-in-pokemon-go-for-tecno-spark-10c-drfone-by-drfone-virtual-android/"><u>Best Pokemons for PVP Matches in Pokemon Go For Tecno Spark 10C | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-creating-captivating-360-footage-for-social-media-sharing-for-2024/"><u>[Updated] Creating Captivating 360 Footage for Social Media Sharing for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/catch-or-beat-sleeping-snorlax-on-pokemon-go-for-nokia-c12-pro-drfone-by-drfone-virtual-android/"><u>Catch or Beat Sleeping Snorlax on Pokemon Go For Nokia C12 Pro | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-mastering-the-art-of-watermarking-on-facebook-for-2024/"><u>[New] Mastering the Art of Watermarking on Facebook for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-joining-friends-and-family-online-facebook-setup-guide/"><u>[Updated] In 2024, Joining Friends and Family Online (Facebook Setup Guide)</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-compile-and-connect-videos-on-youtv/"><u>2024 Approved  Compile and Connect Videos on YouTV</u></a></li>
+<li><a href="https://techidaily.com/different-methods-for-resetting-nokia-c110-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Nokia C110 Phones with Screen Locked and Not | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-vivo-v30-lite-5g-location-by-number-drfone-by-drfone-virtual-android/"><u>How to Track Vivo V30 Lite 5G Location by Number | Dr.fone</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-in-2024-talkative-movies-trimmed-down-steps-for-eliminating-sound-in-popular-video-types-mp4mkvavimov/"><u>Updated In 2024, Talkative Movies Trimmed Down Steps for Eliminating Sound in Popular Video Types (MP4/MKV/AVI/MOV)</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-beauty-brilliance-inside-the-world-of-youtube-cosmetics/"><u>[New] In 2024, Beauty Brilliance  Inside the World of Youtube Cosmetics</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-facebooks-edge-mastering-the-art-of-360-videos-for-2024/"><u>[New] Facebook's Edge  Mastering the Art of 360 Videos for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-flip-the-like-ratio-with-squared-up-social-media-content-for-2024/"><u>[New] Flip the Like Ratio with Squared-Up Social Media Content for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-maximizing-roi-adopting-the-power-of-triple-strategies-in-copywriting-for-facebook-advertising-for-2024/"><u>[Updated] Maximizing ROI  Adopting the Power of Triple Strategies in Copywriting for Facebook Advertising for 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-the-updated-method-to-bypass-infinix-note-30i-frp-by-drfone-android/"><u>In 2024, The Updated Method to Bypass Infinix Note 30i FRP</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-harnessing-creative-energy-for-impactful-lyric-videos-and-lyric-video-maker/"><u>[Updated] In 2024, Harnessing Creative Energy for Impactful Lyric Videos & Lyric Video Maker</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-get-the-apple-id-verification-code-on-apple-iphone-12-pro-max-in-the-best-ways-by-drfone-ios/"><u>In 2024, How To Get the Apple ID Verification Code On Apple iPhone 12 Pro Max in the Best Ways</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-elevating-visual-experience-big-is-better/"><u>[Updated] 2024 Approved  Elevating Visual Experience  Big Is Better</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-best-techniques-for-capturing-youtube-live-video-for-2024/"><u>[New] Best Techniques for Capturing YouTube Live Video for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-direct-mp4-uploader-perfect-for-facebook-channels-for-2024/"><u>[Updated] Direct MP4 Uploader  Perfect for Facebook Channels for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/reliable-user-guide-to-fix-vivo-s18e-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Vivo S18e Running Slow and Freezing | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-crafting-stories-that-capture-attention-a-3-tiered-approach-to-fb-advertising-copywriting/"><u>[Updated] In 2024, Crafting Stories That Capture Attention  A 3-Tiered Approach to FB Advertising Copywriting</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-innovation-at-the-heart-the-evolution-of-magix-music-maker/"><u>[New] In 2024, Innovation at the Heart  The Evolution of Magix Music Maker</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-is-it-possible-to-see-all-chatted-content-of-others-for-2024/"><u>[Updated] Is It Possible to See All Chatted Content of Others for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-cutting-edge-ad-strategies-for-peak-performance-on-facebook/"><u>[New] In 2024, Cutting-Edge Ad Strategies for Peak Performance on Facebook</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-remove-iphone-se-2020-sim-lock-by-drfone-ios/"><u>In 2024, How to Remove iPhone SE (2020) SIM Lock?</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/spectacularly-in-3d-apt-selection-of-top-decks-for-2024/"><u>Spectacularly in 3D  Apt Selection of Top Decks for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-echovid-save-facebook-calls/"><u>[Updated] In 2024, EchoVid - Save Facebook Calls</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-elevate-your-profile-game-strategies-for-fb-success/"><u>[New] 2024 Approved  Elevate Your Profile Game  Strategies for FB Success</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-eliminating-iphoneandroid-issues-with-fb-message-video-sharing-for-2024/"><u>[Updated] Eliminating iPhone/Android Issues with FB Message Video Sharing for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/detailed-capture-gopro-hero5-vs-sjcam-sj7/"><u>Detailed Capture  GoPro Hero5 vs SJCAM SJ7</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-leading-9-movie-extractors-for-fb/"><u>[Updated] In 2024, Leading 9 Movie Extractors for FB</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-how-to-stream-a-pre-recorded-video-live-on-facebook-for-2024/"><u>[Updated] How to Stream A Pre-Recorded Video Live on Facebook for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-advanced-tips-for-3d-color-grading/"><u>[Updated] Advanced Tips for 3D Color Grading</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-elevate-social-media-content-to-hd-clarity-on-facebook-for-2024/"><u>[New] Elevate Social Media Content to HD Clarity on Facebook for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-preventing-social-media-platforms-intrusive-ads/"><u>[Updated] In 2024, Preventing Social Media Platform's Intrusive Ads</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-syncsavvy-experts-opinion/"><u>[New] SyncSavvy Experts Opinion</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-ranking-the-top-8-apps-to-increase-popularity-on-facebook/"><u>[New] 2024 Approved  Ranking the Top 8 Apps to Increase Popularity on Facebook</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-elevate-your-social-presence-proven-methods-for-fb-fan-expansion/"><u>[Updated] In 2024, Elevate Your Social Presence  Proven Methods for FB Fan Expansion</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/epic-video-editing-add-mind-blowing-effects-to-your-videos/"><u>Epic Video Editing Add Mind-Blowing Effects to Your Videos</u></a></li>
+</ul></div>

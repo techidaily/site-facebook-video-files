@@ -1,7 +1,7 @@
 ---
 title: "Navigating to Facebook's Story Archives Quickly"
-date: 2024-05-20T14:02:10.336Z
-updated: 2024-05-21T14:02:10.336Z
+date: 2024-07-14T02:03:59.716Z
+updated: 2024-07-15T02:03:59.716Z
 tags:
   - ai video
   - ai facebook
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes Navigating to Facebook's Story Archives Quickly"
 excerpt: "This Article Describes Navigating to Facebook's Story Archives Quickly"
 keywords: "Story Archive Access,Fast Story Browsing,FB Story Collection,Navigate Story Pages,History FB Stories,Quick Story Search,Facebook Story History"
-thumbnail: https://www.lifewire.com/thmb/_wwVT4o2gVZBhxBpU7jNydZ5EEY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/gettyimages-612441534-2000-915697f3325a4f2f9c1f2822c925a493.jpg
+thumbnail: https://thmb.techidaily.com/769d83492280fd0660acd0112190d1d990d0e4305860168c39e79719f29b2ea7.jpg
 ---
 
 ## Navigating to Facebook's Story Archives Quickly
@@ -71,6 +71,9 @@ You can find and see the old stories on Facebook with the help of the archived s
 
 **Step 3:** Then Select “Archive” from the given options.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![watch old stories facebook](https://images.wondershare.com/filmora/article-images/2021/watch-old-stories-facebook.jpg)
 
 **Step 4:** Scroll towards the right and select on Story Archives tab.
@@ -93,12 +96,18 @@ An old highlighted story shared by your friend would appear on your friend’s p
 
 So for the above discussed all ways the only must thing is to setting archive on which would allow you to re-watch stories again and solve your doubt of how to view old stories on Facebook.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 5: How to Create Facebook Videos with Ease?
 
 If you think that to create amazing videos for Facebook, you need to be a professional then let me tell you that it is not at all necessary. But yes you need to be aware of the right video editing software to help you with and solve your need to create a stunning video.
 
 To attract more audience and gain more likes, comments all you need is a smart [video editor](https://tools.techidaily.com/wondershare/filmora/download/) like a Wondershare Filmora. It is one of the most effective video editing tools that help you edit your elements quickly and easily upload over Facebook.
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 **Features:**
@@ -511,6 +520,9 @@ You can crop, trim, cut, split, and merge your video in a few clicks in Wondersh
 
 Also, you can add various text effects and add Lower 3rds and subtitles. It has nearly 300 filters, overlays, and elements embedded in Filmora that you can use for your Facebook video and make it look amazing.
 
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Export and Share
 
 Once you are done with the video editing you need to do is to export and publish it on Facebook. You need to click on Export and you would get few saving options. You can save it to your smartphone or in .mp4 format and upload it to Facebook later. Wondershare Filmora let you share your video to platforms such YouTube, Vimeo, or burn it to the DVD collection.
@@ -556,3 +568,50 @@ Follow @Shanoon Cox
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-perfect-your-social-media-presence-wirecast-streaming-tips/"><u>In 2024, Perfect Your Social Media Presence  Wirecast Streaming Tips</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-learn-to-produce-fb-video-ads-using-free-kit/"><u>In 2024, Learn to Produce FB Video Ads Using Free Kit</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/basics-of-effective-fb-ad-cta-design/"><u>Basics of Effective FB Ad CTA Design</u></a></li>
+<li><a href="https://article-tips.techidaily.com/action-camera-boosters-and-their-buyers-guide-for-2024/"><u>Action Camera Boosters and Their Buyer's Guide for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-free-fb-music-journey-begins-here/"><u>2024 Approved  Free FB Music Journey Begins Here</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-photos-files-on-meizu-21-by-fonelab-android-recover-photos/"><u>Complete guide for recovering photos files on Meizu 21.</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-20-gratuitous-fb-video-makers-for-professional-ad-content/"><u>[Updated] 20 Gratuitous FB Video Makers for Professional Ad Content</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-most-extensive-selection-of-free-illustrator-portals/"><u>[Updated] The Most Extensive Selection of Free Illustrator Portals</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/social-media-content-conundrums-finding-elusive-vids/"><u>Social Media Content Conundrums  Finding Elusive Vids</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/direct-tweeting-to-your-facebook-followers-for-2024/"><u>Direct Tweeting to Your Facebook Followers for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/rhythmic-reflections-in-photo-cinema/"><u>Rhythmic Reflections in Photo Cinema</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-unveiling-the-hidden-fixes-for-fb-video-upload-woes-for-2024/"><u>[Updated] Unveiling the Hidden Fixes for Fb Video Upload Woes for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-best-subtitle-manipulators-the-top-10-list-online/"><u>In 2024, Best Subtitle Manipulators - The Top 10 List (Online)</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-easy-techniques-to-download-gif-images-from-social-media/"><u>[Updated] Easy Techniques to Download GIF Images From Social Media</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-augmenting-visual-appeal-implementing-black-bar-and-box-on-fb/"><u>[New] Augmenting Visual Appeal  Implementing Black Bar & Box on FB</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/navigating-through-fbs-in-stream-ad-landscape-configuration-and-evaluation-techniques-for-2024/"><u>Navigating Through FB's In-Stream Ad Landscape  Configuration and Evaluation Techniques for 2024</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-unlock-apple-id-activation-lock-on-apple-iphone-se-by-drfone-ios/"><u>In 2024, How to Unlock Apple ID Activation Lock On Apple iPhone SE?</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-your-guide-to-gaining-facebooks-elite-verification-badge/"><u>[Updated] In 2024, Your Guide to Gaining Facebook's Elite Verification Badge</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/how-to-react-when-youre-your-own-reflection-in-a-video-call-for-2024/"><u>How to React When You're Your Own Reflection in a Video Call for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-video-files-on-zte-by-fonelab-android-recover-video/"><u>Complete guide for recovering video files on ZTE</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-unraveling-video-transmission-errors-in-facebooks-popular-messaging-apps-for-2024/"><u>[Updated] Unraveling Video Transmission Errors in Facebook's Popular Messaging Apps for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-unlocking-the-secrets-of-reversed-visual-exploration-online-facebook/"><u>[Updated] 2024 Approved  Unlocking the Secrets of Reversed Visual Exploration Online (Facebook)</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/launching-your-sports-network-from-a-mac-desktop-for-2024/"><u>Launching Your Sports Network From a Mac Desktop for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/6-proven-ways-to-unlock-vivo-x-flip-phone-when-you-forget-the-password-by-drfone-android/"><u>6 Proven Ways to Unlock Vivo X Flip Phone When You Forget the Password</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-enhancing-user-experience-creating-high-roi-animated-ads-for-fb/"><u>[Updated] Enhancing User Experience  Creating High-ROI Animated Ads for FB</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-vids-in-verse-strategies-for-effective-twitter-video-downloads/"><u>[New] 2024 Approved  Vids in Verse  Strategies for Effective Twitter Video Downloads</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/efficiently-explore-every-entry-facebook-profile-hunt-101/"><u>Efficiently Explore Every Entry  Facebook Profile Hunt 101</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/facebooks-vibe-todays-hot-ten-music-clips/"><u>Facebook’s Vibe  Today’s Hot Ten Music Clips</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-optimal-webcams-enhancing-audio-experience/"><u>In 2024, Optimal Webcams Enhancing Audio Experience</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-chinas-economical-virtual-reality-options/"><u>2024 Approved  China's Economical Virtual Reality Options</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/leaders-in-likeability-the-best-app-list-on-androidiphone/"><u>Leaders in Likeability  The Best App List on Android/iPhone</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-whatsapp-meeting-room-setup-made-easy/"><u>[Updated] In 2024, WhatsApp Meeting Room Setup Made Easy</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/facebook-fans-access-more-from-your-twitch-channel/"><u>Facebook Fans  Access More From Your Twitch Channel</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-can-i-catch-the-regional-pokemon-without-traveling-on-vivo-x100-drfone-by-drfone-virtual-android/"><u>How Can I Catch the Regional Pokémon without Traveling On Vivo X100 | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-android-to-apple-how-to-transfer-photos-from-vivo-y77t-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Android to Apple How To Transfer Photos From Vivo Y77t to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-exclusive-list-20-complimentary-tools-for-fb-ad-producers/"><u>2024 Approved  Exclusive List  20 Complimentary Tools for Fb Ad Producers</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-understanding-the-social-tv-landscape-rokus-role/"><u>[Updated] 2024 Approved  Understanding the Social TV Landscape  Roku's Role</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-6-methods-for-switching-from-apple-iphone-8-plus-to-samsung-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 6 Methods for Switching from Apple iPhone 8 Plus to Samsung | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-unlocking-the-secrets-of-reversed-visual-exploration-online-facebook/"><u>[Updated] In 2024, Unlocking the Secrets of Reversed Visual Exploration Online (Facebook)</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-xiaomi-redmi-note-13-5g-get-deleted-phone-number-back-with-ease-and-safety-by-fonelab-android-recover-contacts/"><u>How to Xiaomi Redmi Note 13 5G Get Deleted Phone Number Back with Ease and Safety</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-navigate-effortlessly-the-best-5-chrome-addons-for-downloading-fb-videos/"><u>[New] Navigate Effortlessly  The Best 5 Chrome Addons for Downloading FB Videos</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-easywebcamusage-recordingtipsandtricks/"><u>[New] In 2024, EasyWebCamUsage  RecordingTipsAndTricks</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-2024-approved-unveiling-the-blueprint-step-by-step-guide-to-discoscreen-sharing/"><u>[New] 2024 Approved  Unveiling the Blueprint  Step-by-Step Guide to DiscoScreen Sharing</u></a></li>
+</ul></div>

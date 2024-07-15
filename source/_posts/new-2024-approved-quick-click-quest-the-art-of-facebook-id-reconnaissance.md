@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Quick Click Quest  The Art of Facebook ID Reconnaissance\""
-date: 2024-05-20T14:04:54.364Z
-updated: 2024-05-21T14:04:54.364Z
+date: 2024-07-14T02:11:23.392Z
+updated: 2024-07-15T02:11:23.392Z
 tags:
   - ai video
   - ai facebook
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] 2024 Approved: Quick Click Quest: The Art of Facebook ID Reconnaissance\""
 excerpt: "\"This Article Describes [New] 2024 Approved: Quick Click Quest: The Art of Facebook ID Reconnaissance\""
 keywords: "Facebook ID Hunt,Social Media Checking,Quick ID Search,Click Quest Analysis,Reconnaissance Methods,FriendID Discovery,Online Identity Research"
-thumbnail: https://www.lifewire.com/thmb/35EJIYWnOjf-DPYyt8jATjphfKo=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/couple-reading-map-on-waterfront--young-woman-using-mobile-phone-200326285-001-5a948525119fa80036dc10c9.jpg
+thumbnail: https://thmb.techidaily.com/c62b5284641027dfddd7dff7e86c9bcc06523e51b87668f0c388f2d39f0ecdca.jpg
 ---
 
 ## Quick Click Quest: The Art of Facebook ID Reconnaissance
@@ -117,10 +117,16 @@ Here are two ways to search people on Facebook. The second option also helps you
 
 ## Part 1: How to search people on Facebook
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Step 1: Log in to Facebook
 
 Open Facebook on your computer – Firstly, open a web browser and get to the Facebook website. You can find the log in fields on the top right corner of the page. Input your user ID and password and hit the login button at the side to proceed further.
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Step 2: Check your list of Friends on Facebook
 
 On the header tool icons, click on your name and you are directed to your Facebook wall or timeline. Just below your cover image, click the friend’s tab, to reach the Friends page that shows all your friends on Facebook.
@@ -173,6 +179,9 @@ If you want to make Facebook videos, try to use [Filmora](https://tools.techidai
 
 [](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
@@ -289,6 +298,9 @@ On the header tool icons, click on your name and you are directed to your Facebo
 
 ![facebook friends tab](https://images.wondershare.com/filmora/article-images/facebook-friends-tab.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Step 3: Friends Finder Page
 
 To reach the friend’s finder page, click on “find friends” from the friends’ page header. Doing so takes you to the “Friends Finder” page of Facebook.
@@ -368,3 +380,63 @@ Follow @Shanoon Cox
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-breakthrough-technology-for-screens-showmores-revolutionary-recorder/"><u>[Updated] 2024 Approved  Breakthrough Technology for Screens  ShowMore's Revolutionary Recorder</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-instantly-connecting-fans-how-to-take-your-fb-live-further-for-2024/"><u>[New] Instantly Connecting Fans  How to Take Your FB Live Further for 2024</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-bypass-icloud-activation-lock-on-ipod-and-iphone-xr-the-right-way-by-drfone-ios/"><u>How To Bypass iCloud Activation Lock On iPod and iPhone XR The Right Way</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-pathway-to-accessing-fb-videos-via-windowsmacos/"><u>[New] 2024 Approved  Pathway to Accessing FB Videos via Windows/macOS</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-fb-content-takedown-what-are-your-rights-and-recourse-for-2024/"><u>[Updated] FB Content Takedown  What Are Your Rights and Recourse for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-sudden-shadow-immediate-copyright-issue/"><u>[Updated] 2024 Approved  Sudden Shadow  Immediate Copyright Issue</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-facebook-video-submission-pc-and-android-users-blueprint/"><u>[Updated] 2024 Approved  Facebook Video Submission  PC and Android Users' Blueprint</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-breaking-down-the-abcd-a-guide-to-crafting-compelling-fb-text/"><u>[Updated] 2024 Approved  Breaking Down the ABCD  A Guide to Crafting Compelling FB Text</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-error-12-failed-to-detect-location-on-nokia-c12-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go Error 12 Failed to Detect Location On Nokia C12? | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/exclusive-secrets-for-windows-11-mastery/"><u>Exclusive Secrets for Windows 11 Mastery</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-reaching-into-shared-snippets-of-life-on-messenger/"><u>[New] 2024 Approved  Reaching Into Shared Snippets of Life on Messenger</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-nikons-bold-move-into-4k-with-the-innovative-j5-model/"><u>[New] Nikon's Bold Move Into 4K with The Innovative J5 Model</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-dive-into-a-stream-of-9-full-length-festive-flicks-no-charge/"><u>2024 Approved  Dive Into a Stream of 9 Full-Length Festive Flicks - No Charge</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-where-can-i-find-brush-sound-effect/"><u>Updated 2024 Approved Where Can I Find Brush Sound Effect?</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-erase-your-online-presence-post-facebook-stories-for-2024/"><u>[Updated] Erase Your Online Presence Post-Facebook Stories for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-the-modern-professionals-must-have-collect-these-8-innovations-now-for-2024/"><u>[Updated] The Modern Professional's Must-Have  Collect These 8 Innovations Now for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/pattern-locks-are-unsafe-secure-your-infinix-smart-8-pro-phone-now-with-these-tips-by-drfone-android/"><u>Pattern Locks Are Unsafe Secure Your Infinix Smart 8 Pro Phone Now with These Tips</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-how-to-increase-followers-on-facebook-10-effective-ways-for-2024/"><u>[New] How to Increase Followers on Facebook (10 Effective Ways ) for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/-purging-techniques-for-streaming-success/"><u>Audio Purging Techniques for Streaming Success</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-navigate-through-group-sharing-options-on-messenger/"><u>[New] In 2024, Navigate Through Group Sharing Options on Messenger</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-reach-optimal-timestamp-in-fb-posting/"><u>[Updated] In 2024, Reach Optimal Timestamp in Fb Posting</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-interactive-media-adding-audio-to-visual-narratives-for-2024/"><u>[Updated] Interactive Media  Adding Audio to Visual Narratives for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-crafting-captivating-campaigns-elevating-roi-in-fbs-animation-space/"><u>[Updated] In 2024, Crafting Captivating Campaigns  Elevating ROI in FB's Animation Space</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-understanding-googles-audio-streaming-service-a-guide-to-the-podcast-application/"><u>Updated 2024 Approved Understanding Googles Audio Streaming Service A Guide to the Podcast Application</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-add-on-effectiveness-implementing-end-cuts-on-vimeo/"><u>[Updated] Add-On Effectiveness  Implementing End Cuts on Vimeo</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-the-complete-business-guide-to-facebook-marketing-mastery/"><u>[New] 2024 Approved  The Complete Business Guide to Facebook Marketing Mastery</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-zero-to-hero-a-step-by-step-approach-to-youtube-backlinks-for-2024/"><u>[New] From Zero to Hero  A Step-by-Step Approach to YouTube Backlinks for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-legal-framework-the-fine-print-for-facebook-video-postings/"><u>[Updated] Legal Framework  The Fine Print for Facebook Video Postings</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-cutting-edge-editors-to-craft-engaging-facebook-ad-videos/"><u>[New] 2024 Approved  Cutting-Edge Editors to Craft Engaging Facebook Ad Videos</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-social-media-influencers-secret-creating-captivating-facebook-biographies/"><u>[Updated] In 2024, Social Media Influencers' Secret  Creating Captivating Facebook Biographies</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-becoming-a-seo-guru-top-ten-facebook-optimization-tactics/"><u>[Updated] 2024 Approved  Becoming a SEO Guru  Top Ten Facebook Optimization Tactics</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-revive-the-unseen-watch-video-icon-on-fb/"><u>[Updated] 2024 Approved  Revive the Unseen Watch Video Icon on FB</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-the-path-to-pinpointing-your-liked-content-on-facebook/"><u>In 2024, The Path to Pinpointing Your Liked Content on Facebook</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-what-is-behind-the-blue-icon-that-graces-your-messenger-chat-window/"><u>[Updated] What Is Behind the Blue Icon that Graces Your Messenger Chat Window?</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-apple-iphone-se-online-without-jailbreak-by-drfone-ios/"><u>How to Unlock SIM Card on Apple iPhone SE online without jailbreak</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/techniques-to-pull-facebook-videos-easily-for-2024/"><u>Techniques to Pull Facebook Videos Easily for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-overcoming-obstacles-to-display-videos-prominently/"><u>[Updated] 2024 Approved  Overcoming Obstacles to Display Videos Prominently</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-deciphering-old-facebook-threads-a-step-by-step-mobile-and-desktop-guide-for-2024/"><u>[New] Deciphering Old Facebook Threads  A Step-by-Step Mobile & Desktop Guide for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-digital-companion-fb-stories-collector-for-2024/"><u>[Updated] Digital Companion - FB Stories Collector for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-tips-to-incorrante-tv-with-facebook-live-integration/"><u>[Updated] Tips to Incorrante TV with Facebook Live Integration</u></a></li>
+<li><a href="https://change-location.techidaily.com/here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-vivo-v29-pro-drfone-by-drfone-virtual-android/"><u>Here are Some Pro Tips for Pokemon Go PvP Battles On Vivo V29 Pro | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-seamless-transition-from-tv-to-facebook-lives/"><u>[New] 2024 Approved  Seamless Transition  From TV to Facebook Lives</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-non-vimeo-showstoppers-for-online-content-creators-for-2024/"><u>[Updated] Non-Vimeo Showstoppers for Online Content Creators for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-design-principles-for-captivating-fb-advertising/"><u>[New] 2024 Approved  Design Principles for Captivating FB Advertising</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-silence-social-advertisements-for-a-smoother-stream-for-2024/"><u>[New] Silence Social Advertisements for a Smoother Stream for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-top-tools-for-social-media-marketers-20-free-fb-video-editors-for-2024/"><u>[New] Top Tools for Social Media Marketers  20 Free FB Video Editors for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-fb-link-savers-discover-8-free-and-easy-online-tools/"><u>[Updated] In 2024, FB Link Savers  Discover 8 Free & Easy Online Tools</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-facebooks-real-time-media-watch-guide-2023-for-2024/"><u>[Updated] Facebook's Real-Time Media  Watch Guide, 2023 for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/best-free-online-face-generators-to-create-fake-faces-for-2024/"><u>Best Free Online Face Generators to Create Fake Faces for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-mastering-social-media-splitscreen-a-facebook-guide/"><u>[New] 2024 Approved  Mastering Social Media Splitscreen  A Facebook Guide</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-transforming-challenges-into-triumphs-with-these-30-tips/"><u>[New] 2024 Approved  Transforming Challenges Into Triumphs with These 30 Tips</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/what-is-sora-by-openai-everything-you-need-to-know/"><u>What Is Sora by OpenAI Everything You Need To Know</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-survey-facebook-video-proportions-for-2024/"><u>[New] Survey  Facebook Video Proportions for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-seamless-social-circulation-sharing-your-journey-through-video-on-facebook-for-2024/"><u>[New] Seamless Social Circulation  Sharing Your Journey Through Video on Facebook for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-best-practices-for-livestreaming-full-spheres-on-facebook/"><u>[New] 2024 Approved  Best Practices for Livestreaming Full Spheres on Facebook</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-in-2024-epic-battles-and-dynamic-choreography-for-tiktoks/"><u>[New] In 2024, Epic Battles & Dynamic Choreography for TikToks</u></a></li>
+</ul></div>
