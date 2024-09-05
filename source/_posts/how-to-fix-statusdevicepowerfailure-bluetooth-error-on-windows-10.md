@@ -1,7 +1,7 @@
 ---
 title: How to Fix Status_Device_Power_Failure Bluetooth Error on Windows 10
-date: 2024-07-29T17:31:21.226Z
-updated: 2024-07-30T17:31:21.226Z
+date: 2024-09-04T17:35:12.902Z
+updated: 2024-09-05T17:35:12.902Z
 tags:
   - win11
   - win10
@@ -17,35 +17,20 @@ thumbnail: https://thmb.techidaily.com/4cde13e35fb005f35b03fe575a760700ef2f31716
 
 Does this look familiar?
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59898309af0af.png)
 
  If you find your Bluetooth device stop working and it shows **Status\_Device\_Power\_Failure**  error of your Bluetooth driver in Device Manager, don’t worry!
 
 We have a quick fix for you.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Step 1\. Uninstall the Bluetooth driver you have
 
 1. On your keyboard, press the **Windows logo** key +**X** together to open the quick-access menu.
 2. Click**Device Manager** .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_598984ad63bff.png)
 3. On the open window, double-click**Bluetooth** . Then right-click on the Bluetooth driver you have and choose**Uninstall device** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be940bc40e71.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Step 2\. Install the latest Bluetooth driver on your Windows 10
 
  To get the correct latest Bluetooth driver, you can download the correct one from the manufacturer’s website. Or you can reboot Windows 10 to let Windows 10 reinstall the driver for you.
@@ -57,9 +42,6 @@ We have a quick fix for you.
  You can update your drivers automatically with either the**FREE** or the**Pro version** of Driver Easy. But with the Pro version it takes just 2 clicks:
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**   and install Driver Easy.
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
 2. Run Driver Easy and click **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers. Your Bluetooth driver is no exception.![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59898889afa26.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 **Note**  : You can do it for free if you like, but it’s partly manual. ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_598a6a30c804d.jpg)
@@ -119,3 +101,10 @@ We have a quick fix for you.
 <li><a href="https://some-guidance.techidaily.com/unveiling-the-ultimate-photo-frame-tools-for-2024/"><u>Unveiling the Ultimate Photo Frame Tools for 2024</u></a></li>
 <li><a href="https://fox-helps.techidaily.com/utilizing-azure-speech-to-text-api-for-2024/"><u>Utilizing Azure Speech-to-Text API for 2024</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
