@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Streamline Social Sharing  Integrate Your FB Story\""
-date: 2024-07-14T01:36:32.739Z
-updated: 2024-07-15T01:36:32.739Z
+date: 2024-09-08T05:57:47.849Z
+updated: 2024-09-14T19:51:02.203Z
 tags:
   - ai video
   - ai facebook
@@ -49,9 +49,6 @@ Note: Before we share the steps that you need to follow, please keep in mind tha
 
 **Step 1:** Open Facebook and log in. Now, open the Facebook page. Click on the + icon on the profile picture of that Facebook page. Once done, you will see the option to create a story. Please click on that.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![create Facebook Page story](https://images.wondershare.com/filmora/article-images/create-story-on-facebook-page.jpg)
 
 **Step 2:** You need to type the website name and, on the top, you will see the link icon. Once you are ready with the website name, click on the link icon. Now can choose some buttons based on what kind of link you have shared. For example, shop now, book now, call now, and so on.
@@ -109,6 +106,13 @@ Facebook stories offer another feature, which is known as the Swipe Up Link. On 
 Please note that the swipe option will be visible to your audience only after you have added the link.
 
 ![Filmora logo](https://images.wondershare.com/filmora/logo_icon/wondershare-filmora-logo-horizontal.png) ![filmora product interface](https://images.wondershare.com/filmora/images/common/filmora-product-banner.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Social Media Video Maker and Editor
 
@@ -221,11 +225,15 @@ Facebook stories offer another feature, which is known as the Swipe Up Link. On 
 
 ![add link to swipe up button to Facebook story](https://images.wondershare.com/filmora/article-images/add-link-to-swipe-up-button-facebook-story.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Please note that the swipe option will be visible to your audience only after you have added the link.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Filmora logo](https://images.wondershare.com/filmora/logo_icon/wondershare-filmora-logo-horizontal.png) ![filmora product interface](https://images.wondershare.com/filmora/images/common/filmora-product-banner.png)
 
 ### Social Media Video Maker and Editor
@@ -250,6 +258,13 @@ For macOS 10.12 or later
 So, that’s it. These are some ways to **add a link to** your **Facebook story.** We hope this article has been helpful to you. Leverage this feature if you are a business page or an influencer and want more people to engage with your website and your brand.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Richard Bennett
 
@@ -293,6 +308,13 @@ Note: Before we share the steps that you need to follow, please keep in mind tha
 
 And that’s it; your story will be added to Facebook Story.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 3: How to Add Link to Facebook Story Using WhatsApp?
 
 Facebook acquired WhatsApp in February 2014, and since both the apps are connected with each other, you can easily cross-post your WhatsApp status on the Facebook Story page. WhatsApp status feature is the same as Facebook story. It stays for 24 hours.
@@ -333,10 +355,14 @@ Facebook stories offer another feature, which is known as the Swipe Up Link. On 
 
 **Step 2:** Now, click on the + icon that you can see on the profile picture. After that, you need to click on the Create Story option.
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![add swipe up button to Facebook story](https://images.wondershare.com/filmora/article-images/add-swipe-up-button-facebook-story.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 3:** On your story page, you see a link icon. Click on that, and you will be able to add the link you want to add to the story. Choose any of the buttons, and the link will now be ready.
 
@@ -419,9 +445,6 @@ Facebook acquired WhatsApp in February 2014, and since both the apps are connect
 
 **Step 2:** Please, click on the Status tab, which will be right beside the Chats tab. Once you are there, you will see the My Status option with a + icon. You need to click on that.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![add WhatsApp status](https://images.wondershare.com/filmora/article-images/add-whatsapp-status.jpg)
 
 **Step 3:** On your status page, you can add the link you want people to see. Now, share the link. Once done, right below your My Status, you will see an option “Share to Facebook Story.” To cross-post your WhatsApp status with the link, please click on “Share to Facebook Story.”
@@ -504,8 +527,6 @@ Follow @Richard Bennett
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -514,7 +535,16 @@ Follow @Richard Bennett
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-top-rated-asmr-gear-high-quality-priced-right/"><u>[New] 2024 Approved Top-Rated ASMR Gear High Quality, Priced Right</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-unlocking-full-potential-with-facebook-interaction/"><u>[New] 2024 Approved Unlocking Full Potential with Facebook Interaction</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-balance-relaxation-and-growth-with-this-ultimate-guide-to-multitasking-and-podcasting/"><u>[New] In 2024, Balance Relaxation and Growth With This Ultimate Guide to Multitasking & Podcasting</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-top-5-tools-for-fb-video-retrieval-made-simple/"><u>[New] In 2024, Top 5 Tools for FB Video Retrieval Made Simple</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-ideal-digital-talk-initiator/"><u>2024 Approved Ideal Digital Talk Initiator</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-online-guide-converting-fb-videos-to-mp4-at-hd-resolutions-for-free/"><u>2024 Approved Online Guide Converting FB Videos to MP4 at HD Resolutions for Free</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-art-of-image-transformation-with-3d-lut-in-photoshop/"><u>2024 Approved The Art of Image Transformation with 3D LUT in Photoshop</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/seamless-process-of-instagram-video-content/"><u>Seamless Process of Instagram Video Content</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-rated-video-doorbell-models-a-comprehensive-review/"><u>Top-Rated Video Doorbell Models : A Comprehensive Review</u></a></li>
+</ul></div>
 

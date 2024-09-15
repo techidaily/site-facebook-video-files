@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Tips: How to Correctly Fix Scanner Malfunctions"
-date: 2024-09-09T05:22:48.603Z
-updated: 2024-09-10T05:22:48.603Z
+date: 2024-09-12T04:40:05.820Z
+updated: 2024-09-15T08:00:21.118Z
 tags:
   - win11
   - win10
@@ -27,18 +27,6 @@ Trying to play**Madden 20** but**it keeps crashing** ? You’re certainly not al
 4. **[Install the latest game patch](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Reinstall Origin and Madden 20](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<span id="1936838">
-					<video width="374" height="48" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 1: Update your device drivers
 
  This problem may occur if you are using the wrong or outdated device drivers. So you should update your drivers to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -65,18 +53,6 @@ Trying to play**Madden 20** but**it keeps crashing** ? You’re certainly not al
 
 ---
 
-<!-- affiliate ads begin -->
-<span id="1975648">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Make sure your PC meets the system requirements of Madden 20
 
  Madden may also crash if your PC fails to meet its system requirements. So you should check your PC specs to see if it meets the system requirement for Madden 20.
@@ -107,18 +83,6 @@ Trying to play**Madden 20** but**it keeps crashing** ? You’re certainly not al
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-13.png)
 
-<!-- affiliate ads begin -->
-<span id="1977028">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) Under the **System** tab and you can check the **Operating System**  and **Memory** information on your PC.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-526.png)
@@ -135,12 +99,6 @@ Trying to play**Madden 20** but**it keeps crashing** ? You’re certainly not al
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Repair Madden 20
 
  The Madden 20 game crash error may also occur if the files are corrupt. So you can repair it in Origin.
@@ -159,6 +117,13 @@ Here is how to do it:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 4: Install the latest game patch
 
  The developers of Madden 20, EA Tiburon, keep releasing game patches to fix bugs. It’s possible that a recent bug has stopped your game from running smoothly, and that a new patch is required for the problem. So it’s recommended that you go to **EA official website**  , check for the latest patch, download and install it. Then check if it fixes the Madden 20 game crash problem.
@@ -167,12 +132,6 @@ Here is how to do it:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 5: Reinstall Origin and Madden 20
 
  If the above steps don’t solve the issue, then it’s likely that the files in Origin or Madden 20 are corrupt. So you can reinstall the client and the game to see if it solves the problem.
@@ -188,11 +147,18 @@ Here are the steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-175-1024x499.png)
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424533">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  4) Locate **Madden 20** and uninstall it too.
 
  5) Restart your computer.
@@ -215,8 +181,6 @@ Here are the steps:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -226,54 +190,17 @@ Here are the steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-2023-guide-to-discovering-facebook-hosted-films-and-shows/"><u>[New] 2023 Guide to Discovering Facebook-Hosted Films & Shows</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-elevate-your-page-a-guide-to-growing-facebook-followers/"><u>[New] 2024 Approved  Elevate Your Page  A Guide to Growing Facebook Followers</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-navigating-hashtag-use-for-maximum-marketing-reach/"><u>[New] 2024 Approved  Navigating Hashtag Use for Maximum Marketing Reach</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-olympic-spirits-2022s-short-track-feat/"><u>[New] 2024 Approved  Olympic Spirits  2022'S Short-Track Feat</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-creating-impactful-youtube-conclusion/"><u>[New] In 2024, Creating Impactful YouTube Conclusion</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-decoding-the-process-of-capturing-facebooks-gifs-on-mobilepc/"><u>[New] In 2024, Decoding the Process of Capturing Facebook's GIFs on Mobile/PC</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-how-to-use-xbox-screen-recorder/"><u>[New] In 2024, How to Use Xbox Screen Recorder</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/new-in-2024-step-into-the-arena-joining-lives-on-tiktok/"><u>[New] In 2024, Step Into the Arena  Joining Lives on TikTok</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-taking-your-reels-up-a-notch-with-these-top-editors/"><u>[New] In 2024, Taking Your Reels Up a Notch with These Top Editors</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-ultimate-3-fb-movie-extractors/"><u>[New] In 2024, Ultimate 3 Fb Movie Extractors</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-ultimate-mp4-to-social-media-focus-on-facebook/"><u>[New] In 2024, Ultimate MP4 to Social Media  Focus on Facebook</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-navigate-a-2023-hack-steps-to-regain-fb-access/"><u>[New] Navigate a 2023 Hack  Steps to Regain FB Access</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-solve-facebook-messenger-not-sending-videos-on-iphone-and-android/"><u>[Updated] 2024 Approved  Solve “Facebook Messenger Not Sending Videos” On iPhone and Android</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-essential-tactics-for-elevating-your-facebook-profile-ranks-for-2024/"><u>[Updated] Essential Tactics for Elevating Your Facebook Profile Ranks for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-fb-audio-clip-converter-direct-to-mp3-mode-for-2024/"><u>[Updated] FB Audio Clip Converter  Direct to MP3 Mode for 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-5-ios-friendly-fb-videos-optimal-downloading-apps/"><u>[Updated] In 2024, 5 iOS-Friendly FB Videos  Optimal Downloading Apps</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-avoid-video-ads-strategies-to-keep-ads-at-bay/"><u>[Updated] In 2024, Avoid Video Ads  Strategies to Keep Ads at Bay</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-decode-facebooks-algorithm-change-and-protect-your-reach/"><u>[Updated] In 2024, Decode Facebook’s Algorithm Change & Protect Your Reach</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-discovering-social-medias-top-5-innovations-in-fb/"><u>[Updated] In 2024, Discovering Social Media’s Top 5 Innovations in FB</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-enhancing-video-soundtracks-on-digital-platforms/"><u>[Updated] In 2024, Enhancing Video Soundtracks on Digital Platforms</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-the-essential-pathway-to-creating-attractive-video-covers-on-facebook/"><u>[Updated] The Essential Pathway to Creating Attractive Video Covers on Facebook</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-ultimate-fb-media-downloader-plus-firefox-enhancements-for-2024/"><u>[Updated] Ultimate FB Media Downloader + Firefox Enhancements for 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/2024-approved-behind-the-scenes-guide-to-finding-facebooks-finest-vids/"><u>2024 Approved  Behind-the-Scenes Guide to Finding Facebook's Finest Vids</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/2024-approved-elevate-your-digital-footprint-strategies-for-effective-fb-video-marketing/"><u>2024 Approved  Elevate Your Digital Footprint  Strategies for Effective FB Video Marketing</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-fight-or-flight-digital-duels-decoded/"><u>2024 Approved  Fight or Flight  Digital Duels Decoded</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/2024-approved-how-to-skillfully-secure-and-save-gif-images-from-facebooks-domain/"><u>2024 Approved  How To Skillfully Secure and Save GIF Images From Facebook's Domain</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/2024-approved-tips-to-transform-your-videos-into-social-media-stars/"><u>2024 Approved  Tips to Transform Your Videos Into Social Media Stars</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/a-filmmakers-choice-the-top-five-free-audio-jokes-for-creative-videos-for-2024/"><u>A Filmmakers Choice The Top Five Free Audio Jokes for Creative Videos for 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/easy-path-sending-fb-videos-to-whatsapp-contacts-for-2024/"><u>Easy Path  Sending FB Videos to WhatsApp Contacts for 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/eliminating-iphoneandroid-issues-with-fb-message-video-sharing/"><u>Eliminating iPhone/Android Issues with FB Message Video Sharing</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/firefox-recording-tools-and-extensions-for-2024/"><u>Firefox Recording Tools & Extensions for 2024</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-remove-passcode-from-apple-iphone-13-mini-complete-guide-by-drfone-ios/"><u>How To Remove Passcode From Apple iPhone 13 mini? Complete Guide</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-oppo-a79-5g-drfone-by-drfone-virtual-android/"><u>How to Turn Off Google Location to Stop Tracking You on Oppo A79 5G | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/in-2024-facebook-fans-gain-more-with-streamed-content-sharing/"><u>In 2024, Facebook Fans Gain More with Streamed Content Sharing</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-apps-from-realme-gt-3-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Apps from Realme GT 3 to Another | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-mastering-nighttime-shots-iphone-photo-tactics/"><u>In 2024, Mastering Nighttime Shots  IPhone Photo Tactics</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-stand-out-in-the-crowd-logo-creation-for-podcasts/"><u>In 2024, Stand-Out in the Crowd  Logo Creation for Podcasts</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/in-2024-techniques-to-pull-facebook-videos-easily/"><u>In 2024, Techniques to Pull Facebook Videos Easily</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/laptops-smartphones-books-your-essential-trio-for-a-tech-savvy-reading-adventure/"><u>Laptops, Smartphones, Books - Your Essential Trio for a Tech-Savvy Reading Adventure</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/maximizing-reach-and-impact-on-facebook-using-wirecast-for-live-broadcasts-for-2024/"><u>Maximizing Reach & Impact on Facebook - Using Wirecast for Live Broadcasts for 2024</u></a></li>
-<li><a href="https://review-topics.techidaily.com/oppo-a1-5g-tutorial-bypass-lock-screen-security-password-pin-fingerprint-pattern-by-drfone-android-unlock-android-unlock/"><u>Oppo A1 5G Tutorial - Bypass Lock Screen,Security Password Pin,Fingerprint,Pattern</u></a></li>
-<li><a href="https://driver-error.techidaily.com/revise-and-validate-inf-service-installation/"><u>Revise and Validate INF Service Installation</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/tech-savvy-strategies-for-harvesting-and-saving-facebooks-most-trendy-gifs-for-2024/"><u>Tech Savvy Strategies for Harvesting & Saving Facebook's Most Trendy GIFs for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/the-ultimate-slow-motion-compendium-slomo-review-2024/"><u>The Ultimate Slow-Motion Compendium  SloMo Review, 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/the-ultimate-tutorial-for-uploading-to-instagram-tv/"><u>The Ultimate Tutorial for Uploading to Instagram TV</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/transforming-outdoor-vision-into-online-presence-gopro-to-periscopefacebook-for-2024/"><u>Transforming Outdoor Vision Into Online Presence  GoPro to Periscope/Facebook for 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/twitch-sharing-techniques-for-facebook-integration/"><u>Twitch Sharing Techniques for Facebook Integration</u></a></li>
-<li><a href="https://fake-location.techidaily.com/ultimate-guide-to-free-pptp-vpn-for-beginners-on-itel-p55-5g-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Free PPTP VPN For Beginners On Itel P55 5G | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/understanding-the-rules-behind-sharing-online-content-on-social-media-for-2024/"><u>Understanding the Rules Behind Sharing Online Content on Social Media for 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/unlocking-smooth-streams-facebooks-buffering-breakthrough/"><u>Unlocking Smooth Streams - Facebook's Buffering Breakthrough</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-the-future-in-your-hands-screenflows-role-in-macos-innovation/"><u>[New] In 2024, The Future in Your Hands ScreenFlow's Role in MacOS Innovation</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-increase-fb-engagement-and-sales-the-15-most-effective-analyzers/"><u>[New] Increase FB Engagement & Sales The 15 Most Effective Analyzers</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-expert-free-fb-image-creator-no-fee/"><u>[Updated] 2024 Approved Expert Free FB Image Creator (No Fee)</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-demystifying-data-a-beginners-guide-to-facebook-insights/"><u>[Updated] In 2024, Demystifying Data A Beginner's Guide to Facebook Insights</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-exploring-basics-of-digital-narratives/"><u>[Updated] In 2024, Exploring Basics of Digital Narratives</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-innovative-strategies-for-sport-streams-on-the-fly/"><u>[Updated] Innovative Strategies for Sport Streams on the Fly</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-step-by-step-guide-to-using-bandicam-insights-users/"><u>[Updated] Step-by-Step Guide to Using Bandicam – Insights Users</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-perplexing-case-of-unexpected-video-aspects-in-instagram/"><u>[Updated] The Perplexing Case of Unexpected Video Aspects in Instagram</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-game-on-with-these-5-must-have-broadcast-cams/"><u>2024 Approved Game on with These 5 Must-Have Broadcast Cams</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-update-the-latest-ch340g-usb-to-serial-drivers-for-windows-11/"><u>Download & Update the Latest CH340G USB-to-Serial Drivers for Windows 11</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-asus-rog-phone-8-pro-by-drfone-android/"><u>In 2024, 10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Asus ROG Phone 8 Pro</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/shakespeares-timeless-tongue-everyday-usage-explored/"><u>Shakespeare's Timeless Tongue: Everyday Usage Explored</u></a></li>
 </ul></div>
+
