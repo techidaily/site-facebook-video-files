@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] From Darkness to Daylight  Funniest Incarcerated Facebook Friends Quotes\""
-date: 2024-09-11T06:58:08.457Z
-updated: 2024-09-14T18:42:26.801Z
+date: 2024-09-15T16:09:34.804Z
+updated: 2024-09-20T16:02:01.760Z
 tags:
   - ai video
   - ai facebook
@@ -201,6 +201,19 @@ Fresh out of Facebook jail … So excited!!! Can’t wait!!!
 
 ![released from facebook jail](https://images.wondershare.com/filmora/article-images/2021/released-from-facebook-jail.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1424527">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 When you’re released from Facebook jail knowing you haven’t been rehabilitated, you may wanna say, “Sup, bitches?”
 
 #### 3\. Fresh Outa Facebook Jail
@@ -237,25 +250,11 @@ How did I come back from Facebook jail and look for the MF that reported me.
 
 ![back from fb jail](https://images.wondershare.com/filmora/article-images/2021/back-from-fb-jail.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 I am bacccck from Facebook jail. Fantastic!!!
 
 #### 9\. Out of FB Jail 15th Time
 
 ![outa fb jail 15th time](https://images.wondershare.com/filmora/article-images/2021/outa-fb-jail-15th-time.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Now that I am outa Facebook jail for the 15th time. What type of mischief shall I do to get banned again?
 
@@ -272,6 +271,13 @@ We all come across many memes across social media and sometimes do feel that how
 #### 1\. Filmora meme maker
 
 ![edit memes filmroa meme maker](https://images.wondershare.com/filmora/article-images/edit-memes-filmroa-meme-maker.JPG)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 If you are tired of searching for the best Facebook meme generator then Filmora meme maker is undoubtedly the best choice for you. It is a fast yet free meme maker and you need to add any image or GIF then add text, colors, resize as you need, and lastly export it in PNG, JPG, GIF, etc. formats easily. Also even if you are new to this Facebook jail meme-making thing then trust me Filmora is the right choice for you because of its easy interface.
 
@@ -390,6 +396,13 @@ This is how Funny Gary Out of Facebook Jail.
 
 ![come back from fb jail](https://images.wondershare.com/filmora/article-images/2021/come-back-from-fb-jail.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 How did I come back from Facebook jail and look for the MF that reported me.
 
 #### 8\. Back from Facebook Jail
@@ -446,13 +459,6 @@ So here below is the step by step guide you can follow to create a meme:
 
 ![drag memes filmora meme maker](https://images.wondershare.com/filmora/article-images/drag-memes-filmora-meme-maker.JPG)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115927/19272" target="_top" id="2115927">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115927" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115927/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Once you open the Filmora meme generator on your browser you would get an option of import. You need to click on that or drag to import your files. Also, you can even import YouTube and Vimeo links for creating video memes.
 
 **Step 2: Edit your memes**
@@ -506,6 +512,13 @@ Also, this penalty could be for few hours to 21 days of restrictive actions.
 
 ![out of facebook jail meme](https://images.wondershare.com/filmora/article-images/2021/out-of-facebook-jail-meme.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Fresh out of Facebook jail … So excited!!! Can’t wait!!!
 
 #### 2\. Released from Facebook Jail
@@ -530,13 +543,6 @@ When you are finally out of FB jail, you may feel the same as me.
 
 ![hard time fb jail](https://images.wondershare.com/filmora/article-images/2021/hard-time-fb-jail.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 After having been through a hard time in Facebook jail, what your comment section will look like…
 
 #### 6\. Funny Gary Outta Facebook Jail
@@ -555,13 +561,6 @@ How did I come back from Facebook jail and look for the MF that reported me.
 
 ![back from fb jail](https://images.wondershare.com/filmora/article-images/2021/back-from-fb-jail.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 I am bacccck from Facebook jail. Fantastic!!!
 
 #### 9\. Out of FB Jail 15th Time
@@ -575,6 +574,13 @@ Now that I am outa Facebook jail for the 15th time. What type of mischief shall 
 ![outa facebook jail play](https://images.wondershare.com/filmora/article-images/2021/outa-facebook-jail-play.jpg)
 
 Out of Facebook Jail!!! Let’s play bitches!
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 3: Top 3 Facebook Meme Generators
 
@@ -657,16 +663,18 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-examining-the-reasons-behind-instant-facebook-content-revocation/"><u>[New] In 2024, Examining the Reasons Behind Instant Facebook Content Revocation</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-pixie-dust-game-hours-childrens-choice-edition-for-2024/"><u>[New] Pixie-Dust Game Hours - Children's Choice Edition for 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-the-secret-behind-the-blue-status-update-sticker/"><u>[Updated] In 2024, The Secret Behind the Blue Status Update Sticker</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-unlock-fb-potential-link-your-youtube-video/"><u>[Updated] In 2024, Unlock FB Potential Link Your YouTube Video</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-real-time-voice-to-action-no-price-tag/"><u>[Updated] Real-Time Voice to Action, No Price Tag</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/3-methods-to-mirror-oneplus-ace-2-pro-to-roku-drfone-by-drfone-android/"><u>3 Methods to Mirror OnePlus Ace 2 Pro to Roku | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-honor-magic5-ultimate-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Honor Magic5 Ultimate | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/in-2024-how-to-make-a-lasting-impression-with-your-facebook-profile-story/"><u>In 2024, How to Make a Lasting Impression with Your Facebook Profile Story</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-skyrocket-your-video-reach-with-these-top-5-youtube-strategies/"><u>In 2024, Skyrocket Your Video Reach with These #Top 5 YouTube Strategies</u></a></li>
-<li><a href="https://techtrends.techidaily.com/troubleshooting-and-fixes-for-icloud-photo-synchronization-failures/"><u>Troubleshooting and Fixes for iCloud Photo Synchronization Failures</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/unveiling-a-world-of-live-content-roku-and-facebook-integration/"><u>Unveiling a World of Live Content Roku and Facebook Integration</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-renderer-resurgence-new-radeon-edition/"><u>[New] 2024 Approved Renderer Resurgence New Radeon Edition</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-best-screen-recording-software-top-10-list/"><u>[New] In 2024, Best Screen Recording Software Top 10 List</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-online-alter-ego-artistry-drawing-a-fancy-profile-for-2024/"><u>[New] Online Alter-Ego Artistry Drawing a Fancy Profile for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-the-epic-journey-through-memory-lane-advanced-methods-for-capturing-your-sims-digital-adventures-for-2024/"><u>[New] The Epic Journey Through Memory Lane Advanced Methods for Capturing Your Sims' Digital Adventures for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-ultimate-download-manager-best-youtube-downloader-apps-for-2024/"><u>[New] Ultimate Download Manager Best YouTube Downloader Apps for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-understanding-2023s-push-for-shorter-more-impactful-facebook-videos/"><u>[New] Understanding 2023'S Push for Shorter, More Impactful Facebook Videos</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-cadence-and-codes-a-mac-studio-journey/"><u>[Updated] In 2024, Cadence and Codes A Mac Studio Journey</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-social-media-hitmakers-top-10-music-video-recipes-for-fb/"><u>[Updated] In 2024, Social Media Hitmakers - TOP 10 Music Video Recipes for FB</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-overcoming-delayed-or-non-sending-videos-in-facebooks-popular-chat-application-for-mobile-users-for-2024/"><u>[Updated] Overcoming Delayed or Non-Sending Videos in Facebook's Popular Chat Application for Mobile Users for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/-engagement-crafting-effective-thumbnails/"><u>Boost Engagement Crafting Effective Thumbnails</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-my-tecno-camon-20-premier-5g-location-is-wrong-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix My Tecno Camon 20 Premier 5G Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/mastering-the-art-of-audio-integration-on-social-media-videos-for-2024/"><u>Mastering the Art of Audio Integration on Social Media Videos for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-oneplus-12-drfone-by-drfone-virtual-android/"><u>What is Fake GPS Location Pro and Is It Good On OnePlus 12? | Dr.fone</u></a></li>
 </ul></div>
 

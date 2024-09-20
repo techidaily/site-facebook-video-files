@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Fast-Tracking Social Scanning  Mastering FB Profiles\""
-date: 2024-07-14T01:29:46.626Z
-updated: 2024-07-15T01:29:46.626Z
+date: 2024-09-18T16:27:23.771Z
+updated: 2024-09-20T16:43:41.225Z
 tags:
   - ai video
   - ai facebook
@@ -44,9 +44,6 @@ Open Facebook on your computer – Firstly, open a web browser and get to the Fa
 
 On the header tool icons, click on your name and you are directed to your Facebook wall or timeline. Just below your cover image, click the friend’s tab, to reach the Friends page that shows all your friends on Facebook.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![facebook friends tab](https://images.wondershare.com/filmora/article-images/facebook-friends-tab.jpg)
 
 ### Step 3: Friends Finder Page
@@ -65,11 +62,25 @@ On the left panel, you can find several names matching your search filter. You j
 
 ## Part 2: How to search people using Search Is Back
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1\. Open and Select
 
 On a browser open the [Search is Back site](https://searchisback.com/). You can find four tabs at the top of the page. Click on the first tab, “Find People” and a page appears to select your picks from the available options.
 
 ![search is back](https://images.wondershare.com/filmora/article-images/search-is-back.JPG)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. Input your Interest
 
@@ -140,9 +151,6 @@ To reach the friend’s finder page, click on “find friends” from the friend
 
 On the top right of old friends search, you can find the “search for your friends” filters. To search your old friends by name, you have to enter their part or full names in the name field and look for them. To find your friends by their location, you may enter your friend’s hometown city’s name in the hometown field to search them by the place when they earlier lived in. To find your school friends or High school and university friends, you may enter the schools’ name and search for them. For searching your old colleagues, you may enter the company or employer’s name and find people who worked in the same organization.
 
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Step 5: Check the results
 
 On the left panel, you can find several names matching your search filter. You just need to scroll and check the displayed list to see if any of your old friends are there in the list. Once you find your old friends, click on the “add friends” button beside their name and the person is added to your official list of friends on Facebook.
@@ -160,8 +168,12 @@ On a browser open the [Search is Back site](https://searchisback.com/). You can 
 In the second step, you need to input your choices or you can see it as filters. From the search for option, you may choose all people, friends, non-friends, or friends of friends. You may also filter gender, relationship status, location, company, school, language spoken and if an employer, you may also search people by job title.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
+  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### 3\. Add People as Friends
 
 Once you have filled in all the filters in the page, you can hit Find People button at the end. When you hit the button, you are directed to the Facebook page to show your friend list.
@@ -249,6 +261,13 @@ Once you have filled in all the filters in the page, you can hit Find People but
 
 ![search is back facebook](https://images.wondershare.com/filmora/article-images/search-is-back-interest.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Note**: If there are no results on the redirected Facebook page, you must get back to the Search is Back page and change your search filters to start a new round of search.
 
 Like Find People tab at the top of the page, you may also search events, posts, shares and photos from the event, post & shares, and photos tabs at the top of the page.
@@ -288,9 +307,6 @@ Here are two ways to search people on Facebook. The second option also helps you
 
 ## Part 1: How to search people on Facebook
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Step 1: Log in to Facebook
 
 Open Facebook on your computer – Firstly, open a web browser and get to the Facebook website. You can find the log in fields on the top right corner of the page. Input your user ID and password and hit the login button at the side to proceed further.
@@ -336,6 +352,13 @@ Once you have filled in all the filters in the page, you can hit Find People but
 **Note**: If there are no results on the redirected Facebook page, you must get back to the Search is Back page and change your search filters to start a new round of search.
 
 Like Find People tab at the top of the page, you may also search events, posts, shares and photos from the event, post & shares, and photos tabs at the top of the page.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -368,8 +391,6 @@ Follow @Shanoon Cox
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -378,7 +399,20 @@ Follow @Shanoon Cox
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-bridging-social-gaps-efficiently-share-video-content-between-platforms/"><u>[New] 2024 Approved Bridging Social Gaps Efficiently Share Video Content Between Platforms</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-transcription-triumphs-quick-methods-for-fb-call-records/"><u>[New] 2024 Approved Transcription Triumphs Quick Methods for FB Call Records</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-constructing-compelling-channel-overviews/"><u>[New] Constructing Compelling Channel Overviews</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-clearing-up-audio-issues-in-half-volume-facebook-content/"><u>[New] In 2024, Clearing Up Audio Issues in Half-Volume Facebook Content</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-prime-choices-selecting-best-6-fb-lite-vids/"><u>[New] In 2024, Prime Choices Selecting Best 6 FB Lite Vids</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-your-complimentary-access-to-50-premium-youtube-banners/"><u>[New] In 2024, Your Complimentary Access to 50 Premium YouTube Banners!</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-exclusive-guide-to-the-best-20-incarceration-moments-that-spark-smiles-online/"><u>[Updated] In 2024, Exclusive Guide to the Best 20 Incarceration Moments that Spark Smiles Online</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-top-6-budget-savvy-4k-large-screen-options/"><u>2024 Approved Top 6 Budget-Savvy 4K Large Screen Options</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comparing-smart-home-systems-an-in-depth-analysis-of-ring-and-nest-doorbells/"><u>Comparing Smart Home Systems: An In-Depth Analysis of Ring and Nest Doorbells</u></a></li>
+<li><a href="https://blog-min.techidaily.com/guia-paso-a-paso-para-mantener-el-video-fijo-en-windows-mac-android-y-iphone/"><u>Guía Paso a Paso Para Mantener El Video Fijo en Windows, Mac, Android Y iPhone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-easy-ways-to-copy-contacts-from-nokia-g22-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Easy Ways to Copy Contacts from Nokia G22 to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-which-is-the-best-fake-gps-joystick-app-on-samsung-galaxy-f14-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Which is the Best Fake GPS Joystick App On Samsung Galaxy F14 5G? | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/stable-vr-experience-8-ways-to-prevent-nausea/"><u>Stable VR Experience 8 Ways to Prevent Nausea</u></a></li>
+</ul></div>
 

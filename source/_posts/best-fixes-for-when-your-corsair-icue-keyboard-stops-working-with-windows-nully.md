@@ -1,7 +1,7 @@
 ---
 title: Best Fixes for When Your Corsair iCUE Keyboard Stops Working with Windows Nully
-date: 2024-09-11T04:32:55.879Z
-updated: 2024-09-14T21:19:30.270Z
+date: 2024-09-16T16:50:17.625Z
+updated: 2024-09-20T16:25:30.360Z
 tags:
   - win11
   - win10
@@ -70,13 +70,6 @@ Outlook keeps crashing on your computer? This is quite annoying and you’re cer
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/2019-12-31_10-30-58.jpg)
 2. **Click Account Settings, and then click Account Settings in the drop-down menu.**  
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Click **Account Settings** , and then click **Account Settings** in the drop-down menu.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/2019-12-31_10-32-45.jpg)
 3. **Select your account, then click Repair.**  
@@ -103,22 +96,15 @@ If your problem persists, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-31_15-13-48.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115927/19272" target="_top" id="2115927">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115927" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115927/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **4)** Click **Add-ins.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-31_15-13-36.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **5)** Verify that the **Manage** option is set to **COM Add-ins** . Then, click **Go** .
 
@@ -129,6 +115,13 @@ If your problem persists, try the next fix.
  Some add-ins may be essential for Outlook to work. So, please don’t uncheck any add-ins that you’re not familiar with.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-31_15-12-35.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Reopen Outlook to see if this worked for you. If your problem still exists, try the next fix.
 
@@ -156,6 +149,13 @@ If your problem persists, try the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-31_15-10-55.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **6)**  Change the file name extension to **.old** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-31_15-10-45.jpg)
@@ -178,43 +178,31 @@ If your problem persists, try the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-31_15-10-14.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Right-click **Microsoft Office 365** , and then click **Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-31_15-10-02.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **4)** Go to[](https://www.office.com/) **[Office 365](https://www.office.com/)**  official website and click **Sign in** to sign in your account.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-31_15-09-40-1024x449.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **5)**  Click **Install Office** , and then click **Office 365 apps** to download Office 365.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-31_15-09-21.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1899850">
-					<video width="486" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **6)**  Open the **downloaded file** and follow the on-screen instructions to install Office 365 again.
 
@@ -243,17 +231,19 @@ If your problem persists, try the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-finessing-your-profiles-first-look/"><u>[New] 2024 Approved Finessing Your Profile's First Look</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-making-mp3s-from-your-facebook-videos-with-ease/"><u>[New] In 2024, Making MP3s From Your Facebook Videos with Ease</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-top-2023-no-cost-live-stream-tools-cross-platform-edition/"><u>[New] Top 2023 No-Cost Live Stream Tools Cross-Platform Edition</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-unleash-power-in-social-media-10-advanced-tactics-for-fb-optimization/"><u>[Updated] 2024 Approved Unleash Power in Social Media 10 Advanced Tactics for FB Optimization</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-entering-social-media-world-sign-up-for-facebook-now/"><u>[Updated] Entering Social Media World Sign Up for Facebook Now</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-deciphering-authenticity-in-your-facebook-brand-community/"><u>[Updated] In 2024, Deciphering Authenticity in Your Facebook Brand Community</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-exploring-digital-film-coloring-methods/"><u>[Updated] In 2024, Exploring Digital Film Coloring Methods</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-instagram-integration-with-youtube-video-sharing/"><u>[Updated] Instagram Integration with YouTube Video Sharing</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-vivo-y17s-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Vivo Y17s | Dr.fone</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/how-to-bring-back-deleted-snaps-leading-software-solutions-for-iphone-users/"><u>How to Bring Back Deleted Snaps: Leading Software Solutions for iPhone Users</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-cards-of-vivo-without-puk-codes-by-drfone-android/"><u>How To Unlock SIM Cards Of Vivo Without PUK Codes</u></a></li>
-<li><a href="https://facebook.techidaily.com/preventing-cyber-leakage-of-personal-photos-at-meta/"><u>Preventing Cyber Leakage of Personal Photos at Meta</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-reclaim-social-life-overcoming-a-hack-on-facebook/"><u>[New] 2024 Approved Reclaim Social Life Overcoming a Hack on Facebook</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-best-pics-viewer-high-speed-windows-edition/"><u>[New] Best Pics Viewer High-Speed Windows Edition</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-perfect-past-moments-on-fb-a-look-back-edition/"><u>[New] In 2024, Perfect Past Moments on FB A Look Back Edition</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/nspire-yourself-with-these-ten-high-growth-youtube-sources-for-2024/"><u>[New] Inspire Yourself with These Ten High-Growth YouTube Sources for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-navigate-the-social-media-lands-cookie-with-youtubes-automatic-play-feature/"><u>[Updated] 2024 Approved Navigate the Social Media Lands Cookie with YouTube's Automatic Play Feature</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-intrinsic-insights-for-instant-identification-in-fb/"><u>[Updated] Intrinsic Insights for Instant Identification in FB</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-transforming-footage-your-guide-to-ken-burns-in-camtasa-9/"><u>[Updated] Transforming Footage Your Guide to Ken Burns in Camtasa 9</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-resolve-cannot-capture-image-on-iphone-with-these-three-tips/"><u>How to Resolve 'Cannot Capture Image' On iPhone with These Three Tips</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-6-without-passcode-4-easy-methods-drfone-by-drfone-ios/"><u>How To Unlock iPhone 6 Without Passcode? 4 Easy Methods | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-access-all-areas-steps-for-securing-facebook-live-files/"><u>In 2024, Access All Areas Steps for Securing Facebook Live Files</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-access-your-apple-iphone-11-pro-when-you-forget-the-passcode-by-drfone-ios/"><u>In 2024, How to Access Your Apple iPhone 11 Pro When You Forget the Passcode?</u></a></li>
+<li><a href="https://extra-information.techidaily.com/iphones-premier-videography-tools/"><u>IPhone's Premier Videography Tools</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/networked-narratives-recorder-for-2024/"><u>Networked Narratives Recorder for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/real-time-combination-of-screenwebcam-feed-for-2024/"><u>Real-Time Combination of Screen/Webcam Feed for 2024</u></a></li>
 </ul></div>
 

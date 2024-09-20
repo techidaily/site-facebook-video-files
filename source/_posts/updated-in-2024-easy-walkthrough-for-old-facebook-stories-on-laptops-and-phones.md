@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Easy Walkthrough for Old Facebook Stories on Laptops & Phones"
-date: 2024-09-11T07:39:22.897Z
-updated: 2024-09-14T18:23:24.782Z
+date: 2024-09-18T16:20:13.564Z
+updated: 2024-09-20T16:21:04.525Z
 tags:
   - ai video
   - ai facebook
@@ -147,13 +147,6 @@ Facebook has a complex interface, but it will be much easier to navigate it once
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 1: How to View Old Stories on iPhone/Android Facebook App?
 
 Facebook mobile application is one of the convenient ways of using it as it has a user-friendly interface. You can quickly post stories through the Facebook mobile app and interact with your friends. Here is how you can view old stories on a mobile app:
@@ -172,6 +165,13 @@ By clicking on the **More option**, you will see a few more options appear. Clic
 
 On the story archive option, you will see three dots on the top right option. It provides you with a choice to save stories or not. You can turn on the save archives option to save every story you post so that you can view it later.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: How to View Stories on Facebook Desktop?
 
 You can use Facebook on your desktop; it is feasible to use it on a desktop when you are using it for professional purposes such as blogging or business. It is possible to view old Facebook stories through desktop also; here is how:
@@ -185,6 +185,13 @@ You can log in to Facebook on a desktop to proceed to watch your old stories. Wh
 Once you click on the story archive, all your **old stories** will appear in sequential order.
 
 **Note:** You can only view stories through the above process if you have turned on your story archive option. Click on settings to turn it on or off as per your choice.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 3: How to View A Friend’s Old Facebook Story?
 
@@ -220,12 +227,129 @@ After visiting the story archive, click on the story you wish to save. Click on 
 
 After you click three dots, you will see a save and delete photo option. Click on the **save option** to download it to your device.
 
+## Part 5: How to See Old Stories on a Facebook Business Page?
+
+Facebook business pages help in enhancing business significantly, primarily if you use story features for customer interaction. If you want to keep track of old stories, you can use the following method:
+
+**Step 1: Go to your Page**
+
+Open your page and click on **publishing tools** in the menu given in the top bar.
+
+**Step 2: Click on the story archive**
+
+On the top left, you will see a **story archive** option; click on it.
+
+**Step 3: View story**
+
+When you click on the story **archive**, you will see all your old stories in sequential order; click to view.
+
+**Conclusion**
+
+Facebook is an excellent platform to interact with your audience, and the story is one of the best features to give your friends a glimpse of your life. Going through old stories can refresh a lot of our memories. If you did not know how to see old stories on Facebook, now you do.
+
+![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+Liza Brown
+
+Liza Brown is a writer and a lover of all things video.
+
+Follow @Liza Brown
+
+##### Liza Brown
+
+ Mar 27, 2024• Proven solutions
+
+Facebook came up with a story feature not too long ago where people share snippets of their daily lives and much more. Unfortunately, a story is only visible for 24 hours, and then it disappears. Do you wish you could watch a story for more than 24 hours? Well, you can watch a story after it disappears for the audience.
+
+Facebook has a complex interface, but it will be much easier to navigate it once you understand its algorithm and settings. If you are looking to find ways about how to see old stories on Facebook, you have landed on the right article. Stay with us to know all the ways to view all stories!
+
+* [Part 1: How to View Old Stories on iPhone/Android Facebook App?](#part1)
+* [Part 2: How to View Stories on Facebook Desktop?](#part2)
+* [Part 3: How to View A Friend’s Old Facebook Story?](#part3)
+* [Part 4: How to Save Posts from Your Stories Archive to Your Device?](#part4)
+* [Part 5: How to See Old Stories on a Facebook Business Page?](#part5)
+
+---
+
+## Part 1: How to View Old Stories on iPhone/Android Facebook App?
+
+Facebook mobile application is one of the convenient ways of using it as it has a user-friendly interface. You can quickly post stories through the Facebook mobile app and interact with your friends. Here is how you can view old stories on a mobile app:
+
+**Step 1: Click on the menu**
+
+In the Facebook mobile app, you will see a few options on the **top bar**. Click on the **three horizontal lines** on the top right. You will see a **view your profile** option on the top; click on it.
+
+**Step 2: Click on more**
+
+Once you are on your profile, you have to click on the **three dots** on the **top right** to access a few options. Click on **Archive**.
+
+**Step 3: Click on story archives**
+
+By clicking on the **More option**, you will see a few more options appear. Click on the **story archive** option to see previous stories.
+
+On the story archive option, you will see three dots on the top right option. It provides you with a choice to save stories or not. You can turn on the save archives option to save every story you post so that you can view it later.
+
+## Part 2: How to View Stories on Facebook Desktop?
+
+You can use Facebook on your desktop; it is feasible to use it on a desktop when you are using it for professional purposes such as blogging or business. It is possible to view old Facebook stories through desktop also; here is how:
+
+**Step 1: Log in and open story archives**
+
+You can log in to Facebook on a desktop to proceed to watch your old stories. When you log in, you have to click on your profile picture to land on your profile page. From the menu bar beneath your profile picture, you have to click on **story archives**.
+
+**Step 2: View old stories**
+
+Once you click on the story archive, all your **old stories** will appear in sequential order.
+
+**Note:** You can only view stories through the above process if you have turned on your story archive option. Click on settings to turn it on or off as per your choice.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## Part 3: How to View A Friend’s Old Facebook Story?
+
+It is nearly impossible to view your friend’s story once it has disappeared. You cannot watch the stories even if they are achieved. However, there is one way to view old stories of your friends. Here is how:
+
+Step 1: Visit target profile
+
+To view your friend’s old stories, you have to **visit your friend’s profile** by writing their name in the search bar.
+
+**Step 2: View story highlights**
+
+If your friend has selected the **highlights** option, which is a star emoji on the bottom left. The story will be saved, and you can view it after 24 hours.
+
+**Step 3: Click on the right highlights**
+
+People make a **series of highlights** and name them accordingly. If the story is about a wedding, people can name those stories’ **wedding highlights**. So, click on the highlight you want to view.
+
+**Note:** A person or a user has to click on the star highlight sign to save stories for the future. If they do not select the highlight option, stories will disappear after 24 hours, and there is no way to view them in the future. Hence, this option is only applicable when a user has saved their stories for public view.
+
+## Part 4: How to Save Posts from Your Stories Archive to Your Device?
+
+We tend not to save stories to our devices when clicking them directly from the Facebook app. However, you can save a post to your device from the stories archive using simple steps. Let's see how to do it:
+
+**Step 1: Click on your archives**
+
+When you open the Facebook mobile app, you will see your **archive** option on the **top right**. Click on it to **view your old stories**.
+
+**Step 2: Click on a story**
+
+After visiting the story archive, click on the story you wish to save. Click on the **three dots** on the top right.
+
+**Step 3: Save story**
+
+After you click three dots, you will see a save and delete photo option. Click on the **save option** to download it to your device.
 
 ## Part 5: How to See Old Stories on a Facebook Business Page?
 
@@ -337,136 +461,12 @@ After visiting the story archive, click on the story you wish to save. Click on 
 
 After you click three dots, you will see a save and delete photo option. Click on the **save option** to download it to your device.
 
-## Part 5: How to See Old Stories on a Facebook Business Page?
-
-Facebook business pages help in enhancing business significantly, primarily if you use story features for customer interaction. If you want to keep track of old stories, you can use the following method:
-
-**Step 1: Go to your Page**
-
-Open your page and click on **publishing tools** in the menu given in the top bar.
-
-**Step 2: Click on the story archive**
-
-On the top left, you will see a **story archive** option; click on it.
-
-**Step 3: View story**
-
-When you click on the story **archive**, you will see all your old stories in sequential order; click to view.
-
-**Conclusion**
-
-Facebook is an excellent platform to interact with your audience, and the story is one of the best features to give your friends a glimpse of your life. Going through old stories can refresh a lot of our memories. If you did not know how to see old stories on Facebook, now you do.
-
-![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-Liza Brown
-
-Liza Brown is a writer and a lover of all things video.
-
-Follow @Liza Brown
-
-##### Liza Brown
-
- Mar 27, 2024• Proven solutions
-
-Facebook came up with a story feature not too long ago where people share snippets of their daily lives and much more. Unfortunately, a story is only visible for 24 hours, and then it disappears. Do you wish you could watch a story for more than 24 hours? Well, you can watch a story after it disappears for the audience.
-
-Facebook has a complex interface, but it will be much easier to navigate it once you understand its algorithm and settings. If you are looking to find ways about how to see old stories on Facebook, you have landed on the right article. Stay with us to know all the ways to view all stories!
-
-* [Part 1: How to View Old Stories on iPhone/Android Facebook App?](#part1)
-* [Part 2: How to View Stories on Facebook Desktop?](#part2)
-* [Part 3: How to View A Friend’s Old Facebook Story?](#part3)
-* [Part 4: How to Save Posts from Your Stories Archive to Your Device?](#part4)
-* [Part 5: How to See Old Stories on a Facebook Business Page?](#part5)
-
----
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-## Part 1: How to View Old Stories on iPhone/Android Facebook App?
-
-Facebook mobile application is one of the convenient ways of using it as it has a user-friendly interface. You can quickly post stories through the Facebook mobile app and interact with your friends. Here is how you can view old stories on a mobile app:
-
-**Step 1: Click on the menu**
-
-In the Facebook mobile app, you will see a few options on the **top bar**. Click on the **three horizontal lines** on the top right. You will see a **view your profile** option on the top; click on it.
-
-**Step 2: Click on more**
-
-Once you are on your profile, you have to click on the **three dots** on the **top right** to access a few options. Click on **Archive**.
-
-**Step 3: Click on story archives**
-
-By clicking on the **More option**, you will see a few more options appear. Click on the **story archive** option to see previous stories.
-
-On the story archive option, you will see three dots on the top right option. It provides you with a choice to save stories or not. You can turn on the save archives option to save every story you post so that you can view it later.
-
-## Part 2: How to View Stories on Facebook Desktop?
-
-You can use Facebook on your desktop; it is feasible to use it on a desktop when you are using it for professional purposes such as blogging or business. It is possible to view old Facebook stories through desktop also; here is how:
-
-**Step 1: Log in and open story archives**
-
-You can log in to Facebook on a desktop to proceed to watch your old stories. When you log in, you have to click on your profile picture to land on your profile page. From the menu bar beneath your profile picture, you have to click on **story archives**.
-
-**Step 2: View old stories**
-
-Once you click on the story archive, all your **old stories** will appear in sequential order.
-
-**Note:** You can only view stories through the above process if you have turned on your story archive option. Click on settings to turn it on or off as per your choice.
-
-## Part 3: How to View A Friend’s Old Facebook Story?
-
-It is nearly impossible to view your friend’s story once it has disappeared. You cannot watch the stories even if they are achieved. However, there is one way to view old stories of your friends. Here is how:
-
-Step 1: Visit target profile
-
-To view your friend’s old stories, you have to **visit your friend’s profile** by writing their name in the search bar.
-
-**Step 2: View story highlights**
-
-If your friend has selected the **highlights** option, which is a star emoji on the bottom left. The story will be saved, and you can view it after 24 hours.
-
-**Step 3: Click on the right highlights**
-
-People make a **series of highlights** and name them accordingly. If the story is about a wedding, people can name those stories’ **wedding highlights**. So, click on the highlight you want to view.
-
-**Note:** A person or a user has to click on the star highlight sign to save stories for the future. If they do not select the highlight option, stories will disappear after 24 hours, and there is no way to view them in the future. Hence, this option is only applicable when a user has saved their stories for public view.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-## Part 4: How to Save Posts from Your Stories Archive to Your Device?
-
-We tend not to save stories to our devices when clicking them directly from the Facebook app. However, you can save a post to your device from the stories archive using simple steps. Let's see how to do it:
-
-**Step 1: Click on your archives**
-
-When you open the Facebook mobile app, you will see your **archive** option on the **top right**. Click on it to **view your old stories**.
-
-**Step 2: Click on a story**
-
-After visiting the story archive, click on the story you wish to save. Click on the **three dots** on the top right.
-
-**Step 3: Save story**
-
-After you click three dots, you will see a save and delete photo option. Click on the **save option** to download it to your device.
 
 ## Part 5: How to See Old Stories on a Facebook Business Page?
 
@@ -517,20 +517,13 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-discover-free-pioneering-apps-to-supercharge-social-storytelling/"><u>[New] 2024 Approved Discover FREE Pioneering Apps to Supercharge Social Storytelling</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-increase-your-influence-on-instagram-5-proven-methods-with-case-studies/"><u>[New] 2024 Approved Increase Your Influence on Instagram 5 Proven Methods with Case Studies</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-streamline-lesson-planning-with-recorder-tools/"><u>[New] 2024 Approved Streamline Lesson Planning with Recorder Tools</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-mastering-in-stream-fb-ad-configurations-and-impact-assessment/"><u>[New] Mastering In-Stream FB Ad Configurations & Impact Assessment</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-premier-mp4-broadcast-suite/"><u>[New] Premier MP4 Broadcast Suite</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-illuminate-your-content-creation/"><u>[Updated] 2024 Approved Illuminate Your Content Creation</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-seamless-cross-posting-of-tiktok-content-to-facebook/"><u>[Updated] 2024 Approved Seamless Cross-Posting of TikTok Content to Facebook</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-explore-online-downloads-converting-youtube-to-mp3-made-simple/"><u>[Updated] Explore Online Downloads Converting YouTube to MP3 Made Simple</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/2024-approved-reveal-hidden-gems-posting-fb-videos-effectively/"><u>2024 Approved Reveal Hidden Gems Posting FB Videos Effectively</u></a></li>
-<li><a href="https://win-answers.techidaily.com/banishing-the-blackout-effective-remedies-for-mtg-arena-display-issues/"><u>Banishing the Blackout: Effective Remedies for MTG Arena Display Issues</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-messages-files-from-vivo-y02t-by-fonelab-android-recover-messages/"><u>How To Restore Missing Messages Files from Vivo Y02T</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/in-2024-dissection-facebook-video-formats/"><u>In 2024, Dissection Facebook Video Formats</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-leading-the-way-in-affordable-video-conferencing-technology/"><u>In 2024, Leading the Way in Affordable Video Conferencing Technology</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-create-viral-memes-with-these-10-amazing-apps/"><u>New In 2024, Create Viral Memes with These 10 Amazing Apps</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/starters-journey-mastering-video-quality-and-resolution/"><u>Starter's Journey Mastering Video Quality and Resolution</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-12-free-youtube-thumbnail-makers-to-make-your-own-video-thumbnail/"><u>[New] 2024 Approved 12 FREE YouTube Thumbnail Makers to Make Your Own Video Thumbnail</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-from-camera-roll-to-twitter-feed-video-posting-guide/"><u>[New] In 2024, From Camera Roll to Twitter Feed Video Posting Guide</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-navigate-effortlessly-the-best-5-chrome-addons-for-downloading-fb-videos/"><u>[Updated] In 2024, Navigate Effortlessly The Best 5 Chrome Addons for Downloading FB Videos</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-15-snapshot-strategies-for-social-success-on-snapchat/"><u>2024 Approved 15 Snapshot Strategies for Social Success on Snapchat</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-creating-engaging-facebook-covers-best-practices-unveiled/"><u>2024 Approved Creating Engaging Facebook Covers Best Practices Unveiled</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-xiaomi-14-drfone-by-drfone-virtual-android/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On Xiaomi 14? | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/how-the-amazon-kindle-paperwhite-2018-revolutionized-digital-reading-an-expert-insight/"><u>How the Amazon Kindle Paperwhite (2018) Revolutionized Digital Reading: An Expert Insight</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/understanding-sudden-account-lockdowns-on-copyright-violations-for-2024/"><u>Understanding Sudden Account Lockdowns on Copyright Violations for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"Transform Your Social Media Experience  Livestream FB Flawlessly for 2024\""
-date: 2024-07-14T01:31:33.421Z
-updated: 2024-07-15T01:31:33.421Z
+date: 2024-09-17T16:03:07.085Z
+updated: 2024-09-20T16:06:25.104Z
 tags:
   - ai video
   - ai facebook
@@ -78,9 +78,6 @@ Step 3: Make settings for resolution as well as FPS. The desired maximum resolut
 
 Step 4: Now you need to visit the facebook page and then click on the video, go to publishing tools and then from top right corner hit +Live option.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![facebook](https://images.wondershare.com/filmora/article-images/facebook.jpg)
 
 Step 5: It is time to move to the ‘create live video’ page. You have to copy the stream key from the specified location. Prefer to keep this page open.
@@ -89,124 +86,6 @@ Step 5: It is time to move to the ‘create live video’ page. You have to copy
 
 Step 6: Now come back to your OBS settings page and choose stream option. From list of services, prefer to choose Facebook Live option and then simply paste the stream key in the specified field on your screen.
 
-![service](https://images.wondershare.com/filmora/article-images/service.jpg)
-
-## C. Preview and Test your before go live
-
-Step 1: It is time to hit the button “Start Streaming”.
-
-![Click start](https://images.wondershare.com/filmora/article-images/click-start.jpg)
-
-Step 2: Now move back to your facebook page and then choose to preview.
-
-![click preview](https://images.wondershare.com/filmora/article-images/click-preview.jpg)
-
-Step 3: It is time to add your title as per preferences, make selection for your targeted audience and once you have finished all settings and testing process then hit button “Go Live”.
-
-![Click Go1](https://images.wondershare.com/filmora/article-images/click-go1.jpg)
-
-![Click Go2](https://images.wondershare.com/filmora/article-images/click-go2.jpg)
-
-Step 4: Once your procedure for live streaming is complete then you are free to end the live video anytime over facebook page. The video will be automatically added to your Live video library and you can find it their anytime in future.
-
-![End Live Video](https://images.wondershare.com/filmora/article-images/end-live-video.jpg)
-
-Step 5: This is all about how to live stream your videos over facebook directly from your computer. Hope you will enjoy streaming a new impressive video soon!
-
-## Video tutorial
-
-## Facebook stream parameter requirements
-
-* 1\. You need to adjust resolution for videos as 720p or simple 1280x720 and the frame rate must be maintained to 30fps. Or simple, one key frame within every two seconds.
-* 2\. It is important to transfer at least one key frame within every two seconds throught the whole streaming process.
-* 3\. Professionals recommend bit rate of 4000 Kbps for better results.
-* 4\. Maximum length supported for a live stream video is 4 hours. After every 240 hours, I is necessary to generate a fresh key frame.
-* 5\. The audio sample rate is required to be managed at 44.1 KHz.
-* 6\. Desired Audio Bit rate is 128 Kbps for stereo input.
-* 7\. The encoding bit rate must be kept as CBR in order to get best results.
-
-![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
-
-Richard Bennett
-
-Richard Bennett is a writer and a lover of all things video.
-
-Follow @Richard Bennett
-
-##### Richard Bennett
-
- Mar 27, 2024• Proven solutions
-
-Here is the step by step guide to go live from PC to facebook with OBS
-
-[If you are using wirecast check this article >>](https://tools.techidaily.com/wondershare/filmora/download/)
-
-* [Part1.Setting the OBS Scenes](#part1)
-* [Part2.Stream setting according to Facebook](#part2)
-* [Part3.Preview and Test your before go live](#part3)
-* [Part4.Video tutorial](#part4)
-
-## A. Setting the OBS Scenes
-
-Step 1: Make your scenes perfectly ready before starting the actual streaming process.
-
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![scenes](https://images.wondershare.com/filmora/article-images/scenes.jpg)
-
-Step 2: Now you need to add sources to the scenes.
-
-![sources](https://images.wondershare.com/filmora/article-images/sources.jpg)
-
-Step 3: It is possible to include windows capture, audio input and webcam as per need.
-
-![include](https://images.wondershare.com/filmora/article-images/include.jpg)
-
-Step 4: Prefer to use default settings for source and then press OK.
-
-![default](<https://images.wondershare.com/filmora/article-images/default> .jpg)
-
-Step 5: Once you have done settings for all sources then they must be adjusted on screen in right order.
-
-![adjust](https://images.wondershare.com/filmora/article-images/adjust.jpg)
-
-Step 6: You also need to arrange the capture size for your videos. Adjust the right video size.
-
-![video size](https://images.wondershare.com/filmora/article-images/video-size.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-## B. Stream setting according to Facebook
-
-Once you are done with Part A then it is time to follow the guidelines as below:
-
-Step 1: First of all you need to go to the settings.
-
-![setting](https://images.wondershare.com/filmora/article-images/setting.jpg)
-
-Step 2: Now adjust the bit rate, it must be kept below 4000 Kbps and then choose your preferred recording format.
-
-![bitrate](https://images.wondershare.com/filmora/article-images/bitrate.jpg)
-
-Step 3: Make settings for resolution as well as FPS. The desired maximum resolution level is 720p or 1280x720 whereas frame rate must be kept at 30 fps.
-
-![resolution](https://images.wondershare.com/filmora/article-images/resolution.jpg)
-
-Step 4: Now you need to visit the facebook page and then click on the video, go to publishing tools and then from top right corner hit +Live option.
-
-![facebook](https://images.wondershare.com/filmora/article-images/facebook.jpg)
-
-Step 5: It is time to move to the ‘create live video’ page. You have to copy the stream key from the specified location. Prefer to keep this page open.
-
-![create](https://images.wondershare.com/filmora/article-images/create.jpg)
-
-Step 6: Now come back to your OBS settings page and choose stream option. From list of services, prefer to choose Facebook Live option and then simply paste the stream key in the specified field on your screen.
-
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![service](https://images.wondershare.com/filmora/article-images/service.jpg)
 
 ## C. Preview and Test your before go live
@@ -440,6 +319,156 @@ Step 2: Now move back to your facebook page and then choose to preview.
 Step 3: It is time to add your title as per preferences, make selection for your targeted audience and once you have finished all settings and testing process then hit button “Go Live”.
 
 ![Click Go1](https://images.wondershare.com/filmora/article-images/click-go1.jpg)
+
+![Click Go2](https://images.wondershare.com/filmora/article-images/click-go2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+Step 4: Once your procedure for live streaming is complete then you are free to end the live video anytime over facebook page. The video will be automatically added to your Live video library and you can find it their anytime in future.
+
+![End Live Video](https://images.wondershare.com/filmora/article-images/end-live-video.jpg)
+
+Step 5: This is all about how to live stream your videos over facebook directly from your computer. Hope you will enjoy streaming a new impressive video soon!
+
+## Video tutorial
+
+## Facebook stream parameter requirements
+
+* 1\. You need to adjust resolution for videos as 720p or simple 1280x720 and the frame rate must be maintained to 30fps. Or simple, one key frame within every two seconds.
+* 2\. It is important to transfer at least one key frame within every two seconds throught the whole streaming process.
+* 3\. Professionals recommend bit rate of 4000 Kbps for better results.
+* 4\. Maximum length supported for a live stream video is 4 hours. After every 240 hours, I is necessary to generate a fresh key frame.
+* 5\. The audio sample rate is required to be managed at 44.1 KHz.
+* 6\. Desired Audio Bit rate is 128 Kbps for stereo input.
+* 7\. The encoding bit rate must be kept as CBR in order to get best results.
+
+![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+Richard Bennett
+
+Richard Bennett is a writer and a lover of all things video.
+
+Follow @Richard Bennett
+
+##### Richard Bennett
+
+ Mar 27, 2024• Proven solutions
+
+Here is the step by step guide to go live from PC to facebook with OBS
+
+[If you are using wirecast check this article >>](https://tools.techidaily.com/wondershare/filmora/download/)
+
+* [Part1.Setting the OBS Scenes](#part1)
+* [Part2.Stream setting according to Facebook](#part2)
+* [Part3.Preview and Test your before go live](#part3)
+* [Part4.Video tutorial](#part4)
+
+<!-- affiliate ads begin -->
+<span id="1702748">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## A. Setting the OBS Scenes
+
+Step 1: Make your scenes perfectly ready before starting the actual streaming process.
+
+![scenes](https://images.wondershare.com/filmora/article-images/scenes.jpg)
+
+Step 2: Now you need to add sources to the scenes.
+
+![sources](https://images.wondershare.com/filmora/article-images/sources.jpg)
+
+Step 3: It is possible to include windows capture, audio input and webcam as per need.
+
+![include](https://images.wondershare.com/filmora/article-images/include.jpg)
+
+Step 4: Prefer to use default settings for source and then press OK.
+
+![default](<https://images.wondershare.com/filmora/article-images/default> .jpg)
+
+Step 5: Once you have done settings for all sources then they must be adjusted on screen in right order.
+
+![adjust](https://images.wondershare.com/filmora/article-images/adjust.jpg)
+
+Step 6: You also need to arrange the capture size for your videos. Adjust the right video size.
+
+![video size](https://images.wondershare.com/filmora/article-images/video-size.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## B. Stream setting according to Facebook
+
+Once you are done with Part A then it is time to follow the guidelines as below:
+
+Step 1: First of all you need to go to the settings.
+
+![setting](https://images.wondershare.com/filmora/article-images/setting.jpg)
+
+Step 2: Now adjust the bit rate, it must be kept below 4000 Kbps and then choose your preferred recording format.
+
+![bitrate](https://images.wondershare.com/filmora/article-images/bitrate.jpg)
+
+Step 3: Make settings for resolution as well as FPS. The desired maximum resolution level is 720p or 1280x720 whereas frame rate must be kept at 30 fps.
+
+![resolution](https://images.wondershare.com/filmora/article-images/resolution.jpg)
+
+Step 4: Now you need to visit the facebook page and then click on the video, go to publishing tools and then from top right corner hit +Live option.
+
+![facebook](https://images.wondershare.com/filmora/article-images/facebook.jpg)
+
+Step 5: It is time to move to the ‘create live video’ page. You have to copy the stream key from the specified location. Prefer to keep this page open.
+
+![create](https://images.wondershare.com/filmora/article-images/create.jpg)
+
+Step 6: Now come back to your OBS settings page and choose stream option. From list of services, prefer to choose Facebook Live option and then simply paste the stream key in the specified field on your screen.
+
+![service](https://images.wondershare.com/filmora/article-images/service.jpg)
+
+## C. Preview and Test your before go live
+
+Step 1: It is time to hit the button “Start Streaming”.
+
+![Click start](https://images.wondershare.com/filmora/article-images/click-start.jpg)
+
+Step 2: Now move back to your facebook page and then choose to preview.
+
+![click preview](https://images.wondershare.com/filmora/article-images/click-preview.jpg)
+
+Step 3: It is time to add your title as per preferences, make selection for your targeted audience and once you have finished all settings and testing process then hit button “Go Live”.
+
+![Click Go1](https://images.wondershare.com/filmora/article-images/click-go1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![Click Go2](https://images.wondershare.com/filmora/article-images/click-go2.jpg)
 
@@ -480,8 +509,6 @@ Follow @Richard Bennett
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -490,7 +517,18 @@ Follow @Richard Bennett
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-how-to-craft-contagious-instagram-visuals/"><u>[New] 2024 Approved How to Craft Contagious Instagram Visuals</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-break-barriers-enhancing-live-social-media-collaborations/"><u>[New] In 2024, Break Barriers Enhancing Live Social Media Collaborations</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-unlocking-fb-the-ultimate-guide-to-downloading-messages/"><u>[New] Unlocking FB The Ultimate Guide to Downloading Messages</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-audiovisual-synchronization-your-path-to-perfect-fb-videos/"><u>[Updated] 2024 Approved Audiovisual Synchronization Your Path to Perfect FB Videos</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-augmented-reality-excellence-mastering-the-use-of-spark-ar-luts/"><u>[Updated] Augmented Reality Excellence Mastering the Use of Spark AR LUTs</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-haunting-shots-next-gen-action-hddc/"><u>2024 Approved Haunting Shots Next-Gen Action HDDC</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-journey-through-your-watch-history-find-latest-views-on-fb/"><u>2024 Approved Journey Through Your Watch History Find Latest Views on FB</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/3-effective-ways-to-unlock-icloud-account-without-password-on-apple-iphone-13-by-drfone-ios/"><u>3 Effective Ways to Unlock iCloud Account Without Password On Apple iPhone 13</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/asus-aura-themes-and-wallpapers-free-downloads-compatible-with-windows-11-systems/"><u>ASUS Aura Themes & Wallpapers: Free Downloads Compatible with Windows 11 Systems</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/early-bird-access-to-msi-z890-and-b860-motherboards-prepare-your-rig-ahead-of-computex-2024-with-the-latest-arrow-lake-s-supported-kits/"><u>Early Bird Access to MSI Z890 & B860 Motherboards - Prepare Your Rig Ahead of Computex 2024 with the Latest Arrow Lake-S Supported Kits</u></a></li>
+<li><a href="https://techidaily.com/samsung-tutorial-bypass-lock-screen-security-password-pin-fingerprint-pattern-by-drfone-android-unlock-android-unlock/"><u>Samsung Tutorial - Bypass Lock Screen,Security Password Pin,Fingerprint,Pattern</u></a></li>
+</ul></div>
 

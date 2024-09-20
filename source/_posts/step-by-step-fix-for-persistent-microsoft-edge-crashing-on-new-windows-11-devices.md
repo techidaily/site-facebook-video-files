@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Fix for Persistent Microsoft Edge Crashing on New Windows 11 Devices
-date: 2024-09-09T19:18:38.685Z
-updated: 2024-09-15T10:25:21.644Z
+date: 2024-09-17T16:28:09.823Z
+updated: 2024-09-20T16:38:11.895Z
 tags:
   - win11
   - win10
@@ -74,13 +74,6 @@ The outdated or broken graphics driver often crashes the game.
 
  Run Dirt 5 again to check whether the game crash issue has been resolved. If it didn’t work, or there was no new game patch available, move on to next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 4: Disable Steam Overlay
 
  It seems that the Steam Overlay doesn’t pair well with Ditrt. So just try disabling Steam Overlay for Dirt 5 to see if the game crashes again. Here is how to do it:
@@ -90,28 +83,21 @@ The outdated or broken graphics driver often crashes the game.
 2. Uncheck**Enable Steam Overlay while in-game** .  
 
 <!-- affiliate ads begin -->
-<span id="1977028">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
+<span id="1983446">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Disable Steam Overlay](https://images.drivereasy.com/wp-content/uploads/2021/04/Disable-Steam-Overlay.jpg)
 
  Launch Dirt 5 to see if the game crashes. If the issue persists, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 5: Set launch options on Steam
 
@@ -121,9 +107,24 @@ The outdated or broken graphics driver often crashes the game.
 2. In the**GENERAL** section, click **SET LAUNCH OPTIONS…**  
 ![Steam set launch options](https://images.drivereasy.com/wp-content/uploads/2021/04/Modify-Steam-set-launch-options.jpg)
 3. Copy and paste the commands below and click **OK** .  
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 `-useallavailablecores -high`
 
  Launch the game to see if it crashes again. If it still crashes, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 6: Stop overclocking
 
@@ -155,18 +156,19 @@ The outdated or broken graphics driver often crashes the game.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-content-compromise-rapid-deletion-dilemma/"><u>[New] 2024 Approved Content Compromise Rapid Deletion Dilemma</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-the-abcs-of-amassing-affection-on-fb-squaring-up-your-video-strategy/"><u>[New] In 2024, The ABC's of Amassing Affection on FB Squaring Up Your Video Strategy</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-navigating-the-download-of-fb-storied-videos/"><u>[Updated] 2024 Approved Navigating the Download of FB Storied Videos</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-essential-writing-habits-for-successful-fb-campaigns/"><u>[Updated] Essential Writing Habits for Successful FB Campaigns</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/2024-approved-the-ultimate-guide-to-facebook-livestreaming-via-wirecast/"><u>2024 Approved The Ultimate Guide to Facebook Livestreaming via Wirecast</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/2024-approved-unveiling-the-top-10-facebook-video-platforms/"><u>2024 Approved Unveiling the Top 10 Facebook Video Platforms</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/break-free-from-q/"><u>Break Free From Q</u></a></li>
-<li><a href="https://solve-helper.techidaily.com/global-food-conglomerate-enhances-billing-accuracy-with-advanced-ai-powered-invoice-management/"><u>Global Food Conglomerate Enhances Billing Accuracy with Advanced AI-Powered Invoice Management</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-sign-a-xlb-file-document-online-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to sign a .xlb file document online</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-meizu-21-drfone-by-drfone-virtual-android/"><u>In 2024, How PGSharp Save You from Ban While Spoofing Pokemon Go On Meizu 21? | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-reset-the-security-questions-of-your-apple-id-from-your-iphone-14-pro-max-by-drfone-ios/"><u>In 2024, How To Reset the Security Questions of Your Apple ID From Your iPhone 14 Pro Max</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-honor-magic5-ultimate-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Snapchat Location Spoofer to Protect Your Privacy On Honor Magic5 Ultimate? | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-the-initializer-not-starting-updated-fixes-2021-problem/"><u>Troubleshooting the 'Initializer Not Starting [Updated Fixes, 2021]' Problem</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-conquering-macs-record-functionality-keyboard-driven-tips-for-2024/"><u>[New] Conquering Mac's Record Functionality Keyboard-Driven Tips for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-social-media-video-trends-for-smbs/"><u>[New] In 2024, Social Media Video Trends for SMBs</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-step-by-step-filming-and-editing-your-first-reel-on-facebook/"><u>[New] In 2024, Step-by-Step Filming and Editing Your First Reel on Facebook</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-unearthing-past-pixels-with-3-methods-on-social-media-fb/"><u>[Updated] 2024 Approved Unearthing Past Pixels with 3 Methods on Social Media (FB)</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-average-revenue-what-every-view-contributes-to-creators/"><u>[Updated] In 2024, Average Revenue What Every View Contributes to Creators</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-cut-to-the-chase-convert-fb-vids-into-mp3s/"><u>[Updated] In 2024, Cut-to-the-Chase Convert FB Vids Into MP3s</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/accessing-shared-media-in-facebook-messenger-how-in-2024/"><u>Accessing Shared Media in Facebook Messenger How, In 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/enhance-connection-top-tips-to-craft-compelling-facebook-profiles-for-2024/"><u>Enhance Connection Top Tips to Craft Compelling Facebook Profiles for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-lava-blaze-2-5g-pictures-an-easy-method-explained-by-fonelab-android-recover-pictures/"><u>How to Restore Deleted Lava Blaze 2 5G Pictures An Easy Method Explained.</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-6-passcode-screen-drfone-by-drfone-ios/"><u>How to Unlock iPhone 6 Passcode Screen? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-fix-oem-unlock-missing-on-tecno-spark-go-2024-by-drfone-android/"><u>In 2024, How To Fix OEM Unlock Missing on Tecno Spark Go (2024)?</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-preparation-to-beat-giovani-in-pokemon-go-for-poco-c55-drfone-by-drfone-virtual-android/"><u>In 2024, Preparation to Beat Giovani in Pokemon Go For Poco C55 | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/the-persistent-echoes-of-eternal-return-a-look-at-black-endurance/"><u>The Persistent Echoes of 'Eternal Return': A Look at Black Endurance</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-computer-hardware-hub-in-depth-insights-and-comparisons/"><u>Tom's Computer Hardware Hub: In-Depth Insights and Comparisons</u></a></li>
 </ul></div>
 

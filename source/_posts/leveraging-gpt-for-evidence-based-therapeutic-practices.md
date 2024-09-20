@@ -1,7 +1,7 @@
 ---
 title: Leveraging GPT for Evidence-Based Therapeutic Practices
-date: 2024-09-09T23:47:45.147Z
-updated: 2024-09-15T04:40:26.567Z
+date: 2024-09-19T16:04:28.071Z
+updated: 2024-09-20T16:03:54.981Z
 tags:
   - chatgpt
   - open-ai
@@ -59,6 +59,13 @@ thumbnail: https://thmb.techidaily.com/162b2aac03e354d0551440e420920822fdecda676
 
  As a general rule of thumb, ask as many questions as you feel necessary to get all the information you're looking for. You may also want to determine[whether premium AI prompts are worth the money](https://www.makeuseof.com/should-you-buy-ai-prompts/) .
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3 Explain What Hasn't Worked When You've Prompted in the Past
 
  As you use AI prompting more frequently, you'll get a better idea of what does and doesn't work for you. You'll also learn which prompts are useful and which ones confuse the tool that you're using. Once you've become more familiar with AI, make sure that you clearly outline what hasn't worked before.
@@ -67,15 +74,22 @@ thumbnail: https://thmb.techidaily.com/162b2aac03e354d0551440e420920822fdecda676
 
  Besides mentioning what hasn't worked for you when prompting in the past, you may also wish to outline anything that has not worked with what you're trying to do. For example, if you're putting together a new workout regimen, you may want to talk about which foods you've noticed you have a negative reaction to before.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4 Don't Make Your AI Multitask
 
 ![chatgpt logo and message on smartphone feature](https://thmb.techidaily.com/7dd47039b908f15adfac56204ff22ad7becb8a002a35f04201c966ce7066b460.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
+  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Ascannio/[Shutterstock](https://www.shutterstock.com/image-photo/chatgpt-chat-bot-screen-seen-on-2237655785)
@@ -94,27 +108,7 @@ thumbnail: https://thmb.techidaily.com/162b2aac03e354d0551440e420920822fdecda676
 
 ![Answer options from ChatGPT, based on what the user did and didn't want ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-13-38-46.png)
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Sometimes, your AI tool will give you multiple options in your answers. You can then choose whichever one works best for you.
-
-<!-- affiliate ads begin -->
-<span id="1982462">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6 Upload Images or Files (if Available)
 
@@ -149,14 +143,18 @@ thumbnail: https://thmb.techidaily.com/162b2aac03e354d0551440e420920822fdecda676
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-craft-compelling-fb-video-ads-free-toolkit-included/"><u>[New] 2024 Approved Craft Compelling FB Video Ads - Free Toolkit Included</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-incorporating-borders-in-your-next-video-post/"><u>[New] 2024 Approved Incorporating Borders in Your Next Video Post</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-capture-and-save-fb-videos-on-windows-mac-for-2024/"><u>[New] Capture and Save FB Videos on Windows, Mac for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-stand-out-with-a-unique-streamer-identity-a-filmora-approach-for-2024/"><u>[Updated] Stand Out with a Unique Streamer Identity A Filmora Approach for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/effortless-graphics-card-management-via-safe-mode-on-window-8/"><u>Effortless Graphics Card Management via Safe Mode on Window 8</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/how-to-make-youtube-thumbnails-online-and-offline/"><u>How to Make YouTube Thumbnails Online & Offline</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-to-safeguard-your-data-avoiding-privacy-risks-with-chatgpt/"><u>How to Safeguard Your Data: Avoiding Privacy Risks with ChatGPT</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-oneplus-ace-2v-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your OnePlus Ace 2V | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/unlock-fb-status-videos-downloading-made-easy/"><u>Unlock FB Status Videos Downloading Made Easy</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-fiscal-horizons-exploring-mr-beasts-income/"><u>[New] In 2024, Fiscal Horizons Exploring Mr. Beast's Income</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-solutions-to-hard-reset-nubia-red-magic-8s-pro-phone-using-pc-drfone-by-drfone-reset-android-reset-android/"><u>3 Solutions to Hard Reset Nubia Red Magic 8S Pro Phone Using PC | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/cyberpunk-2077-frame-rate-improvements-gameplay-enhanced/"><u>Cyberpunk 2077 Frame Rate Improvements - Gameplay Enhanced</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/effective-fixes-for-persona-3-extra-release-not-launching-properly/"><u>Effective Fixes for Persona 3 Extra Release Not Launching Properly</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-prime-pick-all-angle-action-cameras/"><u>In 2024, Prime Pick All-Angle Action Cameras</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/masterclass-softening-audio-endings-for-2024/"><u>Masterclass Softening Audio Endings for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/mastering-pinterest-videos-to-mp3s-essential-strategies/"><u>Mastering Pinterest Videos to MP3s Essential Strategies</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/masterminds-ultimate-gk-quiz-channel-showdowns-2024-edition/"><u>Masterminds' Ultimate GK Quiz Channel Showdowns, 2024 Edition</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/quick-fixes-for-unheard-music-usb-headphone-problems-resolved-on-windows-7/"><u>Quick Fixes for Unheard Music: USB Headphone Problems Resolved on Windows 7</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/resident-evil-village-troubleshooting-guide-for-overcoming-black-screen-glitches-on-pc/"><u>Resident Evil Village: Troubleshooting Guide for Overcoming Black Screen Glitches on PC</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/the-new-era-of-wearables-a-comprehensive-review-of-the-samsung-galaxy-watch-active2s-upgraded-capabilities-and-user-benefits/"><u>The New Era of Wearables: A Comprehensive Review of the Samsung Galaxy Watch Active2's Upgraded Capabilities and User Benefits</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/troubleshooting-tips-how-to-correctly-fix-scanner-malfunctions/"><u>Troubleshooting Tips: How to Correctly Fix Scanner Malfunctions</u></a></li>
+<li><a href="https://win-blog.techidaily.com/ultimate-solution-resolving-the-issue-when-battlenet-fails-to-launch/"><u>Ultimate Solution: Resolving the Issue When Battle.Net Fails to Launch</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  LiveChat Capture Suite FB Version\""
-date: 2024-09-11T07:46:39.212Z
-updated: 2024-09-14T18:50:42.375Z
+date: 2024-09-18T16:14:52.147Z
+updated: 2024-09-20T16:31:10.055Z
 tags:
   - ai video
   - ai facebook
@@ -103,6 +103,13 @@ After opening your saved items, you will find all collections of the items you h
 
 ![Click on the Video](https://images.wondershare.com/filmora/article-images/2021/download-videos-from-facebook-messenger-5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Step 6: Unsave Video
 
 Now you can remove the video from Saved collections by unsaving it and can also delete it from Facebook Messenger if you do not wish to keep it online.
@@ -140,13 +147,6 @@ Press enter, and it will lead you to the mobile version, then play the video as 
 When the video plays on a Windows computer, Right-click and select Inspect or if you have a Mac, use the shortcut Alt Option + Cmd + J.
 
 ![Inspect Element](https://images.wondershare.com/filmora/article-images/2021/download-videos-from-facebook-messenger-9.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Step 6: Locate Video URL
 
@@ -215,6 +215,13 @@ Continuing to read below will lead you to many potential solutions that will hel
 ## Save Messenger Videos on Windows and Mac
 
 There are several times when you watch a video on Facebook, or someone has sent it to you on Facebook Messenger you want to keep it with you forever on your device, or it is something you don't want to keep online for safety measures so you can download it and then delete it from Facebook Messenger.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Save Messenger Videos on Windows
 
@@ -322,36 +329,36 @@ When the video plays on a Windows computer, Right-click and select Inspect or if
 
 ![Inspect Element](https://images.wondershare.com/filmora/article-images/2021/download-videos-from-facebook-messenger-9.jpg)
 
+### Step 6: Locate Video URL
+
+When you click on Inspect, it will open a small window for you with many colorful links, codes, and text on the screen. Search for the video URL, ending in 'mp4', and then right-click on it to copy the link address.
+
+![Locate Video URL](https://images.wondershare.com/filmora/article-images/2021/download-videos-from-facebook-messenger-10.jpg)
+
+### Step 7: Open the Copied Link
+
+Past the link you just copied into another tab. It will open the video so let it play.
+
+### Step 8: Download the Video Directly Now
+
+As the video is playing, right-click on it and click 'Save Video As,' then enter the file name and its destination folder. It will automatically save your video in the selected folder.
+
+## Best Messenger Video Downloader: FBdown.net
+
+FBdown.net is one of the most amazing and best video downloader websites that can simplify the work of your end process in downloading the video. It will also work if the Save As option does not work or shows just the webpage HTML file.
+
 <!-- affiliate ads begin -->
-<span id="1531879">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
+<span id="1155462">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-### Step 6: Locate Video URL
-
-When you click on Inspect, it will open a small window for you with many colorful links, codes, and text on the screen. Search for the video URL, ending in 'mp4', and then right-click on it to copy the link address.
-
-![Locate Video URL](https://images.wondershare.com/filmora/article-images/2021/download-videos-from-facebook-messenger-10.jpg)
-
-### Step 7: Open the Copied Link
-
-Past the link you just copied into another tab. It will open the video so let it play.
-
-### Step 8: Download the Video Directly Now
-
-As the video is playing, right-click on it and click 'Save Video As,' then enter the file name and its destination folder. It will automatically save your video in the selected folder.
-
-## Best Messenger Video Downloader: FBdown.net
-
-FBdown.net is one of the most amazing and best video downloader websites that can simplify the work of your end process in downloading the video. It will also work if the Save As option does not work or shows just the webpage HTML file.
 
 ### Step 1: Repeat Steps
 
@@ -419,6 +426,13 @@ Log in to your Facebook account using your credentials and open the chat with th
 
 Right-click on the video and choose “Save to Facebook” if you want to add it to your online collection or click on Download video to save it on your Windows PC.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Save Messenger Videos on Mac
 
 Following are the steps to save Messenger Videos on a Mac. Although the steps are quite similar to those used in a Windows PC, some things may vary due to the different operating systems.
@@ -446,6 +460,13 @@ Following are the steps to do so.
 Log in to your Facebook account by putting in your credentials.
 
 ![Log in to Facebook](https://images.wondershare.com/filmora/article-images/2021/download-videos-from-facebook-messenger-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Step 2: Open Messenger
 
@@ -503,19 +524,6 @@ Press enter, and it will lead you to the mobile version, then play the video as 
 
 ![Play Video](https://images.wondershare.com/filmora/article-images/2021/download-videos-from-facebook-messenger-8.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1770526">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Step 5: Inspect Element
 
 When the video plays on a Windows computer, Right-click and select Inspect or if you have a Mac, use the shortcut Alt Option + Cmd + J.
@@ -527,13 +535,6 @@ When the video plays on a Windows computer, Right-click and select Inspect or if
 When you click on Inspect, it will open a small window for you with many colorful links, codes, and text on the screen. Search for the video URL, ending in 'mp4', and then right-click on it to copy the link address.
 
 ![Locate Video URL](https://images.wondershare.com/filmora/article-images/2021/download-videos-from-facebook-messenger-10.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Step 7: Open the Copied Link
 
@@ -690,13 +691,6 @@ Copy the video URL by right-clicking on the video screen and then select ‘Copy
 Open a new tab in your browser and paste the URL you just copied from the video. Before hitting enter, make sure to replace the 'www.' in the URL with 'm.' This will open the mobile version of the video or website for you.
 
 ![Access the Mobile Version Of The Site](https://images.wondershare.com/filmora/article-images/2021/download-videos-from-facebook-messenger-7.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Step 4: Play Video
 
@@ -789,19 +783,20 @@ So now you can download videos to save them offline, watch them later, edit them
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-discovering-the-significance-of-blue-icons-on-fb-messaging-app-for-2024/"><u>[New] Discovering the Significance of Blue Icons on FB Messaging App for 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-boost-your-business-through-smart-monetization-techniques/"><u>[New] In 2024, Boost Your Business Through Smart Monetization Techniques</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-optimizing-your-fb-profile-with-stunning-cover-videos-for-2024/"><u>[New] Optimizing Your FB Profile with Stunning Cover Videos for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-perfect-your-canon-shots-10-free-tailored-for-professionals/"><u>[New] Perfect Your Canon Shots 10 Free, Tailored for Professionals</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-sharing-videos-on-tweet-no-retweets-just-phones-for-2024/"><u>[New] Sharing Videos on Tweet No Retweets, Just Phones for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-image-intensifiers-ranking-the-best-10-photography-lenses/"><u>[Updated] In 2024, Image Intensifiers Ranking the Best 10 Photography Lenses</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-leading-edge-social-media-movie-batch-for-2024/"><u>[Updated] Leading Edge Social Media Movie Batch for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/hevch265/"><u>「無損失HEVC(H.265形式)変換ガイド」：パソコン・スマホに最適</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/2024-approved-superior-free-fb-visual-storyteller-tool/"><u>2024 Approved Superior Free FB Visual Storyteller Tool</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/crafting-and-gauging-the-success-of-fb-instream-ads-for-2024/"><u>Crafting and Gauging the Success of FB Instream Ads for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/elevate-your-filmmaking-top-strategies-for-gopro-timelapses/"><u>Elevate Your Filmmaking Top Strategies for GoPro Timelapses</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exploring-the-latest-in-technology-with-toms-hardware-guide/"><u>Exploring the Latest in Technology with Tom's Hardware Guide</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-samsung-galaxy-a25-5g-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>In 2024, Samsung Galaxy A25 5G ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/the-artisans-guide-to-backdrop-free-image-perfection-with-photopea/"><u>The Artisan's Guide to Backdrop-Free Image Perfection with Photopea</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-origami-like-folded-havens-in-mc/"><u>[New] Origami-Like Folded Havens in MC</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-boost-your-e-commerce-strategy-with-these-top-15-fb-analyzers/"><u>[Updated] 2024 Approved Boost Your E-Commerce Strategy with These Top 15 FB Analyzers</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-enhance-team-engagement-with-microsoft-teams-snap-camera-feature/"><u>[Updated] 2024 Approved Enhance Team Engagement with Microsoft Teams' Snap Camera Feature</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-revolutionize-your-facebook-presence-with-these-10-strategies/"><u>[Updated] 2024 Approved Revolutionize Your Facebook Presence with These 10 Strategies</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-hacking-halted-swift-steps-to-recover-your-fb-account-for-2024/"><u>[Updated] Hacking Halted Swift Steps to Recover Your FB Account for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-prime-mobileweb-invest-in-no-cost-imagery-upgrade/"><u>[Updated] In 2024, Prime Mobile/Web Invest in No-Cost Imagery Upgrade</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-the-essentials-of-quality-tvs-top-5-with-peak-colors/"><u>[Updated] In 2024, The Essentials of Quality TVs Top 5 with Peak Colors</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-smart-shopping-top-7-mirrorless-cameras-under-1000/"><u>2024 Approved Smart Shopping Top 7 Mirrorless Cameras Under $1,000</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/boosting-sales-via-high-roi-animated-fb-ad-campaigns/"><u>Boosting Sales via High-ROI Animated FB Ad Campaigns</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/cost-effective-filmmaking-5-top-free-video-tools/"><u>Cost-Effective Filmmaking 5 Top Free Video Tools</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-samsung-galaxy-xcover-7-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Samsung Galaxy XCover 7 Phones with/without a PC</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-chronicles-collector-kit/"><u>In 2024, Chronicles Collector Kit</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-maximizing-outreach-facebook-videos-transmitted-to-whatsapp/"><u>In 2024, Maximizing Outreach Facebook Videos Transmitted to WhatsApp</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-tips-for-restarting-disrupted-fb-live-videos/"><u>In 2024, Tips for Restarting Disrupted FB Live Videos</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-is-a-sim-network-unlock-pin-get-your-oppo-a79-5g-phone-network-ready-by-drfone-android/"><u>What Is a SIM Network Unlock PIN? Get Your Oppo A79 5G Phone Network-Ready</u></a></li>
 </ul></div>
 

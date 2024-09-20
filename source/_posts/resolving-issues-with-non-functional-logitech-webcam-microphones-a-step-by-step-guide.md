@@ -1,7 +1,7 @@
 ---
 title: "Resolving Issues with Non-Functional Logitech Webcam Microphones: A Step-by-Step Guide"
-date: 2024-09-10T06:33:11.332Z
-updated: 2024-09-15T07:10:14.003Z
+date: 2024-09-13T16:24:26.931Z
+updated: 2024-09-20T16:47:32.018Z
 tags:
   - win11
   - win10
@@ -78,10 +78,10 @@ Here’s how to update your drivers with Driver Easy:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Allow access to your webcam built-in microphone
@@ -97,13 +97,6 @@ Here’s how to update your drivers with Driver Easy:
  3) Click **Microphone**  on the left pane. Then click on the **Change**  button and make sure **Microphone access for this device**  is turned on.  
   
 ![turn on app permissions on your microphone](https://images.drivereasy.com/wp-content/uploads/2021/02/turn-on-app-permissions-for-your-micropho0ne.png)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123477/16836" target="_top" id="2123477">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123477" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123477/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) Under the **Allow apps to access your microphone**  section, make sure it’s turned **On** .  
   
@@ -131,6 +124,13 @@ Here’s how to update your drivers with Driver Easy:
   
 ![make sure your device isn't disabled](https://images.drivereasy.com/wp-content/uploads/2021/03/make-sure-your-headset-isnt-disabled.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  After you’ve confirmed that the microphone is enabled, try to speak something to see if it’s now back to the normal state. If the microphone is still not working, try the next fix below.
 
 ---
@@ -148,10 +148,10 @@ Here’s how to update your drivers with Driver Easy:
 ![Open Sound Control Panel](https://images.drivereasy.com/wp-content/uploads/2021/02/sound-control-panel.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
+  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Select the **Recording**  tab. Select your microphone and then click **Set Default > OK** .  
@@ -165,10 +165,10 @@ Here’s how to update your drivers with Driver Easy:
  2) Go to the**Levels** tab. Then, drag the slider to adjust the volume. While performing this step, you need to do a mic test at the same time.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
-  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## If your microphone is still not working properly…
@@ -180,10 +180,10 @@ Here’s how to update your drivers with Driver Easy:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Run Fortect and it will run a FREE scan of your PC. Once the scan is finished, you’ll see a complete overview of your system and issues.
@@ -213,15 +213,18 @@ Here’s how to update your drivers with Driver Easy:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-dealing-with-copyright-infringement-notices-on-youtube/"><u>[New] 2024 Approved Dealing with Copyright Infringement Notices on YouTube</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-prime-selection-of-top-20-humorous-lockdown-memes-lifting-spirits-on-facebook/"><u>[New] Prime Selection of Top 20 Humorous Lockdown Memes, Lifting Spirits on Facebook</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-auto-captioned-mastery-enhancing-visual-narratives-for-2024/"><u>[Updated] Auto-Captioned Mastery Enhancing Visual Narratives for 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-tricks-to-clear-up-screenshots-of-fuzzy-fb-videos/"><u>[Updated] Tricks to Clear Up Screenshots of Fuzzy FB Videos</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/cutting-edge-creativity-filmoras-favorite-features-explored/"><u>Cutting Edge Creativity Filmora's Favorite Features Explored</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-vivo-s18-phone-without-password-by-drfone-android/"><u>How To Unlock Vivo S18 Phone Without Password?</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-infinix-hot-30i-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Infinix Hot 30i Phone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-ignite-interest-a-list-of-30-video-themes/"><u>In 2024, Ignite Interest A List of 30 Video Themes</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/in-2024-swift-restoration-retrieving-lost-fb-access/"><u>In 2024, Swift Restoration Retrieving Lost FB Access</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-a-closer-look-at-vn-video-editor-pro-pros-cons-and-everything-in-between/"><u>New 2024 Approved A Closer Look at VN Video Editor Pro Pros, Cons, and Everything in Between</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-creating-convincing-news-final-buzzes/"><u>[New] 2024 Approved Creating Convincing News Final Buzzes</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-marketing-mastery-discerning-real-engagement-from-skewed-statistics/"><u>[Updated] In 2024, Marketing Mastery Discerning Real Engagement From Skewed Statistics</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-restore-control-overcoming-the-2023-facebook-breach/"><u>[Updated] In 2024, Restore Control Overcoming the 2023 Facebook Breach</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-building-a-powerhouse-business-channel-in-under-5-minutes/"><u>2024 Approved Building a Powerhouse Business Channel in Under 5 Minutes</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-fix-oem-unlock-missing-on-honor-magic-5-lite-by-drfone-android/"><u>How To Fix OEM Unlock Missing on Honor Magic 5 Lite?</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-restore-your-windows-11-computers-microphone-functionality/"><u>How to Restore Your Windows 11 Computer's Microphone Functionality</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-cut-the-red-tape-simplify-xboxfb-broadcasting/"><u>In 2024, Cut the Red Tape Simplify Xbox/FB Broadcasting</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-foremost-virtual-environments-providers/"><u>In 2024, Foremost Virtual Environments Providers</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-remove-apple-iphone-13-mini-sim-lock-by-drfone-ios/"><u>In 2024, How to Remove Apple iPhone 13 mini SIM Lock?</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-step-into-the-archive-old-stories-on-facebook/"><u>In 2024, Step Into the Archive Old Stories on Facebook</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcome-persistent-problems-in-ghostwire-tokyo-ultimate-guide-to-prevent-pc-malfunctions/"><u>Overcome Persistent Problems in Ghostwire: Tokyo; Ultimate Guide to Prevent PC Malfunctions</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/top-11-best-online-facebook-cover-photo-makers/"><u>Top 11 Best Online Facebook Cover Photo Makers</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/wavogg-internet/"><u>WAV/Ogg 형식으로 직접 바이널을 전환: 원향 Internet에서 무세요!</u></a></li>
 </ul></div>
 
