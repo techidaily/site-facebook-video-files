@@ -1,7 +1,7 @@
 ---
 title: "Master Terraria's Performance : Proven Strategies to Avoid System Crashes"
-date: 2024-09-18T16:45:30.722Z
-updated: 2024-09-20T16:37:55.791Z
+date: 2024-09-20T17:09:19.483Z
+updated: 2024-09-26T17:21:30.277Z
 tags:
   - win11
   - win10
@@ -30,6 +30,13 @@ Before you move on, select your gaming platform first:
 ### PC
 
  If you’re experiencing_Dead by Daylight_ crashing issue on your PC, check the fixes below.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
+  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Try these fixes
 
@@ -64,6 +71,20 @@ Before you move on, select your gaming platform first:
 2. Check your **Operating System, Processor, Memory** and **DirectX Version** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2019/09/image-91.png)
 3. Click the **Display** tab, and then check your graphics card’s information.  
+
+<!-- affiliate ads begin -->
+<span id="1424528">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2019/08/image-132.png)
 
  Make sure your computer meets the minimum requirements to run_DBD_ , then read on and check the fix, below.
@@ -118,6 +139,13 @@ OR
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/05/NVIDIA-GeForce-RTX-3090-Ti.jpg)
 4. After updating, restart your computer to take effect.
@@ -167,11 +195,26 @@ Follow the instructions below to see how to fix it:
 1. On your keyboard, press the **Windows logo** key and type **control** . Then, click **Control panel** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2019/05/image-737.png)
 2. Under **View by,** click **Large icons** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2019/05/image-720.png)
 3. Select **Power Options.**  
 ![](https://www.drivereasy.com/wp-content/uploads/2019/05/image-721.png)
 4. Select **High Performance** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2019/05/image-738.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Restart your computer and your game to see if this worked for you. If your problem persists, try the fix below.
 
@@ -222,13 +265,6 @@ If this didn’t work for you, check the fix, below.
 
  If you’re playing_Dead by Daylight_ on Xbox One, check the solutions below.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Try these fixes
 
  You may not have to try them all. Just work your way down the list until you find the one that works for you.
@@ -268,6 +304,13 @@ If this didn’t work for you, check the fix, below.
 4. Select **Update console.**  
 ![](https://www.drivereasy.com/wp-content/uploads/2019/08/image-93.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  After the update is complete, restart Dead by Daylight to see if it runs correctly now. If your problem still exists, read on and try the fix below.
 
 #### Fix 4: Reset your console
@@ -288,10 +331,10 @@ If this didn’t work for you, check the fix, below.
 ![](https://www.drivereasy.com/wp-content/uploads/2019/08/image-99.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  After resetting your console, restart Dead by Daylight to test your issue. If your problem persists, check the fix below.
@@ -315,13 +358,6 @@ If this didn’t work for you, check the fix, below.
 **4)** Highlight your game, then press the **☰ button** on your controller.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-175-1024x439.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **5)**  Select **Uninstall** .
 
@@ -374,13 +410,6 @@ If this didn’t work for you, check the fix, below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1080.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **2)** Select **Settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1077-1024x217.png)
@@ -390,10 +419,10 @@ If this didn’t work for you, check the fix, below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1076.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **4)**  Restart your game to see if this resolved your issues.
@@ -451,5 +480,18 @@ If this didn’t work for you, check the fix, below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-a-compre-market-leaders-guide-to-the-most-effective-fb-video-ad-approaches/"><u>[New] 2024 Approved A Compre Market Leader's Guide to the Most Effective FB Video Ad Approaches</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-become-an-expert-in-real-time-streaming-on-facebook-platform/"><u>[New] In 2024, Become an Expert in Real-Time Streaming on Facebook Platform</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-effortlessly-download-top-5-chromium-plug-ins-for-fb-video-access-for-2024/"><u>[Updated] Effortlessly Download Top 5 Chromium Plug-Ins for FB Video Access for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-recover-elusive-facebook-watch-video-icon/"><u>[Updated] Recover Elusive Facebook Watch Video Icon</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-free-video-tools-working-across-systems-seamlessly/"><u>2024 Approved Free VIDEO Tools Working Across Systems Seamlessly</u></a></li>
+<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-xiaomi-civi-3-disney-100th-anniversary-edition-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on Xiaomi Civi 3 Disney 100th Anniversary Edition | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhancing-user-experience-via-ai-search-tech/"><u>Enhancing User Experience via AI Search Tech</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-digital-extension-fb-stories-archive/"><u>In 2024, Digital Extension Fb Stories Archive</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unveiling-the-ultimate-hdr-camera-lineup/"><u>In 2024, Unveiling the Ultimate HDR Camera Lineup</u></a></li>
+<li><a href="https://win-able.techidaily.com/persistent-problems-solved-stabilizing-genshin-impact-on-personal-computers/"><u>Persistent Problems Solved: Stabilizing Genshin Impact on Personal Computers</u></a></li>
+<li><a href="https://howto.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-vivo-y78-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Vivo Y78 5G | Dr.fone</u></a></li>
+</ul></div>
 

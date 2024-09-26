@@ -1,7 +1,7 @@
 ---
 title: Leveraging GPT for Evidence-Based Therapeutic Practices
-date: 2024-09-19T16:04:28.071Z
-updated: 2024-09-20T16:03:54.981Z
+date: 2024-09-19T17:51:44.976Z
+updated: 2024-09-26T16:47:43.716Z
 tags:
   - chatgpt
   - open-ai
@@ -31,6 +31,13 @@ thumbnail: https://thmb.techidaily.com/162b2aac03e354d0551440e420920822fdecda676
 
  A whole new world of prompt engineering is springing into life, all dedicated to crafting and perfecting the art of AI prompting. But you can skip the tricky bits and improve your AI prompting game with these tips and tricks.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1 Be as Specific as Possible
 
  One[ChatGPT prompt mistake](https://www.makeuseof.com/chatgpt-prompt-mistakes-to-avoid/) is not being specific with the information you give, and this is also a problem when using Microsoft Copilot and other AI tools. If you want AI to provide more accurate results, you need to tell it exactly what you're looking for.p
@@ -42,6 +49,13 @@ thumbnail: https://thmb.techidaily.com/162b2aac03e354d0551440e420920822fdecda676
  As you can see below, we've received more of a customized workout plan with the types of exercises that we wanted.
 
 ![A gym routine generated with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-12-59-46.png)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The more context you provide your AI tool, the better of a response you'll receive.
 
@@ -59,13 +73,6 @@ thumbnail: https://thmb.techidaily.com/162b2aac03e354d0551440e420920822fdecda676
 
  As a general rule of thumb, ask as many questions as you feel necessary to get all the information you're looking for. You may also want to determine[whether premium AI prompts are worth the money](https://www.makeuseof.com/should-you-buy-ai-prompts/) .
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3 Explain What Hasn't Worked When You've Prompted in the Past
 
  As you use AI prompting more frequently, you'll get a better idea of what does and doesn't work for you. You'll also learn which prompts are useful and which ones confuse the tool that you're using. Once you've become more familiar with AI, make sure that you clearly outline what hasn't worked before.
@@ -74,23 +81,9 @@ thumbnail: https://thmb.techidaily.com/162b2aac03e354d0551440e420920822fdecda676
 
  Besides mentioning what hasn't worked for you when prompting in the past, you may also wish to outline anything that has not worked with what you're trying to do. For example, if you're putting together a new workout regimen, you may want to talk about which foods you've noticed you have a negative reaction to before.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4 Don't Make Your AI Multitask
 
 ![chatgpt logo and message on smartphone feature](https://thmb.techidaily.com/7dd47039b908f15adfac56204ff22ad7becb8a002a35f04201c966ce7066b460.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
-  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Ascannio/[Shutterstock](https://www.shutterstock.com/image-photo/chatgpt-chat-bot-screen-seen-on-2237655785)
 
@@ -100,6 +93,13 @@ thumbnail: https://thmb.techidaily.com/162b2aac03e354d0551440e420920822fdecda676
 
  Once you've received one prompt's results, you can move on to the next one until you're happy with everything. Doing things this way might seem more time-consuming, but[single-tasking often improves productivity](https://www.makeuseof.com/master-single-tasking-using-technology-improve-productivity/) , and it's the same for your AI, too.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5 Tell Your AI Tool What You Don't Want in Your Answer
 
  Do you remember in our first point when we told you to be as specific as possible? This also means you should let your AI tool know what you don't want in your answers. While generative AI can produce some pretty cool results, it can't guess everything for you.
@@ -108,7 +108,27 @@ thumbnail: https://thmb.techidaily.com/162b2aac03e354d0551440e420920822fdecda676
 
 ![Answer options from ChatGPT, based on what the user did and didn't want ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-13-38-46.png)
 
+<!-- affiliate ads begin -->
+<span id="1993645">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Sometimes, your AI tool will give you multiple options in your answers. You can then choose whichever one works best for you.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6 Upload Images or Files (if Available)
 
@@ -141,5 +161,26 @@ thumbnail: https://thmb.techidaily.com/162b2aac03e354d0551440e420920822fdecda676
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-advanced-techniques-capturing-teams-screen-content-for-2024/"><u>[New] Advanced Techniques Capturing Teams' Screen Content for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-capture-and-share-adventures-with-gopro-tips-for-livestreams-and-social-media/"><u>[New] In 2024, Capture and Share Adventures with GoPro Tips for Livestreams & Social Media</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-leap-into-broadcasting-effortless-setup-for-your-mobile-youtube-ventures/"><u>[New] In 2024, Leap Into Broadcasting Effortless Setup for Your Mobile YouTube Ventures</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-maximizing-video-visibility-top-strategies-on-fb/"><u>[New] In 2024, Maximizing Video Visibility Top Strategies on FB</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-seamless-experience-with-best-rated-android-devices-for-playstation-2-games/"><u>[Updated] 2024 Approved Seamless Experience with Best-Rated Android Devices for PlayStation 2 Games</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-directvid-capture-kit-fb-version/"><u>[Updated] DirectVid Capture Kit, FB Version</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-exclusive-update-selecting-the-premium-top-10-fb-video-downloading-apps-for-2024/"><u>[Updated] Exclusive Update Selecting the Premium Top 10 FB Video Downloading Apps for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-expand-your-reach-top-tactics-to-amplify-fb-clout/"><u>[Updated] In 2024, Expand Your Reach Top Tactics to Amplify FB Clout</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-incarceration-to-insightfulness-ranking-funniest-jailmates-on-social-media-for-2024/"><u>[Updated] Incarceration to Insightfulness Ranking Funniest Jailmates on Social Media for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-maximizing-traffic-with-effective-youtube-titles/"><u>[Updated] Maximizing Traffic with Effective YouTube Titles</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-unlock-content-premier-iphoneipad-apps-for-fb-video-loading/"><u>[Updated] Unlock Content Premier iPhone/iPad Apps for FB Video Loading</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/a-quick-guide-to-tecno-pova-5-pro-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Tecno Pova 5 Pro FRP Bypass Instantly</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/asf-mp4-asf-mpg/"><u>ASF 파일에서 MP4로의 제공: 가상화, 영화 및 사운드 크리티비저 원활한 이동 - 무료 온라인 ASF MPG 변환기</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-leave-a-life360-group-on-realme-11-pro-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How To Leave a Life360 Group On Realme 11 Pro Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-iphone-11-pro-ios-system-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iPhone 11 Pro iOS System? | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-expert-insights-on-yis-4k-action-video-camera/"><u>In 2024, Expert Insights on YI’s 4K Action Video Camera</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-optimized-broadcast-sharing-live-streams-from-twitch/"><u>In 2024, Optimized Broadcast Sharing Live Streams From Twitch</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/unveiling-30-proven-facebook-tricks-to-skyrocket-your-brand-for-2024/"><u>Unveiling 30 Proven Facebook Tricks to Skyrocket Your Brand for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/your-go-to-guide-for-the-best-6-websites-with-movies-for-kids-free-of-charge/"><u>Your Go-To Guide for the Best 6 Websites with Movies for Kids, Free of Charge</u></a></li>
+</ul></div>
 

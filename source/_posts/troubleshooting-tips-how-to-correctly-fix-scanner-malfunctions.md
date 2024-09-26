@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Tips: How to Correctly Fix Scanner Malfunctions"
-date: 2024-09-15T16:14:52.631Z
-updated: 2024-09-20T16:38:50.799Z
+date: 2024-09-19T16:31:38.391Z
+updated: 2024-09-26T17:03:40.213Z
 tags:
   - win11
   - win10
@@ -26,6 +26,13 @@ Trying to play**Madden 20** but**it keeps crashing** ? You’re certainly not al
 3. **[Repair Madden 20](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Install the latest game patch](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Reinstall Origin and Madden 20](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 1: Update your device drivers
 
@@ -52,6 +59,13 @@ Trying to play**Madden 20** but**it keeps crashing** ? You’re certainly not al
 5) Launch Madden 20 to see if the crashing problems have been resolved. If yes, then great! If the game still crashes, please move on to**Fix** 2, below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Make sure your PC meets the system requirements of Madden 20
 
@@ -87,6 +101,13 @@ Trying to play**Madden 20** but**it keeps crashing** ? You’re certainly not al
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-526.png)
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
+  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click the **Display** tab and you can check what **graphics card** your PC is using.
 
  4) Close DirectX.
@@ -98,13 +119,6 @@ Trying to play**Madden 20** but**it keeps crashing** ? You’re certainly not al
  Hardware components up-to-date but M20 still crashes? Don’t worry – here are a few more fixes for you to try.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Repair Madden 20
 
@@ -143,10 +157,10 @@ Here are the steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-174.png)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) In the program list, locate **Origin** , then right-click on it and click**Uninstall** .
@@ -182,5 +196,22 @@ Here are the steps:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-banishing-bulky-buffered-broadcasts-windows-android-tips/"><u>[New] 2024 Approved Banishing Bulky Buffered Broadcasts Windows, Android Tips</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-youtube-creators-ultimate-playlist-the-best-free-sound-sources/"><u>[New] 2024 Approved YouTube Creators' Ultimate Playlist The Best Free Sound Sources</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-top-10-viral-music-videos-on-social-media-for-2024/"><u>[New] Top 10 Viral Music Videos on Social Media for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-versions-of-windows-cuttingediting-programs/"><u>[New] Versions of Windows Cutting/Editing Programs</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2023s-most-popular-online-video-hub-on-facebook/"><u>[Updated] 2023'S Most Popular Online Video Hub on Facebook</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-apex-online-video-streaming-applications/"><u>[Updated] 2024 Approved Apex Online Video Streaming Applications</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-reimagine-virtual-engagements-with-customized-video-filters-in-zoom/"><u>[Updated] Reimagine Virtual Engagements with Customized Video Filters in Zoom</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-sweep-through-your-contacts-with-speed-and-skill/"><u>2024 Approved Sweep Through Your Contacts with Speed and Skill</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-the-social-network-savants-secret-for-downloading-chats/"><u>2024 Approved The Social Network Savant’s Secret for Downloading Chats</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/gaming-display-mastery-experience-vibrant-colors-on-the-gigabyt-aorus-co49dq-oled-monitor/"><u>Gaming Display Mastery: Experience Vibrant Colors on the Gigabyt Aorus CO49DQ OLED Monitor</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-fix-pokemon-go-route-not-working-on-honor-magic-5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Pokemon Go Route Not Working On Honor Magic 5 Pro? | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/is-doom-eternal-postponed-indefinitely-uncover-tips-to-overcome-the-launch-obstacles/"><u>Is DOOM Eternal Postponed Indefinitely? Uncover Tips to Overcome The Launch Obstacles</u></a></li>
+<li><a href="https://extra-support.techidaily.com/make-your-images-stand-out-mastering-background-removal-with-photopea-for-2024/"><u>Make Your Images Stand Out Mastering Background Removal with Photopea for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/searching-comments-on-youtube-for-2024/"><u>Searching Comments on YouTube for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/the-best-5-programs-for-snagging-facebook-feeds/"><u>The Best 5 Programs for Snagging Facebook Feeds</u></a></li>
+</ul></div>
 

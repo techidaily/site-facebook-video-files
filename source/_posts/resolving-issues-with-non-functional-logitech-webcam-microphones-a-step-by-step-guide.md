@@ -1,7 +1,7 @@
 ---
 title: "Resolving Issues with Non-Functional Logitech Webcam Microphones: A Step-by-Step Guide"
-date: 2024-09-13T16:24:26.931Z
-updated: 2024-09-20T16:47:32.018Z
+date: 2024-09-22T16:27:49.954Z
+updated: 2024-09-26T17:43:19.807Z
 tags:
   - win11
   - win10
@@ -66,6 +66,13 @@ Here’s how to update your drivers with Driver Easy:
 
 ![update drivers automatically](https://images.drivereasy.com/wp-content/uploads/2020/09/scan-now-driver-easy-1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them.)
 
@@ -76,13 +83,6 @@ Here’s how to update your drivers with Driver Easy:
  After updating your drivers, restart your computer and do a mic test to check if the problem is solved. If not, then continue trying the fixes below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Allow access to your webcam built-in microphone
 
@@ -116,24 +116,45 @@ Here’s how to update your drivers with Driver Easy:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/open-sound-settings.png)
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Under the **Input**  section, make sure that your device is showing. Then click **Device Properties** .  
   
 ![make sure your device isn't disabled](https://images.drivereasy.com/wp-content/uploads/2021/03/Input-section-1.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Make sure the box next to**Disable** is unchecked.  
   
 ![make sure your device isn't disabled](https://images.drivereasy.com/wp-content/uploads/2021/03/make-sure-your-headset-isnt-disabled.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  After you’ve confirmed that the microphone is enabled, try to speak something to see if it’s now back to the normal state. If the microphone is still not working, try the next fix below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Set your device as default
 
@@ -143,16 +164,16 @@ Here’s how to update your drivers with Driver Easy:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/open-sound-settings.png)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Scroll down to the section of **Related Settings** and click **Sound Control Panel** .  
   
 ![Open Sound Control Panel](https://images.drivereasy.com/wp-content/uploads/2021/02/sound-control-panel.png)
-
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
-  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Select the **Recording**  tab. Select your microphone and then click **Set Default > OK** .  
   
@@ -165,10 +186,10 @@ Here’s how to update your drivers with Driver Easy:
  2) Go to the**Levels** tab. Then, drag the slider to adjust the volume. While performing this step, you need to do a mic test at the same time.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## If your microphone is still not working properly…
@@ -178,13 +199,6 @@ Here’s how to update your drivers with Driver Easy:
  1) **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Fortect.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) Run Fortect and it will run a FREE scan of your PC. Once the scan is finished, you’ll see a complete overview of your system and issues.
 
@@ -211,5 +225,20 @@ Here’s how to update your drivers with Driver Easy:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-files.techidaily.com/new-exploring-copyright-policy-instantaneous-removal-of-personal-videos/"><u>[New] Exploring Copyright Policy Instantaneous Removal of Personal Videos</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-exploring-legal-restrictions-for-broadcasting-content-online/"><u>[New] In 2024, Exploring Legal Restrictions for Broadcasting Content Online</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-cutting-edge-techniques-for-private-yt-content-dissemination-in-gmail/"><u>[Updated] 2024 Approved Cutting-Edge Techniques for Private YT Content Dissemination in Gmail</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-the-hidden-guide-watching-highly-engaged-comments-with-ease-on-youtube/"><u>[Updated] 2024 Approved The Hidden Guide Watching Highly Engaged Comments with Ease on YouTube</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-capture-and-record-a-new-era-of-iphoneipad-recording/"><u>[Updated] Capture & Record A New Era of iPhone/iPad Recording</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-ultimate-choices-in-high-definition-screen-capture-for-2024/"><u>[Updated] Ultimate Choices in High Definition Screen Capture for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-unlock-hd-potential-for-your-social-media-platform-fb/"><u>[Updated] Unlock HD Potential for Your Social Media Platform (FB)</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-vivo-y100-5g-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Vivo Y100 5G to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/exploring-boundaries-sharing-360-photos-from-mobile-devices/"><u>Exploring Boundaries Sharing 360 Photos From Mobile Devices</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/fb-cover-video-excellence-strategies-for-leadership-in-social-media/"><u>FB Cover Video Excellence Strategies for Leadership in Social Media</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-steams-remote-play-malfunction-a-comprehensive-guide/"><u>Fixing Steam's Remote Play Malfunction: A Comprehensive Guide</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/initiate-online-interactions-with-this-guide-to-facebook-registration/"><u>Initiate Online Interactions with This Guide to Facebook Registration</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/prime-image-rehabilitation-app/"><u>Prime Image Rehabilitation App</u></a></li>
+</ul></div>
 
