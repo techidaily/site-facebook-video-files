@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Missing Occasion Entries on iPad/iPhone Scheduler
-date: 2024-09-25T16:17:04.019Z
-updated: 2024-09-26T17:35:52.877Z
+date: 2024-09-29T16:32:25.029Z
+updated: 2024-10-01T16:10:25.330Z
 tags:
   - iphone
   - apple
@@ -40,6 +40,13 @@ thumbnail: https://thmb.techidaily.com/41de1135ff58d32185caafd7a16e179b6c3f3f0f5
 
 Close
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Ensure Your Calendar Is Syncing With iCloud
 
  If the Calendar app isn't showing your events, there's a decent chance the problem lies in your iCloud settings. You can [solve general iCloud sync issues](https://www.makeuseof.com/tag/icloud-sync-problems-x-fixes-common-cloud-storage-issues) in other ways, but this is how to manually allow the Calendar app to sync your data:
@@ -52,35 +59,15 @@ Close
 ![screenshot of Apple ID settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/screenshot-of-apple-id-settings.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1516072">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![screenshot of apps using iCloud setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/screenshot-of-apps-using-icloud-setting.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Close
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Ensure All Your Calendars Are Enabled
 
@@ -94,16 +81,23 @@ Close
 
 ![screenshot of calendars tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/screenshot-of-calendars-tab.jpg)
 
-![screenshot of bottom half of calendars tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/screenshot-of-bottom-half-of-calendars-tab.jpg)
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
+![screenshot of bottom half of calendars tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/screenshot-of-bottom-half-of-calendars-tab.jpg)
+
 Close
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Try Some General Troubleshooting Tips
 
@@ -130,17 +124,19 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-comprehensive-guide-to-optimizing-facetime-recording-quality/"><u>[New] In 2024, Comprehensive Guide to Optimizing FaceTime Recording Quality</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-maximize-page-reach-on-facebook/"><u>[New] Maximize Page Reach on Facebook</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-maximizing-viewership-live-stream-optimization-techniques/"><u>[New] Maximizing Viewership Live Stream Optimization Techniques</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-achieve-visual-dominance-with-facebooks-full-screen-capability-for-2024/"><u>[Updated] Achieve Visual Dominance with Facebook's Full-Screen Capability for 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-facebooks-mystery-the-blue-icon-in-messaging/"><u>[Updated] In 2024, Facebook's Mystery The Blue Icon in Messaging</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/2024-approved-uniting-social-media-and-television-with-fb-live/"><u>2024 Approved Uniting Social Media & Television with FB Live</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-full-guide-to-catch-100-iv-pokemon-using-a-map-on-poco-c65-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Catch 100 IV Pokémon Using a Map On Poco C65 | Dr.fone</u></a></li>
-<li><a href="https://win-blog.techidaily.com/1723012389973-mastering-the-dark-mode-dilemma-in-halo-infinite-now-solved/"><u>Mastering the Dark Mode Dilemma in Halo Infinite - Now Solved</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/navigate-past-touchpad-problems-a-comprehensive-guide-to-resolving-poor-scroll-performance/"><u>Navigate Past Touchpad Problems: A Comprehensive Guide to Resolving Poor Scroll Performance</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/navigating-social-feed-anomalies-missing-video-ideas-for-2024/"><u>Navigating Social Feed Anomalies Missing Video Ideas for 2024</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-free-online-video-editing-made-easy-a-jaycut-user-guide/"><u>New Free Online Video Editing Made Easy A Jaycut User Guide</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/step-by-step-for-apple-podcast-integration-for-2024/"><u>Step-by-Step for Apple Podcast Integration for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-bring-your-imagination-to-life-using-cartoony-filters-in-snapchat-for-2024/"><u>[New] Bring Your Imagination to Life Using Cartoony Filters in Snapchat for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/igital-detox-how-to-turn-off-youtube-on-computers-and-phones/"><u>[New] Digital Detox How to Turn Off Youtube on Computers and Phones</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-crafting-captivating-stories-on-fb-a-comprehensive-guide-to-bio-crafting/"><u>[Updated] Crafting Captivating Stories on FB A Comprehensive Guide to Bio Crafting</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-augment-visuals-incorporating-black-box-and-letterboxing-in-social-media/"><u>[Updated] In 2024, Augment Visuals Incorporating Black Box & Letterboxing in Social Media</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-the-mystique-of-a-blue-icon-on-facebook-decoding-its-purpose-and-meaning/"><u>[Updated] The Mystique of a Blue Icon on Facebook Decoding Its Purpose and Meaning</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-uncover-the-best-practices-for-video-seo-on-facebook-for-2024/"><u>[Updated] Uncover the Best Practices for Video SEO on Facebook for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-mastering-podcast-name-selection-step-by-step-guide-plus-50plus-top-ideas-list/"><u>2024 Approved Mastering Podcast Name Selection Step-by-Step Guide + 50+ Top Ideas List</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/cross-platform-soundtrack-strategy-for-facebook-profiles-for-2024/"><u>Cross-Platform Soundtrack Strategy for Facebook Profiles for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/direct-tweet-transfers-to-facebook-feed-for-2024/"><u>Direct Tweet Transfers to Facebook Feed for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/easy-video-calls-with-googles-hangouts-on-your-android/"><u>Easy Video Calls with Google's Hangouts on Your Android</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/head-to-head-comparison-the-classic-nintendo-switch-and-the-new-oled-version/"><u>Head to Head Comparison: The Classic Nintendo Switch and the New OLED Version</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-bypass-the-required-apple-store-verification-for-iphone-8-plus-drfone-by-drfone-ios/"><u>How To Bypass the Required Apple Store Verification For iPhone 8 Plus | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-get-creative-streamline-your-movies-with-one-clicks-on-windows-10/"><u>In 2024, Get Creative Streamline Your Movies with One Clicks on Windows 10</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-xiaomi-redmi-note-12-pro-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Xiaomi Redmi Note 12 Pro 4G | Dr.fone</u></a></li>
 </ul></div>
 

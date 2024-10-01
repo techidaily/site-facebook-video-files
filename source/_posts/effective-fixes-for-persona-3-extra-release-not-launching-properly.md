@@ -1,7 +1,7 @@
 ---
 title: Effective Fixes for Persona 3 Extra Release Not Launching Properly
-date: 2024-09-19T17:39:13.299Z
-updated: 2024-09-26T16:02:00.723Z
+date: 2024-09-28T18:12:26.096Z
+updated: 2024-10-01T17:14:31.621Z
 tags:
   - win11
   - win10
@@ -28,6 +28,13 @@ thumbnail: https://thmb.techidaily.com/e46847f4d730c4e71d01b69ffbbf4867ec3238091
 * [Fix 5: Enable low spec mode](https://tools.techidaily.com/drivereasy/download/)
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
+  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 1: Make sure your PC meets meets the system requirements for League of Legends
 
@@ -61,10 +68,10 @@ thumbnail: https://thmb.techidaily.com/e46847f4d730c4e71d01b69ffbbf4867ec3238091
  If your PC meets the system requirement for League of Legends but the game crashing issue persists, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Update your drivers
@@ -99,13 +106,6 @@ thumbnail: https://thmb.techidaily.com/e46847f4d730c4e71d01b69ffbbf4867ec3238091
 
  If you need assistance, please contact**Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 3: Install the latest Windows Updates
 
  One of the the dependencies of League of Legends is**DotNet Framework 3.5** . By installing the latest Windows Updates, you can also update DotNet Framework 3.5 to the latest version. If you’re using Windows 10, you can follow the steps below to perform Windows Update:
@@ -125,10 +125,16 @@ thumbnail: https://thmb.techidaily.com/e46847f4d730c4e71d01b69ffbbf4867ec3238091
  See if you can play the game without crashes. If so, you’ve fixed this issue! If not, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
-  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1444782">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Repair corrupted game files
@@ -140,13 +146,6 @@ thumbnail: https://thmb.techidaily.com/e46847f4d730c4e71d01b69ffbbf4867ec3238091
 2) In the upper-right corner, click**the gear button**  to open the game settings.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap777.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Click**Initiate Full Repair** .
 
@@ -170,15 +169,22 @@ thumbnail: https://thmb.techidaily.com/e46847f4d730c4e71d01b69ffbbf4867ec3238091
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap777.png)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3)**Check the box** next to **Enable Low Spec Mode** and click **DONE** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap778.png)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Run League of Legends to see if you resolved this issue.
@@ -203,21 +209,24 @@ Run League of Legends to see if you resolved this issue.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-accessing-shared-media-in-facebook-messenger-how/"><u>[New] 2024 Approved Accessing Shared Media in Facebook Messenger How?</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-how-to-make-reels-on-instagram-like-a-ninja/"><u>[New] 2024 Approved How to Make Reels on Instagram Like a Ninja</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/024-approved-tailor-made-edits-customizing-videos-in-studio/"><u>[New] 2024 Approved Tailor-Made Edits Customizing Videos in Studio</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-cardboard-contrast-google-to-samsung-gear-headset/"><u>[New] Cardboard Contrast Google to Samsung Gear Headset</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/new-claritycapturex7-zoom-in-size-up-smartly/"><u>[New] ClarityCaptureX7 Zoom In, Size Up Smartly</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-streamlining-your-360-video-process-for-social-media-platforms/"><u>[Updated] 2024 Approved Streamlining Your 360 Video Process for Social Media Platforms</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-free-easy-hd-download-of-fb-media-library-for-2024/"><u>[Updated] Free, Easy HD Download of FB Media Library for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-harness-10-tools-to-grab-youtube-images-online/"><u>[Updated] Harness 10 Tools to Grab YouTube Images Online</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-top-10-mobile-selections-efficiently-save-facebook-videos-on-android/"><u>[Updated] In 2024, Top 10 Mobile Selections Efficiently Save Facebook Videos on Android</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-invisible-viewers-of-fb-episodes-for-2024/"><u>[Updated] Invisible Viewers of Fb Episodes for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-link-from-instas-photos-to-tiks-videos/"><u>2024 Approved The Ultimate Link From Insta's Photos to Tik's Videos</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/acer-driver-issues-in-windows-fixed/"><u>Acer Driver Issues in Windows [Fixed]</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/from-memory-to-moments-securely-uploading-photos-to-snapchat-for-2024/"><u>From Memory to Moments Securely Uploading Photos to Snapchat for 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/in-2024-maximizing-hd-quality-fb-live-broadcast-tips/"><u>In 2024, Maximizing HD Quality FB Live Broadcast Tips</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/in-2024-take-flight-with-social-media-dji-drone-streaming-basics/"><u>In 2024, Take Flight with Social Media DJI Drone Streaming Basics</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/the-ace-collection-of-elite-3d-blu-ray-equipment/"><u>The Ace Collection of Elite 3D Blu-Ray Equipment</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-elevate-your-social-media-impact-secrets-unveiled-in-the-best-facebook-bios/"><u>[New] 2024 Approved Elevate Your Social Media Impact Secrets Unveiled in the Best Facebook Bios</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-where-to-download-christian-ringtones-and-how-to-customize-a-christian-for-2024/"><u>[New] Where To Download Christian Ringtones And How To Customize A Christian for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-navigating-the-maze-fb-messengers-a-video-downloading-guide/"><u>[Updated] 2024 Approved Navigating the Maze FB Messengers - A Video Downloading Guide</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-the-art-of-adding-audio-to-visual-content-for-facebook-sharing/"><u>[Updated] 2024 Approved The Art of Adding Audio to Visual Content for Facebook Sharing</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-viral-hits-the-top-10-music-videos-on-fb-now/"><u>[Updated] 2024 Approved Viral Hits The Top 10 Music Videos on FB Now</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-achieve-aesthetic-11-best-instagram-enhancers/"><u>[Updated] Achieve Aesthetic 11 Best Instagram Enhancers</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-apex-sporting-cameras-for-extreme-enthusiasts/"><u>[Updated] Apex Sporting Cameras for Extreme Enthusiasts</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-crafting-hashtags-that-capture-attention-and-drive-engagement-on-fb-for-2024/"><u>[Updated] Crafting Hashtags that Capture Attention and Drive Engagement on FB for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-netflix-archive-the-complete-guide-to-screencapturing-your-views-for-2024/"><u>[Updated] Netflix Archive The Complete Guide to ScreenCapturing Your Views for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-optimize-your-social-media-videos-on-fb-with-the-right-ratio/"><u>[Updated] Optimize Your Social Media Videos on FB with the Right Ratio</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-discover-creative-ways-to-enhance-your-fb-video-ads/"><u>2024 Approved Discover Creative Ways to Enhance Your FB Video Ads</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/abbyy-secures-top-position-in-the-2022-everest-group-idp-peak-matrix-evaluation/"><u>ABBYY Secures Top Position in the 2022 Everest Group IDP PEAK Matrix Evaluation</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-xiaomi-redmi-12-5g-frp-in-3-different-ways-by-drfone-android/"><u>In 2024, How To Bypass Xiaomi Redmi 12 5G FRP In 3 Different Ways</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-mastering-lock-screen-settings-how-to-enable-and-disable-on-infinix-zero-5g-2023-turbo-by-drfone-android/"><u>In 2024, Mastering Lock Screen Settings How to Enable and Disable on Infinix Zero 5G 2023 Turbo</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-2024-approved-discovering-the-ultimate-voice-overhaul-mobile-tools/"><u>New 2024 Approved Discovering the Ultimate Voice Overhaul Mobile Tools</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/revamp-your-viewing-experience-the-ultimate-guide-to-samsung-tv-firmware-updates/"><u>Revamp Your Viewing Experience: The Ultimate Guide to Samsung TV Firmware Updates</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/streamline-your-content-a-tutorial-for-instagram-video-sharing/"><u>Streamline Your Content A Tutorial for Instagram Video Sharing</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/the-essential-guide-fast-tracking-subtitle-creation-for-your-fb-posts-for-2024/"><u>The Essential Guide Fast-Tracking Subtitle Creation for Your FB Posts for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/win11-a-beginners-guide-to-screensavers/"><u>Win11: A Beginner's Guide to Screensavers</u></a></li>
 </ul></div>
 

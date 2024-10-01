@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Tips: How to Correctly Fix Scanner Malfunctions"
-date: 2024-09-19T16:31:38.391Z
-updated: 2024-09-26T17:03:40.213Z
+date: 2024-09-27T16:05:59.901Z
+updated: 2024-10-01T19:59:43.712Z
 tags:
   - win11
   - win10
@@ -27,13 +27,6 @@ Trying to play**Madden 20** but**it keeps crashing** ? You’re certainly not al
 4. **[Install the latest game patch](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Reinstall Origin and Madden 20](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Update your device drivers
 
  This problem may occur if you are using the wrong or outdated device drivers. So you should update your drivers to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -48,6 +41,13 @@ Trying to play**Madden 20** but**it keeps crashing** ? You’re certainly not al
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-439.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click the **Update**  button next to a flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
@@ -61,10 +61,10 @@ Trying to play**Madden 20** but**it keeps crashing** ? You’re certainly not al
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Make sure your PC meets the system requirements of Madden 20
@@ -97,15 +97,22 @@ Trying to play**Madden 20** but**it keeps crashing** ? You’re certainly not al
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-13.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Under the **System** tab and you can check the **Operating System**  and **Memory** information on your PC.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-526.png)
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
-  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click the **Display** tab and you can check what **graphics card** your PC is using.
@@ -156,13 +163,6 @@ Here are the steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-174.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) In the program list, locate **Origin** , then right-click on it and click**Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-175-1024x499.png)
@@ -198,20 +198,17 @@ Here are the steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-banishing-bulky-buffered-broadcasts-windows-android-tips/"><u>[New] 2024 Approved Banishing Bulky Buffered Broadcasts Windows, Android Tips</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-youtube-creators-ultimate-playlist-the-best-free-sound-sources/"><u>[New] 2024 Approved YouTube Creators' Ultimate Playlist The Best Free Sound Sources</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-top-10-viral-music-videos-on-social-media-for-2024/"><u>[New] Top 10 Viral Music Videos on Social Media for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-versions-of-windows-cuttingediting-programs/"><u>[New] Versions of Windows Cutting/Editing Programs</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-2023s-most-popular-online-video-hub-on-facebook/"><u>[Updated] 2023'S Most Popular Online Video Hub on Facebook</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-apex-online-video-streaming-applications/"><u>[Updated] 2024 Approved Apex Online Video Streaming Applications</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-reimagine-virtual-engagements-with-customized-video-filters-in-zoom/"><u>[Updated] Reimagine Virtual Engagements with Customized Video Filters in Zoom</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/2024-approved-sweep-through-your-contacts-with-speed-and-skill/"><u>2024 Approved Sweep Through Your Contacts with Speed and Skill</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/2024-approved-the-social-network-savants-secret-for-downloading-chats/"><u>2024 Approved The Social Network Savant’s Secret for Downloading Chats</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/gaming-display-mastery-experience-vibrant-colors-on-the-gigabyt-aorus-co49dq-oled-monitor/"><u>Gaming Display Mastery: Experience Vibrant Colors on the Gigabyt Aorus CO49DQ OLED Monitor</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-fix-pokemon-go-route-not-working-on-honor-magic-5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Pokemon Go Route Not Working On Honor Magic 5 Pro? | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/is-doom-eternal-postponed-indefinitely-uncover-tips-to-overcome-the-launch-obstacles/"><u>Is DOOM Eternal Postponed Indefinitely? Uncover Tips to Overcome The Launch Obstacles</u></a></li>
-<li><a href="https://extra-support.techidaily.com/make-your-images-stand-out-mastering-background-removal-with-photopea-for-2024/"><u>Make Your Images Stand Out Mastering Background Removal with Photopea for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/searching-comments-on-youtube-for-2024/"><u>Searching Comments on YouTube for 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/the-best-5-programs-for-snagging-facebook-feeds/"><u>The Best 5 Programs for Snagging Facebook Feeds</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/nlock-your-videos-potential-with-these-7-audio-treasures/"><u>[New] Unlock Your Video's Potential with These 7 Audio Treasures</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-social-media-savvy-turning-friends-into-customers-and-coins/"><u>[Updated] 2024 Approved Social Media Savvy Turning Friends Into Customers and Coins</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-innovative-approaches-to-integrating-your-fb-story-for-2024/"><u>[Updated] Innovative Approaches to Integrating Your FB Story for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-mastering-business-on-instagram-a-step-by-step-guide/"><u>2024 Approved Mastering Business on Instagram A Step-by-Step Guide</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-apple-iphone-11-pro-max-drfone-by-drfone-virtual-ios/"><u>5 Hassle-Free Solutions to Fake Location on Find My Friends Of Apple iPhone 11 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/delving-into-detail-with-minecraft-views-for-2024/"><u>Delving Into Detail with Minecraft Views for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-our-picks-the-six-greatest-solo-translation-tools/"><u>Discover Our Picks: The Six Greatest Solo Translation Tools</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-streamlining-call-logs-the-4-step-guide-for-fb-calls/"><u>In 2024, Streamlining Call Logs The 4-Step Guide for FB Calls</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-tactics-to-quiet-down-distractions-during-google-meets/"><u>In 2024, Tactics to Quiet Down Distractions During Google Meets</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-motorola-moto-g73-5g-device-by-drfone-android/"><u>In 2024, The Ultimate Guide How to Bypass Swipe Screen to Unlock on Motorola Moto G73 5G Device</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-the-ultimate-guide-to-dji-drone-video-livestreams-on-fb/"><u>In 2024, The Ultimate Guide to DJI Drone Video Livestreams on FB</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/preeminent-windows-calls-8-top-picks/"><u>Preeminent Windows Calls 8 Top Picks</u></a></li>
 </ul></div>
 

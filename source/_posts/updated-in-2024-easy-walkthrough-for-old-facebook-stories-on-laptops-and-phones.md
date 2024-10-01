@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Easy Walkthrough for Old Facebook Stories on Laptops & Phones"
-date: 2024-09-20T17:15:46.780Z
-updated: 2024-09-26T17:16:03.535Z
+date: 2024-09-28T18:15:16.562Z
+updated: 2024-10-01T16:35:38.782Z
 tags:
   - ai video
   - ai facebook
@@ -103,6 +103,13 @@ After visiting the story archive, click on the story you wish to save. Click on 
 
 After you click three dots, you will see a save and delete photo option. Click on the **save option** to download it to your device.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 5: How to See Old Stories on a Facebook Business Page?
 
 Facebook business pages help in enhancing business significantly, primarily if you use story features for customer interaction. If you want to keep track of old stories, you can use the following method:
@@ -126,10 +133,10 @@ Facebook is an excellent platform to interact with your audience, and the story 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Liza Brown
@@ -153,13 +160,6 @@ Facebook has a complex interface, but it will be much easier to navigate it once
 * [Part 5: How to See Old Stories on a Facebook Business Page?](#part5)
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 1: How to View Old Stories on iPhone/Android Facebook App?
 
@@ -211,6 +211,13 @@ People make a **series of highlights** and name them accordingly. If the story i
 
 **Note:** A person or a user has to click on the star highlight sign to save stories for the future. If they do not select the highlight option, stories will disappear after 24 hours, and there is no way to view them in the future. Hence, this option is only applicable when a user has saved their stories for public view.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 4: How to Save Posts from Your Stories Archive to Your Device?
 
 We tend not to save stories to our devices when clicking them directly from the Facebook app. However, you can save a post to your device from the stories archive using simple steps. Let's see how to do it:
@@ -226,13 +233,6 @@ After visiting the story archive, click on the story you wish to save. Click on 
 **Step 3: Save story**
 
 After you click three dots, you will see a save and delete photo option. Click on the **save option** to download it to your device.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 5: How to See Old Stories on a Facebook Business Page?
 
@@ -255,6 +255,13 @@ When you click on the story **archive**, you will see all your old stories in se
 Facebook is an excellent platform to interact with your audience, and the story is one of the best features to give your friends a glimpse of your life. Going through old stories can refresh a lot of our memories. If you did not know how to see old stories on Facebook, now you do.
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Liza Brown
 
@@ -297,10 +304,16 @@ By clicking on the **More option**, you will see a few more options appear. Clic
 On the story archive option, you will see three dots on the top right option. It provides you with a choice to save stories or not. You can turn on the save archives option to save every story you post so that you can view it later.
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1793213">
+					<video width="864" height="1296" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2: How to View Stories on Facebook Desktop?
@@ -374,10 +387,10 @@ Facebook is an excellent platform to interact with your audience, and the story 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Liza Brown
@@ -402,13 +415,6 @@ Facebook has a complex interface, but it will be much easier to navigate it once
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 1: How to View Old Stories on iPhone/Android Facebook App?
 
 Facebook mobile application is one of the convenient ways of using it as it has a user-friendly interface. You can quickly post stories through the Facebook mobile app and interact with your friends. Here is how you can view old stories on a mobile app:
@@ -426,13 +432,6 @@ Once you are on your profile, you have to click on the **three dots** on the **t
 By clicking on the **More option**, you will see a few more options appear. Click on the **story archive** option to see previous stories.
 
 On the story archive option, you will see three dots on the top right option. It provides you with a choice to save stories or not. You can turn on the save archives option to save every story you post so that you can view it later.
-
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
-  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 2: How to View Stories on Facebook Desktop?
 
@@ -467,10 +466,10 @@ People make a **series of highlights** and name them accordingly. If the story i
 **Note:** A person or a user has to click on the star highlight sign to save stories for the future. If they do not select the highlight option, stories will disappear after 24 hours, and there is no way to view them in the future. Hence, this option is only applicable when a user has saved their stories for public view.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 4: How to Save Posts from Your Stories Archive to Your Device?
@@ -510,6 +509,13 @@ When you click on the story **archive**, you will see all your old stories in se
 Facebook is an excellent platform to interact with your audience, and the story is one of the best features to give your friends a glimpse of your life. Going through old stories can refresh a lot of our memories. If you did not know how to see old stories on Facebook, now you do.
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
+  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Liza Brown
 
@@ -538,22 +544,24 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-breaking-into-the-world-of-social-broadcasts-and-roku-for-2024/"><u>[New] Breaking Into the World of Social Broadcasts & Roku for 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-guide-to-altering-your-facebook-background-image/"><u>[New] Guide to Altering Your Facebook Background Image</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-how-to-stream-in-hd-1080p-on-facebook-in-2024/"><u>[New] How to Stream in HD 1080P on Facebook, In 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-master-image-enhancement-10-pro-tips-for-using-pixlr-effectively/"><u>[New] Master Image Enhancement 10 Pro Tips for Using Pixlr Effectively</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-enrich-facebook-tales-unlimited-no-cost-online-and-mobile-upgrades/"><u>[Updated] In 2024, Enrich Facebook Tales Unlimited, No-Cost Online & Mobile Upgrades</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-seizing-screen-time-with-hd-downloads-from-fb-sources-for-2024/"><u>[Updated] Seizing Screen Time with HD Downloads From FB Sources for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/elevate-your-clicking-skills-with-these-top-12-pc-titles/"><u>Elevate Your Clicking Skills with These Top 12 PC Titles</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/fb-cover-video-techniques-for-business-professionals/"><u>FB Cover Video Techniques for Business Professionals</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-gionee-f3-pro-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Gionee F3 Pro to Latest Samsung | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-understanding-facebook-story-algorithms-how-to-optimize-for-success/"><u>In 2024, Understanding Facebook Story Algorithms How to Optimize for Success</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/insight-into-internet-use-methods-to-monitor-your-bandwidth-consumption-efficiently/"><u>Insight Into Internet Use: Methods to Monitor Your Bandwidth Consumption Efficiently</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/mental-health-horizons-with-the-help-of-ai-innovations/"><u>Mental Health Horizons with the Help of AI Innovations</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/scaling-up-your-pathway-to-high-quality-facebook-live/"><u>Scaling Up Your Pathway to High-Quality Facebook Live</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/the-blueprint-to-dominate-with-your-spotify-ad-campaign/"><u>The Blueprint to Dominate With Your Spotify Ad Campaign</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/understanding-and-fixing-error-code-0xc000021a-that-causes-bsod-on-windows-11-and-8/"><u>Understanding and Fixing Error Code 0xC000021A that Causes BSOD on Windows 11 & 8</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/unlock-your-films-potential-top-11-color-grading-and-correction-methods/"><u>Unlock Your Film's Potential Top 11 Color Grading and Correction Methods</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/unlocking-the-secrets-of-success-top-strategies-for-fb-video-growth/"><u>Unlocking the Secrets of Success Top Strategies for FB Video Growth</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-expanding-your-social-horizon-connect-tiktok-to-facebook/"><u>[New] 2024 Approved Expanding Your Social Horizon Connect TikTok to Facebook</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-free-online-platform-convert-any-fb-video-into-a-song/"><u>[New] 2024 Approved Free Online Platform Convert Any FB Video Into a Song</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-master-the-art-of-immutable-image-creation/"><u>[New] Master the Art of Immutable Image Creation</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-professional-academic-recording-a-trio-of-methods-for-students-with-apple-devices-for-2024/"><u>[New] Professional Academic Recording A Trio of Methods for Students with Apple Devices for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-balancing-frameworks-for-engaging-visual-media/"><u>[Updated] Balancing Frameworks for Engaging Visual Media</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-instant-mp3-from-your-fb-videos-online-converter-for-2024/"><u>[Updated] Instant MP3 From Your FB Videos - Online Converter for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1726226934105-f4v-mp3-movavi/"><u>「あなたも可能！オンライン無料F4V MP3変換 - Movaviプロセスガイド」</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-capturing-and-keeping-your-social-media-moments/"><u>2024 Approved Capturing and Keeping Your Social Media Moments</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-steer-clear-of-vr-nausea-essential-precautions/"><u>2024 Approved Steer Clear of VR Nausea Essential Precautions</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-persistent-freezing-issues-in-ghostwire-tokyo-on-pc/"><u>Fixing Persistent Freezing Issues in Ghostwire: Tokyo on PC</u></a></li>
+<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-tecno-spark-10-pro-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Tecno Spark 10 Pro? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-cutting-edge-techniques-quickly-developing-quality-captions-for-facebook-posts/"><u>In 2024, Cutting-Edge Techniques Quickly Developing Quality Captions for Facebook Posts</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-fiendish-film-pause-techniques/"><u>In 2024, Fiendish Film Pause Techniques</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-step-by-step-iphone-360-degrees-and-fb-sharing/"><u>In 2024, Step-by-Step IPhone, 360 Degrees, & FB Sharing</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-sync-your-social-media-savvy-with-video-posting-tips-for-instagram/"><u>In 2024, Sync Your Social Media Savvy with Video Posting Tips for Instagram</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/livestreaming-pre-recorded-content-on-facebook-platform-for-2024/"><u>Livestreaming Pre-Recorded Content on Facebook Platform for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/izing-money-a-complete-guide-to-youtubes-revenue-features-for-2024/"><u>Mobilizing Money A Complete Guide to YouTube's Revenue Features for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/tactics-to-make-fb-videos-attractive-and-effective-for-2024/"><u>Tactics to Make FB Videos Attractive and Effective for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-best-budget-friendly-high-fidelity-webm-players-for-2024/"><u>The Best Budget-Friendly, High-Fidelity WebM Players for 2024</u></a></li>
 </ul></div>
 

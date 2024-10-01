@@ -1,7 +1,7 @@
 ---
 title: "Resolving Issues with Non-Functional Logitech Webcam Microphones: A Step-by-Step Guide"
-date: 2024-09-22T16:27:49.954Z
-updated: 2024-09-26T17:43:19.807Z
+date: 2024-09-26T17:34:01.152Z
+updated: 2024-10-01T19:35:17.134Z
 tags:
   - win11
   - win10
@@ -40,6 +40,13 @@ Here’s how you can do this:
 
 ![how to download and install Windows updates](https://images.drivereasy.com/wp-content/uploads/2021/01/check-for-updates.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Click on the **Check for updates**  tab. If there are any updates available, it’ll automatically start to download and install it. Simply wait for it to complete and you should be asked to restart your computer.
 
 ![how to download and install Windows updates](https://images.drivereasy.com/wp-content/uploads/2021/01/click-on-the-Check-for-updates-tab.png)
@@ -47,6 +54,13 @@ Here’s how you can do this:
  Once you’ve installed the latest Windows updates, try to use the microphone to check if it’s working now. If not, try the next fix below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Update your webcam driver
 
@@ -65,13 +79,6 @@ Here’s how to update your drivers with Driver Easy:
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and **detect any outdated drivers** .
 
 ![update drivers automatically](https://images.drivereasy.com/wp-content/uploads/2020/09/scan-now-driver-easy-1.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them.)
@@ -108,6 +115,13 @@ Here’s how to update your drivers with Driver Easy:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Make sure your mic isn’t disabled
 
  Sometimes you may not notice that your microphone has accidentally been disabled. To check if that’s your case, take these steps:
@@ -117,10 +131,16 @@ Here’s how to update your drivers with Driver Easy:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/open-sound-settings.png)
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1976998">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Under the **Input**  section, make sure that your device is showing. Then click **Device Properties** .  
@@ -128,33 +148,19 @@ Here’s how to update your drivers with Driver Easy:
 ![make sure your device isn't disabled](https://images.drivereasy.com/wp-content/uploads/2021/03/Input-section-1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Make sure the box next to**Disable** is unchecked.  
   
 ![make sure your device isn't disabled](https://images.drivereasy.com/wp-content/uploads/2021/03/make-sure-your-headset-isnt-disabled.png)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  After you’ve confirmed that the microphone is enabled, try to speak something to see if it’s now back to the normal state. If the microphone is still not working, try the next fix below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Set your device as default
 
@@ -163,13 +169,6 @@ Here’s how to update your drivers with Driver Easy:
  1) Right-click on the Speaker icon on the bottom-right corner of your screen. Then select **Open Sound settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/open-sound-settings.png)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) Scroll down to the section of **Related Settings** and click **Sound Control Panel** .  
   
@@ -185,13 +184,6 @@ Here’s how to update your drivers with Driver Easy:
 
  2) Go to the**Levels** tab. Then, drag the slider to adjust the volume. While performing this step, you need to do a mic test at the same time.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## If your microphone is still not working properly…
 
  If nothing else helps and your microphone is still not working or you’re encountering some sound issues, give repairing your PC a try. It might be a system-level issue. By running a scan of your PC, you’ll be able to check if there are any corrupted system files and identify your issue easily without scratching your head. And for that job, we recommend **[Fortect](https://tools.techidaily.com/drivereasy/download/)**  , a 100% legit repair tool that**automatically** helps you find and fix different issues in Windows OS without losing any data.
@@ -200,11 +192,31 @@ Here’s how to update your drivers with Driver Easy:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Run Fortect and it will run a FREE scan of your PC. Once the scan is finished, you’ll see a complete overview of your system and issues.
 
  3) Click **Start Repair** to start the repair process and wait for Fortect to fix the problem.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1977032">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -227,18 +239,22 @@ Here’s how to update your drivers with Driver Easy:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-exploring-copyright-policy-instantaneous-removal-of-personal-videos/"><u>[New] Exploring Copyright Policy Instantaneous Removal of Personal Videos</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-exploring-legal-restrictions-for-broadcasting-content-online/"><u>[New] In 2024, Exploring Legal Restrictions for Broadcasting Content Online</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-cutting-edge-techniques-for-private-yt-content-dissemination-in-gmail/"><u>[Updated] 2024 Approved Cutting-Edge Techniques for Private YT Content Dissemination in Gmail</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-2024-approved-the-hidden-guide-watching-highly-engaged-comments-with-ease-on-youtube/"><u>[Updated] 2024 Approved The Hidden Guide Watching Highly Engaged Comments with Ease on YouTube</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-capture-and-record-a-new-era-of-iphoneipad-recording/"><u>[Updated] Capture & Record A New Era of iPhone/iPad Recording</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-ultimate-choices-in-high-definition-screen-capture-for-2024/"><u>[Updated] Ultimate Choices in High Definition Screen Capture for 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-unlock-hd-potential-for-your-social-media-platform-fb/"><u>[Updated] Unlock HD Potential for Your Social Media Platform (FB)</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-vivo-y100-5g-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Vivo Y100 5G to iPhone 14 and 15 | Dr.fone</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/exploring-boundaries-sharing-360-photos-from-mobile-devices/"><u>Exploring Boundaries Sharing 360 Photos From Mobile Devices</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/fb-cover-video-excellence-strategies-for-leadership-in-social-media/"><u>FB Cover Video Excellence Strategies for Leadership in Social Media</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-steams-remote-play-malfunction-a-comprehensive-guide/"><u>Fixing Steam's Remote Play Malfunction: A Comprehensive Guide</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/initiate-online-interactions-with-this-guide-to-facebook-registration/"><u>Initiate Online Interactions with This Guide to Facebook Registration</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/prime-image-rehabilitation-app/"><u>Prime Image Rehabilitation App</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-eliminating-noise-in-photos-using-photopeas-tools/"><u>[New] 2024 Approved Eliminating Noise in Photos Using Photopea's Tools</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-facebook-news-the-latest-updates-unveiled-for-2024/"><u>[New] Facebook News The Latest Updates Unveiled for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-pick-your-favorite-top-ios-apps-for-facebook-video-loading/"><u>[New] In 2024, Pick Your Favorite Top iOS Apps for Facebook Video Loading</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-uniting-viewers-facebook-live-on-the-big-screen/"><u>[Updated] 2024 Approved Uniting Viewers Facebook Live on the Big Screen</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-elevating-roi-in-facebooks-animated-advertising-arena/"><u>[Updated] In 2024, Elevating ROI in Facebook's Animated Advertising Arena</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-from-creator-to-curator-perfect-your-fb-video-sharing-skills/"><u>[Updated] In 2024, From Creator to Curator Perfect Your FB Video Sharing Skills</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/2024-approved-elevate-tiktok-visuals-switch-backgrounds-with-confidence-and-precision/"><u>2024 Approved Elevate TikTok Visuals Switch Backgrounds with Confidence and Precision</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/deciphering-nvidias-custom-ai-framework-who-can-access-it-and-why-you-should/"><u>Deciphering NVIDIA's Custom AI Framework – Who Can Access It and Why You Should</u></a></li>
+<li><a href="https://facebook.techidaily.com/decoding-facebooks-policy-allowance-for-multiple-user-profiles-per-account/"><u>Decoding Facebook’s Policy: Allowance for Multiple User Profiles Per Account</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/dodge-disruptive-fb-video-promotions/"><u>Dodge Disruptive FB Video Promotions</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-8-solutions-to-fix-find-my-friends-location-not-available-on-zte-axon-40-lite-drfone-by-drfone-virtual-android/"><u>In 2024, 8 Solutions to Fix Find My Friends Location Not Available On ZTE Axon 40 Lite | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-nokia-105-classic-drfone-by-drfone-virtual-android/"><u>In 2024, Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Nokia 105 Classic | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-transform-movie-colors-with-cg-centrals-luts-guide/"><u>In 2024, Transform Movie Colors with CG Central's Luts Guide</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/is-watching-facebook-on-the-television-set-a-future-possibility-for-2024/"><u>Is Watching Facebook on the Television Set a Future Possibility for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/real-time-streaming-methods-for-facebook-video-uploads-for-2024/"><u>Real-Time Streaming Methods for Facebook Video Uploads for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/the-ultimate-checklist-for-movie-maker-videos-on-vimeo/"><u>The Ultimate Checklist for Movie Maker Videos on Vimeo</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/1721268182821-world-premiere-of-stellars-innovative-photo-recovery-and-repair-solution-industry-news-breakthrough/"><u>World Premiere of Stellar's Innovative Photo Recovery & Repair Solution - Industry News Breakthrough!</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Cyberpunk 2077 Frame Rate Improvements - Gameplay Enhanced
-date: 2024-09-21T17:05:07.487Z
-updated: 2024-09-26T16:41:37.645Z
+date: 2024-09-25T16:29:34.982Z
+updated: 2024-10-01T16:11:19.869Z
 tags:
   - win11
   - win10
@@ -41,13 +41,6 @@ Don’t worry, here’re fixes may help you solve the issue.
 4. In the open section, change**Response Curve** to**Raw** , and set**Horizontal Turning Bonus** and**Vertical Turning Bonus** to**0** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-15_15-50-02.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 #### For mouse/keyboard users
 
 If you’re not using the controller, check the below settings.
@@ -57,26 +50,27 @@ If you’re not using the controller, check the below settings.
 3. Make sure the Resolution matches the resolution of your monitor.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-15_15-53-01.jpg)
 4. If you need to lower your graphic resolution, move to the**GRAPHICS** tab.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Scroll down to find the**Resolution Scaling** section.
 6. Set the**Static FidelityFX CAS** to**ON** and lower the Resolution Scaling.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-15_15-59-50.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Some users have reported that by disabling all the aim assist options in settings, the issue has been improved a lot.
 
 If this fix doesn’t work, move to the next one.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Change the mouse setting
@@ -91,26 +85,20 @@ If this fix doesn’t work, move to the next one.
 4. Make sure you uncheck the**Enhance pointer precision** . Click**Apply > OK** .  
 
 <!-- affiliate ads begin -->
-<span id="1160850">
-					<video width="576" height="324" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-15_16-01-18.jpg)
 5. Launch the game and check.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 If it doesn’t work, move to the next fix.
@@ -146,6 +134,13 @@ OR
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you need assistance, please contact **Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
 ---
@@ -169,21 +164,20 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-best-10-mininano-drones-in-the-market-for-2024/"><u>[New] Best 10 Mini/Nano Drones in the Market for 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-easy-strategies-for-editing-social-media-banners/"><u>[New] In 2024, Easy Strategies for Editing Social Media Banners</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-your-first-step-towards-virtual-connection-facebook-tutorial/"><u>[New] Your First Step Towards Virtual Connection (Facebook Tutorial)</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/technical-issue-printer-drivers-failing-on-w7-10-need-solution/"><u>[Technical Issue] Printer Drivers Failing on W7-10, Need Solution</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-best-5-chrome-extensions-to-download-facebook-videos/"><u>[Updated] 2024 Approved Best 5 Chrome Extensions to Download Facebook Videos</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-unlock-the-power-of-your-fb-lives-with-these-picks/"><u>[Updated] In 2024, Unlock the Power of Your Fb Lives with These Picks</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-step-by-step-guide-signing-up-for-a-new-facebook-profile/"><u>[Updated] Step-by-Step Guide Signing Up for a New Facebook Profile</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-stop-video-preview-on-all-platforms-with-yt-for-2024/"><u>[Updated] Stop Video Preview on All Platforms with YT for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/digital-help-desk-for-winx-dvd-ripping-and-video-transcoding-app/"><u>Digital Help Desk for WinX DVD Ripping & Video Transcoding App</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/effortless-device-integration-with-obs-for-streaming-on-pcmac/"><u>Effortless Device Integration with OBS for Streaming on PC/Mac</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/enhancing-fb-videos-with-background-tracks-a-guide/"><u>Enhancing FB Videos with Background Tracks A Guide</u></a></li>
-<li><a href="https://change-location.techidaily.com/here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-vivo-s18-drfone-by-drfone-virtual-android/"><u>Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Vivo S18 | Dr.fone</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-cutting-edge-artisans-innovative-instagram-hlv-designs/"><u>In 2024, Cutting-Edge Artisans Innovative Instagram HLV Designs</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-thunder-gods-fury-new-age-begins/"><u>In 2024, Thunder God's Fury New Age Begins</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/join-the-monetized-majority-with-500-subscribers/"><u>Join the Monetized Majority with 500 Subscribers</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-game-changer-in-next-gen-gaming-how-microsofts-upscaler-justifies-the-hype-around-copilotplus-pcs/"><u>The Game-Changer in Next-Gen Gaming: How Microsoft's Upscaler Justifies the Hype Around CoPilot+ PCs</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-unraveling-facebooks-latest-hits-a-rundown-of-top-vids/"><u>[New] 2024 Approved Unraveling Facebook's Latest Hits A Rundown of Top Vids</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-time-travel-on-fb-accessing-historical-posts/"><u>[New] Time Travel on FB Accessing Historical Posts</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-live-mastery-elevating-your-360-degree-videos-on-facebook/"><u>[Updated] 2024 Approved Live Mastery Elevating Your 360 Degree Videos on Facebook</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-elevate-your-live-stream-quality-the-art-of-using-dslr-on-computers-for-2024/"><u>[Updated] Elevate Your Live Stream Quality The Art of Using DSLR on Computers for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-first-moments-that-foster-interest-in-audios/"><u>[Updated] First Moments that Foster Interest in Audios</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-the-freedom-from-costs-in-final-cut-pro/"><u>[Updated] In 2024, The Freedom From Costs in Final Cut Pro</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-capturesocial-fb-videos-to-files/"><u>2024 Approved CaptureSocial FB Videos to Files</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-mastering-fb-reel-creation-step-by-step-guide/"><u>2024 Approved Mastering FB Reel Creation Step-by-Step Guide</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unlocking-all-about-dji-inspire-2-today/"><u>2024 Approved Unlocking All About DJI Inspire 2 Today</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-messages-files-on-c67-4g-by-fonelab-android-recover-messages/"><u>Complete guide for recovering messages files on C67 4G</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/guide-to-reinventing-facebook-video-coverages-step-by-step/"><u>Guide to Reinventing Facebook Video Coverages Step-by-Step</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-2023-play-facebook-videos-on-tv/"><u>In 2024, 2023 | Play Facebook Videos on TV?</u></a></li>
+<li><a href="https://common-error.techidaily.com/logitech-mouse-scroll-troubles-easy-fixes-and-solutions/"><u>Logitech Mouse Scroll Troubles: Easy Fixes and Solutions</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/transforming-your-zip-archive-into-an-srt-subtitle-file/"><u>Transforming Your Zip Archive Into an Srt Subtitle File</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-oppo-k11-5g-drfone-by-drfone-virtual-android/"><u>Will the iPogo Get You Banned and How to Solve It On Oppo K11 5G | Dr.fone</u></a></li>
 </ul></div>
 

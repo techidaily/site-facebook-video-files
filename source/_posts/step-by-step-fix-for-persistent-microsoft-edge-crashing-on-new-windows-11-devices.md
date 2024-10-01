@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Fix for Persistent Microsoft Edge Crashing on New Windows 11 Devices
-date: 2024-09-21T17:03:34.411Z
-updated: 2024-09-26T16:23:15.722Z
+date: 2024-09-24T19:55:21.556Z
+updated: 2024-10-01T18:28:29.337Z
 tags:
   - win11
   - win10
@@ -30,19 +30,6 @@ Recently, we’ve seen many players reporting that**Dirt 5 keeps crashing** on t
 5. **[Set launch options on Steam](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Stop overclocking](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<span id="1982508">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 1: Update your graphics driver
 
 The outdated or broken graphics driver often crashes the game.
@@ -67,16 +54,10 @@ The outdated or broken graphics driver often crashes the game.
 4. Restart your PC after you finished updating your graphics driver.
 
 <!-- affiliate ads begin -->
-<span id="1983582">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  See if the latest graphics driver stops the Dirt 5 from crashing. If not, don’t worry. Try the next fix, below.
@@ -100,6 +81,13 @@ The outdated or broken graphics driver often crashes the game.
 
  Run Dirt 5 again to check whether the game crash issue has been resolved. If it didn’t work, or there was no new game patch available, move on to next fix, below.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 4: Disable Steam Overlay
 
  It seems that the Steam Overlay doesn’t pair well with Ditrt. So just try disabling Steam Overlay for Dirt 5 to see if the game crashes again. Here is how to do it:
@@ -108,23 +96,16 @@ The outdated or broken graphics driver often crashes the game.
 ![Steam->properties](https://images.drivereasy.com/wp-content/uploads/2019/04/image-122.png)
 2. Uncheck**Enable Steam Overlay while in-game** .  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Disable Steam Overlay](https://images.drivereasy.com/wp-content/uploads/2021/04/Disable-Steam-Overlay.jpg)
 
- Launch Dirt 5 to see if the game crashes. If the issue persists, try the next fix, below.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Launch Dirt 5 to see if the game crashes. If the issue persists, try the next fix, below.
 
 ## Fix 5: Set launch options on Steam
 
@@ -135,15 +116,22 @@ The outdated or broken graphics driver often crashes the game.
 ![Steam set launch options](https://images.drivereasy.com/wp-content/uploads/2021/04/Modify-Steam-set-launch-options.jpg)
 3. Copy and paste the commands below and click **OK** .  
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 `-useallavailablecores -high`
 
  Launch the game to see if it crashes again. If it still crashes, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 6: Stop overclocking
@@ -176,18 +164,22 @@ The outdated or broken graphics driver often crashes the game.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-harnessing-high-dynamic-range-the-future-of-photo-techniques/"><u>[New] 2024 Approved Harnessing High Dynamic Range The Future of Photo Techniques</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-masterful-nintendo-switch-fighting-game-collection-max-156/"><u>[New] 2024 Approved Masterful Nintendo Switch Fighting Game Collection (Max 156)</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-pros-picks-top-10-spotify-recording-applications/"><u>[New] 2024 Approved Pro's Picks Top 10 Spotify Recording Applications</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-create-captivating-cover-cinematics/"><u>[New] Create Captivating Cover Cinematics</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-expert-recommendations-top-5-video-recording-software-for-2024/"><u>[New] Expert Recommendations Top 5 Video Recording Software for 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-everyday-online-chronicles-a-handy-tip-for-digging-up-fbs-vids/"><u>[New] In 2024, Everyday Online Chronicles A Handy Tip for Digging Up FB's Vids</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-exploring-the-mystery-of-the-blue-video-symbol-on-fb-messages/"><u>[New] In 2024, Exploring the Mystery of the Blue Video Symbol on FB Messages</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-enhancing-clarity-in-low-quality-facebook-streams/"><u>[Updated] Enhancing Clarity in Low-Quality Facebook Streams</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-easy-memes-to-share-on-iphone/"><u>2024 Approved Easy Memes to Share on iPhone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-realme-12-pro-5g-drfone-by-drfone-virtual-android/"><u>How to share/fake gps on Uber for Realme 12 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/life360-learn-how-everything-works-on-honor-x9b-drfone-by-drfone-virtual-android/"><u>Life360 Learn How Everything Works On Honor X9b | Dr.fone</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-in-this-article-we-will-review-on-virtualdub-virtualdub2-and-provide-its-best-alternatives/"><u>New 2024 Approved In This Article, We Will Review on Virtualdub, Virtualdub2 and Provide Its Best Alternatives</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-advantages-of-driving-an-electric-car-over-a-traditional-petrol-vehicle/"><u>The Advantages of Driving an Electric Car Over a Traditional Petrol Vehicle</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-foremost-low-impact-screen-recorders-explored/"><u>[New] 2024 Approved Foremost Low-Impact Screen Recorders Explored</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-recovering-lost-live-footage-strategies-for-uninterrupted-streams/"><u>[New] 2024 Approved Recovering Lost Live Footage Strategies for Uninterrupted Streams</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-toddlers-fortune-on-screen-young-ryan-as-top-youtuber-earner/"><u>[New] In 2024, Toddler's Fortune on Screen Young Ryan As Top YouTuber Earner</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-how-to-make-and-upload-360-video-to-facebook/"><u>[Updated] 2024 Approved How to Make and Upload 360 Video to Facebook</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-android-enthusiasts-winning-list-updated-top-10-fb-video-downloaders/"><u>[Updated] Android Enthusiasts Winning List Updated Top 10 FB Video Downloaders</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-xbox-screen-sharing-setting-up-for-fb-livestreaming/"><u>2024 Approved Xbox Screen Sharing Setting Up for FB Livestreaming</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/apples-newest-innovation-unveiled-the-apple-m4-chip-launch-details-and-technical-specifications/"><u>Apple's Newest Innovation Unveiled: The Apple M4 Chip - Launch Details & Technical Specifications</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/best-real-time-stage-performances/"><u>Best Real-Time Stage Performances</u></a></li>
+<li><a href="https://techtrends.techidaily.com/boost-your-hp-laptops-speed-identifying-causes-and-implementing-effective-fixes/"><u>Boost Your HP Laptop's Speed: Identifying Causes and Implementing Effective Fixes</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-the-most-popular-free-sports-broadcast-services-of-2024/"><u>Discover the Most Popular Free Sports Broadcast Services of 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/guide-to-fetching-superior-quality-fb-videos-for-2024/"><u>Guide to Fetching Superior Quality FB Videos for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-facebooks-premier-playlist-best-of-the-music-videos/"><u>In 2024, Facebook's Premier Playlist Best of the Music Videos</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-mastering-the-art-of-accessing-your-facebook-watchlist/"><u>In 2024, Mastering the Art of Accessing Your Facebook Watchlist</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-pioneering-techniques-to-enhance-fb-video-ads/"><u>In 2024, Pioneering Techniques to Enhance Fb Video Ads</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solving-the-problem-steps-to-prevent-overwatch-2-from-crashing-on-your-computer/"><u>Solving the Problem: Steps to Prevent Overwatch 2 From Crashing on Your Computer</u></a></li>
+<li><a href="https://win-blog.techidaily.com/stop-chrome-from-freezing-in-windows-11-effective-strategies/"><u>Stop Chrome From Freezing in Windows 11: Effective Strategies</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/youtube-free-conversion-hack-turn-hd-fb-videos-into-high-res-mp4-for-free/"><u>YouTube-Free Conversion Hack Turn HD FB Videos Into High-Res MP4 For Free</u></a></li>
 </ul></div>
 

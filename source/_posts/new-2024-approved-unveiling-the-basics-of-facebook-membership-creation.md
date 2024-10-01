@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Unveiling the Basics of Facebook Membership Creation\""
-date: 2024-08-15T18:30:07.786Z
-updated: 2024-08-16T18:30:07.786Z
+date: 2024-09-25T19:07:13.137Z
+updated: 2024-10-01T19:05:07.222Z
 tags:
   - ai video
   - ai facebook
@@ -123,11 +123,21 @@ Follow @Shanoon Cox
 
 ![facebook privacy settings](https://images.wondershare.com/filmora/article-images/facebook-privacy-settings.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1542129">
+					<video width="864" height="1152" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You will find different options for content audience: Public, Friends, Specific Friends and Only Me, chose any of these as per your need. Note that privacy settings can be also adjusted at the time of new post updates.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![facebook public settings](https://images.wondershare.com/filmora/article-images/facebook-public-settings.jpg)
 
 #### Step 3.Complete Profile Information
@@ -162,11 +172,15 @@ Follow @Shanoon Cox
 
 ![facebook find friends](https://images.wondershare.com/filmora/article-images/facebook-find-friends.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  So finally, it is time to update an eye catching status for your friends on your new Facebook account.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 Shanoon Cox
@@ -203,6 +217,13 @@ Follow @Shanoon Cox
 
 ![facebook privacy settings](https://images.wondershare.com/filmora/article-images/facebook-privacy-settings.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
+  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You will find different options for content audience: Public, Friends, Specific Friends and Only Me, chose any of these as per your need. Note that privacy settings can be also adjusted at the time of new post updates.
 
 ![facebook public settings](https://images.wondershare.com/filmora/article-images/facebook-public-settings.jpg)
@@ -233,9 +254,6 @@ Follow @Shanoon Cox
 
 **Search:** You will find a search bar on the top of screen, enter name of your friends over there and as soon as you find them hit the “send friend request” button.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![facebook search bar](https://images.wondershare.com/filmora/article-images/facebook-search-bar.jpg)
 
 **Import:** Facebook also allows users to directly import their contacts. It can search contacts via Gmail, Outlook, Yahoo, AIM, Live Messenger etc. Simply move to find friend page to get started with this feature.
@@ -244,10 +262,14 @@ Follow @Shanoon Cox
 
  So finally, it is time to update an eye catching status for your friends on your new Facebook account.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Shanoon Cox
 
@@ -271,6 +293,13 @@ Follow @Shanoon Cox
 
 ![facebook create account](https://images.wondershare.com/filmora/article-images/facebook-create-account.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Then enter your accurate and working mobile number or users can also prefer to update their email ID. It will be useful to get updates regarding their facebook account. Up date your desired secure password, birthday details and gender information. Once you enter this information, you will receive a verification code via SMS (if you have entered Mobile Number) or a link in email (if you have entered your email ID). Confirm your identity using this code or email link as your account will be created only after this verification.
 
 #### Step 2.Set up Privacy Settings
@@ -282,6 +311,13 @@ Follow @Shanoon Cox
  A new settings window will open and you will find so many options in a navigation pane located at left hand side. Select privacy settings from this long list.
 
 ![facebook privacy settings](https://images.wondershare.com/filmora/article-images/facebook-privacy-settings.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You will find different options for content audience: Public, Friends, Specific Friends and Only Me, chose any of these as per your need. Note that privacy settings can be also adjusted at the time of new post updates.
 
@@ -319,9 +355,29 @@ Follow @Shanoon Cox
 
 ![facebook find friends](https://images.wondershare.com/filmora/article-images/facebook-find-friends.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  So finally, it is time to update an eye catching status for your friends on your new Facebook account.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1982508">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Shanoon Cox
 
@@ -340,8 +396,6 @@ Follow @Shanoon Cox
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -350,9 +404,19 @@ Follow @Shanoon Cox
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-expert-advice-livestream-without-the-price-tag/"><u>[New] 2024 Approved Expert Advice Livestream Without the Price Tag</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/iy-filmmaking-for-youtube-personalities/"><u>[New] DIY Filmmaking for YouTube Personalities</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-best-10-web-based-hd-screen-capture-tools/"><u>[New] In 2024, Best 10 Web-Based HD Screen Capture Tools</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-transform-your-farm-with-stardews-most-innovative-mods-7-best/"><u>[New] In 2024, Transform Your Farm with Stardew's Most Innovative Mods (7 Best)</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-mastering-facebook-cover-videos-tips-and-configuration-guide/"><u>[New] Mastering Facebook Cover Videos Tips & Configuration Guide</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-avoid-the-frustration-fast-paced-methods-to-create-captions-for-your-fb-videos/"><u>[Updated] 2024 Approved Avoid the Frustration - Fast-Paced Methods to Create Captions for Your FB Videos</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-expert-methods-for-win10-game-screen-recording/"><u>[Updated] 2024 Approved Expert Methods for Win10 Game Screen Recording</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-enhancing-engagement-streaming-historical-video-events-on-facebook/"><u>[Updated] Enhancing Engagement Streaming Historical Video Events on Facebook</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-get-the-best-free-pc-sound-logger-download-x-recorder-for-2024/"><u>[Updated] Get the Best Free PC Sound Logger – Download X-Recorder for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-liberating-video-files-free-mp4-and-hd-from-facebook-posts-for-2024/"><u>[Updated] Liberating Video Files Free MP4 & HD From Facebook Posts for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-digital-pioneers-guide-combining-pcmac-dslr-for-engaging-streams/"><u>2024 Approved Digital Pioneer's Guide Combining PC/Mac, DSLR for Engaging Streams</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-can-i-catch-the-regional-pokemon-without-traveling-on-xiaomi-redmi-note-12-5g-drfone-by-drfone-virtual-android/"><u>How Can I Catch the Regional Pokémon without Traveling On Xiaomi Redmi Note 12 5G | Dr.fone</u></a></li>
+</ul></div>
 
