@@ -1,7 +1,7 @@
 ---
 title: Cyberpunk 2077 Frame Rate Improvements - Gameplay Enhanced
-date: 2024-09-25T16:29:34.982Z
-updated: 2024-10-01T16:11:19.869Z
+date: 2024-10-05T22:53:02.890Z
+updated: 2024-10-06T19:33:33.007Z
 tags:
   - win11
   - win10
@@ -27,6 +27,19 @@ Don’t worry, here’re fixes may help you solve the issue.
 2. [Change the mouse setting](https://tools.techidaily.com/drivereasy/download/)
 3. [Update the device driver](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<span id="1492813">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Change the in-game settings
 
  Change the in-game setting can help you fix the input lagging issue. If you’re not using controllers, change[Graphics settings](https://tools.techidaily.com/drivereasy/download/) would also help.
@@ -36,9 +49,25 @@ Don’t worry, here’re fixes may help you solve the issue.
 1. Launch the game and go to**SETTINGS** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-15_15-48-13.jpg)
 2. Click the**CONTROLS** tab.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Under the**First-Person** Camera (Controller) section, find**Show Advanced Options** and click**ON** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-15_15-48-52.jpg)
 4. In the open section, change**Response Curve** to**Raw** , and set**Horizontal Turning Bonus** and**Vertical Turning Bonus** to**0** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-15_15-50-02.jpg)
 
 #### For mouse/keyboard users
@@ -51,13 +80,6 @@ If you’re not using the controller, check the below settings.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-15_15-53-01.jpg)
 4. If you need to lower your graphic resolution, move to the**GRAPHICS** tab.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. Scroll down to find the**Resolution Scaling** section.
 6. Set the**Static FidelityFX CAS** to**ON** and lower the Resolution Scaling.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-15_15-59-50.jpg)
@@ -67,10 +89,10 @@ If you’re not using the controller, check the below settings.
 If this fix doesn’t work, move to the next one.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Change the mouse setting
@@ -84,22 +106,8 @@ If this fix doesn’t work, move to the next one.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-15_16-00-50.jpg)
 4. Make sure you uncheck the**Enhance pointer precision** . Click**Apply > OK** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-15_16-01-18.jpg)
 5. Launch the game and check.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 If it doesn’t work, move to the next fix.
 
@@ -135,10 +143,16 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424533">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you need assistance, please contact **Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
@@ -164,20 +178,22 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-unraveling-facebooks-latest-hits-a-rundown-of-top-vids/"><u>[New] 2024 Approved Unraveling Facebook's Latest Hits A Rundown of Top Vids</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-time-travel-on-fb-accessing-historical-posts/"><u>[New] Time Travel on FB Accessing Historical Posts</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-live-mastery-elevating-your-360-degree-videos-on-facebook/"><u>[Updated] 2024 Approved Live Mastery Elevating Your 360 Degree Videos on Facebook</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-elevate-your-live-stream-quality-the-art-of-using-dslr-on-computers-for-2024/"><u>[Updated] Elevate Your Live Stream Quality The Art of Using DSLR on Computers for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-first-moments-that-foster-interest-in-audios/"><u>[Updated] First Moments that Foster Interest in Audios</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-the-freedom-from-costs-in-final-cut-pro/"><u>[Updated] In 2024, The Freedom From Costs in Final Cut Pro</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/2024-approved-capturesocial-fb-videos-to-files/"><u>2024 Approved CaptureSocial FB Videos to Files</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/2024-approved-mastering-fb-reel-creation-step-by-step-guide/"><u>2024 Approved Mastering FB Reel Creation Step-by-Step Guide</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-unlocking-all-about-dji-inspire-2-today/"><u>2024 Approved Unlocking All About DJI Inspire 2 Today</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-messages-files-on-c67-4g-by-fonelab-android-recover-messages/"><u>Complete guide for recovering messages files on C67 4G</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/guide-to-reinventing-facebook-video-coverages-step-by-step/"><u>Guide to Reinventing Facebook Video Coverages Step-by-Step</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/in-2024-2023-play-facebook-videos-on-tv/"><u>In 2024, 2023 | Play Facebook Videos on TV?</u></a></li>
-<li><a href="https://common-error.techidaily.com/logitech-mouse-scroll-troubles-easy-fixes-and-solutions/"><u>Logitech Mouse Scroll Troubles: Easy Fixes and Solutions</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/transforming-your-zip-archive-into-an-srt-subtitle-file/"><u>Transforming Your Zip Archive Into an Srt Subtitle File</u></a></li>
-<li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-oppo-k11-5g-drfone-by-drfone-virtual-android/"><u>Will the iPogo Get You Banned and How to Solve It On Oppo K11 5G | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-immortalizing-moments-facebook-live-to-file-finesse/"><u>[New] Immortalizing Moments Facebook Live to File Finesse</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-unlock-crystal-clear-facebook-video-on-android/"><u>[Updated] 2024 Approved Unlock Crystal-Clear Facebook Video on Android</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-best-practices-in-updating-your-social-network-backdrop-for-2024/"><u>[Updated] Best Practices in Updating Your Social Network Backdrop for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-unlock-fb-lite-content-discover-the-best-video-downloader-apps/"><u>[Updated] Unlock FB Lite Content Discover the Best Video Downloader Apps</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-fast-friending-mastering-the-art-of-profile-searches/"><u>2024 Approved Fast Friending Mastering the Art of Profile Searches</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/detailed-google-pixel-evolved-review-evaluating-the-new-shot-taking-experience/"><u>Detailed Google Pixel Evolved Review: Evaluating the New Shot-Taking Experience</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-sony-xperia-10-v-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your Sony Xperia 10 V</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-iphone-11-system-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iPhone 11 System? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-data-from-iphone-12-mini-to-other-iphone-14-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 12 mini To Other iPhone 14 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-oppo-find-x7-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Oppo Find X7 | Dr.fone</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-crafting-captivating-thumbnails-a-comprehensive-guide-for-youtube-creators/"><u>In 2024, Crafting Captivating Thumbnails A Comprehensive Guide for YouTube Creators</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-digital-pioneers-guide-combining-pcmac-dslr-for-engaging-streams/"><u>In 2024, Digital Pioneer's Guide Combining PC/Mac, DSLR for Engaging Streams</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-fullscreen-partnership-how-to-choose-an-mcn/"><u>In 2024, Fullscreen Partnership How to Choose An MCN</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-online-beat-finder-no-cash-fb/"><u>In 2024, Online Beat Finder No Cash (FB)</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/smooth-streaming-fix-facebooks-playback-problems/"><u>Smooth Streaming – Fix Facebook's Playback Problems</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshoot-windows-1ns-absent-bluetooth-feature-with-simple-fixes/"><u>Troubleshoot Windows 1N's Absent Bluetooth Feature with Simple Fixes</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/1721103372133-windows-10-unable-to-stop-bluetooth-from-working/"><u>Windows 10: Unable to Stop Bluetooth From Working</u></a></li>
 </ul></div>
 

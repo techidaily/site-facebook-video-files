@@ -1,7 +1,7 @@
 ---
 title: Leveraging GPT for Evidence-Based Therapeutic Practices
-date: 2024-09-26T18:05:18.621Z
-updated: 2024-10-01T19:56:37.369Z
+date: 2024-10-01T03:26:01.703Z
+updated: 2024-10-07T00:18:57.684Z
 tags:
   - chatgpt
   - open-ai
@@ -31,6 +31,13 @@ thumbnail: https://thmb.techidaily.com/162b2aac03e354d0551440e420920822fdecda676
 
  A whole new world of prompt engineering is springing into life, all dedicated to crafting and perfecting the art of AI prompting. But you can skip the tricky bits and improve your AI prompting game with these tips and tricks.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1 Be as Specific as Possible
 
  One[ChatGPT prompt mistake](https://www.makeuseof.com/chatgpt-prompt-mistakes-to-avoid/) is not being specific with the information you give, and this is also a problem when using Microsoft Copilot and other AI tools. If you want AI to provide more accurate results, you need to tell it exactly what you're looking for.p
@@ -45,6 +52,13 @@ thumbnail: https://thmb.techidaily.com/162b2aac03e354d0551440e420920822fdecda676
 
  The more context you provide your AI tool, the better of a response you'll receive.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2 Ask for More Information After Getting an Initial Answer
 
  As you use tools like ChatGPT more frequently, you'll quickly learn that the first answer you get shouldn't always be taken as is. In the same way that you'd ask a person further questions to get more information out of them, you should do the same when prompting with AI.
@@ -53,23 +67,9 @@ thumbnail: https://thmb.techidaily.com/162b2aac03e354d0551440e420920822fdecda676
 
 ![An itinerary generated with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-13-06-24.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  However, I wanted to get further information that wasn't included. So, I asked for hotel recommendations within a customized budget:
 
 ![An expanded answer with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-13-11-12.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  As a general rule of thumb, ask as many questions as you feel necessary to get all the information you're looking for. You may also want to determine[whether premium AI prompts are worth the money](https://www.makeuseof.com/should-you-buy-ai-prompts/) .
 
@@ -81,16 +81,16 @@ thumbnail: https://thmb.techidaily.com/162b2aac03e354d0551440e420920822fdecda676
 
  Besides mentioning what hasn't worked for you when prompting in the past, you may also wish to outline anything that has not worked with what you're trying to do. For example, if you're putting together a new workout regimen, you may want to talk about which foods you've noticed you have a negative reaction to before.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4 Don't Make Your AI Multitask
 
 ![chatgpt logo and message on smartphone feature](https://thmb.techidaily.com/7dd47039b908f15adfac56204ff22ad7becb8a002a35f04201c966ce7066b460.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Ascannio/[Shutterstock](https://www.shutterstock.com/image-photo/chatgpt-chat-bot-screen-seen-on-2237655785)
 
@@ -99,13 +99,6 @@ thumbnail: https://thmb.techidaily.com/162b2aac03e354d0551440e420920822fdecda676
  Sometimes, you'll begin a prompt and realize you forgot to add further information. When this happens, stop or edit the current prompt and include those details before re-generating your answer.
 
  Once you've received one prompt's results, you can move on to the next one until you're happy with everything. Doing things this way might seem more time-consuming, but[single-tasking often improves productivity](https://www.makeuseof.com/master-single-tasking-using-technology-improve-productivity/) , and it's the same for your AI, too.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5 Tell Your AI Tool What You Don't Want in Your Answer
 
@@ -117,13 +110,6 @@ thumbnail: https://thmb.techidaily.com/162b2aac03e354d0551440e420920822fdecda676
 
  Sometimes, your AI tool will give you multiple options in your answers. You can then choose whichever one works best for you.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6 Upload Images or Files (if Available)
 
  Uploading images or files will often make your AI prompts much more effective. For example, if you want to[create a one-page resume with AI](https://www.makeuseof.com/create-one-page-resume/) , it's worth uploading an existing PDF and getting feedback. You can use several plugins to get better responses, especially if you use ChatGPT. One example is[Resume by jobbright.ai](https://chat.openai.com/g/g-MrgKnTZbc-resume) .
@@ -132,6 +118,13 @@ thumbnail: https://thmb.techidaily.com/162b2aac03e354d0551440e420920822fdecda676
 
 [Some AI tools can even answer questions from your PDFs](https://www.makeuseof.com/ai-tools-answer-pdf/) if you want to get more clarity.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 7 Mention Where You Want to Use Your Prompt Answers
 
  Sometimes, the results your AI prompts generate won't be useful for the place you want to use them. For example, if you want to create a post for Instagram, you probably don't want your tool to provide huge bodies of text. On the other hand, you might want something more formal if you're going to[improve your LinkedIn profile with AI](https://www.makeuseof.com/linkedin-how-to-improve-profile-with-ai/) .
@@ -139,6 +132,13 @@ thumbnail: https://thmb.techidaily.com/162b2aac03e354d0551440e420920822fdecda676
  If you use the information from your AI prompt online, it's worth specifically mentioning where you'll use it. That way, you won't need to edit your results as much.
 
 ![A LinkedIn post generated with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-13-54-04.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  AI prompting takes some time to become competent with, and you'll need to adjust how you type depending on the tool you use and the information you wish to extract. The good news, however, is that you normally only need small tweaks to make your prompts deliver better results. Having read this guide, you should now be in a much better place to prompt more efficiently.
 
@@ -157,22 +157,22 @@ thumbnail: https://thmb.techidaily.com/162b2aac03e354d0551440e420920822fdecda676
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-top-15-facebook-videograbber-add-ons-compatible-with-firefox/"><u>[New] 2024 Approved Top 15 Facebook Videograbber Add-Ons, Compatible with FireFox</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-building-an-audience-with-exceptional-fb-reel-content-for-2024/"><u>[New] Building an Audience with Exceptional FB Reel Content for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-extend-your-snapstreak-success-with-these-ideas/"><u>[New] In 2024, Extend Your Snapstreak Success with These Ideas</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-unleash-music-without-spending-a-penny/"><u>[New] Unleash Music, Without Spending a Penny</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-facebook-cover-video-best-practices-and-setup/"><u>[Updated] In 2024, Facebook Cover Video | Best Practices and Setup</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/2024-approved-prolific-strategies-for-broadcasting-fb-videos-on-whatsapp/"><u>2024 Approved Prolific Strategies for Broadcasting FB Videos on WhatsApp</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723208039900-corsair-keyboard-illumination-issue-resolved-restore-your-backlit-keys/"><u>Corsair Keyboard Illumination Issue Resolved: Restore Your Backlit Keys</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/facebooks-premier-video-extraction-tools-for-iphone-and-ipad-for-2024/"><u>Facebook's Premier Video Extraction Tools for iPhone & iPad for 2024</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-music-from-infinix-note-30-vip-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Music from Infinix Note 30 VIP to iPod | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-phone-without-pin-by-drfone-android/"><u>How to Unlock Vivo Phone without PIN</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-looking-for-a-location-changer-on-tecno-phantom-v-flip-look-no-further-drfone-by-drfone-virtual-android/"><u>In 2024, Looking For A Location Changer On Tecno Phantom V Flip? Look No Further | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/in-2024-unlock-joy-behind-the-walls-20-funniest-fb-detainment-scenarios/"><u>In 2024, Unlock Joy Behind the Walls 20 Funniest Fb Detainment Scenarios</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/movavimp3-mp4/"><u>Movaviで無償オンライン音楽形式(MP3, MP4)変換機能 - 利用ガイド</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/samsungs-newest-addition-the-galaxy-z-flip-7-what-we-know-so-far-about-price-arrival-date-and-potential-specs/"><u>Samsung's Newest Addition: The Galaxy Z Flip 7 - What We Know So Far About Price, Arrival Date & Potential Specs</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/seamless-transition-for-extracting-facebooks-graphic-gems-anywhere-for-2024/"><u>Seamless Transition for Extracting Facebook's Graphic Gems Anywhere for 2024</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-call-logs-from-p55plus-by-fonelab-android-recover-call-logs/"><u>Undelete lost call logs from P55+</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-premier-free-audio-to-image-software-for-iphones-and-tablets-for-2024/"><u>Updated Premier Free Audio-To-Image Software for iPhones and Tablets for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-achieve-perfect-proportions-in-your-fb-videos-through-ratio-knowledge-for-2024/"><u>[New] Achieve Perfect Proportions in Your FB Videos Through Ratio Knowledge for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-fbs-flash-video-frontier/"><u>[New] In 2024, FB's Flash Video Frontier</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-professional-filmmaking-made-easy-with-right-lenses/"><u>[New] Professional Filmmaking Made Easy with Right Lenses</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-tech-enthusiasts-review-the-top-10-sdk-enhanced-apps-for-fb-videos-on-android/"><u>[Updated] In 2024, Tech Enthusiast's Review The Top 10 SDK-Enhanced Apps for FB Videos on Android</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-perfect-ringtone-repository-excellent-sources-for-2024/"><u>[Updated] Perfect Ringtone Repository Excellent Sources for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-profile-perfection-expert-tips-for-personalized-and-engaging-fb-biographies-for-2024/"><u>[Updated] Profile Perfection Expert Tips for Personalized and Engaging FB Biographies for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-socialvideocutter-download-feature/"><u>[Updated] SocialVideoCutter Download Feature</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-the-mysterious-virtual-trove-anonymitys-hidden-gems-of-2023-for-2024/"><u>[Updated] The Mysterious Virtual Trove - Anonymity's Hidden Gems of 2023 for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-unlocking-smooth-streams-facebooks-buffering-breakthrough/"><u>2024 Approved Unlocking Smooth Streams - Facebook's Buffering Breakthrough</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/diagnosing-and-repairing-common-hitches-on-amazon-prime-video-services/"><u>Diagnosing and Repairing Common Hitches on Amazon Prime Video Services</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-realme-note-50-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Realme Note 50 | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-interpreting-the-purpose-behind-a-facebooks-blue-video-icon/"><u>In 2024, Interpreting the Purpose Behind a Facebook's Blue Video Icon</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-you-ask-we-answer-answers-to-questions-related-to-filmora/"><u>In 2024, You Ask, We Answer- Answers to Questions Related to Filmora</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/sleek-design-meets-bright-performance-the-ultimate-guide-to-the-taotronics-tt-dl16-led-lamp/"><u>Sleek Design Meets Bright Performance - The Ultimate Guide to the TaoTronics TT-DL16 LED Lamp</u></a></li>
+<li><a href="https://windows11.techidaily.com/solutions-for-wows-abrupt-server-quit-error-132-in-win11/"><u>Solutions for WoW's Abrupt Server Quit (Error 132) in Win11</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-ultimate-walkthrough-for-using-nvidias-cutting-edge-rtx-ai-chatbot-at-home/"><u>The Ultimate Walkthrough for Using Nvidia's Cutting-Edge RTX AI Chatbot at Home</u></a></li>
+<li><a href="https://change-location.techidaily.com/ultimate-guide-to-get-the-meltan-box-pokemon-go-for-vivo-y78-5g-drfone-by-drfone-virtual-android/"><u>Ultimate guide to get the meltan box pokemon go For Vivo Y78 5G | Dr.fone</u></a></li>
 </ul></div>
 

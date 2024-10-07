@@ -1,7 +1,7 @@
 ---
 title: "Resolving Issues with Non-Functional Logitech Webcam Microphones: A Step-by-Step Guide"
-date: 2024-09-26T17:34:01.152Z
-updated: 2024-10-01T19:35:17.134Z
+date: 2024-10-04T19:14:08.625Z
+updated: 2024-10-06T21:14:29.828Z
 tags:
   - win11
   - win10
@@ -40,27 +40,20 @@ Here’s how you can do this:
 
 ![how to download and install Windows updates](https://images.drivereasy.com/wp-content/uploads/2021/01/check-for-updates.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Click on the **Check for updates**  tab. If there are any updates available, it’ll automatically start to download and install it. Simply wait for it to complete and you should be asked to restart your computer.
 
 ![how to download and install Windows updates](https://images.drivereasy.com/wp-content/uploads/2021/01/click-on-the-Check-for-updates-tab.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Once you’ve installed the latest Windows updates, try to use the microphone to check if it’s working now. If not, try the next fix below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2\. Update your webcam driver
 
@@ -116,10 +109,10 @@ Here’s how to update your drivers with Driver Easy:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Make sure your mic isn’t disabled
@@ -130,29 +123,9 @@ Here’s how to update your drivers with Driver Easy:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/open-sound-settings.png)
 
-<!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Under the **Input**  section, make sure that your device is showing. Then click **Device Properties** .  
   
 ![make sure your device isn't disabled](https://images.drivereasy.com/wp-content/uploads/2021/03/Input-section-1.png)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Make sure the box next to**Disable** is unchecked.  
   
@@ -170,6 +143,13 @@ Here’s how to update your drivers with Driver Easy:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/open-sound-settings.png)
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
+  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Scroll down to the section of **Related Settings** and click **Sound Control Panel** .  
   
 ![Open Sound Control Panel](https://images.drivereasy.com/wp-content/uploads/2021/02/sound-control-panel.png)
@@ -178,11 +158,25 @@ Here’s how to update your drivers with Driver Easy:
   
 ![set your device as the default](https://images.drivereasy.com/wp-content/uploads/2021/03/microphone.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  After applying changes, do a mic test to check if this method did the trick. If the microphone is still not working, you need to check the input sensitivity of your mic to ensure it is not too low or too high which could cause issues. Here’s how you can do this:
 
  1) In the Sound window (shown as the picture above), right-click the microphone and select**Properties** .
 
  2) Go to the**Levels** tab. Then, drag the slider to adjust the volume. While performing this step, you need to do a mic test at the same time.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## If your microphone is still not working properly…
 
@@ -193,10 +187,10 @@ Here’s how to update your drivers with Driver Easy:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Run Fortect and it will run a FREE scan of your PC. Once the scan is finished, you’ll see a complete overview of your system and issues.
@@ -206,16 +200,10 @@ Here’s how to update your drivers with Driver Easy:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1977032">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
@@ -239,22 +227,17 @@ Here’s how to update your drivers with Driver Easy:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-eliminating-noise-in-photos-using-photopeas-tools/"><u>[New] 2024 Approved Eliminating Noise in Photos Using Photopea's Tools</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-facebook-news-the-latest-updates-unveiled-for-2024/"><u>[New] Facebook News The Latest Updates Unveiled for 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-pick-your-favorite-top-ios-apps-for-facebook-video-loading/"><u>[New] In 2024, Pick Your Favorite Top iOS Apps for Facebook Video Loading</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-uniting-viewers-facebook-live-on-the-big-screen/"><u>[Updated] 2024 Approved Uniting Viewers Facebook Live on the Big Screen</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-elevating-roi-in-facebooks-animated-advertising-arena/"><u>[Updated] In 2024, Elevating ROI in Facebook's Animated Advertising Arena</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-from-creator-to-curator-perfect-your-fb-video-sharing-skills/"><u>[Updated] In 2024, From Creator to Curator Perfect Your FB Video Sharing Skills</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/2024-approved-elevate-tiktok-visuals-switch-backgrounds-with-confidence-and-precision/"><u>2024 Approved Elevate TikTok Visuals Switch Backgrounds with Confidence and Precision</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/deciphering-nvidias-custom-ai-framework-who-can-access-it-and-why-you-should/"><u>Deciphering NVIDIA's Custom AI Framework – Who Can Access It and Why You Should</u></a></li>
-<li><a href="https://facebook.techidaily.com/decoding-facebooks-policy-allowance-for-multiple-user-profiles-per-account/"><u>Decoding Facebook’s Policy: Allowance for Multiple User Profiles Per Account</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/dodge-disruptive-fb-video-promotions/"><u>Dodge Disruptive FB Video Promotions</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-8-solutions-to-fix-find-my-friends-location-not-available-on-zte-axon-40-lite-drfone-by-drfone-virtual-android/"><u>In 2024, 8 Solutions to Fix Find My Friends Location Not Available On ZTE Axon 40 Lite | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-nokia-105-classic-drfone-by-drfone-virtual-android/"><u>In 2024, Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Nokia 105 Classic | Dr.fone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-transform-movie-colors-with-cg-centrals-luts-guide/"><u>In 2024, Transform Movie Colors with CG Central's Luts Guide</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/is-watching-facebook-on-the-television-set-a-future-possibility-for-2024/"><u>Is Watching Facebook on the Television Set a Future Possibility for 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/real-time-streaming-methods-for-facebook-video-uploads-for-2024/"><u>Real-Time Streaming Methods for Facebook Video Uploads for 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/the-ultimate-checklist-for-movie-maker-videos-on-vimeo/"><u>The Ultimate Checklist for Movie Maker Videos on Vimeo</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/1721268182821-world-premiere-of-stellars-innovative-photo-recovery-and-repair-solution-industry-news-breakthrough/"><u>World Premiere of Stellar's Innovative Photo Recovery & Repair Solution - Industry News Breakthrough!</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-evasion-of-ennui-comical-cells-and-chuckles-in-facebooks-boundaries/"><u>[New] 2024 Approved Evasion of Ennui Comical Cells and Chuckles in Facebook's Boundaries</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-learn-the-mechanics-behind-self-playing-videos-in-fb/"><u>[New] In 2024, Learn the Mechanics Behind Self-Playing Videos in Fb</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-mastering-directing-a-complete-review-and-tutorial-of-powerdirector-2024/"><u>[New] Mastering Directing A Complete Review & Tutorial of PowerDirector 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-art-of-saturation-and-contrast-in-gopro-editing/"><u>[New] The Art of Saturation and Contrast in GoPro Editing</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-expert-strategies-for-efficient-whatsapp-use-for-2024/"><u>[Updated] Expert Strategies for Efficient WhatsApp Use for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-steps-for-a-smooth-departure-in-online-gatherings/"><u>[Updated] In 2024, Steps for a Smooth Departure in Online Gatherings</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-pioneering-tools-top-5-cloud-based-videography-platforms-for-2024/"><u>[Updated] Pioneering Tools Top 5 Cloud-Based Videography Platforms for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-unlock-fb-lite-content-discover-the-best-video-downloader-apps/"><u>2024 Approved Unlock FB Lite Content Discover the Best Video Downloader Apps</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/adding-melodies-to-timelines-a-stepwise-guide-iosandroid-for-2024/"><u>Adding Melodies to Timelines A Stepwise Guide (iOS/Android) for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-can-we-unlock-our-vivo-y36-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Vivo Y36 Phone Screen?</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/in-2024-year-end-visualizations-mind-bending-youtube-figures-and-trends/"><u>In 2024, Year-End Visualizations Mind Bending Youtube Figures and Trends</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/the-complete-guide-to-digital-artistry-with-polarr-photo-tools-for-2024/"><u>The Complete Guide to Digital Artistry with Polarr Photo Tools for 2024</u></a></li>
 </ul></div>
 

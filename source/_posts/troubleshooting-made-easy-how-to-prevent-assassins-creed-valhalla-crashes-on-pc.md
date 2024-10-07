@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Made Easy: How to Prevent Assassin's Creed Valhalla Crashes on PC"
-date: 2024-09-29T19:42:27.753Z
-updated: 2024-10-01T18:48:39.478Z
+date: 2024-10-04T23:11:13.579Z
+updated: 2024-10-06T16:59:39.391Z
 tags:
   - win11
   - win10
@@ -58,6 +58,13 @@ thumbnail: https://thmb.techidaily.com/6816402dd23c56a105ec64bc0a33bec17942a9ec3
 
  If you’re sure that your gaming rig is ready for the game, you can take a look at the next fix below.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2: Verify the integrity of game files
 
  So let’s start from some easy troubleshooting. The in-game crashes or crashing at clicking “New Game” might indicate**an integrity issue with your game files** . It’s a common issue when you encounter network glitches. You can follow these steps to check and repair any corrupted files:
@@ -66,11 +73,32 @@ thumbnail: https://thmb.techidaily.com/6816402dd23c56a105ec64bc0a33bec17942a9ec3
 2. Navigate to **the Games tab** and move your mouse cursor to the game tile of**Assassin’s Creed Valhalla** . Then click **the downward triangle** on the lower-right corner of the game tile.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/valhalla-verify-1.jpg)
 3. Select **Verify files** . Then wait for the checking to complete.  
+
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/valhalla-verify-2.jpg)
 
  Now you can launch Assassin’s Creed Valhalla and check if it crashes again.
 
  If verifying game files didn’t help your case, simply check out the next method.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Install all Windows updates
 
@@ -89,19 +117,6 @@ You can use these steps to check for Windows updates manually:
  Once you’ve fully updated your system, restart your PC and check if Assassin’s Creed Valhalla becomes stable.
 
 If the crash happens again, you can take a look at the next fix.
-
-<!-- affiliate ads begin -->
-<span id="1975562">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Update your graphics driver
 
@@ -130,40 +145,20 @@ If the crash happens again, you can take a look at the next fix.
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system.  
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
-  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1492813">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Once you’ve updated your graphics driver, restart your PC and test the gameplay in Assassin’s Creed Valhalla.
 
  If the driver update doesn’t do the trick for you, simply continue to the next fix below.
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
-  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Lower in-game graphics settings
 
@@ -176,13 +171,6 @@ If the crash happens again, you can take a look at the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/valhalla-lower-settings.jpg)
 3. Continue your game and check if it crashes again.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If this trick failed to solve your problem, you can move on to the next one.
 
 ### Fix 6: Disable peripherals
@@ -194,6 +182,13 @@ If the crash happens again, you can take a look at the next fix.
 ### Fix 7: Check the launcher log
 
  If you’re a tech-savvy player, one effective way to troubleshoot is to check the**launcher\_log.txt** after crashing. The default location to find your log files is:**C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\logs** . In the file named**launcher\_log.txt** , you should see what happened exactly. Check if the crash involves certain game files. If yes, delete them and run a**Scan and Repair** to re-download the latest files.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 8: Reinstall Assassin’s Creed Valhalla
 
@@ -218,22 +213,22 @@ If the crash happens again, you can take a look at the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-avatar-asymmetry-artistry-sketching-distorted-images/"><u>[New] Avatar Asymmetry Artistry Sketching Distorted Images</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/n-2024-innovators-crafting-engaging-marvel-escapades/"><u>[New] In 2024, Innovators Crafting Engaging Marvel Escapades</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-insiders-look-at-streaming-content-on-social-media-platforms/"><u>[New] Insider's Look at Streaming Content on Social Media Platforms</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-navigating-facebooks-updated-algorithm-preparation-checklist/"><u>[New] Navigating Facebook's Updated Algorithm Preparation Checklist</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-unlock-screen-capture-potential-with-expert-tips-from-adobe-captivity/"><u>[New] Unlock Screen Capture Potential with Expert Tips From Adobe Captivity</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-unseen-fb-video-tactics-unlock-all-sharing-options/"><u>[New] Unseen FB Video Tactics Unlock All Sharing Options</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-from-clicks-to-coins-mastering-the-art-of-earnings-through-fb-videos-for-2024/"><u>[Updated] From Clicks to Coins Mastering the Art of Earnings Through FB Videos for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-how-to-upload-video-to-facebook-from-pc-and-android/"><u>[Updated] In 2024, How to Upload Video to Facebook From PC and Android</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-mastering-the-art-of-tinder-profiles-top-tricks-for-instant-love-interest/"><u>[Updated] Mastering the Art of Tinder Profiles Top Tricks for Instant Love Interest</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-the-cryptic-collection-of-2023-auction-for-anonymity-artifacts/"><u>[Updated] The Cryptic Collection of 2023 Auction for Anonymity Artifacts</u></a></li>
-<li><a href="https://howto.techidaily.com/best-methods-for-vivo-v27-pro-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Vivo V27 Pro Wont Turn On | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/blurry-or-crisp-master-partial-blurring-on-devices/"><u>Blurry or Crisp? Master Partial Blurring on Devices</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/content-layout-on-social-networks-facebooks-perspective-for-2024/"><u>Content Layout on Social Networks Facebook’s Perspective for 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/facebook-stories-downloader/"><u>Facebook Stories Downloader</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-lava-blaze-curve-5g-drfone-by-drfone-virtual-android/"><u>How to get the dragon scale and evolution-enabled pokemon On Lava Blaze Curve 5G? | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-x-without-passcode-4-easy-methods-drfone-by-drfone-ios/"><u>In 2024, How To Unlock iPhone X Without Passcode? 4 Easy Methods | Dr.fone</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/unlocking-obs-potential-strategies-involving-lut-filters/"><u>Unlocking OBS Potential Strategies Involving LUT Filters</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-conveniently-capture-top-chrome-utilities-for-fb-video-downloads/"><u>[New] In 2024, Conveniently Capture Top Chrome Utilities for FB Video Downloads</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-solve-facebook-messenger-not-sending-videos-on-iphone-and-android/"><u>[New] In 2024, Solve “Facebook Messenger Not Sending Videos” On iPhone and Android</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-elite-mp4-streamer-system-for-fb/"><u>[Updated] 2024 Approved Elite MP4 Streamer System for FB</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-techniques-for-transforming-facespace-lives-into-tv-content/"><u>[Updated] 2024 Approved Techniques for Transforming Facespace Lives Into TV Content</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-discover-the-lesser-known-page-picks-for-memelings/"><u>[Updated] Discover the Lesser-Known Page Picks for Memelings</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-the-ultimate-list-of-prime-video-favorites-on-twittersphere/"><u>[Updated] In 2024, The Ultimate List of Prime Video Favorites on Twittersphere</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-leverage-the-power-of-live-streaming-strategies-for-facebook-dominance-for-2024/"><u>[Updated] Leverage the Power of Live Streaming Strategies for Facebook Dominance for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-capturing-hulu-live-anywhere-a-practical-how-to-manual/"><u>2024 Approved Capturing Hulu Live Anywhere - A Practical How-To Manual</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-engaging-audiences-with-wirecast-hosted-facebook-streams/"><u>2024 Approved Engaging Audiences with Wirecast-Hosted Facebook Streams</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-get-save-and-enjoy-discover-these-6-excellent-linkedin-downloader-tools/"><u>2024 Approved Get, Save, and Enjoy Discover These 6 Excellent LinkedIn Downloader Tools</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/elite-mp4-media-sender/"><u>Elite MP4 Media Sender</u></a></li>
+<li><a href="https://fox-http.techidaily.com/expert-insight-using-live-photos-effectively-for-2024/"><u>Expert Insight Using Live Photos Effectively for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-photos-from-samsung-galaxy-a54-5g-by-fonelab-android-recover-photos/"><u>How to Rescue Lost Photos from Samsung Galaxy A54 5G?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-tecno-spark-20c-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Tecno Spark 20C to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-valorant-launch-issues-comprehensive-troubleshooting-guide/"><u>Resolving Valorant Launch Issues : Comprehensive Troubleshooting Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/stop-automatic-song-selection-tips-and-tricks-for-apple-music-users/"><u>Stop Automatic Song Selection: Tips and Tricks for Apple Music Users</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/triumph-through-tales-3-crucial-strategies-for-channels-for-2024/"><u>Triumph Through Tales 3 Crucial Strategies for Channels for 2024</u></a></li>
 </ul></div>
 

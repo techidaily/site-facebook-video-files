@@ -1,7 +1,7 @@
 ---
 title: "Master Terraria's Performance : Proven Strategies to Avoid System Crashes"
-date: 2024-09-29T19:17:02.059Z
-updated: 2024-10-01T19:33:35.947Z
+date: 2024-10-05T22:02:47.649Z
+updated: 2024-10-06T16:24:11.335Z
 tags:
   - win11
   - win10
@@ -30,13 +30,6 @@ Before you move on, select your gaming platform first:
 ### PC
 
  If you’re experiencing_Dead by Daylight_ crashing issue on your PC, check the fixes below.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Try these fixes
 
@@ -72,14 +65,20 @@ Before you move on, select your gaming platform first:
 ![](https://www.drivereasy.com/wp-content/uploads/2019/09/image-91.png)
 3. Click the **Display** tab, and then check your graphics card’s information.  
 
-![](https://www.drivereasy.com/wp-content/uploads/2019/08/image-132.png)
-
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977028">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://www.drivereasy.com/wp-content/uploads/2019/08/image-132.png)
 
  Make sure your computer meets the minimum requirements to run_DBD_ , then read on and check the fix, below.
 
@@ -101,6 +100,19 @@ Before you move on, select your gaming platform first:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-57.png)
 3. Relaunch Steam and _DBD_ to test your issue.
+
+<!-- affiliate ads begin -->
+<span id="1983552">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can hopefully run the game without crashing now. If your problem still exists, then move on to the fix below.
 
@@ -136,6 +148,13 @@ OR
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/05/NVIDIA-GeForce-RTX-3090-Ti.jpg)
 4. After updating, restart your computer to take effect.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -188,13 +207,6 @@ Follow the instructions below to see how to fix it:
 ![](https://www.drivereasy.com/wp-content/uploads/2019/05/image-721.png)
 4. Select **High Performance** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2019/05/image-738.png)
 
  Restart your computer and your game to see if this worked for you. If your problem persists, try the fix below.
@@ -208,30 +220,24 @@ Follow the instructions below to see how to fix it:
 2. Click the **Compatibility**  tab. Then check the box next to **Run this program in compatibility mode for** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2019/08/image-264.png)
 3. Click the list box below to select **Windows 8** , then click **OK** .  
 
-<!-- affiliate ads begin -->
-<span id="1975562">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2019/08/image-267.png)
 4. Relaunch your game to check if your issue had been resolved.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If your game crashes again under Windows 8 mode, repeat **steps 1 – 3** and select **Windows 7**  from the list box.
 
@@ -250,13 +256,6 @@ If this didn’t work for you, check the fix, below.
 4. Under **View by,** click **Large icons** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2019/05/image-720.png)
 5. Select **Uninstall a program** .  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2019/05/image-889.png)
 6. Right-click **Steam** , and then click **Uninstall** .  
@@ -311,6 +310,14 @@ If this didn’t work for you, check the fix, below.
 2. Select **Settings** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2019/08/image-92.png)
 3. Select **System** .  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2019/08/image-90.png)
 4. Select **Update console.**  
 ![](https://www.drivereasy.com/wp-content/uploads/2019/08/image-93.png)
@@ -326,6 +333,14 @@ If this didn’t work for you, check the fix, below.
 2. Select **Settings** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2019/08/image-92.png)
 3. Select **System** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2019/08/image-90.png)
 4. Select **Console info.**  
 ![](https://www.drivereasy.com/wp-content/uploads/2019/08/image-94.png)
@@ -344,6 +359,13 @@ If this didn’t work for you, check the fix, below.
 
 ![This image has an empty alt attribute; its file name is xbox-one-controller-2206687_1920-1024x671.jpg](https://images.drivereasy.com/wp-content/uploads/2019/08/xbox-one-controller-2206687_1920-1024x671.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)**  Select **My games & apps** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-95.png)
@@ -351,13 +373,6 @@ If this didn’t work for you, check the fix, below.
 **3)**  Press the **A button** on your controller.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/xbox-one-controller-2206687_1920-1-1024x671.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **4)** Highlight your game, then press the **☰ button** on your controller.
 
@@ -413,13 +428,6 @@ If this didn’t work for you, check the fix, below.
 **1)**  On the home screen of your PS4 system, press the **up**  button on your controller to go to the function area.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1080.png)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **2)** Select **Settings** .
 
@@ -486,24 +494,18 @@ If this didn’t work for you, check the fix, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/updated-correcting-failed-video-delivery-on-mobile-platforms-social-network-apps-for-2024/"><u>[Updated] Correcting Failed Video Delivery on Mobile Platform's Social Network Apps for 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-bottom-line-gear-collect-all-these-trendsetting-tools-to-win-in-business/"><u>[Updated] In 2024, Bottom Line Gear Collect All These Trendsetting Tools to Win in Business</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-mastering-social-media-enhancing-your-facebook-page-position/"><u>[Updated] Mastering Social Media Enhancing Your Facebook Page Position</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/best-backgrounds-for-live-streaming-2023/"><u>Best Backgrounds for Live Streaming 2023</u></a></li>
-<li><a href="https://fox-that.techidaily.com/cant-get-the-depth-look-in-ios-16-here-are-7-tweaks-to-make-it-happen/"><u>Can't Get the Depth Look in iOS 16? Here Are 7 Tweaks to Make It Happen</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/discover-your-latest-fb-watch-list-for-2024/"><u>Discover Your Latest FB Watch List for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/effortless-methods-for-transferring-all-your-apps-from-one-iphone-to-another/"><u>Effortless Methods for Transferring All Your Apps From One iPhone to Another</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/in-2024-cyberspace-supplement-facebook-story-saver/"><u>In 2024, Cyberspace Supplement Facebook Story Saver</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/in-2024-deciphering-online-videography-a-facebook-journey/"><u>In 2024, Deciphering Online Videography A Facebook Journey</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-delete-gmail-account-withwithout-password-on-htc-u23-pro-by-drfone-android/"><u>In 2024, Delete Gmail Account With/Without Password On HTC U23 Pro</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-does-life360-notify-when-you-log-out-on-honor-100-drfone-by-drfone-virtual-android/"><u>In 2024, Does Life360 Notify When You Log Out On Honor 100? | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/in-2024-social-media-strategy-optimizing-your-facebook-story/"><u>In 2024, Social Media Strategy Optimizing Your Facebook Story</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/quick-quality-quilting-turning-photographic-patterns-into-cartoons/"><u>Quick Quality Quilting Turning Photographic Patterns Into Cartoons</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-the-issue-comprehensive-guide-on-fixing-windows-update-error-code-80070103/"><u>Resolving the Issue: Comprehensive Guide on Fixing Windows Update Error Code 80070103</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/revolutionize-your-sales-approach-with-the-best-15-social-media-analyzers/"><u>Revolutionize Your Sales Approach with the Best 15 Social Media Analyzers</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723013523793-step-by-step-stabilize-your-dota-2-gaming-experience-by-stopping-crashes/"><u>Step-by-Step: Stabilize Your Dota 2 Gaming Experience by Stopping Crashes</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/transform-standard-photos-into-4k-8k-and-10k-resolution-via-advanced-winxvideo-artificial-intelligence/"><u>Transform Standard Photos Into 4K, 8K & 10K Resolution via Advanced Winxvideo Artificial Intelligence</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/ultra-portable-powerhouse-evaluation-lenovos-newly-released-thinkpad-x1-nano/"><u>Ultra-Portable Powerhouse Evaluation: Lenovo's Newly Released ThinkPad X1 Nano</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/unlocking-the-purpose-and-function-of-facebooks-status-emoji-for-2024/"><u>Unlocking the Purpose and Function of Facebook's Status Emoji for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-the-ultimate-quick-reference-for-iphone-memo-making/"><u>[New] 2024 Approved The Ultimate Quick Reference for iPhone Memo-Making</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-from-passive-page-peeps-to-paying-patrons-facebook-monetization-magic/"><u>[New] From Passive Page Peeps to Paying Patrons Facebook Monetization Magic</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-ultimate-5-book-tt-showcases-for-readers/"><u>[New] The Ultimate 5 Book TT Showcases for Readers</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-top-selections-top-6-fb-lite-extractors-for-2024/"><u>[New] Top Selections #Top 6 FB Lite Extractors for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-fix-intermittent-media-on-chrome-browser/"><u>[Updated] In 2024, Fix Intermittent Media on Chrome Browser</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-expert-tips-for-developing-high-quality-fb-videos/"><u>2024 Approved Expert Tips for Developing High-Quality FB Videos</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/how-to-access-hidden-social-media-recommendations-for-2024/"><u>How to Access Hidden Social Media Recommendations for 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-solve-iphone-call-drop-issues-a-step-by-step-guide/"><u>How to Solve iPhone Call Drop Issues: A Step-by-Step Guide</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-4-most-known-ways-to-find-someone-on-tinder-for-poco-c50-by-name-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Most-Known Ways to Find Someone on Tinder For Poco C50 by Name | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-blue-badge-on-facebook-your-pathway-unveiled/"><u>In 2024, Blue Badge on Facebook Your Pathway Unveiled</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-itel-a60s-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Itel A60s Step-by-Step Solutions | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/silvermans-fight-tech-giants-accused-of-stifling-ai-driven-creativity/"><u>Silverman's Fight: Tech Giants Accused of Stifling AI-Driven Creativity</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-best-android-sim-unlock-code-generators-unlock-your-samsung-galaxy-m34-phone-hassle-free-by-drfone-android/"><u>The Best Android SIM Unlock Code Generators Unlock Your Samsung Galaxy M34 Phone Hassle-Free</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Tips: How to Correctly Fix Scanner Malfunctions"
-date: 2024-09-27T16:05:59.901Z
-updated: 2024-10-01T19:59:43.712Z
+date: 2024-09-30T20:26:24.417Z
+updated: 2024-10-07T00:26:10.149Z
 tags:
   - win11
   - win10
@@ -27,6 +27,13 @@ Trying to play**Madden 20** but**it keeps crashing** ? You’re certainly not al
 4. **[Install the latest game patch](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Reinstall Origin and Madden 20](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Update your device drivers
 
  This problem may occur if you are using the wrong or outdated device drivers. So you should update your drivers to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -41,31 +48,24 @@ Trying to play**Madden 20** but**it keeps crashing** ? You’re certainly not al
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-439.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click the **Update**  button next to a flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4) Restart your computer for the changes to take effect.
 
 5) Launch Madden 20 to see if the crashing problems have been resolved. If yes, then great! If the game still crashes, please move on to**Fix** 2, below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Make sure your PC meets the system requirements of Madden 20
 
@@ -98,22 +98,15 @@ Trying to play**Madden 20** but**it keeps crashing** ? You’re certainly not al
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-13.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Under the **System** tab and you can check the **Operating System**  and **Memory** information on your PC.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-526.png)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Click the **Display** tab and you can check what **graphics card** your PC is using.
 
@@ -163,6 +156,13 @@ Here are the steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-174.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) In the program list, locate **Origin** , then right-click on it and click**Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-175-1024x499.png)
@@ -198,17 +198,24 @@ Here are the steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/nlock-your-videos-potential-with-these-7-audio-treasures/"><u>[New] Unlock Your Video's Potential with These 7 Audio Treasures</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-social-media-savvy-turning-friends-into-customers-and-coins/"><u>[Updated] 2024 Approved Social Media Savvy Turning Friends Into Customers and Coins</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-innovative-approaches-to-integrating-your-fb-story-for-2024/"><u>[Updated] Innovative Approaches to Integrating Your FB Story for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-mastering-business-on-instagram-a-step-by-step-guide/"><u>2024 Approved Mastering Business on Instagram A Step-by-Step Guide</u></a></li>
-<li><a href="https://location-fake.techidaily.com/5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-apple-iphone-11-pro-max-drfone-by-drfone-virtual-ios/"><u>5 Hassle-Free Solutions to Fake Location on Find My Friends Of Apple iPhone 11 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/delving-into-detail-with-minecraft-views-for-2024/"><u>Delving Into Detail with Minecraft Views for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/discover-our-picks-the-six-greatest-solo-translation-tools/"><u>Discover Our Picks: The Six Greatest Solo Translation Tools</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/in-2024-streamlining-call-logs-the-4-step-guide-for-fb-calls/"><u>In 2024, Streamlining Call Logs The 4-Step Guide for FB Calls</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-tactics-to-quiet-down-distractions-during-google-meets/"><u>In 2024, Tactics to Quiet Down Distractions During Google Meets</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-motorola-moto-g73-5g-device-by-drfone-android/"><u>In 2024, The Ultimate Guide How to Bypass Swipe Screen to Unlock on Motorola Moto G73 5G Device</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/in-2024-the-ultimate-guide-to-dji-drone-video-livestreams-on-fb/"><u>In 2024, The Ultimate Guide to DJI Drone Video Livestreams on FB</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/preeminent-windows-calls-8-top-picks/"><u>Preeminent Windows Calls 8 Top Picks</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-facebook-group-video-downloader/"><u>[New] 2024 Approved Facebook Group Video Downloader</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-enhancing-your-social-media-footprint-upload-success-tips-for-stories-for-2024/"><u>[New] Enhancing Your Social Media Footprint Upload Success Tips for Stories for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-the-artisans-approach-to-profiling-brilliance-for-2024/"><u>[New] The Artisan's Approach to Profiling Brilliance for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-curating-background-beats-for-video-releases/"><u>[Updated] 2024 Approved Curating Background Beats for Video Releases</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-friendship-and-farms-the-10-favorite-farming-titles/"><u>[Updated] 2024 Approved Friendship & Farms The 10 Favorite Farming Titles</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-from-silent-screens-to-captivating-media-instantly-create-captions-on-fb/"><u>[Updated] In 2024, From Silent Screens to Captivating Media Instantly Create Captions on FB</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-halt-video-size-bloat-convert-fb-vids-to-720p-and-1080p-mp4/"><u>[Updated] In 2024, Halt Video Size Bloat Convert FB Vids to 720P & 1080P MP4</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-steps-to-resolve-unusual-self-viewer-mistakes-in-chats/"><u>[Updated] In 2024, Steps to Resolve Unusual Self-Viewer Mistakes in Chats</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unraveling-the-mystery-of-effective-gif-communication/"><u>2024 Approved Unraveling the Mystery of Effective GIF Communication</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ai-conversations-elevated-comparing-gemini-and-chatgpt-plus-features/"><u>AI Conversations Elevated: Comparing Gemini and ChatGPT Plus Features</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/banishing-bogus-buddies-from-instagram-social-structure-for-2024/"><u>Banishing Bogus Buddies From Instagram Social Structure for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/fix-chrome-non-playing-androidios-videos-for-2024/"><u>Fix Chrome Non-Playing Android/iOS Videos for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/fix-facebook-snap-glitches-stories-upload-woes/"><u>Fix Facebook Snap Glitches Stories Upload Woes</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-fb-chronicles-the-hidden-viewer/"><u>In 2024, FB Chronicles The Hidden Viewer</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-from-shoots-to-screens-dslr-setup-for-youtubefacebook-live/"><u>In 2024, From Shoots to Screens DSLR Setup for YouTube/Facebook Live</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-top-15-augmented-reality-games-like-pokemon-go-to-play-on-realme-narzo-60-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Top 15 Augmented Reality Games Like Pokémon GO To Play On Realme Narzo 60 5G | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/quick-and-easy-guide-to-installing-amd-ryzen-5-2600-drivers-today/"><u>Quick & Easy Guide to Installing AMD Ryzen 5 2600 Drivers Today</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-5-features-we-loved-on-the-new-lenovo-legion-go-at-ifa-2023/"><u>The 5 Features We Loved on the New Lenovo Legion Go at IFA 2023</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/visual-dominance-best-ps5-compatible-high-res-hdmi-21-screens-for-2024/"><u>Visual Dominance Best PS5 Compatible High-Res (HDMI 2.1) Screens for 2024</u></a></li>
 </ul></div>
 

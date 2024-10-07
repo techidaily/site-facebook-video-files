@@ -1,7 +1,7 @@
 ---
 title: Effective Fixes for Persona 3 Extra Release Not Launching Properly
-date: 2024-09-28T18:12:26.096Z
-updated: 2024-10-01T17:14:31.621Z
+date: 2024-10-03T00:58:01.674Z
+updated: 2024-10-06T16:16:04.204Z
 tags:
   - win11
   - win10
@@ -28,13 +28,6 @@ thumbnail: https://thmb.techidaily.com/e46847f4d730c4e71d01b69ffbbf4867ec3238091
 * [Fix 5: Enable low spec mode](https://tools.techidaily.com/drivereasy/download/)
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
-  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 1: Make sure your PC meets meets the system requirements for League of Legends
 
@@ -68,10 +61,10 @@ thumbnail: https://thmb.techidaily.com/e46847f4d730c4e71d01b69ffbbf4867ec3238091
  If your PC meets the system requirement for League of Legends but the game crashing issue persists, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Update your drivers
@@ -102,9 +95,29 @@ thumbnail: https://thmb.techidaily.com/e46847f4d730c4e71d01b69ffbbf4867ec3238091
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-84.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact**Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
+
+<!-- affiliate ads begin -->
+<span id="1983573">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Install the latest Windows Updates
 
@@ -124,19 +137,6 @@ thumbnail: https://thmb.techidaily.com/e46847f4d730c4e71d01b69ffbbf4867ec3238091
 
  See if you can play the game without crashes. If so, you’ve fixed this issue! If not, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<span id="1444782">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 4: Repair corrupted game files
 
  Corrupted game files are another important factor that may cause the game crashing issues. Try initiating full repair to see if you can fix this issue. Here is how to do it:
@@ -147,6 +147,13 @@ thumbnail: https://thmb.techidaily.com/e46847f4d730c4e71d01b69ffbbf4867ec3238091
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap777.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click**Initiate Full Repair** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap779-1.png)
@@ -156,6 +163,13 @@ thumbnail: https://thmb.techidaily.com/e46847f4d730c4e71d01b69ffbbf4867ec3238091
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap780.png)
 
  Run the game to see if you can play it without crashes. If not, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Enable low spec mode
 
@@ -169,23 +183,9 @@ thumbnail: https://thmb.techidaily.com/e46847f4d730c4e71d01b69ffbbf4867ec3238091
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap777.png)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3)**Check the box** next to **Enable Low Spec Mode** and click **DONE** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap778.png)
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Run League of Legends to see if you resolved this issue.
 
@@ -209,24 +209,16 @@ Run League of Legends to see if you resolved this issue.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-elevate-your-social-media-impact-secrets-unveiled-in-the-best-facebook-bios/"><u>[New] 2024 Approved Elevate Your Social Media Impact Secrets Unveiled in the Best Facebook Bios</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-where-to-download-christian-ringtones-and-how-to-customize-a-christian-for-2024/"><u>[New] Where To Download Christian Ringtones And How To Customize A Christian for 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-navigating-the-maze-fb-messengers-a-video-downloading-guide/"><u>[Updated] 2024 Approved Navigating the Maze FB Messengers - A Video Downloading Guide</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-the-art-of-adding-audio-to-visual-content-for-facebook-sharing/"><u>[Updated] 2024 Approved The Art of Adding Audio to Visual Content for Facebook Sharing</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-viral-hits-the-top-10-music-videos-on-fb-now/"><u>[Updated] 2024 Approved Viral Hits The Top 10 Music Videos on FB Now</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-achieve-aesthetic-11-best-instagram-enhancers/"><u>[Updated] Achieve Aesthetic 11 Best Instagram Enhancers</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-apex-sporting-cameras-for-extreme-enthusiasts/"><u>[Updated] Apex Sporting Cameras for Extreme Enthusiasts</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-crafting-hashtags-that-capture-attention-and-drive-engagement-on-fb-for-2024/"><u>[Updated] Crafting Hashtags that Capture Attention and Drive Engagement on FB for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-netflix-archive-the-complete-guide-to-screencapturing-your-views-for-2024/"><u>[Updated] Netflix Archive The Complete Guide to ScreenCapturing Your Views for 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-optimize-your-social-media-videos-on-fb-with-the-right-ratio/"><u>[Updated] Optimize Your Social Media Videos on FB with the Right Ratio</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/2024-approved-discover-creative-ways-to-enhance-your-fb-video-ads/"><u>2024 Approved Discover Creative Ways to Enhance Your FB Video Ads</u></a></li>
-<li><a href="https://discover-blog.techidaily.com/abbyy-secures-top-position-in-the-2022-everest-group-idp-peak-matrix-evaluation/"><u>ABBYY Secures Top Position in the 2022 Everest Group IDP PEAK Matrix Evaluation</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-xiaomi-redmi-12-5g-frp-in-3-different-ways-by-drfone-android/"><u>In 2024, How To Bypass Xiaomi Redmi 12 5G FRP In 3 Different Ways</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-mastering-lock-screen-settings-how-to-enable-and-disable-on-infinix-zero-5g-2023-turbo-by-drfone-android/"><u>In 2024, Mastering Lock Screen Settings How to Enable and Disable on Infinix Zero 5G 2023 Turbo</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-2024-approved-discovering-the-ultimate-voice-overhaul-mobile-tools/"><u>New 2024 Approved Discovering the Ultimate Voice Overhaul Mobile Tools</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/revamp-your-viewing-experience-the-ultimate-guide-to-samsung-tv-firmware-updates/"><u>Revamp Your Viewing Experience: The Ultimate Guide to Samsung TV Firmware Updates</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/streamline-your-content-a-tutorial-for-instagram-video-sharing/"><u>Streamline Your Content A Tutorial for Instagram Video Sharing</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/the-essential-guide-fast-tracking-subtitle-creation-for-your-fb-posts-for-2024/"><u>The Essential Guide Fast-Tracking Subtitle Creation for Your FB Posts for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/win11-a-beginners-guide-to-screensavers/"><u>Win11: A Beginner's Guide to Screensavers</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-demystifying-t-series-income-streams-via-youtube-platforms/"><u>[New] 2024 Approved Demystifying T-Series Income Streams via YouTube Platforms</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-efficient-desktop-capture-for-windows-users/"><u>[New] Efficient Desktop Capture for Windows Users</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-masterful-fb-watching-essential-top-10-players/"><u>[New] Masterful FB Watching Essential Top 10 Players</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-mp3-repository-from-fb-posts/"><u>[Updated] MP3 Repository From Fb Posts</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-smart-guide-top-picks-for-6-fb-lite-videos-for-2024/"><u>[Updated] Smart Guide Top Picks for 6 FB Lite Videos for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722970242815-effortless-setup-for-your-new-pioneer-dj-ddj-sx2-get-the-latest-driver-here/"><u>Effortless Setup for Your New Pioneer DJ DDJ-SX2 - Get the Latest Driver Here!</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-seamless-video-sharing-from-youtube-to-fb/"><u>In 2024, Seamless Video Sharing From YouTube to FB</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/resolving-the-issue-sony-dvd-player-refuses-to-read-discs-a-step-by-step-guide/"><u>Resolving the Issue: Sony DVD Player Refuses to Read Discs – A Step-by-Step Guide</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/secrets-of-facebook-cover-vids-for-aspiring-social-media-stars-for-2024/"><u>Secrets of Facebook Cover Vids for Aspiring Social Media Stars for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/the-ultimate-guide-to-choosing-a-daw-our-picks-on-top-8-software-for-exceptional-recording-mixing-and-mastering-capabilities-for-2024/"><u>The Ultimate Guide to Choosing a DAW Our Picks on Top 8 Software for Exceptional Recording, Mixing, and Mastering Capabilities for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/which-is-the-top-screener-bandicam-or-camtasia/"><u>Which Is the Top Screener? - Bandicam Or Camtasia</u></a></li>
 </ul></div>
 
