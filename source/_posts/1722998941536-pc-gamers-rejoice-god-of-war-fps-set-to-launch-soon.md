@@ -1,7 +1,7 @@
 ---
 title: "PC Gamers Rejoice: God of War FPS Set to Launch Soon"
-date: 2024-09-30T20:09:18.732Z
-updated: 2024-10-06T18:19:30.044Z
+date: 2024-10-09T18:29:48.097Z
+updated: 2024-10-12T17:53:50.425Z
 tags:
   - win11
   - win10
@@ -41,17 +41,38 @@ Here’s how to do it on the Epic Games client:
 1. Open your Epic Games client and go to**Library** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/epic-1-2.jpg)
 2. Click the**ellipses** at the bottom right corner of Sid Meier’s Civilization VI. Then select**Verify** and wait for the process to complete.  
+
+<!-- affiliate ads begin -->
+<span id="1975555">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/civ-6-verify.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Now you can try again and see if Civ 6 launches.
 
 If this doesn’t help, you can take a look at the next fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Update your graphics driver
@@ -91,10 +112,10 @@ If this doesn’t help, you can take a look at the next fix below.
 If this solution doesn’t help, you can continue to the next one.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Perform a clean boot
@@ -112,24 +133,24 @@ If this solution doesn’t help, you can continue to the next one.
 4. On your keyboard, press **Ctrl** , **Shift**  and **Esc**  at the same time to open Task Manager, then navigate to the **Startup**  tab.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup.jpg)
 5. One at a time, select any programs you suspect might be interfering, and click **Disable** .  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup-disable-startup-program.jpg)
 6. Restart your PC.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Now you can try to launch Civ 6\. If it’s working this time, repeat these steps and disable only half of the services and programs to root out the offenders.
 
@@ -143,20 +164,13 @@ If a clean boot doesn’t help, you can check out the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/latest-c.jpg)
 2. Open the installer and follow the on-screen instructions to install.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can also uninstall all the Visual C++ redistributable in**Programs and Features** , then reinstall them one by one. Be sure to choose the latest 64-bit installer.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 6: Switch your DirectX version
@@ -164,13 +178,6 @@ If a clean boot doesn’t help, you can check out the next fix.
  According to some,**running Civ 6 on another version of DirectX** might be a potential fix. Normally you’re prompted to select the DirectX version at startup. But you can also use the .exe file directly. By default, you can the .exe files in _C:\\Program Files (x86)\\Steam\\steamapps\\common\\Sid Meier’s Civilization VI\\Base\\Binaries\\Win64Steam_ . Use_CivilizationVI\_DX12.exe_ for DirectX 12 and_CivilizationVI.exe_ for DirectX 11.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/civ-6-directx.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -193,21 +200,22 @@ If a clean boot doesn’t help, you can check out the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-top-20-strategies-for-boosting-fb-ads-via-video-content/"><u>[New] 2024 Approved Top 20 Strategies for Boosting FB Ads via Video Content</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-breeze-through-your-latest-fb-watches-2023-edition-for-2024/"><u>[New] Breeze Through Your Latest FB Watches 2023 Edition for 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-flip-photo-trail-on-fb-3-techniques-explored/"><u>[Updated] 2024 Approved Flip Photo Trail on FB - 3 Techniques Explored</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-optimizing-social-media-for-vimeo-sharing/"><u>[Updated] 2024 Approved Optimizing Social Media for Vimeo Sharing</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-unlocking-the-secrets-of-reversed-visual-exploration-online-facebook/"><u>[Updated] 2024 Approved Unlocking the Secrets of Reversed Visual Exploration Online (Facebook)</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/approved-leverage-creative-studio-for-maximum-youtube-reach-and-engagement/"><u>2024 Approved Leverage Creative Studio for Maximum YouTube Reach and Engagement</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/2024-approved-protecting-content-avoiding-premature-deletions/"><u>2024 Approved Protecting Content Avoiding Premature Deletions</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/a-comprehensive-guide-to-producing-engaging-subtitles-and-captions-for-fb/"><u>A Comprehensive Guide to Producing Engaging Subtitles and Captions for FB</u></a></li>
-<li><a href="https://driver-error.techidaily.com/device-cant-connect-missing-driver-issue/"><u>Device Can't Connect: Missing Driver Issue</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/discover-these-10-fantastic-free-tv-and-movie-platforms-as-great-alternatives-to-netflix/"><u>Discover These 10 Fantastic Free TV and Movie Platforms as Great Alternatives to Netflix</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-to-restore-and-access-previous-chatgpt-interactions-efficiently/"><u>How to Restore and Access Previous ChatGPT Interactions Efficiently</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/in-2024-clandestine-scrollers-of-fb-stories/"><u>In 2024, Clandestine Scrollers of Fb Stories</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/in-2024-facebook-photosvideos-the-role-of-watermarks/"><u>In 2024, Facebook Photos/Videos The Role of Watermarks</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fake-gps-on-vivo-y27-4g-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>In 2024, How To Fake GPS On Vivo Y27 4G For Mobile Legends? | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-top-5-realme-12-5g-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 Realme 12 5G Bypass FRP Tools for PC That Actually Work</u></a></li>
-<li><a href="https://win-forum.techidaily.com/solving-the-class-not-registered-issue-in-windows-a-step-by-step-guide/"><u>Solving the 'Class Not Registered' Issue in Windows - A Step-by-Step Guide</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-navigating-the-seas-of-saving-facebook-gifs-on-various-tech-platforms/"><u>[New] 2024 Approved Navigating the Seas of Saving Facebook GIFs on Various Tech Platforms</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-precision-zoom-youtube-video-expansion-for-2024/"><u>[New] Precision Zoom YouTube Video Expansion for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-revolutionary-techniques-for-chronological-categorization-of-photographs/"><u>[New] Revolutionary Techniques for Chronological Categorization of Photographs</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-video-alchemy-on-a-pc-transforming-footage-into-youtube-gold/"><u>[New] Video Alchemy on a PC Transforming Footage Into YouTube Gold</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-navigating-through-time-with-historical-fb-features-device-guide/"><u>[Updated] 2024 Approved Navigating Through Time with Historical FB Features Device Guide</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-prime-maker-of-free-fb-photovideo-content/"><u>[Updated] 2024 Approved Prime Maker of FREE FB Photo/Video Content</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-how-to-add-link-to-facebook-story-for-free/"><u>[Updated] How to Add Link to Facebook Story for Free?</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-explore-and-enjoy-locating-recently-liked-videos-on-facebook/"><u>[Updated] In 2024, Explore & Enjoy Locating Recently Liked Videos on Facebook</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-mastering-social-media-video-for-superior-fb-outcomes-for-2024/"><u>[Updated] Mastering Social Media Video for Superior FB Outcomes for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-navigating-the-complexities-of-spotifys-ad-ecosystem-for-2024/"><u>[Updated] Navigating the Complexities of Spotify's Ad Ecosystem for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-streaming-hd-1080p-on-facebook-tips-and-tricks/"><u>[Updated] Streaming HD 1080P on Facebook Tips and Tricks</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-the-complete-guide-to-iphone-voice-memos-setup-for-2024/"><u>[Updated] The Complete Guide to iPhone Voice Memos Setup for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-unveiling-the-top-10-mobile-battle-strategies/"><u>[Updated] Unveiling the Top 10 Mobile Battle Strategies</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-setting-up-your-wifi-printer/"><u>Step-by-Step Guide: Setting Up Your WiFi Printer</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-ongoing-issue-of-reused-passwords-in-the-face-of-security-breaches-cybersecurity-insights/"><u>The Ongoing Issue of Reused Passwords in the Face of Security Breaches | Cybersecurity Insights</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/top-8-viral-vids-capturing-social-medias-attention-for-2024/"><u>Top 8 Viral Vids Capturing Social Media's Attention for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/transform-fb-video-tunes-to-mp3/"><u>Transform Fb Video Tunes to MP3</u></a></li>
 </ul></div>
 

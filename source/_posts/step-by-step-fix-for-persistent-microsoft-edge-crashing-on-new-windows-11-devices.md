@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Fix for Persistent Microsoft Edge Crashing on New Windows 11 Devices
-date: 2024-10-01T03:53:31.710Z
-updated: 2024-10-07T01:50:04.172Z
+date: 2024-10-07T18:46:43.123Z
+updated: 2024-10-12T16:12:57.563Z
 tags:
   - win11
   - win10
@@ -50,24 +50,30 @@ The outdated or broken graphics driver often crashes the game.
 3. Click the **Update** button next to a device to automatically download the correct version of their driver, then you can manually install the driver (you can do this with the FREE version).  
 
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1936838">
+					<video width="374" height="48" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Or click **Update All**  to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 4. Restart your PC after you finished updating your graphics driver.
 
- See if the latest graphics driver stops the Dirt 5 from crashing. If not, don’t worry. Try the next fix, below.
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ See if the latest graphics driver stops the Dirt 5 from crashing. If not, don’t worry. Try the next fix, below.
 
 ## Fix 2: Verify the game files
 
@@ -81,10 +87,10 @@ The outdated or broken graphics driver often crashes the game.
  It may take some time to finish verifying the game files. Launch the game after the verifying process completed to see if this fix works. If not, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 3: Install the latest game patch
@@ -104,15 +110,22 @@ The outdated or broken graphics driver often crashes the game.
 2. Uncheck**Enable Steam Overlay while in-game** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Disable Steam Overlay](https://images.drivereasy.com/wp-content/uploads/2021/04/Disable-Steam-Overlay.jpg)
 
  Launch Dirt 5 to see if the game crashes. If the issue persists, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 5: Set launch options on Steam
 
@@ -122,13 +135,6 @@ The outdated or broken graphics driver often crashes the game.
 2. In the**GENERAL** section, click **SET LAUNCH OPTIONS…**  
 ![Steam set launch options](https://images.drivereasy.com/wp-content/uploads/2021/04/Modify-Steam-set-launch-options.jpg)
 3. Copy and paste the commands below and click **OK** .  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 `-useallavailablecores -high`
 
@@ -164,19 +170,18 @@ The outdated or broken graphics driver often crashes the game.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-perfecting-onscreen-image-clarity-and-detail/"><u>[New] In 2024, Perfecting Onscreen Image Clarity and Detail</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-video-make-for-facebook-how-to-make-facebook-video/"><u>[New] In 2024, Video Make for Facebook How to Make Facebook Video</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-unveiling-the-prowess-of-yuneecs-typhoon-uav/"><u>[New] Unveiling the Prowess of Yuneec's Typhoon UAV</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-facebooks-favorites-top-10-viral-music-videos-guide/"><u>[Updated] 2024 Approved Facebook's Favorites TOP 10 Viral Music Videos Guide</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-increase-attendance-and-engagement-with-strategic-zoom-recordings/"><u>[Updated] 2024 Approved Increase Attendance and Engagement with Strategic Zoom Recordings</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-the-essential-guide-to-mc-villages-houses/"><u>[Updated] 2024 Approved The Essential Guide to MC Villages' Houses</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-instagram-to-twitter-share-content-directly-no-rt/"><u>[Updated] In 2024, Instagram to Twitter Share Content Directly (No RT)</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/2024-approved-unlock-facebook-popularity-discover-best-apps-from-androidiphone/"><u>2024 Approved Unlock Facebook Popularity Discover Best Apps From Android/iPhone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/achieving-unparalleled-detail-with-remote-screens-for-2024/"><u>Achieving Unparalleled Detail with Remote Screens for 2024</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-xs-to-other-iphone-12-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone XS To Other iPhone 12 devices? | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/newly-disclosed-intel-reports-suggest-persistent-stability-issues-beyond-power-surge-woes/"><u>Newly Disclosed Intel Reports Suggest Persistent Stability Issues Beyond Power Surge Woes</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/superior-schedulers-for-success-our-recommendation-list/"><u>Superior Schedulers for Success Our Recommendation List</u></a></li>
-<li><a href="https://techidaily.com/turn-off-screen-lock-lava-yuva-3-pro-by-drfone-android-unlock-android-unlock/"><u>Turn Off Screen Lock - Lava Yuva 3 Pro</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/virtual-vision-creation-shaping-a-humorous-self-portrait/"><u>Virtual Vision Creation Shaping a Humorous Self-Portrait</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-balance-youtube-with-a-full-time-job/"><u>[New] 2024 Approved How to Balance YouTube with a Full-Time Job</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-secrets-to-successful-live-broadcasts-from-iphonesandroids-for-2024/"><u>[New] Secrets to Successful Live Broadcasts From iPhones/Androids for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-uncover-the-secret-correcting-mobile-video-sharing-on-fb-messenger/"><u>[Updated] 2024 Approved Uncover the Secret Correcting Mobile Video Sharing on FB Messenger</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-expert-tips-crafting-compelling-facebook-ad-videos/"><u>[Updated] Expert Tips Crafting Compelling Facebook Ad Videos</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-amplifying-tv-screens-through-fb-live-integration/"><u>[Updated] In 2024, Amplifying TV Screens Through FB Live Integration</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-the-top-10-screenshot-tools-of-2021-for-2024/"><u>[Updated] The Top 10 Screenshot Tools of 2021 for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-10-finest-fee-free-lut-options-reviewed-and-accessible-here/"><u>2024 Approved 10 Finest, Fee-Free LUT Options Reviewed & Accessible Here</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-effortless-media-migration-how-to-send-fb-movies-via-whatsapp/"><u>2024 Approved Effortless Media Migration How To Send FB Movies via WhatsApp</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/comprehensive-review-lensdirects-prescription-sunglasses-for-digital-screen-protection/"><u>Comprehensive Review: LensDirect’s Prescription Sunglasses for Digital Screen Protection</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/high-speed-windowed-image-inspector-for-2024/"><u>High-Speed Windowed Image Inspector for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-from-small-screens-to-big-screen-success-fb-video-guide-2023/"><u>In 2024, From Small Screens to Big Screen Success FB Video Guide 2023</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/optimize-workflow-effective-methods-of-capturing-macs-screen-via-shortcut-keys/"><u>Optimize Workflow Effective Methods of Capturing Mac’s Screen via Shortcut Keys</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/pinnacle-mac-screen-plus-audio-transcription-system-for-2024/"><u>Pinnacle Mac Screen + Audio Transcription System for 2024</u></a></li>
 </ul></div>
 

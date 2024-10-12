@@ -1,7 +1,7 @@
 ---
 title: "Resolving Issues with Non-Functional Logitech Webcam Microphones: A Step-by-Step Guide"
-date: 2024-10-04T19:14:08.625Z
-updated: 2024-10-06T21:14:29.828Z
+date: 2024-10-06T17:37:35.325Z
+updated: 2024-10-12T19:25:20.387Z
 tags:
   - win11
   - win10
@@ -30,6 +30,13 @@ Objectively, external webcams such as Logitech webcams offer better video qualit
 
 ![how to fix Logitech webcam mic not working](https://images.drivereasy.com/wp-content/uploads/2021/03/logitech-webcam-mic-not-working.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Install all Windows updates
 
  Windows updates are used to keep Microsoft Windows and several other Microsoft programs updated. They often include feature enhancements and security updates to protect Windows from the malware and malicious attacks which would probably lead to your programs malfunctioning. Therefore, before trying the solutions listed below, you need to download and install the latest Windows updates.
@@ -45,10 +52,10 @@ Here’s how you can do this:
 ![how to download and install Windows updates](https://images.drivereasy.com/wp-content/uploads/2021/01/click-on-the-Check-for-updates-tab.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Once you’ve installed the latest Windows updates, try to use the microphone to check if it’s working now. If not, try the next fix below.
@@ -84,6 +91,13 @@ Here’s how to update your drivers with Driver Easy:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Allow access to your webcam built-in microphone
 
  On Windows, you can decide whether your system and apps can access the microphone. In case you’ve disabled the access for some reasons, you should check the settings and grant the permission for the access by following the instructions below:
@@ -98,6 +112,13 @@ Here’s how to update your drivers with Driver Easy:
   
 ![turn on app permissions on your microphone](https://images.drivereasy.com/wp-content/uploads/2021/02/turn-on-app-permissions-for-your-micropho0ne.png)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
+  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Under the **Allow apps to access your microphone**  section, make sure it’s turned **On** .  
   
 ![allow apps to access your microphone](https://images.drivereasy.com/wp-content/uploads/2021/02/allow-apps-to-access-your-microphone.png)
@@ -107,13 +128,6 @@ Here’s how to update your drivers with Driver Easy:
  After you’ve done all of these, try to use your webcam microphone and check if it’s working properly. If the issue persists, try the next fix below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Make sure your mic isn’t disabled
 
@@ -131,9 +145,23 @@ Here’s how to update your drivers with Driver Easy:
   
 ![make sure your device isn't disabled](https://images.drivereasy.com/wp-content/uploads/2021/03/make-sure-your-headset-isnt-disabled.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  After you’ve confirmed that the microphone is enabled, try to speak something to see if it’s now back to the normal state. If the microphone is still not working, try the next fix below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Set your device as default
 
@@ -142,13 +170,6 @@ Here’s how to update your drivers with Driver Easy:
  1) Right-click on the Speaker icon on the bottom-right corner of your screen. Then select **Open Sound settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/open-sound-settings.png)
-
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
-  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) Scroll down to the section of **Related Settings** and click **Sound Control Panel** .  
   
@@ -159,10 +180,10 @@ Here’s how to update your drivers with Driver Easy:
 ![set your device as the default](https://images.drivereasy.com/wp-content/uploads/2021/03/microphone.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  After applying changes, do a mic test to check if this method did the trick. If the microphone is still not working, you need to check the input sensitivity of your mic to ensure it is not too low or too high which could cause issues. Here’s how you can do this:
@@ -170,13 +191,6 @@ Here’s how to update your drivers with Driver Easy:
  1) In the Sound window (shown as the picture above), right-click the microphone and select**Properties** .
 
  2) Go to the**Levels** tab. Then, drag the slider to adjust the volume. While performing this step, you need to do a mic test at the same time.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## If your microphone is still not working properly…
 
@@ -186,25 +200,11 @@ Here’s how to update your drivers with Driver Easy:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Run Fortect and it will run a FREE scan of your PC. Once the scan is finished, you’ll see a complete overview of your system and issues.
 
  3) Click **Start Repair** to start the repair process and wait for Fortect to fix the problem.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -227,17 +227,22 @@ Here’s how to update your drivers with Driver Easy:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-evasion-of-ennui-comical-cells-and-chuckles-in-facebooks-boundaries/"><u>[New] 2024 Approved Evasion of Ennui Comical Cells and Chuckles in Facebook's Boundaries</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-learn-the-mechanics-behind-self-playing-videos-in-fb/"><u>[New] In 2024, Learn the Mechanics Behind Self-Playing Videos in Fb</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-mastering-directing-a-complete-review-and-tutorial-of-powerdirector-2024/"><u>[New] Mastering Directing A Complete Review & Tutorial of PowerDirector 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-the-art-of-saturation-and-contrast-in-gopro-editing/"><u>[New] The Art of Saturation and Contrast in GoPro Editing</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-expert-strategies-for-efficient-whatsapp-use-for-2024/"><u>[Updated] Expert Strategies for Efficient WhatsApp Use for 2024</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-in-2024-steps-for-a-smooth-departure-in-online-gatherings/"><u>[Updated] In 2024, Steps for a Smooth Departure in Online Gatherings</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-pioneering-tools-top-5-cloud-based-videography-platforms-for-2024/"><u>[Updated] Pioneering Tools Top 5 Cloud-Based Videography Platforms for 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/2024-approved-unlock-fb-lite-content-discover-the-best-video-downloader-apps/"><u>2024 Approved Unlock FB Lite Content Discover the Best Video Downloader Apps</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/adding-melodies-to-timelines-a-stepwise-guide-iosandroid-for-2024/"><u>Adding Melodies to Timelines A Stepwise Guide (iOS/Android) for 2024</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-can-we-unlock-our-vivo-y36-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Vivo Y36 Phone Screen?</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/in-2024-year-end-visualizations-mind-bending-youtube-figures-and-trends/"><u>In 2024, Year-End Visualizations Mind Bending Youtube Figures and Trends</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/the-complete-guide-to-digital-artistry-with-polarr-photo-tools-for-2024/"><u>The Complete Guide to Digital Artistry with Polarr Photo Tools for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-a-social-storytellers-playbook-maximizing-video-impact-on-fb/"><u>[New] 2024 Approved A Social Storyteller’s Playbook Maximizing Video Impact on FB</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-facebooks-viral-video-hits-compilation/"><u>[New] Facebook's Viral Video Hits Compilation</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-reducing-noise-amplitude-gently-using-lumafusion/"><u>[New] In 2024, Reducing Noise Amplitude Gently Using Lumafusion</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-revenue-revolution-how-to-design-effective-animated-fb-ads/"><u>[New] In 2024, Revenue Revolution How to Design Effective Animated FB Ads</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-visualfixpro-review-thorough-examination-of-androvid-editor/"><u>[New] In 2024, VisualFixPro Review – Thorough Examination of AndroVid Editor</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-social-media-smarter-elevating-your-fb-page-ranking/"><u>[Updated] 2024 Approved Social Media Smarter Elevating Your FB Page Ranking</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-crafting-a-memorable-channel-presence-with-imagery/"><u>[Updated] Crafting a Memorable Channel Presence with Imagery</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-renewed-list-of-questions-to-inspire-podcast-attendees/"><u>[Updated] In 2024, Renewed List of Questions to Inspire Podcast Attendees</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-unlock-follower-growth-secrets-on-facebook-in-10-simple-ways/"><u>[Updated] In 2024, Unlock Follower Growth Secrets on Facebook in 10 Simple Ways</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-keep-your-identity-under-wraps-while-livestreaming/"><u>[Updated] Keep Your Identity Under Wraps While Livestreaming</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-step-by-step-guide-for-pcmac-movie-recording-for-2024/"><u>[Updated] Step-by-Step Guide for PC/Mac Movie Recording for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-upgrade-your-facebook-experience-with-the-best-5-extensions/"><u>[Updated] Upgrade Your Facebook Experience with the Best 5 Extensions</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-popular-10-music-videos-trending-on-facebook/"><u>2024 Approved Popular 10 Music Videos Trending on Facebook</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/advanced-techniques-in-sql-command-swap-windows-streamlining-database-operations/"><u>Advanced Techniques in SQL Command Swap Windows: Streamlining Database Operations</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-xiaomi-redmi-note-12-5g-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Xiaomi Redmi Note 12 5G | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-masterful-post-placement-to-surge-video-views/"><u>In 2024, Masterful Post Placement to Surge Video Views</u></a></li>
+<li><a href="https://some-skills.techidaily.com/ultimate-vr-clarity-achieved-for-2024/"><u>Ultimate VR Clarity Achieved for 2024</u></a></li>
 </ul></div>
 
