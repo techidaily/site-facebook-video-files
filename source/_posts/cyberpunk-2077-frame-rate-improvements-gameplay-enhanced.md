@@ -1,7 +1,7 @@
 ---
 title: Cyberpunk 2077 Frame Rate Improvements - Gameplay Enhanced
-date: 2024-10-08T16:09:35.536Z
-updated: 2024-10-12T18:06:19.138Z
+date: 2024-10-12T16:15:24.460Z
+updated: 2024-10-18T17:19:49.336Z
 tags:
   - win11
   - win10
@@ -26,6 +26,19 @@ Don’t worry, here’re fixes may help you solve the issue.
 1. [Change the in-game settings](https://tools.techidaily.com/drivereasy/download/)
 2. [Change the mouse setting](https://tools.techidaily.com/drivereasy/download/)
 3. [Update the device driver](https://tools.techidaily.com/drivereasy/download/)
+
+<!-- affiliate ads begin -->
+<span id="1983573">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 1: Change the in-game settings
 
@@ -54,10 +67,10 @@ If you’re not using the controller, check the below settings.
 4. If you need to lower your graphic resolution, move to the**GRAPHICS** tab.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Scroll down to find the**Resolution Scaling** section.
@@ -68,6 +81,13 @@ If you’re not using the controller, check the below settings.
 
 If this fix doesn’t work, move to the next one.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2: Change the mouse setting
 
  If you’re suffering mouse lagging, and the first fix not work, you can try to change mouse settings.
@@ -77,34 +97,27 @@ If this fix doesn’t work, move to the next one.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-15_16-46-09.jpg)
 3. Go to the**Mouse** tab, click**Additional mouse options** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-15_16-00-50.jpg)
 4. Make sure you uncheck the**Enhance pointer precision** . Click**Apply > OK** .  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-15_16-01-18.jpg)
 5. Launch the game and check.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 If it doesn’t work, move to the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Update the device driver
 
@@ -137,13 +150,6 @@ OR
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you need assistance, please contact **Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
 ---
@@ -167,18 +173,22 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-varieties-of-fb-video-screens/"><u>[New] 2024 Approved Varieties of FB Video Screens</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-introducing-top-tier-facebook-update-insights/"><u>[New] In 2024, Introducing Top-Tier Facebook Update Insights</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-virtual-presentations-expert-screen-share-tips-for-social-media/"><u>[New] Virtual Presentations Expert Screen-Share Tips for Social Media</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-maximizing-reach-tweeting-on-facebook-for-2024/"><u>[Updated] Maximizing Reach Tweeting on Facebook for 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-prime-converter-kit-go-from-fb-to-high-fidelity-mp4/"><u>[Updated] Prime Converter Kit Go From FB to High-Fidelity MP4</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/2024-approved-preparing-for-facebooks-updated-marketing-strategy/"><u>2024 Approved Preparing for Facebook’s Updated Marketing Strategy</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/2024-approved-streaming-fb-video-content-on-television-devices/"><u>2024 Approved Streaming FB Video Content On Television Devices</u></a></li>
-<li><a href="https://meme-emoji.techidaily.com/how-to-make-a-wonderful-video-slideshow-with-your-travel-photos/"><u>How to Make a Wonderful Video Slideshow with Your Travel Photos</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-solve-qbittorrent-hang-ups-and-resume-downloading-effortlessly/"><u>How To Solve qBittorrent Hang-Ups and Resume Downloading Effortlessly</u></a></li>
-<li><a href="https://techidaily.com/how-to-update-or-downgrade-apple-iphone-7-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade Apple iPhone 7 Without Data Loss? | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-navigating-spotifys-ad-marketplace-successfully/"><u>In 2024, Navigating Spotify's Ad Marketplace Successfully</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-2024-whatsapps-sonic-status-boost/"><u>In 2024, WhatsApp's Sonic Status Boost</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/trasforma-i-tuoi-file-webm-in-formato-vob-gratuito-online-tramite-movavi-facile-come-piegare-un-tovagliolo/"><u>Trasforma I Tuoi File WebM in Formato VOB Gratuito Online Tramite Movavi - Facile Come Piegare Un Tovagliolo!</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-live-webcam-streaming-made-easy-top-18-software-highlights/"><u>[New] Live Webcam Streaming Made Easy Top 18 Software Highlights</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-playtime-registration-and-logout-tutorials/"><u>[Updated] 2024 Approved Playtime Registration & Logout Tutorials</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-premier-toolkit-7-stealth-film-apps/"><u>[Updated] 2024 Approved Premier Toolkit 7 Stealth Film Apps</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-evaluating-seconds-in-a-20mb-video-file/"><u>[Updated] Evaluating Seconds in a 20Mb Video File</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-bring-your-gopro-adventures-online-facebookperiscope-livestream-setup/"><u>[Updated] In 2024, Bring Your Gopro Adventures Online Facebook/Periscope Livestream Setup</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-cross-platform-content-transfer-youtube-meets-facebook/"><u>[Updated] In 2024, Cross-Platform Content Transfer YouTube Meets Facebook</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-masterclass-picks-professional-webcam-stands/"><u>[Updated] Masterclass Picks Professional Webcam Stands</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-six-easy-steps-to-acquire-fb-links-for-free/"><u>[Updated] Six Easy Steps to Acquire FB Links for FREE</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-exploring-entertainment-youtubes-integration-with-fb/"><u>2024 Approved Exploring Entertainment YouTube's Integration with FB</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-streamline-your-views-the-ultimate-8-fb-movie-download-guide/"><u>2024 Approved Streamline Your Views The Ultimate #8 FB Movie Download Guide</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-tackling-disruptions-in-video-transmissions-for-messenger-users-iosandroid/"><u>2024 Approved Tackling Disruptions in Video Transmissions for Messenger Users iOS/Android</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-visual-impact-seamlessly-add-photos-to-your-instagram-account/"><u>2024 Approved Visual Impact Seamlessly Add Photos to Your Instagram Account</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/6-ways-to-survive-and-thrive-in-the-ai-dominated-workplace/"><u>6 Ways to Survive and Thrive in the AI-Dominated Workplace</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722156607926-experience-the-ultimate-free-guide-to-mastering-gpt-4-with-copilot-assistance/"><u>Experience the Ultimate Free Guide to Mastering GPT-4 with Copilot Assistance.</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/swift-mp4-download-from-facebooks-top-videos-for-2024/"><u>Swift MP4 Download From Facebook’s Top Videos for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-8-iphone-tools-enhancing-usability-for-the-visually-impaired/"><u>Top 8 iPhone Tools Enhancing Usability for the Visually Impaired</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/umwandlung-von-dvds-zu-digitalen-videoversionen-unter-windows-11-und-macos/"><u>Umwandlung Von DVDs Zu Digitalen Videoversionen Unter Windows 11 Und macOS</u></a></li>
 </ul></div>
 
