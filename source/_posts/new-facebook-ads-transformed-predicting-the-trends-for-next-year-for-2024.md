@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Facebook Ads Transformed  Predicting the Trends for Next Year for 2024\""
-date: 2024-10-17T18:03:39.731Z
-updated: 2024-10-18T20:01:26.731Z
+date: 2024-10-21T08:41:33.717Z
+updated: 2024-10-24T02:15:56.345Z
 tags:
   - ai video
   - ai facebook
@@ -51,13 +51,6 @@ While there are regulations around this type of partnership. You must be willing
 
 ![use facebook brand collab manager](https://images.wondershare.com/filmora/article-images/2021/facebook-ads-trends-3.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Facebook makes this possible through the use of Brand Collabs Manager. This tool is available on Facebook to help you manage the project with your partner influencers. It can help you find the right creator to collaborate with for your proposals. It also has helpful advice on conveying your partnerships per legal requirements.
 
 Go to Creator Studio and look for your monetization page. You can find the Brand Collab Manager under this panel. The Brand Collab Manager lets you share video analytics from your collaborations. You can also tap into a pool of influencers who work with similar interests. You can also approve partners. It helps you share projects outlines without the hassle of having to follow up for reports.
@@ -84,26 +77,13 @@ Short-form video content is taking over the platform. They typically last betwee
 
 ![short form content on multiple platforms](https://images.wondershare.com/filmora/article-images/2021/facebook-ads-trends-6.png)
 
-<!-- affiliate ads begin -->
-<span id="1444782">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 This can be a refreshing new way for users to find content creators. This can also help businesses build meaningful engagement with their audience. This is the predictable outcome of the popularity of TikTok. Facebook and Instagram have Reels. YouTube has come out with YouTube Shorts to enhance its attractiveness.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
-  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Chatbots
@@ -195,10 +175,10 @@ Short-form video content is taking over the platform. They typically last betwee
 ![short form content on multiple platforms](https://images.wondershare.com/filmora/article-images/2021/facebook-ads-trends-6.png)
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 This can be a refreshing new way for users to find content creators. This can also help businesses build meaningful engagement with their audience. This is the predictable outcome of the popularity of TikTok. Facebook and Instagram have Reels. YouTube has come out with YouTube Shorts to enhance its attractiveness.
@@ -208,13 +188,6 @@ This can be a refreshing new way for users to find content creators. This can al
 A [Kolsky study](https://www.huffingtonpost.com/vala-afshar/50-important-customer-exp%5Fb%5F8295772.html) finds that attracting a new customer is 6-7 times more expensive than retaining a current one. The key to great customer service is promptness and knowledgeability. This is where chatbots come in handy. You can get more bang for your buck with a chatbot. If you have a customer service team, then you can use chatbots to filter out basic, tedious, and repetitive questions. Additionally, the chatbot can make the customers' experience feel personalized. The customer service reps can then handle difficult or technical queries.
 
 ![use facebook chat plugin](https://images.wondershare.com/filmora/article-images/2021/facebook-ads-trends-7.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 It's most likely to emerge as part of Facebook trending ideas for 2024\. You can easily add a chatbot to your Facebook Inbox. Open Business Manager on Facebook, look for the Chat Plug-in tab. This will let you set up a chatbot in your Facebook Messenger. You can use a chatbot on your website. To do this, enter your business website URL in the Chat Plugin tab.
 
@@ -228,11 +201,25 @@ This is one of the hottest Facebook ads trends 2024\. Augmented Reality (AR) has
 
 This gives consumers the convenience of experiencing products before purchase. The experience can increase sales, drive leads and improve brand awareness. You can run AR ads on desktop and mobile devices. Mobile device users can be more successful recipients.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Facebook Stories
 
 Facebook has Stories taking over the news feed function. Users are more willing to share their two cents over Facebook stories than other mediums. It allows users to engage with their audience in real-time. The current Facebook ad trends include using Stories and Reels as valuable adspace.
 
 ![use facebook story for ads](https://images.wondershare.com/filmora/article-images/2021/facebook-ads-trends-9.png)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Facebook Stories and Reels allow users to improve engagement and create an authentic impression with the audience. It's now possible to schedule your Stories in advance. This is possible through the Facebook Business Suite app. The app lets you create and schedule Stories. To create a new story, you can tap on a blue 'Plus' icon. You can choose to upload pre-recorded stories through the pop-up menu or gallery. You can add value by incorporating text, interactive stickers, or graphics. You can also include links to products or your website to the stories.
 
@@ -251,6 +238,13 @@ If your approach is to experiment with Facebook ad trends in 2024, you have many
 Do you want to know the latest Facebook ads trends to optimize your Facebook video ads? If you want to boost your future video ad campaigns, you need to lean into these trends for 2024\. You can boost your sales and improve customer engagement and reach with these trends.
 
 Trying to incorporate trends can help you do better on Facebook's algorithm. It will get you attention from the audience. Each of these Facebook ads trends 2024 has the potential to go viral. This can be life-changing for smaller businesses, brands, and influencers. Let's look at these can't miss 2024 Facebook ads trends.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Facebook Live
 
@@ -306,6 +300,13 @@ A [Kolsky study](https://www.huffingtonpost.com/vala-afshar/50-important-custome
 
 ![use facebook chat plugin](https://images.wondershare.com/filmora/article-images/2021/facebook-ads-trends-7.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 It's most likely to emerge as part of Facebook trending ideas for 2024\. You can easily add a chatbot to your Facebook Inbox. Open Business Manager on Facebook, look for the Chat Plug-in tab. This will let you set up a chatbot in your Facebook Messenger. You can use a chatbot on your website. To do this, enter your business website URL in the Chat Plugin tab.
 
 You can use customized responses triggered by a keyword. You can also rely on an FAQ to respond. Choose ' Publish ' to save your choices once you've managed the settings according to your preference.
@@ -318,18 +319,18 @@ This is one of the hottest Facebook ads trends 2024\. Augmented Reality (AR) has
 
 This gives consumers the convenience of experiencing products before purchase. The experience can increase sales, drive leads and improve brand awareness. You can run AR ads on desktop and mobile devices. Mobile device users can be more successful recipients.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Facebook Stories
 
 Facebook has Stories taking over the news feed function. Users are more willing to share their two cents over Facebook stories than other mediums. It allows users to engage with their audience in real-time. The current Facebook ad trends include using Stories and Reels as valuable adspace.
 
 ![use facebook story for ads](https://images.wondershare.com/filmora/article-images/2021/facebook-ads-trends-9.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Facebook Stories and Reels allow users to improve engagement and create an authentic impression with the audience. It's now possible to schedule your Stories in advance. This is possible through the Facebook Business Suite app. The app lets you create and schedule Stories. To create a new story, you can tap on a blue 'Plus' icon. You can choose to upload pre-recorded stories through the pop-up menu or gallery. You can add value by incorporating text, interactive stickers, or graphics. You can also include links to products or your website to the stories.
 
@@ -369,19 +370,6 @@ While there are regulations around this type of partnership. You must be willing
 
 ![use facebook brand collab manager](https://images.wondershare.com/filmora/article-images/2021/facebook-ads-trends-3.png)
 
-<!-- affiliate ads begin -->
-<span id="1975636">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Facebook makes this possible through the use of Brand Collabs Manager. This tool is available on Facebook to help you manage the project with your partner influencers. It can help you find the right creator to collaborate with for your proposals. It also has helpful advice on conveying your partnerships per legal requirements.
 
 Go to Creator Studio and look for your monetization page. You can find the Brand Collab Manager under this panel. The Brand Collab Manager lets you share video analytics from your collaborations. You can also tap into a pool of influencers who work with similar interests. You can also approve partners. It helps you share projects outlines without the hassle of having to follow up for reports.
@@ -396,18 +384,18 @@ The keyword used will trigger the custom response you give. You can also include
 
 ![use personalized messages on automated response](https://images.wondershare.com/filmora/article-images/2021/facebook-ads-trends-5.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Play with Ad Copy Lengths
 
 The idea that one perfect length will appeal to marketers is a myth. The ideal length works in a range. This should indicate that there is no such thing. You should experiment with the length of your ad copy. While Facebook has guidelines for its ad copies, they are not a hard and fast rule.
 
 What works best for your ad copy varies. It depends entirely on your industry, the type of ad you have in place, and the language of the ad copy. You can increase the length of your ad copy to see how customers respond. You can shorten your ad copy to see the response. It would work best if you had a control post in place. This means you create a post with your normal ad copy length. You can use the metrics to see which one wins out. Sometimes, shorter copies are preferred by the customer. You can come across other data points to help you create a better video ad and ad copy.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Engage with Short-Form Videos
 
@@ -474,17 +462,24 @@ If your approach is to experiment with Facebook ad trends in 2024, you have many
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-best-15-action-cam-footage-editors/"><u>[New] Best 15 Action Cam Footage Editors</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-exclusive-list-of-affordable-video-conferencing-apps-a-business-and-education-edition/"><u>[New] In 2024, Exclusive List of Affordable Video Conferencing Apps A Business & Education Edition</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-prime-screen-capture-tools-no-lag-just-clarity-for-2024/"><u>[New] Prime Screen Capture Tools - No Lag, Just Clarity for 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-cryptic-conundrums-bidding-on-the-invisible-artifacts-of-2023/"><u>[Updated] 2024 Approved Cryptic Conundrums Bidding on the Invisible Artifacts of 2023</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/2024-approved-navigating-the-art-of-facebook-video-distribution/"><u>2024 Approved Navigating the Art of Facebook Video Distribution</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/are-you-secure-with-obs-comprehensive-safety-tips-for-streaming-and-screen-capturing/"><u>Are You Secure with OBS?: Comprehensive Safety Tips for Streaming & Screen Capturing</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/dissecting-the-conceptual-equivalence-between-the-internet-and-an-inclusive-non-commercialized-library-system/"><u>Dissecting the Conceptual Equivalence Between the Internet and an Inclusive, Non-Commercialized Library System</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-tecno-phantom-v-fold-drfone-by-drfone-virtual-android/"><u>How to use Snapchat Location Spoofer to Protect Your Privacy On Tecno Phantom V Fold? | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-nokia-g22-drfone-by-drfone-virtual-android/"><u>Methods to Change GPS Location On Nokia G22 | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/televising-streamed-social-media-vids-in-households-for-2024/"><u>Televising Streamed Social Media Vids in Households for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/unleash-administrative-potential-with-advanced-task-management-in-win11/"><u>Unleash Administrative Potential with Advanced Task Management in Win11</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/videography-on-fb-horizontal-or-vertical-placement/"><u>Videography on FB Horizontal or Vertical Placement?</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-effective-social-crossposting-from-twitch-to-fb/"><u>[New] 2024 Approved Effective Social Crossposting From Twitch to FB</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-adding-captions-to-videos-using-microsoft-photos-windows-11/"><u>[New] Adding Captions to Videos Using Microsoft Photos (Windows 11)</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-broadcasting-with-gopro-tips-for-facebookperiscope-integration/"><u>[New] In 2024, Broadcasting with GoPro Tips for Facebook/Periscope Integration</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-instagrams-power-in-motion-crafting-a-comprehensive-video-plan/"><u>[New] In 2024, Instagram's Power in Motion Crafting a Comprehensive Video Plan</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-the-path-to-digital-riches-on-facebook/"><u>[New] In 2024, The Path to Digital Riches on Facebook</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/egitimate-protocols-for-achieving-over-a-million-viewership/"><u>[New] Legitimate Protocols for Achieving Over a Million Viewership</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-building-a-competitive-advantage-through-in-depth-industry-analysis/"><u>[Updated] 2024 Approved Building a Competitive Advantage Through In-Depth Industry Analysis</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-harness-free-fb-link-downloaders/"><u>[Updated] 2024 Approved Harness Free FB Link Downloaders</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-unlocking-smooth-streams-facebooks-buffering-breakthrough/"><u>[Updated] 2024 Approved Unlocking Smooth Streams - Facebook's Buffering Breakthrough</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-fbstream-viewer-extractor/"><u>[Updated] In 2024, FbStream Viewer Extractor</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-mastering-advertising-for-profit-the-ultimate-vimeo-guidebook/"><u>[Updated] Mastering Advertising for Profit The Ultimate Vimeo Guidebook</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-seamless-fb-video-to-mp3-audio-conversion-techniques/"><u>[Updated] Seamless FB Video to MP3 Audio Conversion Techniques</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-explore-the-ultimate-list-of-free-youtube-channel-starters/"><u>2024 Approved Explore the Ultimate List of Free YouTube Channel Starters</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-motorola-moto-g04-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Motorola Moto G04 | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/comprehensive-solution-for-asus-pce-ac56-driver-troubleshooting-on-win-10-8-and-7-systems/"><u>Comprehensive Solution for ASUS PCE-AC56 Driver Troubleshooting on Win 10, 8 & 7 Systems</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-honor-magic-6-lite-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Honor Magic 6 Lite Quickly | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/future-proof-your-facebook-strategy-with-2024s-top-trends/"><u>Future-Proof Your Facebook Strategy with 2024'S Top Trends</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-pioneering-posts-a-facebook-guide-to-going-viral/"><u>In 2024, Pioneering Posts A Facebook Guide to Going Viral</u></a></li>
+<li><a href="https://article-files.techidaily.com/navigating-and-exploring-every-aspect-of-macs-preview-app-for-2024/"><u>Navigating and Exploring Every Aspect of Mac's Preview App for 2024</u></a></li>
 </ul></div>
 

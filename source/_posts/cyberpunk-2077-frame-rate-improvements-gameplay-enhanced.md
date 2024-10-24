@@ -1,7 +1,7 @@
 ---
 title: Cyberpunk 2077 Frame Rate Improvements - Gameplay Enhanced
-date: 2024-10-12T16:15:24.460Z
-updated: 2024-10-18T17:19:49.336Z
+date: 2024-10-22T16:32:54.545Z
+updated: 2024-10-23T19:43:19.740Z
 tags:
   - win11
   - win10
@@ -28,16 +28,10 @@ Don’t worry, here’re fixes may help you solve the issue.
 3. [Update the device driver](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1: Change the in-game settings
@@ -67,26 +61,26 @@ If you’re not using the controller, check the below settings.
 4. If you need to lower your graphic resolution, move to the**GRAPHICS** tab.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Scroll down to find the**Resolution Scaling** section.
 6. Set the**Static FidelityFX CAS** to**ON** and lower the Resolution Scaling.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-15_15-59-50.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Some users have reported that by disabling all the aim assist options in settings, the issue has been improved a lot.
 
 If this fix doesn’t work, move to the next one.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Change the mouse setting
 
@@ -100,24 +94,24 @@ If this fix doesn’t work, move to the next one.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-15_16-00-50.jpg)
 4. Make sure you uncheck the**Enhance pointer precision** . Click**Apply > OK** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-15_16-01-18.jpg)
 5. Launch the game and check.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 If it doesn’t work, move to the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Update the device driver
 
@@ -173,22 +167,18 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-live-webcam-streaming-made-easy-top-18-software-highlights/"><u>[New] Live Webcam Streaming Made Easy Top 18 Software Highlights</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-playtime-registration-and-logout-tutorials/"><u>[Updated] 2024 Approved Playtime Registration & Logout Tutorials</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-premier-toolkit-7-stealth-film-apps/"><u>[Updated] 2024 Approved Premier Toolkit 7 Stealth Film Apps</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-evaluating-seconds-in-a-20mb-video-file/"><u>[Updated] Evaluating Seconds in a 20Mb Video File</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-bring-your-gopro-adventures-online-facebookperiscope-livestream-setup/"><u>[Updated] In 2024, Bring Your Gopro Adventures Online Facebook/Periscope Livestream Setup</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-cross-platform-content-transfer-youtube-meets-facebook/"><u>[Updated] In 2024, Cross-Platform Content Transfer YouTube Meets Facebook</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-masterclass-picks-professional-webcam-stands/"><u>[Updated] Masterclass Picks Professional Webcam Stands</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-six-easy-steps-to-acquire-fb-links-for-free/"><u>[Updated] Six Easy Steps to Acquire FB Links for FREE</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/2024-approved-exploring-entertainment-youtubes-integration-with-fb/"><u>2024 Approved Exploring Entertainment YouTube's Integration with FB</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/2024-approved-streamline-your-views-the-ultimate-8-fb-movie-download-guide/"><u>2024 Approved Streamline Your Views The Ultimate #8 FB Movie Download Guide</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/2024-approved-tackling-disruptions-in-video-transmissions-for-messenger-users-iosandroid/"><u>2024 Approved Tackling Disruptions in Video Transmissions for Messenger Users iOS/Android</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-visual-impact-seamlessly-add-photos-to-your-instagram-account/"><u>2024 Approved Visual Impact Seamlessly Add Photos to Your Instagram Account</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/6-ways-to-survive-and-thrive-in-the-ai-dominated-workplace/"><u>6 Ways to Survive and Thrive in the AI-Dominated Workplace</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1722156607926-experience-the-ultimate-free-guide-to-mastering-gpt-4-with-copilot-assistance/"><u>Experience the Ultimate Free Guide to Mastering GPT-4 with Copilot Assistance.</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/swift-mp4-download-from-facebooks-top-videos-for-2024/"><u>Swift MP4 Download From Facebook’s Top Videos for 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/top-8-iphone-tools-enhancing-usability-for-the-visually-impaired/"><u>Top 8 iPhone Tools Enhancing Usability for the Visually Impaired</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/umwandlung-von-dvds-zu-digitalen-videoversionen-unter-windows-11-und-macos/"><u>Umwandlung Von DVDs Zu Digitalen Videoversionen Unter Windows 11 Und macOS</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-11-tips-for-facebook-video-marketing-to-drive-more-traffic-for-2024/"><u>[New] 11 Tips for Facebook Video Marketing to Drive More Traffic for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-easy-extraction-top-10-youtube-text-grabber-apps-reviewed/"><u>[New] 2024 Approved Easy Extraction Top 10 YouTube Text Grabber Apps Reviewed</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-addressing-low-resolution-facebook-media-downloads-for-2024/"><u>[New] Addressing Low-Resolution Facebook Media Downloads for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-capture-time-bending-reels-with-slow-motion-hacks-on-ig/"><u>[New] In 2024, Capture Time-Bending Reels with Slow Motion Hacks on IG</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-avatar-asymmetry-artistry-sketching-distorted-images/"><u>[Updated] 2024 Approved Avatar Asymmetry Artistry Sketching Distorted Images</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-social-media-connectivity-embedding-live-streams-from-twitch-to-fb/"><u>[Updated] In 2024, Social Media Connectivity Embedding Live Streams From Twitch to FB</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-jump-to-youtube-affiliate-ranking-with-a-swift-10000-views/"><u>[Updated] Jump to YouTube Affiliate Ranking with a Swift 10,000 Views</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-unveil-the-secrets-of-successful-fb-strategies-in-these-top-15-insight-tools-for-2024/"><u>[Updated] Unveil the Secrets of Successful FB Strategies in These Top 15 Insight Tools for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-from-shoots-to-screens-dslr-setup-for-youtubefacebook-live/"><u>2024 Approved From Shoots to Screens DSLR Setup for YouTube/Facebook Live</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/enhancing-video-visibility-on-youtube-with-imaginative-thumbnails-for-2024/"><u>Enhancing Video Visibility on YouTube with Imaginative Thumbnails for 2024</u></a></li>
+<li><a href="https://discover-advanced.techidaily.com/free-guide-how-to-download-videos-from-flickr-without-hacking/"><u>FREE GUIDE: How to Download Videos From Flickr without Hacking</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-a-previously-synced-google-account-from-your-samsung-galaxy-m54-5g-by-drfone-android/"><u>In 2024, How to Remove a Previously Synced Google Account from Your Samsung Galaxy M54 5G</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/mastering-sound-communication-on-whatsapp-for-2024/"><u>Mastering Sound Communication on WhatsApp for 2024</u></a></li>
 </ul></div>
 
