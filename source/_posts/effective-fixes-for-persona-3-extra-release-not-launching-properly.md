@@ -1,7 +1,7 @@
 ---
 title: Effective Fixes for Persona 3 Extra Release Not Launching Properly
-date: 2024-10-20T22:32:50.955Z
-updated: 2024-10-23T20:01:25.584Z
+date: 2024-10-25T03:33:32.801Z
+updated: 2024-10-29T19:12:37.427Z
 tags:
   - win11
   - win10
@@ -28,6 +28,13 @@ thumbnail: https://thmb.techidaily.com/e46847f4d730c4e71d01b69ffbbf4867ec3238091
 * [Fix 5: Enable low spec mode](https://tools.techidaily.com/drivereasy/download/)
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 1: Make sure your PC meets meets the system requirements for League of Legends
 
@@ -89,10 +96,16 @@ thumbnail: https://thmb.techidaily.com/e46847f4d730c4e71d01b69ffbbf4867ec3238091
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-84.png)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
-  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
+<span id="701707">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
@@ -108,16 +121,10 @@ thumbnail: https://thmb.techidaily.com/e46847f4d730c4e71d01b69ffbbf4867ec3238091
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-62-1024x796.png)
 
 <!-- affiliate ads begin -->
-<span id="1982499">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Click**Download** if Windows detects any new updates. If not, then click**Check for updates** .
@@ -141,33 +148,19 @@ thumbnail: https://thmb.techidaily.com/e46847f4d730c4e71d01b69ffbbf4867ec3238091
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap777.png)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click**Initiate Full Repair** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap779-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) Click**Yes** to continue. This may take a while.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap780.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Run the game to see if you can play it without crashes. If not, try the next fix, below.
 
@@ -182,6 +175,13 @@ thumbnail: https://thmb.techidaily.com/e46847f4d730c4e71d01b69ffbbf4867ec3238091
 2) In the upper-right corner, click**the gear button**  to open the game settings.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap777.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3)**Check the box** next to **Enable Low Spec Mode** and click **DONE** .
 
@@ -209,22 +209,24 @@ Run League of Legends to see if you resolved this issue.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-conveniently-capture-top-chrome-utilities-for-fb-video-downloads/"><u>[New] In 2024, Conveniently Capture Top Chrome Utilities for FB Video Downloads</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-quick-start-making-professional-gifs/"><u>[New] In 2024, Quick Start Making Professional GIFs</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-solve-facebook-messenger-not-sending-videos-on-iphone-and-android/"><u>[New] In 2024, Solve “Facebook Messenger Not Sending Videos” On iPhone and Android</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-a-novices-pathway-to-writing-youtube-video-plans/"><u>[Updated] 2024 Approved A Novice's Pathway to Writing YouTube Video Plans</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-elite-mp4-streamer-system-for-fb/"><u>[Updated] 2024 Approved Elite MP4 Streamer System for FB</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-techniques-for-transforming-facespace-lives-into-tv-content/"><u>[Updated] 2024 Approved Techniques for Transforming Facespace Lives Into TV Content</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-discover-the-lesser-known-page-picks-for-memelings/"><u>[Updated] Discover the Lesser-Known Page Picks for Memelings</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-leverage-the-power-of-live-streaming-strategies-for-facebook-dominance-for-2024/"><u>[Updated] Leverage the Power of Live Streaming Strategies for Facebook Dominance for 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/2024-approved-engaging-audiences-with-wirecast-hosted-facebook-streams/"><u>2024 Approved Engaging Audiences with Wirecast-Hosted Facebook Streams</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/2024-approved-how-to-speed-up-vimeo-videos/"><u>2024 Approved How to Speed Up Vimeo Videos</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/beyond-brand-loyalty-understanding-apples-latest-intelligence-with-iphone-16-a-critical-review/"><u>Beyond Brand Loyalty: Understanding Apple's Latest Intelligence with iPhone 16 - A Critical Review</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-latest-firmware-for-hp-laserjet-p1007-compatible-printer-drivers/"><u>Download Latest Firmware for HP LaserJet P1007 - Compatible Printer Drivers</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/elite-mp4-media-sender/"><u>Elite MP4 Media Sender</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-vivo-t2-pro-5g-drfone-by-drfone-virtual-android/"><u>How to share/fake gps on Uber for Vivo T2 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-get-free-green-screen-effects-from-4-youtube-channels/"><u>In 2024, Get Free Green Screen Effects From 4 YouTube Channels</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-the-ultimate-guide-to-sync-obs-with-facebook/"><u>In 2024, The Ultimate Guide to Sync OBS with Facebook</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-tutorial-eliminating-error-code-0x800704cf-on-your-pc/"><u>Step-by-Step Tutorial: Eliminating Error Code 0X800704CF on Your PC</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-accessing-social-network-videos-seamlessly-on-apple-tv/"><u>[Updated] 2024 Approved Accessing Social Network Videos Seamlessly on Apple TV</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-essential-guide-to-social-media-video-ratios-on-facebook/"><u>[Updated] 2024 Approved Essential Guide to Social Media Video Ratios on Facebook</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-from-novice-to-pro-the-ultimate-instagram-story-journey/"><u>[Updated] 2024 Approved From Novice to Pro The Ultimate Instagram Story Journey</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-facebook-registration-simplified/"><u>[Updated] In 2024, Facebook Registration Simplified</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-what-if-my-videos-removed-immediately-due-to-copyright/"><u>[Updated] In 2024, What If My Videos Removed Immediately Due to Copyright?</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-the-future-of-social-media-innovating-with-facebook-reels-for-2024/"><u>[Updated] The Future of Social Media Innovating with Facebook Reels for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-unlock-fb-seo-potential-with-keyword-rich-strategies/"><u>[Updated] Unlock FB SEO Potential with Keyword-Rich Strategies</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-elevate-your-vimeo-media-with-well-defined-chapters/"><u>2024 Approved Elevate Your Vimeo Media with Well-Defined Chapters</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-perfecting-online-presence-key-to-knowing-and-using-fb-video-ratios/"><u>2024 Approved Perfecting Online Presence Key to Knowing and Using FB Video Ratios</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/beyond-sony-and-bose-uncovering-the-best-immersive-soundbar-as-featured-in-our-latest-zdnet-analysis/"><u>Beyond Sony and Bose: Uncovering the Best Immersive Soundbar as Featured in Our Latest ZDNet Analysis</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/capturing-a-full-view-iphone-filming-secrets-for-social-feeds/"><u>Capturing a Full View IPhone Filming Secrets for Social Feeds</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/essential-enhancements-for-the-success-of-apple-vision-pro-in-the-corporate-world-insights/"><u>Essential Enhancements for the Success of Apple Vision Pro in the Corporate World: Insights</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/explore-the-superiority-topmost-ai-tools-revolutionizing-your-online-searches/"><u>Explore the Superiority: Topmost AI Tools Revolutionizing Your Online Searches</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/fb-video-to-mp3-transform-your-shares-into-music-beats-for-2024/"><u>FB Video-to-MP3 Transform Your Shares Into Music Beats for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/lenovo-thinkpad-z16-gen-2-with-amd-processor-comprehensive-expert-analysis/"><u>Lenovo ThinkPad Z16 Gen 2 with AMD Processor - Comprehensive Expert Analysis</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-tecno-spark-20-proplus-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Tecno Spark 20 Pro+ – What Can I Do? | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/room-arrangement-for-immersive-vr-experience/"><u>Room Arrangement for Immersive VR Experience</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722887072088-steps-to-correct-network-access-failures-on-your-android-phone/"><u>Steps to Correct Network Access Failures on Your Android Phone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/the-ultimate-guide-to-samsung-galaxy-xcover-6-pro-tactical-edition-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>The Ultimate Guide to Samsung Galaxy XCover 6 Pro Tactical Edition Pattern Lock Screen Everything You Need to Know</u></a></li>
 </ul></div>
 
