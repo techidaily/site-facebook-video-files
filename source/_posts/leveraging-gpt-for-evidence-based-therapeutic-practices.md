@@ -1,7 +1,7 @@
 ---
 title: Leveraging GPT for Evidence-Based Therapeutic Practices
-date: 2024-10-26T22:31:48.604Z
-updated: 2024-10-30T06:09:52.310Z
+date: 2024-11-02T23:51:10.186Z
+updated: 2024-11-04T19:14:49.110Z
 tags:
   - chatgpt
   - open-ai
@@ -32,10 +32,16 @@ thumbnail: https://thmb.techidaily.com/162b2aac03e354d0551440e420920822fdecda676
  A whole new world of prompt engineering is springing into life, all dedicated to crafting and perfecting the art of AI prompting. But you can skip the tricky bits and improve your AI prompting game with these tips and tricks.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975648">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1 Be as Specific as Possible
@@ -50,13 +56,20 @@ thumbnail: https://thmb.techidaily.com/162b2aac03e354d0551440e420920822fdecda676
 
 ![A gym routine generated with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-12-59-46.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The more context you provide your AI tool, the better of a response you'll receive.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2 Ask for More Information After Getting an Initial Answer
@@ -81,22 +94,16 @@ thumbnail: https://thmb.techidaily.com/162b2aac03e354d0551440e420920822fdecda676
 
  Besides mentioning what hasn't worked for you when prompting in the past, you may also wish to outline anything that has not worked with what you're trying to do. For example, if you're putting together a new workout regimen, you may want to talk about which foods you've noticed you have a negative reaction to before.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4 Don't Make Your AI Multitask
 
 ![chatgpt logo and message on smartphone feature](https://thmb.techidaily.com/7dd47039b908f15adfac56204ff22ad7becb8a002a35f04201c966ce7066b460.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1484963">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Ascannio/[Shutterstock](https://www.shutterstock.com/image-photo/chatgpt-chat-bot-screen-seen-on-2237655785)
 
@@ -105,13 +112,6 @@ thumbnail: https://thmb.techidaily.com/162b2aac03e354d0551440e420920822fdecda676
  Sometimes, you'll begin a prompt and realize you forgot to add further information. When this happens, stop or edit the current prompt and include those details before re-generating your answer.
 
  Once you've received one prompt's results, you can move on to the next one until you're happy with everything. Doing things this way might seem more time-consuming, but[single-tasking often improves productivity](https://www.makeuseof.com/master-single-tasking-using-technology-improve-productivity/) , and it's the same for your AI, too.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5 Tell Your AI Tool What You Don't Want in Your Answer
 
@@ -123,13 +123,6 @@ thumbnail: https://thmb.techidaily.com/162b2aac03e354d0551440e420920822fdecda676
 
  Sometimes, your AI tool will give you multiple options in your answers. You can then choose whichever one works best for you.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6 Upload Images or Files (if Available)
 
  Uploading images or files will often make your AI prompts much more effective. For example, if you want to[create a one-page resume with AI](https://www.makeuseof.com/create-one-page-resume/) , it's worth uploading an existing PDF and getting feedback. You can use several plugins to get better responses, especially if you use ChatGPT. One example is[Resume by jobbright.ai](https://chat.openai.com/g/g-MrgKnTZbc-resume) .
@@ -137,6 +130,13 @@ thumbnail: https://thmb.techidaily.com/162b2aac03e354d0551440e420920822fdecda676
  If you're using AI to create art, it's also a good idea to upload images that the AI tool can use as examples. Meanwhile, if you want to[use Photo AI](https://www.makeuseof.com/what-is-photo-ai/) or similar tools for pictures of yourself, uploading selfies, headshots, and other images will help you achieve what you want.
 
 [Some AI tools can even answer questions from your PDFs](https://www.makeuseof.com/ai-tools-answer-pdf/) if you want to get more clarity.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7 Mention Where You Want to Use Your Prompt Answers
 
@@ -163,16 +163,24 @@ thumbnail: https://thmb.techidaily.com/162b2aac03e354d0551440e420920822fdecda676
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-mastering-monetization-a-beginners-guide-to-facebook-revenue/"><u>[New] 2024 Approved Mastering Monetization A Beginner’s Guide to Facebook Revenue</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/est-selection-turn-your-videos-into-text-fast-for-2024/"><u>[New] Best Selection Turn Your Videos Into Text Fast for 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-leverage-your-xbox-gameplay-for-virtual-engagement-on-fb/"><u>[New] Leverage Your Xbox Gameplay for Virtual Engagement on FB</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-enhancing-engagement-with-best-practices-for-fb-cover-vids/"><u>[Updated] 2024 Approved Enhancing Engagement with Best Practices for FB Cover Vids</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-tech-innovator-point-of-view-unveiling-the-best-fb-video-downloaders-on-android/"><u>[Updated] In 2024, Tech Innovator' Point of View Unveiling the Best FB Video Downloaders on Android</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-mastering-the-art-of-instagrams-visual-storytelling/"><u>[Updated] Mastering the Art of Instagram's Visual Storytelling</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-survival-kings-ranking-the-best-royales/"><u>[Updated] Survival Kings Ranking the Best Royales</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/visual-rhythm-optimal-dj-content-for-gatherings-for-2024/"><u>Audiovisual Rhythm Optimal DJ Content for Gatherings for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/from-source-to-system-your-auto-gpt-walkthrough/"><u>From Source to System: Your Auto-GPT Walkthrough</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-frp-on-huawei-nova-y71-by-drfone-android-unlock-remove-google-frp/"><u>How To Bypass FRP on Huawei Nova Y71</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/rethinking-recipes-squared-up-tutorials-for-youtube-and-facebook-success-for-2024/"><u>Rethinking Recipes Squared-Up Tutorials for YouTube and Facebook Success for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-broadcast-friendly-techniques-for-fb-live-events-for-2024/"><u>[New] Broadcast-Friendly Techniques for FB Live Events for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-the-complete-breakdown-of-facebooks-changes/"><u>[Updated] 2024 Approved The Complete Breakdown of Facebook's Changes</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-optimal-facebook-video-downloader-top-5-revealed/"><u>[Updated] In 2024, Optimal Facebook Video Downloader Top 5 Revealed</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-puzzling-over-why-your-facebook-feed-lacks-recommended-movies-for-2024/"><u>[Updated] Puzzling Over Why Your Facebook Feed Lacks Recommended Movies for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-social-soundtrack-top-10-music-videos-on-facebook/"><u>[Updated] Social Soundtrack Top 10 Music Videos on Facebook</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-11-secrets-to-increasing-your-facebook-video-reach/"><u>2024 Approved 11 Secrets to Increasing Your Facebook Video Reach</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-the-path-to-success-starts-on-screen-10-must-see-films/"><u>2024 Approved The Path to Success Starts on Screen 10 Must-See Films</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-unraveling-zdsofts-screen-monitor-magic/"><u>2024 Approved Unraveling ZDSoft's Screen Monitor Magic</u></a></li>
+<li><a href="https://video-capture.techidaily.com/all-about-io-screen-capture-mastery-guidebook/"><u>All About IO Screen Capture Mastery Guidebook</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/beam-your-best-achieving-hd-quality-with-fb-live-for-2024/"><u>Beam Your Best Achieving HD Quality with FB Live for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/boosting-productivity-on-facebook-using-shortcuts/"><u>Boosting Productivity on Facebook Using Shortcuts</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/illustrating-brilliance-the-most-trusted-vector-tools-reviewed/"><u>Illustrating Brilliance The Most Trusted Vector Tools Reviewed</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-vivo-v29e-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Vivo V29e | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-audio-enthusiasts-guide-to-premier-9-mic-devices/"><u>In 2024, Audio Enthusiasts Guide to Premier 9 Mic Devices</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-easy-guide-how-to-bypass-vivo-v27e-frp-android-10111213-by-drfone-android/"><u>In 2024, Easy Guide How To Bypass Vivo V27e FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-how-to-amplify-facebook-stories-with-music-elements/"><u>In 2024, How to Amplify Facebook Stories with Music Elements</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-incognito-observer-of-online-chronicles/"><u>In 2024, Incognito Observer of Online Chronicles</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723203908230-reorienting-laptop-displays-resolve-the-screen-flip-issue-today/"><u>Reorienting Laptop Displays - Resolve the Screen Flip Issue Today</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-quiet-a-step-by-step-fix-for-conexant-smartaudio-hd-sound-problems-in-windows-11/"><u>Troubleshooting Quiet: A Step-by-Step Fix for Conexant SmartAudio HD Sound Problems in Windows 11</u></a></li>
 </ul></div>
 

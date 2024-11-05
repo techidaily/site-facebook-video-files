@@ -1,7 +1,7 @@
 ---
 title: "\"[New] VidTap - ChatCam Sniper App for 2024\""
-date: 2024-10-26T05:03:28.478Z
-updated: 2024-10-30T01:50:28.564Z
+date: 2024-10-28T22:02:20.510Z
+updated: 2024-11-05T02:20:53.917Z
 tags:
   - ai video
   - ai facebook
@@ -35,13 +35,6 @@ Continuing to read below will lead you to many potential solutions that will hel
 
 There are several times when you watch a video on Facebook, or someone has sent it to you on Facebook Messenger you want to keep it with you forever on your device, or it is something you don't want to keep online for safety measures so you can download it and then delete it from Facebook Messenger.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Save Messenger Videos on Windows
 
 Follow the following steps to download videos from Facebook Messenger using a Windows computer.
@@ -91,6 +84,13 @@ Log in to your Facebook account by putting in your credentials.
 After logging in, open Facebook Messenger by clicking on the messenger icon to open your chats and then open the conversation with the video you wish to download.
 
 ![Open Messenger](https://images.wondershare.com/filmora/article-images/2021/download-videos-from-facebook-messenger-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Step 3: Save to Facebook
 
@@ -272,6 +272,13 @@ On either side of the video, depending on who sent it, you will find a few optio
 
 ![Save to Facebook](https://images.wondershare.com/filmora/article-images/2021/download-videos-from-facebook-messenger-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Step 4: Open Saved Items
 
 On the Facebook homepage or your profile, depending upon your browser, an option to view saved items will appear, selecting that will open a new tab.
@@ -284,16 +291,16 @@ After opening your saved items, you will find all collections of the items you h
 
 ![Click on the Video](https://images.wondershare.com/filmora/article-images/2021/download-videos-from-facebook-messenger-5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Step 6: Unsave Video
 
 Now you can remove the video from Saved collections by unsaving it and can also delete it from Facebook Messenger if you do not wish to keep it online.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Download Using Web Browser
 
@@ -310,6 +317,19 @@ Open and play the video you wish to download.
 Copy the video URL by right-clicking on the video screen and then select ‘Copy video URL at current time’ from the dialogue box
 
 ![Copy URL](https://images.wondershare.com/filmora/article-images/2021/download-videos-from-facebook-messenger-6.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1982462">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Step 3: Access the Mobile Version Of The Site
 
@@ -357,12 +377,193 @@ Paste or type in FBdown.net to open the website of Facebook Video Downloader.
 
 ![Open the Website](https://images.wondershare.com/filmora/article-images/2021/download-videos-from-facebook-messenger-11.jpg)
 
+### Step 3: Enter the Video URL
+
+Paste the video URL you copied and then click on "Download."
+
+![Enter the Video URL](https://images.wondershare.com/filmora/article-images/2021/download-videos-from-facebook-messenger-12.jpg)
+
+### Step 4: Choose Location
+
+As you click download, a dialogue box will open from where you can choose the file destination of your choice for the video you are about to download. You can also rename the file if you want to.
+
+![Choose Location](https://images.wondershare.com/filmora/article-images/2021/download-videos-from-facebook-messenger-13.jpg)
+
+You can also use this method to download videos directly from Facebook by pressing the share button and then copying the link from there or even by playing the video and copying the link from your browser's search bar.
+
+FBdown.net is an easy and effective method to download videos from Facebook Messenger and Facebook itself quickly.
+
+## Wondershare Filmora
+
+Wondershare Filmora is a powerful, smart, easy-to-use editing software that includes many transitions, effects, color palettes, and built-in features to enhance your editing skills and final products.
+
+You can use Wondershare Filmora to combine, edit or trim the videos you download from Facebook or Facebook Messenger. There is a trend of posting videos as jokes that the netizens call memes. These funny videos are mostly edited and joined together with some music or funny sound effects that you can easily achieve with the easy-to-use and powerful User Interface of Wondershare Filmora.
+
+## Conclusion
+
+You do not have to worry if you have a Windows PC or a Mac; you can easily download videos from Facebook Messenger one way or the other using all the tips and tricks mentioned above. It is very important to keep memories and keep them safe, sound, and close to oneself.
+
+So now you can download videos to save them offline, watch them later, edit them, create content, memes, or share them on any other platform with extreme ease using the methods explained above in detail.
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+Downloading online videos from social media platforms has always been a hassle. Still, it has now been made easier with the introduction of built-in downloaders and online messenger video downloaders. Videos sent from the sender's local storage are relatively easier to download, but a shared or streaming video from Facebook can be a hassle to save.
+
+Continuing to read below will lead you to many potential solutions that will help you download videos from Facebook Messenger and save them on your device.
+
+## Save Messenger Videos on Windows and Mac
+
+There are several times when you watch a video on Facebook, or someone has sent it to you on Facebook Messenger you want to keep it with you forever on your device, or it is something you don't want to keep online for safety measures so you can download it and then delete it from Facebook Messenger.
+
+### Save Messenger Videos on Windows
+
+Follow the following steps to download videos from Facebook Messenger using a Windows computer.
+
+**Step 1: Open Messenger**
+
+Open the Messenger Application if you have an operating system above Windows 8, or just do it from your browser.
+
+**Step 2: Log in**
+
+Log in to your Facebook account using your credentials and open the chat with the video you wish to save.
+
+**Step 3: Select the Desired Option**
+
+Right-click on the video and choose “Save to Facebook” if you want to add it to your online collection or click on Download video to save it on your Windows PC.
+
+### Save Messenger Videos on Mac
+
+Following are the steps to save Messenger Videos on a Mac. Although the steps are quite similar to those used in a Windows PC, some things may vary due to the different operating systems.
+
+**Step 1: Open Messenger**
+
+Since macOS does not support applications, you will have to use the dedicated Safari Browser or another third-party browser and open Facebook Messenger.
+
+**Step 2: Log in**
+
+Log in to your Facebook account using your credentials and open the chat that has the video you wish to save.
+
+**Step 3: Select the Desired Option**
+
+Right-click on the video and choose “Save to Facebook” if you want to add it to your online collection or click on Download video to save it on your Mac.
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+## Download Facebook Messenger Videos on Web Browser
+
+Sometimes, the in-built download option is unavailable in some updates or under some circumstances, or the video is not directly from the sender's phone. You may need some tricks on your web browser to do the job.
+
+Following are the steps to do so.
+
+### Step 1: Log in
+
+Log in to your Facebook account by putting in your credentials.
+
+![Log in to Facebook](https://images.wondershare.com/filmora/article-images/2021/download-videos-from-facebook-messenger-1.jpg)
+
+### Step 2: Open Messenger
+
+After logging in, open Facebook Messenger by clicking on the messenger icon to open your chats and then open the conversation with the video you wish to download.
+
+![Open Messenger](https://images.wondershare.com/filmora/article-images/2021/download-videos-from-facebook-messenger-2.jpg)
+
+### Step 3: Save to Facebook
+
+On either side of the video, depending on who sent it, you will find a few options, including three dots which will lead you to a prompt box. Here, you have to select 'Save to Facebook'
+
+![Save to Facebook](https://images.wondershare.com/filmora/article-images/2021/download-videos-from-facebook-messenger-3.jpg)
+
+### Step 4: Open Saved Items
+
+On the Facebook homepage or your profile, depending upon your browser, an option to view saved items will appear, selecting that will open a new tab.
+
+![Open Saved Items](https://images.wondershare.com/filmora/article-images/2021/download-videos-from-facebook-messenger-4.jpg)
+
+### Step 5: Click on the Video
+
+After opening your saved items, you will find all collections of the items you have saved along with the video you just saved. Click on that video, and it will automatically download on your computer. You can find the downloaded file in the Downloads folder of your Windows computer or Mac.
+
+![Click on the Video](https://images.wondershare.com/filmora/article-images/2021/download-videos-from-facebook-messenger-5.jpg)
+
+### Step 6: Unsave Video
+
+Now you can remove the video from Saved collections by unsaving it and can also delete it from Facebook Messenger if you do not wish to keep it online.
+
+## Download Using Web Browser
+
+This unique hack will allow you to download videos from Facebook messenger by extracting the video URL, converting it to a mobile version, and then allowing you to inspect the element and download the video to your computer.
+
+Following are the steps if you want to try this method to download videos from Facebook Messenger.
+
+### Step 1: Open the Video
+
+Open and play the video you wish to download.
+
+### Step 2: Copy URL
+
+Copy the video URL by right-clicking on the video screen and then select ‘Copy video URL at current time’ from the dialogue box
+
+![Copy URL](https://images.wondershare.com/filmora/article-images/2021/download-videos-from-facebook-messenger-6.jpg)
+
+### Step 3: Access the Mobile Version Of The Site
+
+Open a new tab in your browser and paste the URL you just copied from the video. Before hitting enter, make sure to replace the 'www.' in the URL with 'm.' This will open the mobile version of the video or website for you.
+
+![Access the Mobile Version Of The Site](https://images.wondershare.com/filmora/article-images/2021/download-videos-from-facebook-messenger-7.jpg)
+
+### Step 4: Play Video
+
+Press enter, and it will lead you to the mobile version, then play the video as it loads and buffers.
+
+![Play Video](https://images.wondershare.com/filmora/article-images/2021/download-videos-from-facebook-messenger-8.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+### Step 5: Inspect Element
+
+When the video plays on a Windows computer, Right-click and select Inspect or if you have a Mac, use the shortcut Alt Option + Cmd + J.
+
+![Inspect Element](https://images.wondershare.com/filmora/article-images/2021/download-videos-from-facebook-messenger-9.jpg)
+
+### Step 6: Locate Video URL
+
+When you click on Inspect, it will open a small window for you with many colorful links, codes, and text on the screen. Search for the video URL, ending in 'mp4', and then right-click on it to copy the link address.
+
+![Locate Video URL](https://images.wondershare.com/filmora/article-images/2021/download-videos-from-facebook-messenger-10.jpg)
+
+### Step 7: Open the Copied Link
+
+Past the link you just copied into another tab. It will open the video so let it play.
+
+### Step 8: Download the Video Directly Now
+
+As the video is playing, right-click on it and click 'Save Video As,' then enter the file name and its destination folder. It will automatically save your video in the selected folder.
+
+## Best Messenger Video Downloader: FBdown.net
+
+FBdown.net is one of the most amazing and best video downloader websites that can simplify the work of your end process in downloading the video. It will also work if the Save As option does not work or shows just the webpage HTML file.
+
+### Step 1: Repeat Steps
+
+Follow Steps 1 till 6 mentioned above to obtain the video URL.
+
+### Step 2: Open the Website
+
+Paste or type in FBdown.net to open the website of Facebook Video Downloader.
+
+![Open the Website](https://images.wondershare.com/filmora/article-images/2021/download-videos-from-facebook-messenger-11.jpg)
 
 ### Step 3: Enter the Video URL
 
@@ -482,6 +683,13 @@ This unique hack will allow you to download videos from Facebook messenger by ex
 
 Following are the steps if you want to try this method to download videos from Facebook Messenger.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Step 1: Open the Video
 
 Open and play the video you wish to download.
@@ -491,13 +699,6 @@ Open and play the video you wish to download.
 Copy the video URL by right-clicking on the video screen and then select ‘Copy video URL at current time’ from the dialogue box
 
 ![Copy URL](https://images.wondershare.com/filmora/article-images/2021/download-videos-from-facebook-messenger-6.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Step 3: Access the Mobile Version Of The Site
 
@@ -527,207 +728,12 @@ When you click on Inspect, it will open a small window for you with many colorfu
 
 Past the link you just copied into another tab. It will open the video so let it play.
 
-### Step 8: Download the Video Directly Now
-
-As the video is playing, right-click on it and click 'Save Video As,' then enter the file name and its destination folder. It will automatically save your video in the selected folder.
-
-## Best Messenger Video Downloader: FBdown.net
-
-FBdown.net is one of the most amazing and best video downloader websites that can simplify the work of your end process in downloading the video. It will also work if the Save As option does not work or shows just the webpage HTML file.
-
-### Step 1: Repeat Steps
-
-Follow Steps 1 till 6 mentioned above to obtain the video URL.
-
-### Step 2: Open the Website
-
-Paste or type in FBdown.net to open the website of Facebook Video Downloader.
-
-![Open the Website](https://images.wondershare.com/filmora/article-images/2021/download-videos-from-facebook-messenger-11.jpg)
-
-### Step 3: Enter the Video URL
-
-Paste the video URL you copied and then click on "Download."
-
-![Enter the Video URL](https://images.wondershare.com/filmora/article-images/2021/download-videos-from-facebook-messenger-12.jpg)
-
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-### Step 4: Choose Location
-
-As you click download, a dialogue box will open from where you can choose the file destination of your choice for the video you are about to download. You can also rename the file if you want to.
-
-![Choose Location](https://images.wondershare.com/filmora/article-images/2021/download-videos-from-facebook-messenger-13.jpg)
-
-You can also use this method to download videos directly from Facebook by pressing the share button and then copying the link from there or even by playing the video and copying the link from your browser's search bar.
-
-FBdown.net is an easy and effective method to download videos from Facebook Messenger and Facebook itself quickly.
-
-## Wondershare Filmora
-
-Wondershare Filmora is a powerful, smart, easy-to-use editing software that includes many transitions, effects, color palettes, and built-in features to enhance your editing skills and final products.
-
-You can use Wondershare Filmora to combine, edit or trim the videos you download from Facebook or Facebook Messenger. There is a trend of posting videos as jokes that the netizens call memes. These funny videos are mostly edited and joined together with some music or funny sound effects that you can easily achieve with the easy-to-use and powerful User Interface of Wondershare Filmora.
-
-## Conclusion
-
-You do not have to worry if you have a Windows PC or a Mac; you can easily download videos from Facebook Messenger one way or the other using all the tips and tricks mentioned above. It is very important to keep memories and keep them safe, sound, and close to oneself.
-
-So now you can download videos to save them offline, watch them later, edit them, create content, memes, or share them on any other platform with extreme ease using the methods explained above in detail.
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-Downloading online videos from social media platforms has always been a hassle. Still, it has now been made easier with the introduction of built-in downloaders and online messenger video downloaders. Videos sent from the sender's local storage are relatively easier to download, but a shared or streaming video from Facebook can be a hassle to save.
-
-Continuing to read below will lead you to many potential solutions that will help you download videos from Facebook Messenger and save them on your device.
-
-## Save Messenger Videos on Windows and Mac
-
-There are several times when you watch a video on Facebook, or someone has sent it to you on Facebook Messenger you want to keep it with you forever on your device, or it is something you don't want to keep online for safety measures so you can download it and then delete it from Facebook Messenger.
-
-### Save Messenger Videos on Windows
-
-Follow the following steps to download videos from Facebook Messenger using a Windows computer.
-
-**Step 1: Open Messenger**
-
-Open the Messenger Application if you have an operating system above Windows 8, or just do it from your browser.
-
-**Step 2: Log in**
-
-Log in to your Facebook account using your credentials and open the chat with the video you wish to save.
-
-**Step 3: Select the Desired Option**
-
-Right-click on the video and choose “Save to Facebook” if you want to add it to your online collection or click on Download video to save it on your Windows PC.
-
-### Save Messenger Videos on Mac
-
-Following are the steps to save Messenger Videos on a Mac. Although the steps are quite similar to those used in a Windows PC, some things may vary due to the different operating systems.
-
-**Step 1: Open Messenger**
-
-Since macOS does not support applications, you will have to use the dedicated Safari Browser or another third-party browser and open Facebook Messenger.
-
-**Step 2: Log in**
-
-Log in to your Facebook account using your credentials and open the chat that has the video you wish to save.
-
-**Step 3: Select the Desired Option**
-
-Right-click on the video and choose “Save to Facebook” if you want to add it to your online collection or click on Download video to save it on your Mac.
-
-## Download Facebook Messenger Videos on Web Browser
-
-Sometimes, the in-built download option is unavailable in some updates or under some circumstances, or the video is not directly from the sender's phone. You may need some tricks on your web browser to do the job.
-
-Following are the steps to do so.
-
-### Step 1: Log in
-
-Log in to your Facebook account by putting in your credentials.
-
-![Log in to Facebook](https://images.wondershare.com/filmora/article-images/2021/download-videos-from-facebook-messenger-1.jpg)
-
-### Step 2: Open Messenger
-
-After logging in, open Facebook Messenger by clicking on the messenger icon to open your chats and then open the conversation with the video you wish to download.
-
-![Open Messenger](https://images.wondershare.com/filmora/article-images/2021/download-videos-from-facebook-messenger-2.jpg)
-
-### Step 3: Save to Facebook
-
-On either side of the video, depending on who sent it, you will find a few options, including three dots which will lead you to a prompt box. Here, you have to select 'Save to Facebook'
-
-![Save to Facebook](https://images.wondershare.com/filmora/article-images/2021/download-videos-from-facebook-messenger-3.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-### Step 4: Open Saved Items
-
-On the Facebook homepage or your profile, depending upon your browser, an option to view saved items will appear, selecting that will open a new tab.
-
-![Open Saved Items](https://images.wondershare.com/filmora/article-images/2021/download-videos-from-facebook-messenger-4.jpg)
-
-### Step 5: Click on the Video
-
-After opening your saved items, you will find all collections of the items you have saved along with the video you just saved. Click on that video, and it will automatically download on your computer. You can find the downloaded file in the Downloads folder of your Windows computer or Mac.
-
-![Click on the Video](https://images.wondershare.com/filmora/article-images/2021/download-videos-from-facebook-messenger-5.jpg)
-
-### Step 6: Unsave Video
-
-Now you can remove the video from Saved collections by unsaving it and can also delete it from Facebook Messenger if you do not wish to keep it online.
-
-## Download Using Web Browser
-
-This unique hack will allow you to download videos from Facebook messenger by extracting the video URL, converting it to a mobile version, and then allowing you to inspect the element and download the video to your computer.
-
-Following are the steps if you want to try this method to download videos from Facebook Messenger.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-### Step 1: Open the Video
-
-Open and play the video you wish to download.
-
-### Step 2: Copy URL
-
-Copy the video URL by right-clicking on the video screen and then select ‘Copy video URL at current time’ from the dialogue box
-
-![Copy URL](https://images.wondershare.com/filmora/article-images/2021/download-videos-from-facebook-messenger-6.jpg)
-
-### Step 3: Access the Mobile Version Of The Site
-
-Open a new tab in your browser and paste the URL you just copied from the video. Before hitting enter, make sure to replace the 'www.' in the URL with 'm.' This will open the mobile version of the video or website for you.
-
-![Access the Mobile Version Of The Site](https://images.wondershare.com/filmora/article-images/2021/download-videos-from-facebook-messenger-7.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-### Step 4: Play Video
-
-Press enter, and it will lead you to the mobile version, then play the video as it loads and buffers.
-
-![Play Video](https://images.wondershare.com/filmora/article-images/2021/download-videos-from-facebook-messenger-8.jpg)
-
-### Step 5: Inspect Element
-
-When the video plays on a Windows computer, Right-click and select Inspect or if you have a Mac, use the shortcut Alt Option + Cmd + J.
-
-![Inspect Element](https://images.wondershare.com/filmora/article-images/2021/download-videos-from-facebook-messenger-9.jpg)
-
-### Step 6: Locate Video URL
-
-When you click on Inspect, it will open a small window for you with many colorful links, codes, and text on the screen. Search for the video URL, ending in 'mp4', and then right-click on it to copy the link address.
-
-![Locate Video URL](https://images.wondershare.com/filmora/article-images/2021/download-videos-from-facebook-messenger-10.jpg)
-
-### Step 7: Open the Copied Link
-
-Past the link you just copied into another tab. It will open the video so let it play.
 
 ### Step 8: Download the Video Directly Now
 
@@ -798,22 +804,22 @@ So now you can download videos to save them offline, watch them later, edit them
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-a-comprehensive-overview-of-multiscreen-streaming-techniques-on-social-media-platforms-like-facebook/"><u>[New] A Comprehensive Overview of Multiscreen Streaming Techniques on Social Media Platforms Like Facebook</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-instagrams-best-practices-for-influential-engagement-top-5-tips-with-examples/"><u>[New] Instagram's Best Practices for Influential Engagement Top 5 Tips with Examples</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-step-by-step-guide-to-open-and-tweak-your-srt-on-mac/"><u>[New] Step-by-Step Guide to Open and Tweak Your SRT on Mac</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-discover-easy-fb-ad-videos-free-creation-kit-available/"><u>[Updated] 2024 Approved Discover Easy FB Ad Videos – FREE Creation Kit Available</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-how-to-design-a-great-gaming-youtube-banner-with-templates/"><u>[Updated] 2024 Approved How to Design a Great Gaming YouTube Banner with Templates</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-crafting-an-engaging-online-presence-with-fb/"><u>[Updated] Crafting an Engaging Online Presence with FB</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-how-to-create-a-funny-meme-for-2024/"><u>[Updated] How To Create A Funny Meme for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-the-pioneers-guide-to-documenting-private-whatsapp-discussions-for-2024/"><u>[Updated] The Pioneer's Guide to Documenting Private WhatsApp Discussions for 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-unlocking-fb-video-content-sharing-from-windows-pc-ios-android-for-2024/"><u>[Updated] Unlocking FB Video Content Sharing From Windows PC, iOS, Android for 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-unveil-secrets-to-speedy-caption-design-in-facebook-media-for-2024/"><u>[Updated] Unveil Secrets to Speedy Caption Design in Facebook Media for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-worldwide-leaders-in-short-video-download-hubs-free/"><u>[Updated] Worldwide Leaders in Short Video Download Hubs (FREE)</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-faceless-watchers-of-fb-flashbacks/"><u>2024 Approved Faceless Watchers of Fb Flashbacks</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/2024-approved-from-facebook-to-hd-how-to-convert-videos-to-premium-mp4-format-free/"><u>2024 Approved From Facebook to HD How To Convert Videos to Premium MP4 Format (Free)</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/capture-the-airwaves-a-beginners-internet-radio-guide-for-2024/"><u>Capture the Airwaves A Beginner's Internet Radio Guide for 2024</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-infinix-smart-8-hd-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock Infinix Smart 8 HD Pattern Lock if Forgotten? 6 Ways</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/in-2024-the-essential-process-of-modifying-your-online-community-background/"><u>In 2024, The Essential Process of Modifying Your Online Community Background</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/leading-edge-facebook-film-archives-for-2024/"><u>Leading Edge Facebook Film Archives for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-how-to-create-a-facebook-account/"><u>[New] 2024 Approved How to Create a Facebook Account</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2023-how-to-download-facebook-status-videos/"><u>[Updated] 2023 | How to Download Facebook Status Videos?</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-best-practices-for-hash-tags-in-fb-marketing-campaigns/"><u>[Updated] 2024 Approved Best Practices for Hash Tags in FB Marketing Campaigns</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-flawless-playlist-integration-techniques-in-web-development/"><u>[Updated] 2024 Approved Flawless Playlist Integration Techniques in Web Development</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-leading-tech-essential-video-recorders-of-the-net/"><u>[Updated] 2024 Approved Leading Tech Essential Video Recorders of the Net</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-copyright-aware-techniques-for-reposting-imagery/"><u>[Updated] Copyright-Aware Techniques for Reposting Imagery</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-social-media-to-mp3-converter/"><u>[Updated] In 2024, Social Media to Mp3 Converter</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-mastering-the-mix-of-sound-and-slides-in-powerpoint-presentations/"><u>[Updated] Mastering the Mix of Sound and Slides in PowerPoint Presentations</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-unplugging-pauses-from-social-streams-a-2023-approach-to-fixing-livestream-issues/"><u>[Updated] Unplugging Pauses From Social Streams A 2023 Approach to Fixing Livestream Issues</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-crafting-an-irresistible-brand-image-on-your-fb-page/"><u>2024 Approved Crafting an Irresistible Brand Image on Your FB Page</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-the-ultimate-strategy-to-turn-your-fb-page-into-cash/"><u>2024 Approved The Ultimate Strategy to Turn Your FB Page Into Cash</u></a></li>
+<li><a href="https://win11.techidaily.com/exploring-the-perfection-of-surface-laptop-studio-2-creativity/"><u>Exploring the Perfection of Surface Laptop Studio 2 Creativity</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-itel-p55plus-drfone-by-drfone-virtual-android/"><u>How to Change/Add Location Filters on Snapchat For your Itel P55+ | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-secrets-unlocked-becoming-a-leader-in-online-social-media-live-events/"><u>In 2024, Secrets Unlocked Becoming a Leader in Online Social Media Live Events</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-dism-error-code-0x800f082f-on-windows-systems/"><u>Resolving DISM Error Code: 0X800F082F on Windows Systems</u></a></li>
+<li><a href="https://discover-great.techidaily.com/troubleshoot-and-overcome-bsod-issues-top-strategies-for-reviving-a-frozen-windows-7-system/"><u>Troubleshoot & Overcome BSOD Issues: Top Strategies for Reviving a Frozen Windows 7 System</u></a></li>
+<li><a href="https://driver-error.techidaily.com/wudfrd-not-functioning-device-event-id-219/"><u>WudfRd Not Functioning - Device Event ID 219</u></a></li>
 </ul></div>
 

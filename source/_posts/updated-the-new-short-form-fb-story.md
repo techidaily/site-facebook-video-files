@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] The New Short-Form FB Story\""
-date: 2024-09-16T16:27:45.161Z
-updated: 2024-09-20T16:42:40.710Z
+date: 2024-11-03T23:11:20.405Z
+updated: 2024-11-05T01:12:28.697Z
 tags:
   - ai video
   - ai facebook
@@ -41,6 +41,13 @@ Once your app is up and running, scroll down. After about 3 to 4 posts, you will
 
 ![Scroll to Short Videos](https://images.wondershare.com/filmora/article-images/2021/facebook-short-videos-and-everything-about-them-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Step 3: Tap on the Video
 
 Once you see the video, tap on it. This should play a short video. Scroll down to see more of the similar sort of short videos.
@@ -61,6 +68,13 @@ Click on the Play Store and search Facebook.
 
 ![Launch Playstore](https://images.wondershare.com/filmora/article-images/2021/facebook-short-videos-and-everything-about-them-4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 2: Update Facebook**
 
 Since it is a new feature, it is possible that your app still has not been updated to the latest version.
@@ -76,6 +90,13 @@ The next step is to go to your settings and search for Facebook in the apps.
 Tap on Facebook and view its space; tapAltAlt on clear data.
 
 ![Select Clear Data](https://images.wondershare.com/filmora/article-images/2021/facebook-short-videos-and-everything-about-them-6.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 5: Give Facebook all the Permissions**
 
@@ -96,10 +117,10 @@ Once your device has restarted, launch Facebook and log in.
 This process lets Facebook reboot and brings the newer updates through, so sit back and enjoy the short videos on Facebook.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Disabling Facebook Short Stories
@@ -117,13 +138,6 @@ The first step is simple. YouAltAlt open your Facebook app.
 Once your app has launched, scroll down to the short videos section.
 
 ![Scroll to Short Videos](https://images.wondershare.com/filmora/article-images/2021/facebook-short-videos-and-everything-about-them-9.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step 3: Tap on three dots**
 
@@ -169,24 +183,31 @@ You can record a 45-second video and add music by tapping the music icon on the 
 
 ![Figure 6 Tap on the record button](https://images.wondershare.com/filmora/article-images/2021/facebook-short-videos-and-everything-about-them-14.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 5: Edit the Video**
 
 Once you have recorded the video, you can add music later onAltAlt. You can add any text you want to the video as well.
 
 ![Edit the video](https://images.wondershare.com/filmora/article-images/2021/facebook-short-videos-and-everything-about-them-15.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 6: Tap Next**
 
 Once you have successfully edited the video to your liking, tap on next.
 
 ![Click on next](https://images.wondershare.com/filmora/article-images/2021/facebook-short-videos-and-everything-about-them-16.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 7: Post the Video**
 
@@ -211,16 +232,10 @@ Import the media files you want to add to the short video on Facebook. It can be
 ![Import Files](https://images.wondershare.com/filmora/article-images/2021/facebook-short-videos-and-everything-about-them-18.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Step 3: Drag and Drop the Footage**\>
@@ -270,10 +285,10 @@ Once the editing is finalized, as discussed above, just post the video, and it w
 You can choose either of the two methods, whichever suits you best and seems easier.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Bonus Tip: Facebook Short Video Monetization
@@ -313,5 +328,18 @@ Although the young generation has shifted to Instagram and Snapchat, the previou
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-navigating-self-viewer-phenomenon-in-facebook-live-conversations/"><u>[New] 2024 Approved Navigating Self-Viewer Phenomenon in Facebook Live Conversations</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-transforming-igtv-with-multi-language-captioning/"><u>[Updated] 2024 Approved Transforming IGTV with Multi-Language Captioning</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-premium-free-fb-photovideo-producer-package-for-2024/"><u>[Updated] Premium Free FB Photo/Video Producer Package for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-taking-your-tweets-public-on-facebook-for-2024/"><u>[Updated] Taking Your Tweets Public on Facebook for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-finest-budget-friendly-photo-processors-online/"><u>2024 Approved The Finest Budget-Friendly Photo Processors Online</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-unraveling-lightrooms-potential-on-android-devices/"><u>2024 Approved Unraveling Lightroom's Potential on Android Devices</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/cyberspace-liberation-overthrowing-hacks-on-facebook-for-2024/"><u>Cyberspace Liberation Overthrowing Hacks on Facebook for 2024</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-realme-11-5g-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Realme 11 5G | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/step-by-step-tutorial-how-to-bypass-htc-u23-pro-frp-by-drfone-android/"><u>Step-by-Step Tutorial How To Bypass HTC U23 Pro FRP</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/ultimate-guide-to-the-m-mock-1000a-car-jumper-pack-the-18000mah-powerhouse-unveiled/"><u>Ultimate Guide to the M Mock 1000A Car Jumper Pack - The 18,000mAh Powerhouse Unveiled</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-guide-reducing-cs2-latency-and-ping-issues-on-your-gaming-pc/"><u>Ultimate Guide: Reducing CS2 Latency & Ping Issues on Your Gaming PC</u></a></li>
+</ul></div>
 

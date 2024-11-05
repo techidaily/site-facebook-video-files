@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Fix for Persistent Microsoft Edge Crashing on New Windows 11 Devices
-date: 2024-10-23T00:03:33.487Z
-updated: 2024-10-29T16:57:07.861Z
+date: 2024-10-31T18:44:45.182Z
+updated: 2024-11-04T21:53:51.892Z
 tags:
   - win11
   - win10
@@ -49,13 +49,6 @@ The outdated or broken graphics driver often crashes the game.
 ![Driver Easy Scan Now](https://images.drivereasy.com/wp-content/uploads/2021/03/Driver-Easy-Scan-Now.jpg)
 3. Click the **Update** button next to a device to automatically download the correct version of their driver, then you can manually install the driver (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Or click **Update All**  to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 4. Restart your PC after you finished updating your graphics driver.
@@ -71,19 +64,19 @@ The outdated or broken graphics driver often crashes the game.
 2. Click **the LOCAL FILES tab** , then click **VERIFY INTEGRITY OF GAME CACHE…** . After that, click **CLOSE** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![LOCAL FILES>VERIFY INTEGRITY OF GAME CACHE...](https://images.drivereasy.com/wp-content/uploads/2019/04/image-120.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  It may take some time to finish verifying the game files. Launch the game after the verifying process completed to see if this fix works. If not, try the next fix, below.
@@ -96,6 +89,13 @@ The outdated or broken graphics driver often crashes the game.
 
  Run Dirt 5 again to check whether the game crash issue has been resolved. If it didn’t work, or there was no new game patch available, move on to next fix, below.
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 4: Disable Steam Overlay
 
  It seems that the Steam Overlay doesn’t pair well with Ditrt. So just try disabling Steam Overlay for Dirt 5 to see if the game crashes again. Here is how to do it:
@@ -104,16 +104,29 @@ The outdated or broken graphics driver often crashes the game.
 ![Steam->properties](https://images.drivereasy.com/wp-content/uploads/2019/04/image-122.png)
 2. Uncheck**Enable Steam Overlay while in-game** .  
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="864" height="1296" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Disable Steam Overlay](https://images.drivereasy.com/wp-content/uploads/2021/04/Disable-Steam-Overlay.jpg)
 
- Launch Dirt 5 to see if the game crashes. If the issue persists, try the next fix, below.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Launch Dirt 5 to see if the game crashes. If the issue persists, try the next fix, below.
 
 ## Fix 5: Set launch options on Steam
 
@@ -123,13 +136,6 @@ The outdated or broken graphics driver often crashes the game.
 2. In the**GENERAL** section, click **SET LAUNCH OPTIONS…**  
 ![Steam set launch options](https://images.drivereasy.com/wp-content/uploads/2021/04/Modify-Steam-set-launch-options.jpg)
 3. Copy and paste the commands below and click **OK** .  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 `-useallavailablecores -high`
 
@@ -165,21 +171,18 @@ The outdated or broken graphics driver often crashes the game.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-professional-approach-to-screen-capturing-in-adobe-captive-environment/"><u>[New] 2024 Approved Professional Approach to Screen Capturing in Adobe Captive Environment</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-elevating-the-profile-game-top-strategies-for-compelling-social-media-profiles-for-2024/"><u>[New] Elevating the Profile Game Top Strategies for Compelling Social Media Profiles for 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-broadcasting-with-breeze-tips-for-fb-video-sharing/"><u>[Updated] In 2024, Broadcasting with Breeze Tips for FB Video Sharing</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-cost-free-creative-conversion-twitter-to-tweeple-gifs/"><u>[Updated] In 2024, Cost-Free Creative Conversion Twitter to Tweeple GIFs</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-deciphering-social-media-copyright-laws-including-fb/"><u>[Updated] In 2024, Deciphering Social Media Copyright Laws, Including FB</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-streaming-facebook-movies-via-apple-tv/"><u>[Updated] In 2024, Streaming Facebook Movies via Apple TV</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-nifty-network-of-5-extensions-aiding-fb-video-downloads-for-2024/"><u>[Updated] Nifty Network of 5 Extensions Aiding FB Video Downloads for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/best-hd-action-recorders-under-100/"><u>Best HD Action Recorders Under $100</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/essential-tips-for-a-novice-using-facebook-analytics/"><u>Essential Tips for a Novice Using Facebook Analytics</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/in-2024-take-your-videos-to-the-next-level-12-best-online-animation-platforms/"><u>In 2024, Take Your Videos to the Next Level 12 Best Online Animation Platforms</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/in-2024-transformative-copywriting-the-triad-technique-that-elevates-facebook-campaigns/"><u>In 2024, Transformative Copywriting The Triad Technique That Elevates Facebook Campaigns</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-ultimate-guide-to-free-pptp-vpn-for-beginners-on-tecno-spark-go-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Free PPTP VPN For Beginners On Tecno Spark Go (2023) | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/increase-output-with-top-8-chrome-plug-ins-powered-by-ai/"><u>Increase Output with Top 8 Chrome Plug-Ins Powered by AI</u></a></li>
-<li><a href="https://techtrends.techidaily.com/navigate-to-fun-our-handpicked-collection-of-the-best-free-movie-sites-for-young-audiences/"><u>Navigate to Fun: Our Handpicked Collection of the Best Free Movie Sites for Young Audiences</u></a></li>
-<li><a href="https://change-location.techidaily.com/pokemon-go-error-12-failed-to-detect-location-on-vivo-y78plus-drfone-by-drfone-virtual-android/"><u>Pokemon Go Error 12 Failed to Detect Location On Vivo Y78+? | Dr.fone</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/the-best-of-the-best-top-rated-animation-makers-for-all-users/"><u>The Best of the Best Top-Rated Animation Makers for All Users</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-facebook-feed-breakthroughs-seeing-your-videos/"><u>[New] Facebook Feed Breakthroughs Seeing Your Videos</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-seamless-social-circulation-sharing-your-journey-through-video-on-facebook-for-2024/"><u>[New] Seamless Social Circulation Sharing Your Journey Through Video on Facebook for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-ultimate-download-manager-best-youtube-downloader-apps/"><u>[New] Ultimate Download Manager Best YouTube Downloader Apps</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-best-vr-and-action-cameras-beyond-gopros-realm/"><u>[Updated] 2024 Approved Best VR and Action Cameras Beyond GoPro's Realm</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-taking-control-of-your-digital-footprint-new-facebook-guide/"><u>[Updated] In 2024, Taking Control of Your Digital Footprint New Facebook Guide</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-inside-the-directors-domain-comprehensive-guide-to-2024/"><u>[Updated] Inside the Director's Domain Comprehensive Guide to 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-bridging-the-visibility-gap-for-online-media/"><u>2024 Approved Bridging the Visibility Gap for Online Media</u></a></li>
+<li><a href="https://article-tips.techidaily.com/hasty-steps-ios-photos-and-videos-on-windows/"><u>Hasty Steps IOS Photos & Videos on Windows</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-hidden-narrators-of-fb-nuggets/"><u>In 2024, Hidden Narrators of FB Nuggets</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/professional-grau-gmbh-hardware-and-software-fixes-for-seamless-video-recovery/"><u>Professional Grau GmbH Hardware & Software Fixes for Seamless Video Recovery</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-reviews-on-nintendo-switch-the-ultimate-handheld-console-experience/"><u>Top Reviews on Nintendo Switch - The Ultimate Handheld Console Experience</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlocking-chatbot-potential-setting-up-the-chatgpt-widget-for-android-users/"><u>Unlocking Chatbot Potential: Setting Up the ChatGPT Widget for Android Users</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-update-your-drivers-in-windows-11107-by-drivereasy-guide/"><u>Use Device Manager to update your drivers in Windows 11/10/7</u></a></li>
 </ul></div>
 

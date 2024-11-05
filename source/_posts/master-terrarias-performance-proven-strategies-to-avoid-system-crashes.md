@@ -1,7 +1,7 @@
 ---
 title: "Master Terraria's Performance : Proven Strategies to Avoid System Crashes"
-date: 2024-10-29T07:45:04.346Z
-updated: 2024-10-29T20:58:05.303Z
+date: 2024-11-01T17:39:59.475Z
+updated: 2024-11-04T16:30:01.957Z
 tags:
   - win11
   - win10
@@ -123,6 +123,13 @@ OR
 ![](https://www.drivereasy.com/wp-content/uploads/2021/05/NVIDIA-GeForce-RTX-3090-Ti.jpg)
 4. After updating, restart your computer to take effect.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 If your issue persists, then move on and try the next fix.
@@ -172,14 +179,28 @@ Follow the instructions below to see how to fix it:
 
 ![](https://www.drivereasy.com/wp-content/uploads/2019/05/image-720.png)
 3. Select **Power Options.**  
+
+<!-- affiliate ads begin -->
+<span id="1983582">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2019/05/image-721.png)
 4. Select **High Performance** .  
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2019/05/image-738.png)
@@ -201,10 +222,10 @@ Follow the instructions below to see how to fix it:
 4. Relaunch your game to check if your issue had been resolved.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If your game crashes again under Windows 8 mode, repeat **steps 1 – 3** and select **Windows 7**  from the list box.
@@ -218,6 +239,14 @@ If this didn’t work for you, check the fix, below.
 1. Right-click your Steam icon and select **Open file location** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2019/05/image-885.png)
 2. Right-click the **steamapps folder** and select **Copy.** Then, place the copy in another location to back it up.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2019/05/image-886.png)
 3. On your keyboard, press the **Windows logo** key and type **control** . Then, click **Control panel** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2019/05/image-737.png)
@@ -233,13 +262,6 @@ If this didn’t work for you, check the fix, below.
 ![](https://www.drivereasy.com/wp-content/uploads/2019/05/image-891.png)
 8. **[Download](https://store.steampowered.com/about/)**  and install Steam.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 9. Right-click your **Steam icon**  and select **Open file location** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2019/05/image-892.png)
 10. Move the backup **steamapps folder**  you create before to your current directory location.  
@@ -249,16 +271,16 @@ If this didn’t work for you, check the fix, below.
 
  Hopefully, one of the fixes above fixed your issue and you’re now able to actually play! If you have any questions, please leave a comment below.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Xbox One
 
  If you’re playing_Dead by Daylight_ on Xbox One, check the solutions below.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Try these fixes
 
@@ -294,15 +316,15 @@ If this didn’t work for you, check the fix, below.
 ![](https://www.drivereasy.com/wp-content/uploads/2019/08/xbox-one-controller-2206687_1920.jpg)
 2. Select **Settings** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2019/08/image-92.png)
 3. Select **System** .  
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2019/08/image-90.png)
 4. Select **Update console.**  
@@ -320,13 +342,6 @@ If this didn’t work for you, check the fix, below.
 
 ![](https://www.drivereasy.com/wp-content/uploads/2019/08/image-92.png)
 3. Select **System** .  
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2019/08/image-90.png)
 4. Select **Console info.**  
@@ -360,6 +375,13 @@ If this didn’t work for you, check the fix, below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-175-1024x439.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **5)**  Select **Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-108.png)
@@ -367,13 +389,6 @@ If this didn’t work for you, check the fix, below.
 **6)** After the game is uninstalled, insert **the game disc** into the drive to download and install Dead by Daylight.
 
  Hope one of the solutions here worked for you. Feel free to leave a comment below if you have any questions.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### PlayStation 4
 
@@ -417,19 +432,6 @@ If this didn’t work for you, check the fix, below.
 **1)**  On the home screen of your PS4 system, press the **up**  button on your controller to go to the function area.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1080.png)
-
-<!-- affiliate ads begin -->
-<span id="1630055">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **2)** Select **Settings** .
 
@@ -496,19 +498,21 @@ If this didn’t work for you, check the fix, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-ensuring-relevance-and-engagement-with-proper-fb-hashtags-for-2024/"><u>[New] Ensuring Relevance and Engagement with Proper FB Hashtags for 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-facebooks-approach-for-automatic-youtube-video-playback-for-2024/"><u>[New] Facebook's Approach for Automatic YouTube Video Playback for 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-cross-platform-soundtrack-strategy-for-facebook-profiles/"><u>[New] In 2024, Cross-Platform Soundtrack Strategy for Facebook Profiles</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-from-social-media-videos-to-audible-mp3s-one-click-conversion/"><u>[Updated] 2024 Approved From Social Media Videos to Audible MP3s - One Click Conversion</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-2024-approved-sketching-your-signature-tiktok-end-note/"><u>[Updated] 2024 Approved Sketching Your Signature TikTok End-Note</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/2024-approved-masterclass-in-creating-dynamic-facebook-slideshows/"><u>2024 Approved Masterclass in Creating Dynamic Facebook Slideshows</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-social-media-power-up-grouping-multiple-photos-and-vids-for-instagram/"><u>2024 Approved Social Media Power-Up Grouping Multiple Photos & Vids for Instagram</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/2024-approved-the-ultimate-handbook-for-watching-facebook-livestreams/"><u>2024 Approved The Ultimate Handbook for Watching Facebook Livestreams</u></a></li>
-<li><a href="https://win11.techidaily.com/accessing-and-configuring-windows-data-sources-by-odbc/"><u>Accessing and Configuring Windows Data Sources by ODBC</u></a></li>
-<li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-xiaomi-redmi-note-13-pro-5g-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Xiaomi Redmi Note 13 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/building-a-bountiful-beauty-channel-fortune-for-2024/"><u>Building a Bountiful Beauty Channel Fortune for 2024</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/convert-flashxtv-videos-to-popular-formats-easy-guide-to-downloading-as-mp4-or-avi/"><u>Convert FlashX.TV Videos to Popular Formats: Easy Guide to Downloading as MP4 or AVI</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/efficient-routines-for-video-game-screening/"><u>Efficient Routines for Video Game Screening</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-obs-game-captures-persistent-black-screen-challenge/"><u>Resolving OBS Game Capture's Persistent Black Screen Challenge</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-12-tactics-to-reveal-facebook-videos-not-displaying-2023-edition/"><u>[New] 12 Tactics to Reveal Facebook Videos Not Displaying, 2023 Edition</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-how-to-capture-and-stream-in-stunning-hd-fb/"><u>[New] How to Capture and Stream in Stunning HD (FB)</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-7-best-online-youtube-tag-extractors/"><u>[New] In 2024, 7 Best Online YouTube Tag Extractors</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-guide-to-share-igtv-with-minimal-hassle/"><u>[Updated] 2024 Approved Guide to Share IGTV with Minimal Hassle</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-unmuting-your-social-network-fixing-half-volume-videos/"><u>[Updated] 2024 Approved Unmuting Your Social Network Fixing Half-Volume Videos</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-prime-7-media-gatherers-on-fb/"><u>2024 Approved Prime 7 Media Gatherers on FB</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/androidios-accessibility-with-chatgpt/"><u>Android/iOS Accessibility with ChatGPT</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/engage-audiences-effortlessly-social-medias-screen-share-guide/"><u>Engage Audiences Effortlessly Social Media's Screen Share Guide</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fix-civ-5-crashing-issues-on-pc/"><u>Fix CIV 5 Crashing Issues On PC</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-gionee-f3-pro-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>How to Track Gionee F3 Pro Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-facebook-slideshow-how-to-create-a-slideshow-on-facebook/"><u>In 2024, Facebook Slideshow How to Create a Slideshow on Facebook</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-restarting-windows-updates/"><u>Mastering the Art of Restarting Windows Updates</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/primeworldplus-local-complete-tv-content-at-fingertips/"><u>PrimeWorld+ Local Complete TV Content at Fingertips</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-art-of-connectivity-seamless-bose-soundlink-speaker-pairing-techniques/"><u>The Art of Connectivity: Seamless Bose Soundlink Speaker Pairing Techniques</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/the-ultimate-guide-incorporating-facebook-live-into-websites/"><u>The Ultimate Guide Incorporating Facebook LIVE Into Websites</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlock-the-code-retrieving-your-saved-wlan-passwords-easily-with-windows-11-tricks/"><u>Unlock the Code: Retrieving Your Saved WLAN Passwords Easily with Windows 11 Tricks</u></a></li>
 </ul></div>
 

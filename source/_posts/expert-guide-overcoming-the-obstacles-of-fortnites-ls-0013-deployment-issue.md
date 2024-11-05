@@ -1,7 +1,7 @@
 ---
 title: "Expert Guide: Overcoming the Obstacles of Fortnite's LS-0013 Deployment Issue"
-date: 2024-10-24T08:41:33.975Z
-updated: 2024-10-30T02:37:23.659Z
+date: 2024-10-31T20:40:07.709Z
+updated: 2024-11-04T18:25:53.340Z
 tags:
   - win11
   - win10
@@ -36,6 +36,13 @@ thumbnail: https://thmb.techidaily.com/2e98346ae0ee2e0559c5260d992a7113232d0df75
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Close those unnecessary tabs
 
  You may run into the Chrome slow issue if**you’ve opened too many tabs on your Chrome** . Since**in Chrome, each tab opens its own process** on your PC. These tabs will consume lots of resources, which will trigger the Chrome slow issue.
@@ -43,6 +50,13 @@ thumbnail: https://thmb.techidaily.com/2e98346ae0ee2e0559c5260d992a7113232d0df75
  If you want to know more information about how many resources your chrome consumes, you just need to open**Task Manager** by pressing**Ctrl** ,**Shift** and**Esc** at the same time on your keyboard. You will be prompted for permission. Click **Yes** to open**Task Manager** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap24-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  So,**close those unnecessary tabs** to see if the Chrome slow issue persists. If this issue reappears, try the next fix.
 
@@ -54,21 +68,7 @@ thumbnail: https://thmb.techidaily.com/2e98346ae0ee2e0559c5260d992a7113232d0df75
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap25-4.jpg)
 2. **Turn off** **the toggle** on the lower-right corner of the Chrome apps and extensions you don’t need any more to disable them.  
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap26-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  After disabling some Chrome apps and extensions, hopefully you should notice a difference in speed on your Chrome. If this fix fails to resolve the Chrome slow issue, don’t worry, there are more fixes for your to try.
 
@@ -80,23 +80,17 @@ thumbnail: https://thmb.techidaily.com/2e98346ae0ee2e0559c5260d992a7113232d0df75
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap27-1.jpg)
 2. In the search bar, type**prediction** and then**turn on the toggle** next to**Use a prediction service to load pages more quickly** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap28-1.jpg)
 3. Reopen your Chrome.
 
  See if this issue reappears. If not, you’ve fixed this issue. If the issue persists, try clearing your old stuck browser data.
-
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Clear your old stuck browser data
 
@@ -109,17 +103,17 @@ thumbnail: https://thmb.techidaily.com/2e98346ae0ee2e0559c5260d992a7113232d0df75
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap29.jpg)
 3. Navigate to the**Advanced** tab and select **all the items**  to clear.  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap30-1.jpg)
 4. Reopen your Chrome.
 
  Check to see if this annoying issue reappears. If not, you have resolved this issue. If this issue persists, there are more fixes to try.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Disable hardware acceleration
 
@@ -129,30 +123,10 @@ thumbnail: https://thmb.techidaily.com/2e98346ae0ee2e0559c5260d992a7113232d0df75
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap31-1.jpg)
 2. In the search bar, type **hardware** . Then   **turn off the toggle**  next to the feature **Use hardware acceleration when available**  .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap42-1.jpg)
 3. Reopen your Chrome.
 
  See if the Chrome slow issue is resolved. If not, try resetting your browser settings.
-
-<!-- affiliate ads begin -->
-<span id="1983471">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 6: Check your PC for malware in your Chrome and reset your browser settings
 
@@ -164,8 +138,28 @@ thumbnail: https://thmb.techidaily.com/2e98346ae0ee2e0559c5260d992a7113232d0df75
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap27-1.jpg)
 2. In the search bar, type **reset**  and then click**Clean up computer** .  
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap34-3.jpg)
 3. Click**Find** to check for harmful software.  
+
+<!-- affiliate ads begin -->
+<span id="1374819">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap35-1.jpg)
 4. Click**Remove** if you’re asked to remove unwanted software.
@@ -178,6 +172,13 @@ thumbnail: https://thmb.techidaily.com/2e98346ae0ee2e0559c5260d992a7113232d0df75
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap36-2.jpg)
 3. Click**Reset settings** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap37.jpg)  
  **After resetting the browser settings, you need to enable the extensions you trust** . If you don’t know how to do it, refer to **[Fix 2](https://tools.techidaily.com/drivereasy/download/)**  to turn on the toggle on the lower-right corner of the extensions you trust.
@@ -198,16 +199,16 @@ thumbnail: https://thmb.techidaily.com/2e98346ae0ee2e0559c5260d992a7113232d0df75
  See if this issue reappears. If not, you’ve fixed this annoying issue.
 
 <!-- affiliate ads begin -->
-<span id="1982456">
+<span id="1982461">
 					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Bonus Tip: Update your network driver
@@ -231,13 +232,6 @@ You can update your drivers automatically with either **the FREE**  or **the Pro
 
 ![update network driver](https://images.drivereasy.com/wp-content/uploads/2018/09/update-network-driver.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
  Hopefully one of the fixes above can help you resolve your problem. Please leave your comment below if you have any questions.
@@ -259,24 +253,19 @@ You can update your drivers automatically with either **the FREE**  or **the Pro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-breaking-barriers-to-sound-in-twitters-visual-share/"><u>[New] Breaking Barriers to Sound in Twitter's Visual Share</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-forge-corporate-icons-without-spending-a-dime/"><u>[New] Forge Corporate Icons Without Spending a Dime</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-how-to-post-tweets-on-facebook-for-2024/"><u>[New] How to Post Tweets on Facebook for 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-navigating-the-landscape-of-facebook-ad-effectiveness-for-2024/"><u>[New] Navigating the Landscape of Facebook Ad Effectiveness for 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-revisit-memories-easy-old-stories-on-fb-for-2024/"><u>[New] Revisit Memories Easy Old Stories on FB for 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-superior-schedulers-for-success-our-recommendation-list/"><u>[New] Superior Schedulers for Success Our Recommendation List</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-the-five-leading-pc-tools-for-sonys-ps1-experience/"><u>[New] The Five Leading PC Tools for Sony's PS1 Experience</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-the-key-to-successful-multi-view-facebook-streaming-for-2024/"><u>[New] The Key to Successful Multi-View Facebook Streaming for 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-accessing-facebook-videos-via-apple-tv-essential-tips/"><u>[Updated] 2024 Approved Accessing Facebook Videos via Apple TV Essential Tips</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-streamline-your-social-experience-with-mobile-music-files/"><u>[Updated] 2024 Approved Streamline Your Social Experience with Mobile Music Files</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-fb-video-to-mp3-digital-audio-extraction-guide/"><u>[Updated] FB Video to MP3 Digital Audio Extraction Guide</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-in-2024-mastering-desktop-and-mobile-a-guide-to-setting-up-discord-calls/"><u>[Updated] In 2024, Mastering Desktop & Mobile A Guide to Setting Up Discord Calls</u></a></li>
-<li><a href="https://discover-community.techidaily.com/1726029239983-mp4mov/"><u>「取り込めない動画問題: ビデオスタジオでMP4とMOVを簡単にインポートする方法」</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-top-10-video-calls-software-compared-side-by-side/"><u>2024 Approved Top 10 Video Calls Software Compared Side by Side</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/2024-approved-unveiling-tricky-feed-functions-more-vids-please/"><u>2024 Approved Unveiling Tricky Feed Functions More Vids Please</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/beyond-its-dimensions-the-unmatched-features-inside-the-sleek-apple-iphone-12-mini/"><u>Beyond Its Dimensions – The Unmatched Features Inside the Sleek Apple iPhone 12 Mini</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/inside-the-illusion-exposing-nine-widespinas-misconceptions-about-bots/"><u>Inside the Illusion: Exposing Nine Widespinas Misconceptions About Bots</u></a></li>
-<li><a href="https://program-issues.techidaily.com/valheim-pc-stability-guide-overcoming-frequent-game-shutdowns-and-crashes/"><u>Valheim PC Stability Guide: Overcoming Frequent Game Shutdowns and Crashes</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/why-delaying-the-acquisition-of-a-new-gaming-laptop-makes-sense/"><u>Why Delaying the Acquisition of a New Gaming Laptop Makes Sense</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-transforming-challenges-into-triumphs-with-these-30-tips/"><u>[New] 2024 Approved Transforming Challenges Into Triumphs with These 30 Tips</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-best-of-the-best-essential-themes-for-animes-for-2024/"><u>[New] Best of the Best Essential Themes for Animes for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-instantly-stream-youtube-content-on-facebook-auto-play-guide-for-2024/"><u>[New] Instantly Stream YouTube Content on Facebook Auto-Play Guide for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-the-ultimate-chrome-selection-5-pioneers-in-fb-video-download/"><u>[New] The Ultimate Chrome Selection 5 Pioneers in FB Video Download</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-from-imagination-to-illustration-ranking-the-best-8-iphone-drawing-software/"><u>[Updated] 2024 Approved From Imagination to Illustration Ranking the Best 8 iPhone Drawing Software</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-the-inverted-illusion-guide-transforming-visual-content-through-angled-spins/"><u>[Updated] 2024 Approved The Inverted Illusion Guide Transforming Visual Content Through Angled Spins</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-how-to-make-your-profile-cover-video-more-attractive/"><u>[Updated] In 2024, How to Make Your Profile Cover Video More Attractive</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-mastering-the-art-of-ifunny-memes/"><u>[Updated] Mastering the Art of iFunny Memes</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-accelerating-profile-lookups-on-facebook/"><u>2024 Approved Accelerating Profile Lookups on Facebook</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/a-comprehensive-guide-to-facebooks-full-screen-feature/"><u>A Comprehensive Guide to Facebook's Full Screen Feature</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-will-the-ipogo-get-you-banned-and-how-to-solve-it-on-honor-v-purse-drfone-by-drfone-virtual-android/"><u>In 2024, Will the iPogo Get You Banned and How to Solve It On Honor V Purse | Dr.fone</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/incorporating-youtubes-creative-commons-in-video-making/"><u>Incorporating YouTube's Creative Commons in Video Making</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/mastery-overcoming-adobe-premieres-srt-barriers-for-2024/"><u>Mastery Overcoming Adobe Premiere's SRT Barriers for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/wondering-the-best-alternative-to-hola-on-tecno-pop-7-pro-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>Wondering the Best Alternative to Hola On Tecno Pop 7 Pro? Here Is the Answer | Dr.fone</u></a></li>
 </ul></div>
 
