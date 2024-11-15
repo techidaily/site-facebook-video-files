@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Fix for Persistent Microsoft Edge Crashing on New Windows 11 Devices
-date: 2024-10-31T18:44:45.182Z
-updated: 2024-11-04T21:53:51.892Z
+date: 2024-11-11T17:01:32.600Z
+updated: 2024-11-14T21:25:05.656Z
 tags:
   - win11
   - win10
@@ -30,6 +30,13 @@ Recently, we’ve seen many players reporting that**Dirt 5 keeps crashing** on t
 5. **[Set launch options on Steam](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Stop overclocking](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 1: Update your graphics driver
 
 The outdated or broken graphics driver often crashes the game.
@@ -49,6 +56,13 @@ The outdated or broken graphics driver often crashes the game.
 ![Driver Easy Scan Now](https://images.drivereasy.com/wp-content/uploads/2021/03/Driver-Easy-Scan-Now.jpg)
 3. Click the **Update** button next to a device to automatically download the correct version of their driver, then you can manually install the driver (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Or click **Update All**  to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 4. Restart your PC after you finished updating your graphics driver.
@@ -64,22 +78,29 @@ The outdated or broken graphics driver often crashes the game.
 2. Click **the LOCAL FILES tab** , then click **VERIFY INTEGRITY OF GAME CACHE…** . After that, click **CLOSE** .  
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![LOCAL FILES>VERIFY INTEGRITY OF GAME CACHE...](https://images.drivereasy.com/wp-content/uploads/2019/04/image-120.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  It may take some time to finish verifying the game files. Launch the game after the verifying process completed to see if this fix works. If not, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 3: Install the latest game patch
 
@@ -89,13 +110,6 @@ The outdated or broken graphics driver often crashes the game.
 
  Run Dirt 5 again to check whether the game crash issue has been resolved. If it didn’t work, or there was no new game patch available, move on to next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 4: Disable Steam Overlay
 
  It seems that the Steam Overlay doesn’t pair well with Ditrt. So just try disabling Steam Overlay for Dirt 5 to see if the game crashes again. Here is how to do it:
@@ -104,27 +118,7 @@ The outdated or broken graphics driver often crashes the game.
 ![Steam->properties](https://images.drivereasy.com/wp-content/uploads/2019/04/image-122.png)
 2. Uncheck**Enable Steam Overlay while in-game** .  
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="864" height="1296" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Disable Steam Overlay](https://images.drivereasy.com/wp-content/uploads/2021/04/Disable-Steam-Overlay.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Launch Dirt 5 to see if the game crashes. If the issue persists, try the next fix, below.
 
@@ -171,18 +165,20 @@ The outdated or broken graphics driver often crashes the game.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-facebook-feed-breakthroughs-seeing-your-videos/"><u>[New] Facebook Feed Breakthroughs Seeing Your Videos</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-seamless-social-circulation-sharing-your-journey-through-video-on-facebook-for-2024/"><u>[New] Seamless Social Circulation Sharing Your Journey Through Video on Facebook for 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-ultimate-download-manager-best-youtube-downloader-apps/"><u>[New] Ultimate Download Manager Best YouTube Downloader Apps</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-2024-approved-best-vr-and-action-cameras-beyond-gopros-realm/"><u>[Updated] 2024 Approved Best VR and Action Cameras Beyond GoPro's Realm</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-taking-control-of-your-digital-footprint-new-facebook-guide/"><u>[Updated] In 2024, Taking Control of Your Digital Footprint New Facebook Guide</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-inside-the-directors-domain-comprehensive-guide-to-2024/"><u>[Updated] Inside the Director's Domain Comprehensive Guide to 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/2024-approved-bridging-the-visibility-gap-for-online-media/"><u>2024 Approved Bridging the Visibility Gap for Online Media</u></a></li>
-<li><a href="https://article-tips.techidaily.com/hasty-steps-ios-photos-and-videos-on-windows/"><u>Hasty Steps IOS Photos & Videos on Windows</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/in-2024-hidden-narrators-of-fb-nuggets/"><u>In 2024, Hidden Narrators of FB Nuggets</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/professional-grau-gmbh-hardware-and-software-fixes-for-seamless-video-recovery/"><u>Professional Grau GmbH Hardware & Software Fixes for Seamless Video Recovery</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/top-reviews-on-nintendo-switch-the-ultimate-handheld-console-experience/"><u>Top Reviews on Nintendo Switch - The Ultimate Handheld Console Experience</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unlocking-chatbot-potential-setting-up-the-chatgpt-widget-for-android-users/"><u>Unlocking Chatbot Potential: Setting Up the ChatGPT Widget for Android Users</u></a></li>
-<li><a href="https://techidaily.com/use-device-manager-to-update-your-drivers-in-windows-11107-by-drivereasy-guide/"><u>Use Device Manager to update your drivers in Windows 11/10/7</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-enhancing-your-facebook-cover-leading-websites-for-professionals-for-2024/"><u>[New] Enhancing Your Facebook Cover Leading Websites for Professionals for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-m1-explored-apples-leap-in-computational-innovation/"><u>[New] M1 Explored Apple's Leap in Computational Innovation</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-snappy-screens-the-windows-way/"><u>[New] Snappy Screens The Windows Way</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-deciphering-the-function-of-the-blue-icon-in-messenger/"><u>[Updated] Deciphering the Function of the Blue Icon in Messenger</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-edge-of-insanity-the-10-most-chaotic-tiktok-contests/"><u>[Updated] Edge of Insanity The 10 Most Chaotic TikTok Contests</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-rock-your-facebook-profile-add-pin-play-and-manage-music-iphone-and-android/"><u>[Updated] Rock Your Facebook Profile Add, Pin, Play, & Manage Music (iPhone & Android)</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-renowned-20-free-public-domain-pubg-sets/"><u>2024 Approved Renowned 20 Free, Public Domain PUBG Sets</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/basics-of-effective-fb-ad-cta-design-for-2024/"><u>Basics of Effective FB Ad CTA Design for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-access-fb-urls-at-free-optimal-downloader-tools-of-the-year/"><u>In 2024, Access FB URLs at FREE Optimal Downloader Tools of the Year</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-deciphering-the-disappearance-of-recommended-video-content-in-your-newsfeed/"><u>In 2024, Deciphering the Disappearance of Recommended Video Content in Your Newsfeed</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-foremost-corporate-cloud-storage-hubs/"><u>In 2024, Foremost Corporate Cloud Storage Hubs</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-motorola-moto-g84-5g-location-by-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Motorola Moto G84 5G Location by Number | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/inshot-guide-successfully-load-tracks-into-videos/"><u>InShot Guide Successfully Load Tracks Into Videos</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-troubleshooting-guide-easily-correcting-battery-not-charging-problems/"><u>Quick Troubleshooting Guide: Easily Correcting 'Battery Not Charging' Problems</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-mac-video-converter-reviews-lanno-migliore-del-2017-al-2018-analizzato/"><u>Top Mac Video Converter Reviews: L'anno Migliore Del 2017 Al 2018 Analizzato</u></a></li>
 </ul></div>
 

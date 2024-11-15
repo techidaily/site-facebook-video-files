@@ -1,7 +1,7 @@
 ---
 title: "Resolving Issues with Non-Functional Logitech Webcam Microphones: A Step-by-Step Guide"
-date: 2024-10-29T20:08:58.591Z
-updated: 2024-11-04T18:45:55.759Z
+date: 2024-11-10T23:02:06.189Z
+updated: 2024-11-15T07:14:39.505Z
 tags:
   - win11
   - win10
@@ -30,13 +30,6 @@ Objectively, external webcams such as Logitech webcams offer better video qualit
 
 ![how to fix Logitech webcam mic not working](https://images.drivereasy.com/wp-content/uploads/2021/03/logitech-webcam-mic-not-working.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Install all Windows updates
 
  Windows updates are used to keep Microsoft Windows and several other Microsoft programs updated. They often include feature enhancements and security updates to protect Windows from the malware and malicious attacks which would probably lead to your programs malfunctioning. Therefore, before trying the solutions listed below, you need to download and install the latest Windows updates.
@@ -47,6 +40,13 @@ Here’s how you can do this:
 
 ![how to download and install Windows updates](https://images.drivereasy.com/wp-content/uploads/2021/01/check-for-updates.png)
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Click on the **Check for updates**  tab. If there are any updates available, it’ll automatically start to download and install it. Simply wait for it to complete and you should be asked to restart your computer.
 
 ![how to download and install Windows updates](https://images.drivereasy.com/wp-content/uploads/2021/01/click-on-the-Check-for-updates-tab.png)
@@ -54,6 +54,13 @@ Here’s how you can do this:
  Once you’ve installed the latest Windows updates, try to use the microphone to check if it’s working now. If not, try the next fix below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Update your webcam driver
 
@@ -84,6 +91,13 @@ Here’s how to update your drivers with Driver Easy:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Allow access to your webcam built-in microphone
 
  On Windows, you can decide whether your system and apps can access the microphone. In case you’ve disabled the access for some reasons, you should check the settings and grant the permission for the access by following the instructions below:
@@ -94,40 +108,26 @@ Here’s how to update your drivers with Driver Easy:
   
 ![Privacy in Settings](https://images.drivereasy.com/wp-content/uploads/2021/02/privacy.png)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click **Microphone**  on the left pane. Then click on the **Change**  button and make sure **Microphone access for this device**  is turned on.  
   
 ![turn on app permissions on your microphone](https://images.drivereasy.com/wp-content/uploads/2021/02/turn-on-app-permissions-for-your-micropho0ne.png)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Under the **Allow apps to access your microphone**  section, make sure it’s turned **On** .  
   
 ![allow apps to access your microphone](https://images.drivereasy.com/wp-content/uploads/2021/02/allow-apps-to-access-your-microphone.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  5) Once you’ve allowed the microphone to access your apps, you can change the settings for each app. Simply head to the **Choose which Microsoft apps can access your microphone** , and turn on apps you want to use with it. For desktop apps, make sure that **Allow desktop apps to access your microphone**  is turned **On** .
 
  After you’ve done all of these, try to use your webcam microphone and check if it’s working properly. If the issue persists, try the next fix below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Make sure your mic isn’t disabled
 
@@ -136,6 +136,13 @@ Here’s how to update your drivers with Driver Easy:
  1) Right-click on the Speaker icon on the bottom-right corner of your screen. Then select **Open Sound settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/open-sound-settings.png)
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) Under the **Input**  section, make sure that your device is showing. Then click **Device Properties** .  
   
@@ -149,13 +156,6 @@ Here’s how to update your drivers with Driver Easy:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Set your device as default
 
  When you’re using an external camera, you might need to set that device as the audio device in order to access the built-in microphone. Normally, when your microphone is connected, Windows can automatically detect it and set it as the default input device. But sometimes it just fails to do that and you have to set it manually:
@@ -164,28 +164,21 @@ Here’s how to update your drivers with Driver Easy:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/open-sound-settings.png)
 
-<!-- affiliate ads begin -->
-<span id="1975648">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Scroll down to the section of **Related Settings** and click **Sound Control Panel** .  
   
 ![Open Sound Control Panel](https://images.drivereasy.com/wp-content/uploads/2021/02/sound-control-panel.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975562">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Select the **Recording**  tab. Select your microphone and then click **Set Default > OK** .  
@@ -205,6 +198,13 @@ Here’s how to update your drivers with Driver Easy:
  1) **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Fortect.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) Run Fortect and it will run a FREE scan of your PC. Once the scan is finished, you’ll see a complete overview of your system and issues.
 
@@ -233,22 +233,19 @@ Here’s how to update your drivers with Driver Easy:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-pro-tips-for-captivating-snapchat-stories/"><u>[New] 2024 Approved Pro Tips for Captivating Snapchat Stories</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-chart-a-course-to-higher-views-with-top-optimization-tactics-for-2024/"><u>[New] Chart a Course to Higher Views with Top Optimization Tactics for 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-transitioning-from-smartphone-to-watching-fb-videos-on-appletv/"><u>[New] Transitioning From Smartphone to Watching FB Videos on AppleTV</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-social-network-synergy-broadcasting-twitch-on-social-media-platforms/"><u>[Updated] 2024 Approved Social Network Synergy Broadcasting Twitch on Social Media Platforms</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-asmr-unraveled-enhancing-mental-wellness/"><u>[Updated] ASMR Unraveled Enhancing Mental Wellness</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-broadcasting-your-favorite-fb-videos-on-big-screen/"><u>[Updated] Broadcasting Your Favorite FB Videos on Big Screen</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-cut-the-cord-download-fb-videos-on-pc-and-mobile-for-2024/"><u>[Updated] Cut the Cord - Download FB Videos on PC & Mobile for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-direct-live-broadcasting-obs-to-instagram/"><u>[Updated] In 2024, Direct Live Broadcasting OBS to Instagram</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/cutting-edge-extraction-the-top-10-sdk-powered-fb-video-downloads-on-android-for-2024/"><u>Cutting-Edge Extraction The Top 10 SDK-Powered FB Video Downloads on Android for 2024</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-asus-rog-phone-8-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How Asus ROG Phone 8 Mirror Screen to PC? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-a-lenovo-easily-by-drfone-android/"><u>How To Unlock a Lenovo Easily?</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/in-2024-beating-the-curve-adapting-to-new-facebook-content-rules/"><u>In 2024, Beating the Curve Adapting to New Facebook Content Rules</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-best-ios-applications-for-gameplaying-iconic-psp-titles/"><u>In 2024, Best iOS Applications for Gameplaying Iconic PSP Titles</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/in-2024-master-facebook-broadcasting-with-devices-and-obs-studio/"><u>In 2024, Master Facebook Broadcasting with Devices and OBS Studio</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/in-2024-your-go-to-list-for-effortless-downloads-of-fb-stories/"><u>In 2024, Your Go-To List for Effortless Downloads of FB Stories</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/95917952-9781620557020-sacred-geometry-for-artists-dreamers-and-philosophers/"><u>Sacred Geometry for Artists, Dreamers, and Philosophers | Free Book</u></a></li>
-<li><a href="https://video-capture.techidaily.com/the-essential-guide-for-cost-free-google-meet-management-for-2024/"><u>The Essential Guide for Cost-Free Google Meet Management for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-enhancing-video-aesthetics-with-bb-and-lc-overlays-on-facebook/"><u>[New] 2024 Approved Enhancing Video Aesthetics with BB and LC Overlays on Facebook</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-digging-into-sharex-assessment-and-choices/"><u>[New] Digging Into ShareX Assessment & Choices</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-explore-affordable-mac-video-editing-tools-tiktok-edition-for-2024/"><u>[New] Explore Affordable Mac Video Editing Tools (TikTok Edition) for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-securecam-covers-top-10-picks-for-peace-of-mind-for-2024/"><u>[New] SecureCam Covers Top 10 Picks for Peace of Mind for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-deciphering-the-art-of-reversed-visual-searches-online-fb/"><u>[Updated] 2024 Approved Deciphering the Art of Reversed Visual Searches Online (FB)</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-a-guide-to-high-quality-slow-motion-images-for-instagram-sharing-for-2024/"><u>[Updated] A Guide to High-Quality Slow Motion Images for Instagram Sharing for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-navigating-novelty-a-deep-exploration-of-filter-innovations/"><u>2024 Approved Navigating Novelty A Deep Exploration of Filter Innovations</u></a></li>
+<li><a href="https://article-files.techidaily.com/becoming-an-unboxing-star-strategies-for-viral-engaging-tiktok-videos/"><u>Becoming an Unboxing Star Strategies for Viral, Engaging TikTok Videos</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/correcting-user-portrait-errors-in-digital-dialogue/"><u>Correcting User Portrait Errors in Digital Dialogue</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/fb-download-made-simple-free-and-convenient-options-of-23-online/"><u>FB Download Made Simple Free & Convenient Options of '23 Online</u></a></li>
+<li><a href="https://win-great.techidaily.com/initiate-automated-backup-processes-after-predefined-incidents/"><u>Initiate Automated Backup Processes After Predefined Incidents</u></a></li>
+<li><a href="https://games-able.techidaily.com/keeping-it-classic-chdman-guide-for-small-sized-retro-gaming-discs/"><u>Keeping It Classic: CHDMAN Guide for Small-Sized Retro Gaming Discs</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/personal-emblem-creation-fashioning-an-exaggerated-self-for-2024/"><u>Personal Emblem Creation Fashioning an Exaggerated Self for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/unlock-social-potential-xbox-games-via-facebook-livestream/"><u>Unlock Social Potential Xbox Games via Facebook Livestream</u></a></li>
 </ul></div>
 

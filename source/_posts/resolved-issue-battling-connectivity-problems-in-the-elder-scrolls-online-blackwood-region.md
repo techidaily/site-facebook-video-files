@@ -1,7 +1,7 @@
 ---
 title: "Resolved Issue: Battling Connectivity Problems in 'The Elder Scrolls Online' - Blackwood Region"
-date: 2024-10-29T19:22:13.196Z
-updated: 2024-11-04T20:37:24.444Z
+date: 2024-11-13T03:58:44.012Z
+updated: 2024-11-15T03:32:58.739Z
 tags:
   - win11
   - win10
@@ -27,13 +27,6 @@ Many players have reported that the Elden Ring multiplayer can not work. Even af
 4. **[Verify integrity of game files](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Run Fortect to repair system files](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Update your Windows system](https://tools.techidaily.com/drivereasy/download/)**
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Before getting started
 
@@ -61,25 +54,32 @@ Many players have reported that the Elden Ring multiplayer can not work. Even af
 2. Click the**Network** tab on the top and then it will switch to the Network settings panel.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/2022-05-10_14-25-55-network-settings.jpg)
 3. Click**Launch Setting** and then click the pointing arrow behind**Launch Setting** to select**Play Online** .  
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/2022-05-10_14-39-232222.jpg)
 
- After you optimize the Elden Ring’s network settings, you can check if it works. If not, move to the next method.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ After you optimize the Elden Ring’s network settings, you can check if it works. If not, move to the next method.
 
 ### Method 2: Update your network drivers
 
@@ -127,6 +127,13 @@ Here are two ways to update your network drivers.
 
  After enabling auto-dates of Elden Ring, you can check if your Elden Ring multiplayer works. If not, move to the next method.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 4: Verify integrity of game files
 
  If the Elden Ring game files are missing or corrupted, the game may show random errors and even cannot work. To fix this problem, you can try to verify the integrity of the Elden Ring game files on Steam.
@@ -135,13 +142,6 @@ Here are two ways to update your network drivers.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/2022-05-10_18-11-58加水印.jpg)
 2. Right-click**ELDEN RING** and select**Properties…** .  
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/2022-05-10_18-05-493333.jpg)
 3. Click the**Installed Files** and select**Verify integrity of game files** .  
 
@@ -149,10 +149,10 @@ Here are two ways to update your network drivers.
 4. Steam will verify the game files. It may take a few minutes. Once the process is complete, click the**Close** button.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. After validating Steam files, check if your Elden Ring multiplayer works normally. If not, move to the next method.
@@ -171,25 +171,26 @@ Here are two ways to update your network drivers.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
  Email: **<support@fortect.com>**
 
  After repairing the system files, you can check if the Elden Ring multiplayer works normally.
-
-<!-- affiliate ads begin -->
-<span id="1328679">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 6: Update your Windows system
 
@@ -203,16 +204,10 @@ Here are two ways to update your network drivers.
 3. Click**Check for updates** under Windows Update. Windows will automatically download and install the available updates.  
 
 <!-- affiliate ads begin -->
-<span id="1160850">
-					<video width="576" height="324" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/2022-05-08_19-48-21-1.jpg)
@@ -223,13 +218,6 @@ Here are two ways to update your network drivers.
 1. On your keyboard, press the **Windows logo key** . Type **check for updates** . Then click **Check for updates**  from the list of results.  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/07/win11-search-bar-check-for-updates.jpg)
 2. Click on the **Check for updates**  button.  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![win11 - Download & install Windows Update](https://www.drivereasy.com/wp-content/uploads/2023/11/win11-Check-for-updates-button.jpg)
 
@@ -256,18 +244,24 @@ Here are two ways to update your network drivers.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-the-ultimate-guide-to-facebooks-in-stream-ad-conversion-strategies/"><u>[Updated] 2024 Approved The Ultimate Guide to Facebook's In-Stream Ad Conversion Strategies</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-enhancing-engagement-how-to-use-background-footage-for-2024/"><u>[Updated] Enhancing Engagement How to Use Background Footage for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-building-competence-with-lut-software/"><u>2024 Approved Building Competence with LUT Software</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/2024-approved-messvid-grabber-for-social-media/"><u>2024 Approved MessVid Grabber for Social Media</u></a></li>
-<li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-oneplus-ace-2v-drfone-by-drfone-virtual-android/"><u>3 Ways to Fake GPS Without Root On OnePlus Ace 2V | Dr.fone</u></a></li>
-<li><a href="https://win-news.techidaily.com/comment-remettre-a-neuf-et-reparer-vos-cartes-memoire-adata-guide-complet/"><u>Comment Remettre À Neuf Et Réparer Vos Cartes Mémoire Adata : Guide Complet</u></a></li>
-<li><a href="https://win-forum.techidaily.com/engage-on-major-social-channels-facebook-twitter-instagram-and-youtube-explained/"><u>Engage on Major Social Channels: Facebook, Twitter, Instagram & YouTube Explained</u></a></li>
-<li><a href="https://article-helps.techidaily.com/fable-formulators-fellowship-top-7-titans-for-2024/"><u>Fable Formulators Fellowship – Top 7 Titans for 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/in-2024-a-detailed-walkthrough-for-crafting-and-changing-your-videos-covers-on-facebook/"><u>In 2024, A Detailed Walkthrough for Crafting and Changing Your Videos' Covers on Facebook</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/in-2024-reviving-relics-seamless-access-to-old-fb-narratives-on-tech/"><u>In 2024, Reviving Relics Seamless Access to Old FB Narratives on Tech</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-top-10-master-plugins-for-final-cut-pro/"><u>In 2024, Top 10 Master Plugins for Final Cut Pro</u></a></li>
-<li><a href="https://win-dash.techidaily.com/mastering-spreadsheet-edits-transitioning-into-excels-edit-mode-effortlessly/"><u>Mastering Spreadsheet Edits: Transitioning Into Excel's Edit Mode Effortlessly</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/top-10-steps-to-youtube-to-mpeg-conversion/"><u>Top 10 Steps to YouTube-to-MPEG Conversion</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-extensive-movement-review-2023/"><u>[New] 2024 Approved Extensive Movement Review 2023</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-syncing-songs-with-your-facebook-chronicles/"><u>[New] In 2024, Syncing Songs with Your Facebook Chronicles</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-masterclass-picks-professional-webcam-stands-for-2024/"><u>[New] Masterclass Picks Professional Webcam Stands for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-leverage-fb-for-extensive-reach-and-impact/"><u>[Updated] 2024 Approved Leverage FB for Extensive Reach and Impact</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-the-new-era-facebook-video-autoplay-explained/"><u>[Updated] 2024 Approved The New Era Facebook Video Autoplay Explained</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-melody-seeker-find-mp3-on-fb/"><u>[Updated] In 2024, Melody Seeker Find MP3 on FB</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-live-from-the-cloud-effective-dji-drone-broadcasting-tips/"><u>[Updated] Live From the Cloud Effective DJI Drone Broadcasting Tips</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-mastering-media-locate-your-latest-favorites-on-facebook-for-2024/"><u>[Updated] Mastering Media Locate Your Latest Favorites on Facebook for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-perfecting-profile-playlists-on-facebook-through-mobile/"><u>2024 Approved Perfecting Profile Playlists on Facebook Through Mobile</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-unlock-the-potential-of-facebook-livestreams-with-professional-wirecast/"><u>2024 Approved Unlock the Potential of Facebook Livestreams with Professional Wirecast</u></a></li>
+<li><a href="https://games-able.techidaily.com/deciphering-the-role-of-hrtf-in-valorant-auditory-experience/"><u>Deciphering the Role of HRTF in Valorant Auditory Experience</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-can-you-transfer-files-from-samsung-galaxy-m34-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How Can You Transfer Files From Samsung Galaxy M34 To iPhone 15/14/13? | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-turn-up-the-dial-maximizing-your-pcs-audio-in-windows-10/"><u>How to Turn Up the Dial: Maximizing Your PC's Audio in Windows 10</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-samsung-galaxy-s23-ultra-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>How to Unlock Samsung Galaxy S23 Ultra Phone Pattern Lock without Factory Reset</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-oppo-a38-by-drfone-android/"><u>In 2024, The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Oppo A38</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/pokemon-go-no-gps-signal-heres-every-possible-solution-on-realme-11-proplus-drfone-by-drfone-virtual-android/"><u>Pokemon Go No GPS Signal? Heres Every Possible Solution On Realme 11 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/probing-the-capabilities-of-ffmpeg-in-maintaining-audible-formats/"><u>Probing the Capabilities of FFmpeg in Maintaining Audible Formats</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/stay-trendy-and-active-with-the-new-garmin-vivomove-hr-smartwatch-reviewed-here/"><u>Stay Trendy & Active with the New Garmin Vivomove HR Smartwatch Reviewed Here</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/streaming-facebook-movies-via-apple-tv-for-2024/"><u>Streaming Facebook Movies via Apple TV for 2024</u></a></li>
 </ul></div>
 

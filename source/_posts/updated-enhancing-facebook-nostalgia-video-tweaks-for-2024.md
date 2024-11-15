@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Enhancing Facebook Nostalgia  Video Tweaks for 2024\""
-date: 2024-10-30T22:32:31.278Z
-updated: 2024-11-04T19:39:02.426Z
+date: 2024-11-10T19:49:57.230Z
+updated: 2024-11-15T05:39:57.545Z
 tags:
   - ai video
   - ai facebook
@@ -56,18 +56,18 @@ thumbnail: https://thmb.techidaily.com/759e3775dd226670ae28d5af19c1defd92ebed927
 
 ![edit look back video](https://images.wondershare.com/images/multimedia/video-editor/video-editor-interface.jpg "edit look back video")
 
-<!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 #### 2. Add texts to the Look Back video
 
  To share the unforgettable moments in Look Back video, adding texts is a good idea. To do this, switch to Text tab and you'll see various texts templates on the left panel. Choose your favorite one and place it on the Timeline. Then the text thumbnail with a leading letter "T" will appear on the timeline. Double click it to type your texts in the box and select the font, color, animation, etc. Hit "Return" to confirm the settings and go back to the primary window.
 
 ![edit look back video](https://images.wondershare.com/topic/video-editing/add-titles.jpg "edit look back video")
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### 3. Edit the audio of Look Back video
 
@@ -82,6 +82,13 @@ thumbnail: https://thmb.techidaily.com/759e3775dd226670ae28d5af19c1defd92ebed927
  Wondershare Filmora (originally Wondershare Video Editor) can help you make your video wonderful and special by applying various elements. To apply some advanced effects, right click the video and select the "Power Tool" option from the pops up menu, or hit the "Power Tool" button above the timeline to enter the Power Tool window. Here you are provided tilt shift, mosaic, face off and jump cut at beats.
 
 ![add](https://images.wondershare.com/images/multimedia/video-editor/tilt-shift-1.jpg "add ")
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
@@ -161,6 +168,13 @@ Follow @Liza Brown
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #### 5. Save or share the edited Look Back video
 
  When everything is ready, click "Create" to save or share your videos in different ways:
@@ -194,16 +208,16 @@ Follow @Liza Brown
 
  Now you've selected the image you like. But what if the result is still disappointing? Don't worry! Here I'll introduce you a more powerful video editing tool to edit and enrich your Facebook Look Back video. Read on to get more information.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Powerful Editor to Edit Facebook Look Back Video
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### Why Choose Wondershare Filmora
 
@@ -236,13 +250,6 @@ Follow @Liza Brown
 
 ![edit look back video](https://images.wondershare.com/images/multimedia/video-editor/audio-detach.jpg "edit look back video")
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 #### 4. Add more effects to your Look Back video
 
  Wondershare Filmora (originally Wondershare Video Editor) can help you make your video wonderful and special by applying various elements. To apply some advanced effects, right click the video and select the "Power Tool" option from the pops up menu, or hit the "Power Tool" button above the timeline to enter the Power Tool window. Here you are provided tilt shift, mosaic, face off and jump cut at beats.
@@ -250,13 +257,6 @@ Follow @Liza Brown
 ![add](https://images.wondershare.com/images/multimedia/video-editor/tilt-shift-1.jpg "add ")
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### 5. Save or share the edited Look Back video
 
@@ -272,10 +272,10 @@ Follow @Liza Brown
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Liza Brown
@@ -320,10 +320,10 @@ Follow @Liza Brown
 ![edit look back video](https://images.wondershare.com/images/multimedia/video-editor/video-editor-interface.jpg "edit look back video")
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### 2. Add texts to the Look Back video
@@ -346,20 +346,13 @@ Follow @Liza Brown
 
 ![add](https://images.wondershare.com/images/multimedia/video-editor/tilt-shift-1.jpg "add ")
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
-  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### 5. Save or share the edited Look Back video
@@ -374,6 +367,13 @@ Follow @Liza Brown
 ![edit facebook look back video](https://images.wondershare.com/filmora/article-images/export-output.jpg "edit facebook look back video")
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Liza Brown
 
@@ -402,22 +402,17 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-stream-like-a-pro-fb-live-tips-2023/"><u>[New] 2024 Approved Stream Like a Pro FB Live Tips 2023</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-nine-superior-tools-to-freeze-dynamic-windows-gifs-flawlessly/"><u>[New] In 2024, Nine Superior Tools to Freeze Dynamic Windows GIFs Flawlessly</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-branding-success-on-fb-through-immersive-cover-videos-for-2024/"><u>[Updated] Branding Success on FB Through Immersive Cover Videos for 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-how-to-check-what-youve-liked-on-facebook-lately/"><u>[Updated] How To Check What You've Liked on Facebook Lately</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-echovideo-capture-toolkit-for-fb/"><u>[Updated] In 2024, EchoVideo Capture Toolkit for FB</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/1-uncovering-the-causes-of-sluggishness-in-your-laptop-a-comprehensive-troubleshooting-guide/"><u>1. Uncovering the Causes of Sluggishness in Your Laptop: A Comprehensive Troubleshooting Guide</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-mastering-playlist-sharing-on-youtube/"><u>2024 Approved Mastering Playlist Sharing on YouTube</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-ways-to-teach-you-to-transfer-files-from-infinix-smart-7-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways To Teach You To Transfer Files from Infinix Smart 7 to Other Android Devices Easily | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/best-solutions-for-itel-network-unlock-by-drfone-android/"><u>Best Solutions for Itel Network Unlock</u></a></li>
-<li><a href="https://discover-advanced.techidaily.com/creating-an-animated-gif-with-integrated-audio-a-step-by-step-guide/"><u>Creating an Animated GIF With Integrated Audio: A Step-by-Step Guide</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/expert-fb-video-sharing-tactics-for-desktop-and-handheld-devices-for-2024/"><u>Expert FB Video Sharing Tactics for Desktop and Handheld Devices for 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/fbs-top-songs-on-screen-a-step-by-step-vlog-series/"><u>FB's Top Songs on Screen A Step-by-Step Vlog Series</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-infinix-hot-40-pro-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from Infinix Hot 40 Pro Devices</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/in-2024-turn-your-passion-into-profits-youtube-on-facebook-monetization-steps/"><u>In 2024, Turn Your Passion Into Profits YouTube on Facebook Monetization Steps</u></a></li>
-<li><a href="https://fox-that.techidaily.com/tablet-touch-issues-demystified-follow-our-8-essential-fixes/"><u>Tablet Touch Issues Demystified: Follow Our 8 Essential Fixes!</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/the-ultimate-guide-to-professional-streaming-on-fb/"><u>The Ultimate Guide to Professional Streaming on FB</u></a></li>
-<li><a href="https://discover-blog.techidaily.com/ultimate-tutorial-enjoying-cinema-quality-4k-movies-with-ease-using-apple-tv-part-four/"><u>Ultimate Tutorial: Enjoying Cinema-Quality 4K Movies with Ease Using Apple TV (Part Four)</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-elitemac-hd-video-and-sound-recordist/"><u>2024 Approved EliteMac HD Video & Sound Recordist</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-expert-analysis-the-leading-mac-screenshots-and-recorders-ranked/"><u>2024 Approved Expert Analysis The Leading Mac Screenshots & Recorders Ranked</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-youtube-visual-identity-made-easy/"><u>2024 Approved YouTube Visual Identity Made Easy</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/a-step-by-step-guide-to-maximize-macbook-pro-speed-with-an-ssd/"><u>A Step-by-Step Guide to Maximize MacBook Pro Speed with an SSD</u></a></li>
+<li><a href="https://games-able.techidaily.com/anticipating-a-price-hike-in-processor-marketplace/"><u>Anticipating a Price Hike in Processor Marketplace</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/1125655-9781609256173-coventry-magic-with-candles-oils-and-herbs/"><u>Coventry Magic with Candles, Oils, and Herbs | Free Book</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/explaining-the-gopro-burst-mode-for-2024/"><u>Explaining the GoPro Burst Mode for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/isolating-still-images-from-motion-in-windows-11-photos-for-2024/"><u>Isolating Still Images From Motion in Windows 11 Photos for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/1722998941536-pc-gamers-rejoice-god-of-war-fps-set-to-launch-soon/"><u>PC Gamers Rejoice: God of War FPS Set to Launch Soon</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/209691091-9781250246455-reconnecting-to-the-source/"><u>Reconnecting to The Source | Free Book</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolve-the-mystery-why-does-my-mouse-pointer-vanish-in-windows-10/"><u>Resolve the Mystery: Why Does My Mouse Pointer Vanish in Windows 10?</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/1723013174015-seeking-a-new-laptop-check-out-these-top-6-stores/"><u>Seeking a New Laptop? Check Out These Top 6 Stores</u></a></li>
 </ul></div>
 
