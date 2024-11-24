@@ -1,7 +1,7 @@
 ---
 title: Effective Fixes for Persona 3 Extra Release Not Launching Properly
-date: 2024-11-12T01:40:19.133Z
-updated: 2024-11-15T03:04:27.041Z
+date: 2024-11-21T19:08:28.630Z
+updated: 2024-11-24T17:54:30.054Z
 tags:
   - win11
   - win10
@@ -28,13 +28,6 @@ thumbnail: https://thmb.techidaily.com/e46847f4d730c4e71d01b69ffbbf4867ec3238091
 * [Fix 5: Enable low spec mode](https://tools.techidaily.com/drivereasy/download/)
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 1: Make sure your PC meets meets the system requirements for League of Legends
 
@@ -67,6 +60,10 @@ thumbnail: https://thmb.techidaily.com/e46847f4d730c4e71d01b69ffbbf4867ec3238091
 
  If your PC meets the system requirement for League of Legends but the game crashing issue persists, try the next fix, below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Update your drivers
 
  A missing or outdated driver may also trigger the game crashing issue. If it’s the case, this issue can be easily resolved after you update your drivers.
@@ -95,13 +92,6 @@ thumbnail: https://thmb.techidaily.com/e46847f4d730c4e71d01b69ffbbf4867ec3238091
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-84.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact**Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
@@ -115,15 +105,16 @@ thumbnail: https://thmb.techidaily.com/e46847f4d730c4e71d01b69ffbbf4867ec3238091
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-62-1024x796.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Click**Download** if Windows detects any new updates. If not, then click**Check for updates** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-63-1024x796.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3) Wait until Windows downloaded and installed all the updates.
 
@@ -145,18 +136,15 @@ thumbnail: https://thmb.techidaily.com/e46847f4d730c4e71d01b69ffbbf4867ec3238091
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap779-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Click**Yes** to continue. This may take a while.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap780.png)
 
  Run the game to see if you can play it without crashes. If not, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Enable low spec mode
 
@@ -170,16 +158,13 @@ thumbnail: https://thmb.techidaily.com/e46847f4d730c4e71d01b69ffbbf4867ec3238091
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap777.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3)**Check the box** next to **Enable Low Spec Mode** and click **DONE** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap778.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Run League of Legends to see if you resolved this issue.
 
@@ -203,18 +188,24 @@ Run League of Legends to see if you resolved this issue.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-will-televising-facebook-vids-become-a-trend/"><u>[New] 2024 Approved Will Televising Facebook Vids Become a Trend ?</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-accelerating-profile-lookups-on-facebook/"><u>[Updated] 2024 Approved Accelerating Profile Lookups on Facebook</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-crafting-viral-covers-for-your-facebook-profile/"><u>[Updated] Crafting Viral Covers for Your Facebook Profile</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-is-it-possible-to-watch-fb-videos-on-tv/"><u>[Updated] In 2024, Is It Possible to Watch FB Videos on TV ?</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-vidgrabmaster-mobilepc-app-downloads/"><u>[Updated] VidGrabMaster Mobile/PC App Downloads</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/1726029824676-8/"><u>「高解像度動画から静止画切り取りフリーソフトランキングトップ8をご紹介します」</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/2024-approved-mastering-hd-broadcasts-on-the-social-media-giant-fb/"><u>2024 Approved Mastering HD Broadcasts on the Social Media Giant, FB</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/2024-approved-recover-lost-watch-visual-preview/"><u>2024 Approved Recover Lost Watch Visual Preview</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-the-timeless-trove-of-freely-shared-works/"><u>2024 Approved The Timeless Trove of Freely Shared Works</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/build-your-brand-memes-with-kinemaster/"><u>Build Your Brand Memes with KineMaster</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/dive-into-action-footage-selecting-top-notch-cams-addons-for-2024/"><u>Dive Into Action Footage Selecting Top-Notch Cams Addons for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-tips-to-solve-football-manager-2021-stuck-loading-screen-and-get-playing-asap/"><u>Expert Tips to Solve Football Manager 2021 Stuck Loading Screen and Get Playing ASAP</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-motorola-razr-40-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Motorola Razr 40 to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-11-tips-for-facebook-video-marketing-to-drive-more-traffic-for-2024/"><u>[New] 11 Tips for Facebook Video Marketing to Drive More Traffic for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-dual-angles-debate-vertical-vs-horizontal-fb-videos/"><u>[New] 2024 Approved Dual Angles Debate Vertical vs Horizontal FB Videos</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-addressing-low-resolution-facebook-media-downloads-for-2024/"><u>[New] Addressing Low-Resolution Facebook Media Downloads for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-effortlessly-broadcasting-tiktok-videos-to-facebook/"><u>[New] In 2024, Effortlessly Broadcasting TikTok Videos to Facebook</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-maximize-your-impact-strategic-approaches-to-facebook-bios/"><u>[New] In 2024, Maximize Your Impact Strategic Approaches to Facebook Bios</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-avatar-asymmetry-artistry-sketching-distorted-images/"><u>[Updated] 2024 Approved Avatar Asymmetry Artistry Sketching Distorted Images</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-the-ultimate-guide-17-premier-lights-and-cameras/"><u>[Updated] In 2024, The Ultimate Guide 17 Premier Lights & Cameras</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-visual-aesthetics-boost-integrating-black-bar-and-box-frame-for-social-media/"><u>[Updated] In 2024, Visual Aesthetics Boost Integrating Black Bar & Box Frame for Social Media</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-unveil-the-secrets-of-successful-fb-strategies-in-these-top-15-insight-tools-for-2024/"><u>[Updated] Unveil the Secrets of Successful FB Strategies in These Top 15 Insight Tools for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-from-shoots-to-screens-dslr-setup-for-youtubefacebook-live/"><u>2024 Approved From Shoots to Screens DSLR Setup for YouTube/Facebook Live</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-vpna-fake-gps-location-free-review-on-poco-m6-pro-5g-drfone-by-drfone-virtual-android/"><u>A Detailed VPNa Fake GPS Location Free Review On Poco M6 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/behind-closed-portals-a-comprehensive-guide-to-internet-phantoms/"><u>Behind Closed Portals: A Comprehensive Guide to Internet Phantoms</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-total-war-warhammer-ii-crashes-effective-solutions-and-tips/"><u>Fixing 'Total War: Warhammer II' Crashes – Effective Solutions and Tips</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-realme-v30t-drfone-by-drfone-virtual-android/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On Realme V30T? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-reset-your-honor-v-purse-lock-screen-password-by-drfone-android/"><u>How to Reset your Honor V Purse Lock Screen Password</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-quick-quirks-making-manipulations-more-minimal/"><u>In 2024, Quick Quirks Making Manipulations More Minimal</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-selecting-the-top-infinite-storage-providers/"><u>In 2024, Selecting the Top Infinite Storage Providers</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-vivo-v29-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Vivo V29 | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/superior-extra-memory-solution-for-sony-a7c-for-2024/"><u>Superior Extra Memory Solution for Sony A7C for 2024</u></a></li>
 </ul></div>
 

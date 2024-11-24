@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Fix for Persistent Microsoft Edge Crashing on New Windows 11 Devices
-date: 2024-11-11T17:01:32.600Z
-updated: 2024-11-14T21:25:05.656Z
+date: 2024-11-19T17:21:36.630Z
+updated: 2024-11-24T16:01:58.633Z
 tags:
   - win11
   - win10
@@ -31,10 +31,7 @@ Recently, we’ve seen many players reporting that**Dirt 5 keeps crashing** on t
 6. **[Stop overclocking](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 1: Update your graphics driver
@@ -57,10 +54,7 @@ The outdated or broken graphics driver often crashes the game.
 3. Click the **Update** button next to a device to automatically download the correct version of their driver, then you can manually install the driver (you can do this with the FREE version).  
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Or click **Update All**  to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
@@ -77,30 +71,13 @@ The outdated or broken graphics driver often crashes the game.
 ![Steam->properties](https://images.drivereasy.com/wp-content/uploads/2019/04/image-122.png)
 2. Click **the LOCAL FILES tab** , then click **VERIFY INTEGRITY OF GAME CACHE…** . After that, click **CLOSE** .  
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![LOCAL FILES>VERIFY INTEGRITY OF GAME CACHE...](https://images.drivereasy.com/wp-content/uploads/2019/04/image-120.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  It may take some time to finish verifying the game files. Launch the game after the verifying process completed to see if this fix works. If not, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 3: Install the latest game patch
 
@@ -122,6 +99,10 @@ The outdated or broken graphics driver often crashes the game.
 
  Launch Dirt 5 to see if the game crashes. If the issue persists, try the next fix, below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 5: Set launch options on Steam
 
  If your PC didn’t meet the recommended system requirements for Dirt 5, and you’re suffering from the game crashing issue, you can also try using Steam launch options for Dirt 5\. If you want a full FPS boost, you can follow the steps below to Launch the game:
@@ -134,6 +115,10 @@ The outdated or broken graphics driver often crashes the game.
 `-useallavailablecores -high`
 
  Launch the game to see if it crashes again. If it still crashes, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 6: Stop overclocking
 
@@ -165,20 +150,18 @@ The outdated or broken graphics driver often crashes the game.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-enhancing-your-facebook-cover-leading-websites-for-professionals-for-2024/"><u>[New] Enhancing Your Facebook Cover Leading Websites for Professionals for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-m1-explored-apples-leap-in-computational-innovation/"><u>[New] M1 Explored Apple's Leap in Computational Innovation</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-snappy-screens-the-windows-way/"><u>[New] Snappy Screens The Windows Way</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-deciphering-the-function-of-the-blue-icon-in-messenger/"><u>[Updated] Deciphering the Function of the Blue Icon in Messenger</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-edge-of-insanity-the-10-most-chaotic-tiktok-contests/"><u>[Updated] Edge of Insanity The 10 Most Chaotic TikTok Contests</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-rock-your-facebook-profile-add-pin-play-and-manage-music-iphone-and-android/"><u>[Updated] Rock Your Facebook Profile Add, Pin, Play, & Manage Music (iPhone & Android)</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-renowned-20-free-public-domain-pubg-sets/"><u>2024 Approved Renowned 20 Free, Public Domain PUBG Sets</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/basics-of-effective-fb-ad-cta-design-for-2024/"><u>Basics of Effective FB Ad CTA Design for 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/in-2024-access-fb-urls-at-free-optimal-downloader-tools-of-the-year/"><u>In 2024, Access FB URLs at FREE Optimal Downloader Tools of the Year</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/in-2024-deciphering-the-disappearance-of-recommended-video-content-in-your-newsfeed/"><u>In 2024, Deciphering the Disappearance of Recommended Video Content in Your Newsfeed</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-foremost-corporate-cloud-storage-hubs/"><u>In 2024, Foremost Corporate Cloud Storage Hubs</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-motorola-moto-g84-5g-location-by-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Motorola Moto G84 5G Location by Number | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/inshot-guide-successfully-load-tracks-into-videos/"><u>InShot Guide Successfully Load Tracks Into Videos</u></a></li>
-<li><a href="https://common-error.techidaily.com/quick-troubleshooting-guide-easily-correcting-battery-not-charging-problems/"><u>Quick Troubleshooting Guide: Easily Correcting 'Battery Not Charging' Problems</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/top-mac-video-converter-reviews-lanno-migliore-del-2017-al-2018-analizzato/"><u>Top Mac Video Converter Reviews: L'anno Migliore Del 2017 Al 2018 Analizzato</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-beginning-your-instagram-live-journey/"><u>[New] 2024 Approved Beginning Your Instagram Live Journey</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ce-the-art-of-online-fame-trending-on-youtube/"><u>[New] Ace the Art of Online Fame Trending on YouTube</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-digitally-preserved-the-ultimate-guide-for-saving-twitter-vids/"><u>[New] Digitally Preserved The Ultimate Guide for Saving Twitter Vids</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-sharp-sight-and-spectrum-diving-into-the-z32x-display/"><u>[New] Sharp Sight and Spectrum Diving Into the Z32X Display</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-why-does-your-fb-message-feed-show-a-blue-image-decoding-its-purpose/"><u>[New] Why Does Your FB Message Feed Show a Blue Image? Decoding Its Purpose</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-broadcasting-to-the-big-screen-watching-fb-videos-on-tv/"><u>[Updated] 2024 Approved Broadcasting to the Big Screen Watching FB Videos on TV?</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-tailoring-your-online-persona-with-a-new-background-photo/"><u>[Updated] In 2024, Tailoring Your Online Persona with a New Background Photo</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-the-ultimate-list-best-fb-videos-to-watch-for-2024/"><u>[Updated] The Ultimate List Best FB Videos To Watch for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/navigating-windows-explorer-with-hidden-pathbar-tricks-revealed/"><u>Navigating Windows Explorer with Hidden Pathbar Tricks Revealed</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-nokia-c12-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Nokia C12 | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/the-complete-guide-to-vivo-v30-pro-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>The Complete Guide to Vivo V30 Pro FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://facebook.techidaily.com/thread-closure-coming-this-december-on-instagram/"><u>Thread Closure Coming This December on Instagram</u></a></li>
+<li><a href="https://driver-error.techidaily.com/upgraded-video-feeds-asus-webcam-and-windows-1e-connection/"><u>Upgraded Video Feeds: ASUS Webcam & Windows 1E Connection</u></a></li>
 </ul></div>
 

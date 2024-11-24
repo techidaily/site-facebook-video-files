@@ -1,7 +1,7 @@
 ---
 title: "Resident Evil Village: Troubleshooting Guide for Overcoming Black Screen Glitches on PC"
-date: 2024-11-11T02:07:22.391Z
-updated: 2024-11-14T16:16:55.959Z
+date: 2024-11-17T17:03:41.324Z
+updated: 2024-11-24T16:15:16.626Z
 tags:
   - win11
   - win10
@@ -17,19 +17,16 @@ thumbnail: https://thmb.techidaily.com/b926e430c3910450366f0c5eac6f2faf425580bfe
 
 Bothered by Enlisted black screen issue? Don’t worry, you’re not alone. This post shows you how to fix black screen issues step-by-step.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Before trying…
 
 There’re things you can do before trying complicated fixes:
 
 * Make sure you’ve closed unnecessary background programs
 * Make sure Enlisted are not blocked from your firewall
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -38,19 +35,6 @@ There’re things you can do before trying complicated fixes:
 1. [Run as administrator](https://tools.techidaily.com/drivereasy/download/)
 2. [Install Windows updates](https://tools.techidaily.com/drivereasy/download/)
 3. [Update graphic driver](https://tools.techidaily.com/drivereasy/download/)
-
-<!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 1: Run as administrator
 
@@ -62,16 +46,17 @@ There’re things you can do before trying complicated fixes:
 3. In the Compatibility tab, click **Run as administrator** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-2.jpg)
 4. Relaunch the game.
 
 If it’s not working, move to the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Install Windows updates
 
@@ -81,17 +66,14 @@ If it’s not working, move to the next fix.
 ![how to download and install Windows updates](https://images.drivereasy.com/wp-content/uploads/2021/01/check-for-updates.png)
 2. Click on the **Check for updates**  tab. If there are any updates available, it’ll automatically start to download and install it. Simply wait for it to complete and you should be asked to restart your computer.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![how to download and install Windows updates](https://images.drivereasy.com/wp-content/uploads/2021/01/click-on-the-Check-for-updates-tab.png)
 3. Launch Enlisted and check.
 
  If this didn’t solve your problems, read on for further troubleshooting.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Update graphic driver
 
@@ -111,6 +93,10 @@ If it’s not working, move to the next fix.
 2. Run Driver Easy and click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/DE-scan-screen.png)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. You need the Pro version of Driver Easy to do this, so you’ll be prompted to upgrade.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Don’t worry; it comes with a 30-day money-back guarantee, so if you don’t like it you can get a full refund, no questions asked.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/DE-Update-all-drivers.png)
@@ -138,16 +124,22 @@ If it’s not working, move to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-the-essential-guide-to-editing-youtube-videos-seamlessly-in-imovie/"><u>[New] 2024 Approved The Essential Guide to Editing YouTube Videos Seamlessly in iMovie</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-game-on-with-premium-screens-for-your-xbox-series-x-console-for-2024/"><u>[New] Game on with Premium Screens for Your Xbox Series X Console for 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-fix-facebook-media-failure-on-devices/"><u>[Updated] In 2024, Fix Facebook Media Failure on Devices</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-prime-7-media-gatherers-on-fb/"><u>[Updated] In 2024, Prime 7 Media Gatherers on FB</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/2024-approved-composition-techniques-for-eye-catching-fb-ad-content/"><u>2024 Approved Composition Techniques for Eye-Catching FB Ad Content</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/2024-approved-from-click-to-chatter-turning-titles-into-talk-on-fb/"><u>2024 Approved From Click to Chatter Turning Titles Into Talk on FB</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/enjoy-immersive-movie-experiences-watch-vr-content-on-netflix-via-ios-device-app/"><u>Enjoy Immersive Movie Experiences: Watch VR Content on Netflix via iOS Device App</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-will-ispoofer-update-on-realme-gt-5-drfone-by-drfone-virtual-android/"><u>In 2024, Will iSpoofer update On Realme GT 5 | Dr.fone</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/maximizing-memory-storing-snapshots-in-photo-albums-from-snapchat/"><u>Maximizing Memory Storing Snapshots in Photo Albums From Snapchat</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/top-webinar-designers-toolset/"><u>Top Webinar Designer's Toolset</u></a></li>
-<li><a href="https://techidaily.com/update-your-hardware-drivers-with-device-manager-on-windows-10-and-7-by-drivereasy-guide/"><u>Update your hardware drivers with Device Manager on Windows 10 & 7</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-facebook-vids-made-simple-as-mp4-downloads/"><u>[New] 2024 Approved Facebook Vids Made Simple as MP4 Downloads</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-craft-your-first-short-film-with-windows-8-movie-maker/"><u>[New] Craft Your First Short Film with Windows 8 Movie Maker</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-firefoxs-prime-expert-downloads-and-addons-navigating-facebook-videos-for-2024/"><u>[New] Firefox's Prime Expert Downloads & Addons Navigating Facebook Videos for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-the-fast-lane-to-excellent-captioning-a-guide-to-impressive-fb-media-posts/"><u>[New] In 2024, The Fast Lane to Excellent Captioning A Guide to Impressive FB Media Posts</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-rhythm-raiders-your-guide-to-downloading-skype-melodies/"><u>[New] Rhythm Raiders Your Guide to Downloading Skype Melodies</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-top-10-most-watched-music-videos-on-fb/"><u>[Updated] 2024 Approved Top 10 Most Watched Music Videos on FB</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-maximizing-engagement-in-post-facebook-algorithm-world/"><u>[Updated] Maximizing Engagement in Post-Facebook Algorithm World</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-navigating-the-maze-of-srt-to-xml-ssa-ttml-conversions/"><u>2024 Approved Navigating the Maze of SRT-to-XML, SSA, TTML Conversions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1721390291559-emoji-free-tweet-evolution-linuss-unmasking-trojan-discourse-and-chatgpt-hurdles/"><u>Emoji-Free Tweet Evolution, Linus's Unmasking, Trojan Discourse, & ChatGPT Hurdles</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/exploring-a-fresh-location-comprehensive-insights-on-watch-dogs-legion/"><u>Exploring a Fresh Location: Comprehensive Insights on Watch Dogs: Legion</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-vivo-x-fold-2-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Vivo X Fold 2 | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-3-ways-to-track-itel-s23-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Track Itel S23 without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-facebook-video-downloader-and-mp3-maker-for-the-modern-age/"><u>In 2024, Facebook Video Downloader & MP3 Maker for the Modern Age</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-sharing-tactics-igtv-for-a-larger-fb-audience/"><u>In 2024, Sharing Tactics IGTV for a Larger FB Audience</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-virtual-footprint-effective-methods-for-archiving-lives/"><u>In 2024, Virtual Footprint Effective Methods for Archiving Lives</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/leading-tools-top-6-fb-lite-video-extractors/"><u>Leading Tools TOP 6 FB Lite Video Extractors</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/the-ultimate-checklist-for-instagram-popularity-surge/"><u>The Ultimate Checklist for Instagram Popularity Surge</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Troubleshooting iPhone & Android  FB Messenger Stuck on Videos\""
-date: 2024-07-14T01:19:06.485Z
-updated: 2024-07-15T01:19:06.485Z
+date: 2024-11-19T17:30:47.282Z
+updated: 2024-11-24T16:13:50.440Z
 tags:
   - ai video
   - ai facebook
@@ -37,10 +37,11 @@ Facebook is one of the most popular social media websites/applications, and now 
 
 Sometimes due to an issue, Facebook Messenger cannot send videos or photos; that is what you will learn in this article and how to fix those issues.
 
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Why Can Facebook Messenger Not Send Videos and Photos
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Reason 1: Network Problem**
 
@@ -53,6 +54,10 @@ Another reason why Facebook messenger is not sending messages could be that your
 ### **Reason 3: File Size Exceeding Limit**
 
 One of the reasons that may be the cause of the failed photo or video upload can be that the file you are trying to upload exceeds the limits set by Facebook messenger. Messenger allows the size of any media file, photo, or video not to exceed 25 MB. If the size exceeds the limit, Facebook Messenger will show an error.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Reason 4: Session Expired**
 
@@ -78,6 +83,10 @@ In case of weaker signals, drop down your notification panel and set toggle on y
 
 ![Click on Aeroplane icon](https://images.wondershare.com/filmora/article-images/2021/facebook-messenger-not-sending-videos-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Doing this will connect your device to the nearest cell tower and improve signal quality, and your messages, videos, and photos will be sent on Facebook Messenger.
 
 ### **Fix 2: Phone Storage Issue**
@@ -90,9 +99,6 @@ This is a relatively easy fix in devices using the Android operating system rath
 
 The menu will show you different options along with some stats as well. Tap on storage, and you will see the details of how Messenger is using the storage of your device.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Click on storage](https://images.wondershare.com/filmora/article-images/2021/facebook-messenger-not-sending-videos-5.png)
 
 At the bottom, you will see two main options, clear cache and clear data in this menu. At first, tap on clear cache, and it will clear all the temporary settings and extra data that you do not need.
@@ -154,6 +160,10 @@ Now there is no need to worry regardless of what device you have or what operati
 [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
 
 [![iOS](https://images.wondershare.com/assets/images-common/badges-apple.svg)](https://app.adjust.com/w06dr6m%5F19za1f6) [![Android](https://images.wondershare.com/assets/images-common/badges-google.svg) ](https://app.adjust.com/w06dr6m%5F19za1f6)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [Try It Free >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
@@ -323,6 +333,10 @@ Another chance is that the recipient may have deactivated their account right af
 
 Here are the fixes to the issues mentioned above. Some fixes may be the same on both iPhone and Android, while others may vary depending upon your device's operating system.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Fix 1: Network Settings**
 
 Please check your Wi-Fi connection, restart your router, and reconnect to your Wi-Fi network. If you are using cellular data, the issue may be that the signals are weak, or your data plan may have expired. Check your data plan or contact your carrier.
@@ -333,6 +347,10 @@ In case of weaker signals, drop down your notification panel and set toggle on y
 
 ![Click on Aeroplane icon](https://images.wondershare.com/filmora/article-images/2021/facebook-messenger-not-sending-videos-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Doing this will connect your device to the nearest cell tower and improve signal quality, and your messages, videos, and photos will be sent on Facebook Messenger.
 
 ### **Fix 2: Phone Storage Issue**
@@ -342,6 +360,10 @@ This is a relatively easy fix in devices using the Android operating system rath
 ![Click on Apps](https://images.wondershare.com/filmora/article-images/2021/facebook-messenger-not-sending-videos-3.png)
 
 ![Click on Messenger App](https://images.wondershare.com/filmora/article-images/2021/facebook-messenger-not-sending-videos-4.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 The menu will show you different options along with some stats as well. Tap on storage, and you will see the details of how Messenger is using the storage of your device.
 
@@ -362,6 +384,10 @@ However, in iOS, you will have to restart your device by pressing and holding th
 ![Select the app and Clear cache](https://images.wondershare.com/filmora/article-images/2021/facebook-messenger-not-sending-videos-8.png)
 
 Head down to the settings, General, iPhone storage, and scroll down to Facebook Messenger. After tapping on Messenger, you will see an option to delete the app. Delete it and then open the App Store, from where you can easily reinstall Facebook messenger, and you will be good to go after logging in!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Fix 3: File Size Issue**
 
@@ -388,6 +414,10 @@ All you have to do is press 'OK,' and it will take you to the login screen where
 Unfortunately, there is currently no fix to this issue. If someone has restricted you or blocked you on Facebook or Messenger, you cannot contact them or send them messages. You have to contact them through some other medium or application.
 
 ## Bonus Tips
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Messages Not Sending on iPhone and Android**
 
@@ -475,9 +505,6 @@ The menu will show you different options along with some stats as well. Tap on s
 
 At the bottom, you will see two main options, clear cache and clear data in this menu. At first, tap on clear cache, and it will clear all the temporary settings and extra data that you do not need.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Clear Cache on Android](https://images.wondershare.com/filmora/article-images/2021/facebook-messenger-not-sending-videos-6.png)
 
 This will hopefully solve the problem. If clearing cache does not help, tap on clear data. Clearing data will delete your account from the device, reset all permissions and settings.
@@ -491,6 +518,10 @@ However, in iOS, you will have to restart your device by pressing and holding th
 ![Select the app and Clear cache](https://images.wondershare.com/filmora/article-images/2021/facebook-messenger-not-sending-videos-8.png)
 
 Head down to the settings, General, iPhone storage, and scroll down to Facebook Messenger. After tapping on Messenger, you will see an option to delete the app. Delete it and then open the App Store, from where you can easily reinstall Facebook messenger, and you will be good to go after logging in!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Fix 3: File Size Issue**
 
@@ -518,9 +549,6 @@ Unfortunately, there is currently no fix to this issue. If someone has restricte
 
 ## Bonus Tips
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### **Messages Not Sending on iPhone and Android**
 
 If your text messages are not sent, the most common issue can be a network problem. Either your signals are weak, or if you are using iMessage on iOS or its mirror service on Androids that uses Google Duo, it means that your internet or mobile data is not working.
@@ -552,8 +580,6 @@ Now there is no need to worry regardless of what device you have or what operati
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -562,7 +588,17 @@ Now there is no need to worry regardless of what device you have or what operati
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-files.techidaily.com/new-elite-mp4-media-sender/"><u>[New] Elite MP4 Media Sender</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-exquisite-innovations-in-desktop-tech-for-2024/"><u>[New] Exquisite Innovations in Desktop Tech for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ow-to-turn-your-google-meet-into-a-youtube-live-event/"><u>[New] How To Turn Your Google Meet Into a YouTube Live Event</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-keeping-your-browsing-free-of-pop-up-videos/"><u>[New] In 2024, Keeping Your Browsing Free of Pop-Up Videos</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-on-demand-content-examination-summary/"><u>[New] On-Demand Content Examination Summary</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-cutting-edge-tools-for-youtube-content-capture-for-2024/"><u>[Updated] Cutting-Edge Tools for YouTube Content Capture for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/defrost-stuck-menus-top-fixes-to-try-today/"><u>Defrost Stuck Menus: Top Fixes to Try Today</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/from-lurker-to-influencer-enhancing-your-facebook-experience/"><u>From Lurker to Influencer Enhancing Your Facebook Experience</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-pathways-to-gaining-premium-image-content-without-payment/"><u>In 2024, Pathways to Gaining Premium Image Content Without Payment</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-strategies-for-clearer-facebook-live-footage-viewing/"><u>In 2024, Strategies for Clearer Facebook Live Footage Viewing</u></a></li>
+</ul></div>
 

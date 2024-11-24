@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Tips: How to Correctly Fix Scanner Malfunctions"
-date: 2024-11-12T00:59:16.122Z
-updated: 2024-11-14T21:14:55.944Z
+date: 2024-11-18T16:22:45.903Z
+updated: 2024-11-24T17:40:24.855Z
 tags:
   - win11
   - win10
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/2b0be1d254da9a28eb7fb0462b3c66de235332cf8
 
 Trying to play**Madden 20** but**it keeps crashing** ? You’re certainly not alone! While this is a very frustrating issue, it can be fixed…
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to fix**Madden 20** crashing
 
  Here are 5 fixes that have helped other users resolve the**Madden 20** **crashing** issue. You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -26,13 +30,6 @@ Trying to play**Madden 20** but**it keeps crashing** ? You’re certainly not al
 3. **[Repair Madden 20](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Install the latest game patch](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Reinstall Origin and Madden 20](https://tools.techidaily.com/drivereasy/download/)**
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 1: Update your device drivers
 
@@ -48,18 +45,15 @@ Trying to play**Madden 20** but**it keeps crashing** ? You’re certainly not al
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-439.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click the **Update**  button next to a flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4) Restart your computer for the changes to take effect.
 
@@ -96,6 +90,10 @@ Trying to play**Madden 20** but**it keeps crashing** ? You’re certainly not al
  1) On your keyboard, press the **Windows logo key** and **R** at the same time, then type **dxdiag** and press **Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-13.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) Under the **System** tab and you can check the **Operating System**  and **Memory** information on your PC.
 
@@ -139,13 +137,6 @@ Here is how to do it:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 5: Reinstall Origin and Madden 20
 
  If the above steps don’t solve the issue, then it’s likely that the files in Origin or Madden 20 are corrupt. So you can reinstall the client and the game to see if it solves the problem.
@@ -156,15 +147,16 @@ Here are the steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-174.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) In the program list, locate **Origin** , then right-click on it and click**Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-175-1024x499.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) Locate **Madden 20** and uninstall it too.
@@ -198,18 +190,22 @@ Here are the steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-boost-your-reach-tips-and-tricks-for-uploading-to-instagram-desktop/"><u>[New] 2024 Approved Boost Your Reach Tips & Tricks for Uploading to Instagram Desktop</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-a-step-by-step-approach-to-fb-video-retrieval/"><u>[New] In 2024, A Step-by-Step Approach to FB Video Retrieval</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-premier-mp4-broadcast-suite/"><u>[New] In 2024, Premier MP4 Broadcast Suite</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-two-screen-triumph-best-recorder-verdict/"><u>[New] Two-Screen Triumph Best Recorder Verdict</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-cyber-self-portraiture-creating-a-caricatured-emblem/"><u>[Updated] Cyber Self-Portraiture Creating a Caricatured Emblem</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-effortless-fb-movie-access-top-8-tools-of-23/"><u>[Updated] In 2024, Effortless FB Movie Access Top #8 Tools of '23</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-mastery-guide-sync-videos-to-facebook-pc-and-android-way/"><u>[Updated] Mastery Guide Sync Videos to Facebook - PC & Android Way</u></a></li>
-<li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-vivo-y28-5g-drfone-by-drfone-virtual-android/"><u>11 Best Location Changers for Vivo Y28 5G | Dr.fone</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/tive-ways-to-watch-multiple-youtube-videos-at-one-time/"><u>Effective Ways to Watch Multiple YouTube Videos at One Time</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/facebook-to-mp4-mastery-learn-how-to-convert-video-online-without-costs-for-2024/"><u>Facebook to MP4 Mastery Learn How To Convert Video Online Without Costs for 2024</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-a-realme-12-5g-phone-that-is-locked-by-drfone-android/"><u>How to Reset a Realme 12 5G Phone that is Locked?</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-nokia-g42-5g-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos From Nokia G42 5G to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-ultimate-guide-to-using-retro-effects-on-edits/"><u>In 2024, Ultimate Guide to Using Retro Effects on Edits</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-what-you-missed-a-closer-look-at-facebooks-2023-upgrades/"><u>[New] 2024 Approved What You Missed A Closer Look at Facebook's 2023 Upgrades</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-explore-iphones-best-value-top-10-budget-friendly-photo-collage-apps/"><u>[New] Explore iPhone's Best Value Top 10 Budget-Friendly Photo Collage Apps</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-fix-chrome-error-with-fb-videos/"><u>[New] Fix Chrome Error with FB Videos</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-graduating-from-novice-to-3d-lut-maestro/"><u>[New] Graduating From Novice to 3D LUT Maestro</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-navigate-through-group-sharing-options-on-messenger/"><u>[New] In 2024, Navigate Through Group Sharing Options on Messenger</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-top-8-best-apps-to-get-likes-on-facebook-android-and-iphone-for-2024/"><u>[New] Top 8 Best Apps to Get Likes on Facebook (Android and iPhone) for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-restoring-correct-self-image-amidst-message-distortion/"><u>[Updated] 2024 Approved Restoring Correct Self-Image Amidst Message Distortion</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-iconic-anime-intros-the-ultimate-collection/"><u>[Updated] Iconic Anime Intros The Ultimate Collection</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-social-media-connectivity-embedding-live-streams-from-twitch-to-fb/"><u>[Updated] In 2024, Social Media Connectivity Embedding Live Streams From Twitch to FB</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-safe-and-sound-securing-your-fb-live-conversations-on-screen-for-2024/"><u>[Updated] Safe & Sound Securing Your FB Live Conversations on Screen for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-how-to-share-tiktok-videos-to-facebook/"><u>2024 Approved How to Share TikTok Videos to Facebook?</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-motorola-moto-g04-drfone-by-drfone-virtual-android/"><u>Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Motorola Moto G04? | Dr.fone</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/crafting-captivating-youtube-presence-the-ultimate-guide-to-making-thumbnails-on-phones/"><u>Crafting Captivating YouTube Presence The Ultimate Guide to Making Thumbnails on Phones</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/how-to-add-end-screen-to-video-on-vimeo-in-2024/"><u>How to Add End Screen to Video on Vimeo, In 2024</u></a></li>
+<li><a href="https://discover-data.techidaily.com/secure-methods-for-wiping-your-hard-drive-on-windows-11-a-comprehensive-guide/"><u>Secure Methods for Wiping Your Hard Drive on Windows 11: A Comprehensive Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-guide-mastering-your-drive-with-the-mobile-app/"><u>Ultimate Guide: Mastering Your Drive with the Mobile App</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-yosemite-video-editing-essentials-tips-and-tricks/"><u>Updated 2024 Approved Yosemite Video Editing Essentials Tips and Tricks</u></a></li>
 </ul></div>
 

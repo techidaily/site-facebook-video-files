@@ -1,7 +1,7 @@
 ---
 title: Cyberpunk 2077 Frame Rate Improvements - Gameplay Enhanced
-date: 2024-11-09T02:08:29.997Z
-updated: 2024-11-14T16:49:08.680Z
+date: 2024-11-18T16:09:37.153Z
+updated: 2024-11-24T17:10:44.693Z
 tags:
   - win11
   - win10
@@ -27,6 +27,10 @@ Don’t worry, here’re fixes may help you solve the issue.
 2. [Change the mouse setting](https://tools.techidaily.com/drivereasy/download/)
 3. [Update the device driver](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Change the in-game settings
 
  Change the in-game setting can help you fix the input lagging issue. If you’re not using controllers, change[Graphics settings](https://tools.techidaily.com/drivereasy/download/) would also help.
@@ -37,25 +41,15 @@ Don’t worry, here’re fixes may help you solve the issue.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-15_15-48-13.jpg)
 2. Click the**CONTROLS** tab.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3. Under the**First-Person** Camera (Controller) section, find**Show Advanced Options** and click**ON** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-15_15-48-52.jpg)
 4. In the open section, change**Response Curve** to**Raw** , and set**Horizontal Turning Bonus** and**Vertical Turning Bonus** to**0** .  
 
-![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-15_15-50-02.jpg)
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-15_15-50-02.jpg)
 
 #### For mouse/keyboard users
 
@@ -75,13 +69,6 @@ If you’re not using the controller, check the below settings.
 
 If this fix doesn’t work, move to the next one.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 2: Change the mouse setting
 
  If you’re suffering mouse lagging, and the first fix not work, you can try to change mouse settings.
@@ -92,10 +79,7 @@ If this fix doesn’t work, move to the next one.
 3. Go to the**Mouse** tab, click**Additional mouse options** .  
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-15_16-00-50.jpg)
@@ -103,6 +87,10 @@ If this fix doesn’t work, move to the next one.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-15_16-01-18.jpg)
 5. Launch the game and check.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 If it doesn’t work, move to the next fix.
 
@@ -138,10 +126,7 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you need assistance, please contact **Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
@@ -167,20 +152,20 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-understanding-the-meaning-of-facebooks-blue-emoji/"><u>[New] 2024 Approved Understanding the Meaning of Facebook's Blue Emoji</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-apple-music-for-dynamic-video-enhancement/"><u>[New] Apple Music for Dynamic Video Enhancement</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-elevate-viewer-connection-mastering-the-art-of-square-footage-in-videos/"><u>[New] Elevate Viewer Connection Mastering the Art of Square Footage in Videos</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-engaging-video-credits-the-best-fonts-for-thumbnails-for-2024/"><u>[New] Engaging Video Credits The Best Fonts for Thumbnails for 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-from-concept-to-completion-building-effective-facebook-covers/"><u>[New] In 2024, From Concept to Completion Building Effective Facebook Covers</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-the-top-12-tactics-to-fix-and-make-your-vids-appear-on-fb-today/"><u>[New] In 2024, The Top 12 Tactics to Fix and Make Your Vids Appear on FB Today</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-unveil-your-world-in-wide-angle-iosandroid-photo-integration-on-social-media/"><u>[Updated] 2024 Approved Unveil Your World in Wide Angle IOS/Android Photo Integration on Social Media</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-elevate-your-content-mastery-in-live-streaming-screens/"><u>[Updated] In 2024, Elevate Your Content Mastery in Live Streaming Screens</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/2024-approved-tiktok-audio-integrity-overcoming-silent-intervals-in-videos/"><u>2024 Approved TikTok Audio Integrity Overcoming Silent Intervals in Videos</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/tuber-quizzes-to-know-what-type-of-youtuber-you-are/"><u>6 YouTuber Quizzes to Know What Type of YouTuber You Are</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-harness-the-power-of-youtube-studio-for-ultimate-edits/"><u>In 2024, Harness the Power of YouTube Studio for Ultimate Edits</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solving-splitgate-performance-issues-increase-your-fps-and-eliminate-lag/"><u>Solving Splitgate Performance Issues: Increase Your FPS and Eliminate Lag</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/tomtom-gopro-challenger-a-comprehensive-2023-review/"><u>TomTom GoPro Challenger - A Comprehensive 2023 Review</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/top-picks-downloading-templates-from-youtube-vids-for-2024/"><u>Top Picks Downloading Templates From YouTube Vids for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/uncluttered-focus-affinity-photos-cleanup-technique-for-2024/"><u>Uncluttered Focus Affinity Photo's Cleanup Technique for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-journey-to-the-heart-of-windows-11s-newest-gems/"><u>[New] 2024 Approved Journey to the Heart of Windows 11'S Newest Gems</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-the-blueprint-to-buzz-generating-posts/"><u>[New] In 2024, The Blueprint to Buzz-Generating Posts</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-video-make-for-facebook-how-to-make-facebook-video/"><u>[New] In 2024, Video Make for Facebook How to Make Facebook Video</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-step-wise-technique-turn-video-upside-down-in-vlc-media-player-for-2024/"><u>[New] Step-Wise Technique Turn Video Upside Down in VLC Media Player for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-facebooks-favorites-top-10-viral-music-videos-guide/"><u>[Updated] 2024 Approved Facebook's Favorites TOP 10 Viral Music Videos Guide</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2023-fix-reappear-disappeared-watch-video-icon-for-2024/"><u>2023 Fix Reappear Disappeared Watch Video Icon for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-unlock-facebook-popularity-discover-best-apps-from-androidiphone/"><u>2024 Approved Unlock Facebook Popularity Discover Best Apps From Android/iPhone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/conquering-peaks-and-valleys-comparing-the-mightiest-gopros-b-and-sessions/"><u>Conquering Peaks and Valleys Comparing the Mightiest GoPros, B & Sessions</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/from-concept-to-completion-producing-a-viral-facebook-reel-for-2024/"><u>From Concept to Completion Producing a Viral Facebook Reel for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-oppo-a1x-5g-drfone-by-drfone-virtual-android/"><u>How to share/fake gps on Uber for Oppo A1x 5G | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamline-system-performance-by-adding-disk-space-analyzer-tool/"><u>Streamline System Performance by Adding Disk Space Analyzer Tool</u></a></li>
+<li><a href="https://common-error.techidaily.com/tire-maintenance-ensure-that-your-tires-are-correctly-inflated-as-per-the-manufacturers-specifications-as-both-over-inflation-and-under-inflation-can-lead-t34/"><u>Tire Maintenance: Ensure that Your Tires Are Correctly Inflated as per the Manufacturer's Specifications, as Both Over-Inflation and Under-Inflation Can Lead to Increased Strain on Suspension Components and Uneven Wear Patterns</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1723862728633-unleash-your-inner-gamer-with-lenovo-legion-slim-5-a-steal-at-under-1100-from-newegg/"><u>Unleash Your Inner Gamer with Lenovo Legion Slim 5 – A Steal at Under $1,100 From Newegg!</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/virtual-vision-creation-shaping-a-humorous-self-portrait/"><u>Virtual Vision Creation Shaping a Humorous Self-Portrait</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/zoom-video-mastery-with-our-6-best-cam-guide/"><u>Zoom Video Mastery with Our #6 Best Cam Guide</u></a></li>
 </ul></div>
 

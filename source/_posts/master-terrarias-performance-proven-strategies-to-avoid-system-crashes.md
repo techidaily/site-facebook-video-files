@@ -1,7 +1,7 @@
 ---
 title: "Master Terraria's Performance : Proven Strategies to Avoid System Crashes"
-date: 2024-11-13T09:37:48.052Z
-updated: 2024-11-14T18:09:55.574Z
+date: 2024-11-17T16:30:08.120Z
+updated: 2024-11-24T18:10:48.332Z
 tags:
   - win11
   - win10
@@ -26,13 +26,6 @@ Before you move on, select your gaming platform first:
 * **[PC](https://tools.techidaily.com/drivereasy/download/)**
 * **[Xbox One](https://tools.techidaily.com/drivereasy/download/)**
 * **[PlayStation 4](https://tools.techidaily.com/drivereasy/download/)**
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### PC
 
@@ -95,6 +88,10 @@ Before you move on, select your gaming platform first:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-57.png)
 3. Relaunch Steam and _DBD_ to test your issue.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can hopefully run the game without crashing now. If your problem still exists, then move on to the fix below.
 
 #### Fix 4: Update your graphics driver
@@ -144,19 +141,20 @@ If your issue persists, then move on and try the next fix.
 ![](https://www.drivereasy.com/wp-content/uploads/2019/07/image-458.png)
 3. Right-click **EasyAntiCheat\_Setup.exe** , and then select **Run as administrator** . If you’re prompted about permissions, select Continue.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2019/09/image-190.png)
 4. Click the box, and then select**Dead by Daylight** from the drop-down list.  
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2019/09/image-191.png)
 5. Click**Repair Service** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2019/09/image-192.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After the process is complete, relaunch your game to check if your problem has been resolved. If not, read on and try the fix, below.
 
@@ -187,6 +185,10 @@ Follow the instructions below to see how to fix it:
 
 ![](https://www.drivereasy.com/wp-content/uploads/2019/05/image-720.png)
 3. Select **Power Options.**  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2019/05/image-721.png)
 4. Select **High Performance** .  
@@ -221,13 +223,6 @@ If this didn’t work for you, check the fix, below.
 ![](https://www.drivereasy.com/wp-content/uploads/2019/05/image-885.png)
 2. Right-click the **steamapps folder** and select **Copy.** Then, place the copy in another location to back it up.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2019/05/image-886.png)
 3. On your keyboard, press the **Windows logo** key and type **control** . Then, click **Control panel** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2019/05/image-737.png)
@@ -243,13 +238,6 @@ If this didn’t work for you, check the fix, below.
 ![](https://www.drivereasy.com/wp-content/uploads/2019/05/image-891.png)
 8. **[Download](https://store.steampowered.com/about/)**  and install Steam.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 9. Right-click your **Steam icon**  and select **Open file location** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2019/05/image-892.png)
 10. Move the backup **steamapps folder**  you create before to your current directory location.  
@@ -258,6 +246,10 @@ If this didn’t work for you, check the fix, below.
 11. Restart_Dead by Daylight_ to see if this fixed your issue.
 
  Hopefully, one of the fixes above fixed your issue and you’re now able to actually play! If you have any questions, please leave a comment below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Xbox One
 
@@ -297,8 +289,16 @@ If this didn’t work for you, check the fix, below.
 ![](https://www.drivereasy.com/wp-content/uploads/2019/08/xbox-one-controller-2206687_1920.jpg)
 2. Select **Settings** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2019/08/image-92.png)
 3. Select **System** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2019/08/image-90.png)
 4. Select **Update console.**  
@@ -319,24 +319,16 @@ If this didn’t work for you, check the fix, below.
 
 ![](https://www.drivereasy.com/wp-content/uploads/2019/08/image-90.png)
 4. Select **Console info.**  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2019/08/image-94.png)
 5. Select **Reset console** .  
 
 ![](https://www.drivereasy.com/wp-content/uploads/2019/08/image-97.png)
 6. Select **Reset and keep my games & apps** .  
-
-<!-- affiliate ads begin -->
-<span id="1834906">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2019/08/image-99.png)
 
@@ -358,16 +350,13 @@ If this didn’t work for you, check the fix, below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/xbox-one-controller-2206687_1920-1-1024x671.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **4)** Highlight your game, then press the **☰ button** on your controller.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-175-1024x439.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **5)**  Select **Uninstall** .
 
@@ -446,13 +435,6 @@ If this didn’t work for you, check the fix, below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1099.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **5)**  Press the **PS button** on your controller.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1094.png)
@@ -466,10 +448,7 @@ If this didn’t work for you, check the fix, below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1096.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **8)**  Restart your game to see if this fix worked.
@@ -499,18 +478,22 @@ If this didn’t work for you, check the fix, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-a-step-by-step-process-to-upgrade-and-update-video-covers-on-social-media/"><u>[New] In 2024, A Step-by-Step Process to Upgrade and Update Video Covers on Social Media</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-reclaim-your-vanished-youtube-success-with-these-key-12-steps-for-fb-2023/"><u>[New] In 2024, Reclaim Your Vanished YouTube Success with These Key 12 Steps for FB, 2023</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-pixelpioneer-screensaver-logging-for-2024/"><u>[New] PixelPioneer Screensaver Logging for 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-unveiling-history-watching-older-facebook-content-on-your-device-for-2024/"><u>[New] Unveiling History Watching Older Facebook Content on Your Device for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-audience-connection-implementing-a-triplet-of-copywriting-tactics-in-fb-ads/"><u>[Updated] In 2024, Audience Connection Implementing a Triplet of Copywriting Tactics in FB Ads</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-unleashing-creativity-crafting-compelling-fb-video-campaigns/"><u>[Updated] In 2024, Unleashing Creativity Crafting Compelling FB Video Campaigns</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-free-top-6-best-apps-for-making-photo-slideshow-with-music-on-iphone/"><u>2024 Approved FREE Top 6 Best Apps for Making Photo Slideshow With Music on iPhone</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-personalizing-public-vs-private-settings-on-youtube/"><u>2024 Approved Personalizing Public vs Private Settings on YouTube</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/expert-advice-on-repairing-your-mac-software-that-just-wont-open/"><u>Expert Advice on Repairing Your Mac Software That Just Won't Open</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/five-premier-extensions-to-hoard-fb-videos/"><u>Five Premier Extensions to Hoard FB Videos</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/how-to-translate-video-from-japanese-to-english-online-in-2024/"><u>How To Translate Video From Japanese to English Online, In 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/in-2024-tailored-approach-boosting-fans-via-page-ranking/"><u>In 2024, Tailored Approach Boosting Fans via Page Ranking</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/overcooked-2-revealed-a-mouthwatering-journey-through-mayhem/"><u>Overcooked! 2 Revealed: A Mouthwatering Journey Through Mayhem</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-2023s-fb-url-vault-securely-access-8-free-downloads-online/"><u>[New] 2024 Approved 2023'S FB URL Vault Securely Access 8 Free Downloads Online</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-optimizing-your-tv-for-social-video-streams/"><u>[New] 2024 Approved Optimizing Your TV for Social Video Streams</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-audio-silencing-for-clearer-videographies-freepremium/"><u>[New] Audio Silencing for Clearer Videographies (Free/Premium)</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-leading-brands-offering-the-best-steadicams-for-dslr-users/"><u>[New] In 2024, Leading Brands Offering the Best Steadicams for DSLR Users</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-elite-mp4-streamer-system-for-fb/"><u>[Updated] 2024 Approved Elite MP4 Streamer System for FB</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-techniques-for-transforming-facespace-lives-into-tv-content/"><u>[Updated] 2024 Approved Techniques for Transforming Facespace Lives Into TV Content</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-discover-the-lesser-known-page-picks-for-memelings/"><u>[Updated] Discover the Lesser-Known Page Picks for Memelings</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-leverage-the-power-of-live-streaming-strategies-for-facebook-dominance-for-2024/"><u>[Updated] Leverage the Power of Live Streaming Strategies for Facebook Dominance for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/enhance-branding-the-ultimate-guide-to-custom-urls-for-youtube/"><u>Enhance Branding The Ultimate Guide to Custom URLs for YouTube</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/fleeting-films-on-the-friendly-social/"><u>Fleeting Films on the Friendly Social</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-on-nubia-z50s-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location on Nubia Z50S Pro | Dr.fone</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-step-up-your-game-expert-tips-for-tiktok-editing/"><u>In 2024, Step Up Your Game Expert Tips for TikTok Editing</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/setting-your-desired-background-positions-in-flipbook-presentations-a-step-by-step-tutorial/"><u>Setting Your Desired Background Positions in FlipBook Presentations - A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://driver-download.techidaily.com/simple-guide-update-and-install-amd-radeon-rx-470-drivers/"><u>Simple Guide: Update and Install AMD Radeon RX 470 Drivers</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/social-scanning-shorthand-efficient-profile-hunting-on-fb/"><u>Social Scanning Shorthand Efficient Profile Hunting on FB</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-balance-between-user-freedom-and-ai-enforced-regulations/"><u>The Balance Between User Freedom and AI-Enforced Regulations</u></a></li>
+<li><a href="https://win-dash.techidaily.com/wav-youtube/"><u>WAVに最新アップデート! 今年はこれがYouTube動画をダウンロードするための簡単方法</u></a></li>
 </ul></div>
 

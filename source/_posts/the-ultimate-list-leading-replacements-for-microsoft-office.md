@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate List: Leading Replacements for Microsoft Office"
-date: 2024-11-11T08:24:29.177Z
-updated: 2024-11-15T03:21:29.512Z
+date: 2024-11-23T17:28:50.985Z
+updated: 2024-11-24T18:10:14.468Z
 categories:
   - BestProducts
 description: "This Article Describes The Ultimate List: Leading Replacements for Microsoft Office"
@@ -65,6 +65,10 @@ thumbnail: https://thmb.techidaily.com/c96841199ff180b06a551ff8b5da580eafb5a9f00
 
 ![Microsoft Flight Simulator X: Gold Edition](https://www.lifewire.com/thmb/uwjre5Sam8ge-OfnA-CJEUdp8Vo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW840502MicrosoftFlightSimX_02-308281f4a45a45439f265538706d4f33.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Lifewire / Zach Sweat
 
 ## **Setup Process: Please insert disc 1**
@@ -90,13 +94,6 @@ thumbnail: https://thmb.techidaily.com/c96841199ff180b06a551ff8b5da580eafb5a9f00
  We chose to go with the Thrustmaster T16000M FCS HOTAS, including the added pedals, which is one of the more popular options that doesn’t cost an arm and a leg. To get your new HOTAS installed, simply plug everything into your computer, connect the pedals, and Windows should recognize the peripherals and set them up. Once they’re ready, you can go into your settings in FSX and fine-tune things, map the buttons and functions to whatever custom functions you prefer, and jump into a game with your new HOTAS.
 
 ![Microsoft Flight Simulator X: Gold Edition](https://www.lifewire.com/thmb/q7UBmrCRA6IrC6gs4BrRYIfrWRc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW840502MicrosoftFlightSimX_03-a1872076dd974dc1a989684c97e2d45f.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Lifewire / Zach Sweat
 
@@ -124,7 +121,15 @@ thumbnail: https://thmb.techidaily.com/c96841199ff180b06a551ff8b5da580eafb5a9f00
 
 ![Microsoft Flight Simulator X: Gold Edition](https://www.lifewire.com/thmb/oUI0sMg_D0Wrf9Maq7QACUvz4sI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW840502MicrosoftFlightSimX_04-a52be5fb83e54c04acfc68a9b28af39d-2c15555da01247beb7532ce91594646d.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Lifewire / Zach Sweat
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Graphics: Like traveling back in time**
 
@@ -139,10 +144,7 @@ Lifewire / Zach Sweat
  Aircraft textures on the outside are perhaps the highlight of this area, but the ground, buildings, cockpit, and controls don’t exactly look amazing. You can, however, download some mods to add HD resolutions to things that will help remedy this, and they’re pretty easy to install.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Price: Cheap unless you want the DLC**
@@ -152,6 +154,10 @@ Lifewire / Zach Sweat
  For Steam users, however, the game has an insane amount of DLC options. While most of these aren’t necessary to have, they can really add up if you’re someone who likes to have it all. Currently, the Steam version has almost $2,000 worth of DLC, but no one really needs to get all that to have a good time with FSX, so choose what you want, or simply enjoy the base game and download mods to supplement the content for free.
 
  We should also mention here that there are plans in place for FSX to finally get a true successor in the near future with Microsoft’s Flight Simulator 2020 just on the horizon, so it may be worth it to hold off.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Microsoft Flight Simulator X vs. X-Plane 11 Global Flight Simulator**
 
@@ -169,31 +175,11 @@ Lifewire / Zach Sweat
 
  It’s crazy to think that a game that’s over a decade old is still relevant today, but FSX is one of those legendary titles that keeps chugging along. If you can handle the outdated graphics and controls, it will easily bring you hundreds of hours of entertainment.
 
-<!-- affiliate ads begin -->
-<span id="1983551">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Similar Products We've Reviewed
 
 * [Minecraft](https://www.lifewire.com/minecraft-review-4777049)
 * PlayerUnknown’s Battlegrounds
 * [Overwatch](https://www.lifewire.com/overwatch-review-4769890)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Specs
 
@@ -222,21 +208,22 @@ Lifewire / Zach Sweat
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-crafting-captivating-stories-on-fb-a-comprehensive-guide-to-bio-crafting/"><u>[New] Crafting Captivating Stories on FB A Comprehensive Guide to Bio Crafting</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-facebooks-unique-media-the-top-ios-downloader-tools-revealed-today-for-2024/"><u>[New] Facebook's Unique Media The Top iOS Downloader Tools Revealed Today for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-secrets-to-successful-live-broadcasts-from-iphonesandroids/"><u>[New] In 2024, Secrets to Successful Live Broadcasts From iPhones/Androids</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-master-the-art-of-excluding-commercial-videos-from-social-media-for-2024/"><u>[New] Master the Art of Excluding Commercial Videos From Social Media for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-top-11-techniques-for-perfecting-hue-balance/"><u>[Updated] 2024 Approved Top 11 Techniques for Perfecting Hue Balance</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-prevent-video-playback-issues-in-android-apps/"><u>[Updated] In 2024, Prevent Video Playback Issues in Android Apps</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-syncing-your-browser-with-auto-play-feature-in-facebook-for-2024/"><u>[Updated] Syncing Your Browser with Auto-Play Feature in Facebook for 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/2024-approved-increasing-likes-and-shares-facebooks-best-practices/"><u>2024 Approved Increasing Likes & Shares Facebook's Best Practices</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-mac-users-top-5-mkv-decoders/"><u>2024 Approved Mac Users Top 5 MKV Decoders</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/address-incompatible-facebook-videos-on-ios-for-2024/"><u>Address Incompatible Facebook Videos on iOS for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/crystalvision-pro-screen-capturing-101/"><u>CrystalVision Pro Screen Capturing 101</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-top-notch-solutions-for-disabled-apple-id-on-iphone-14-pro-max-making-it-possible-by-drfone-ios/"><u>In 2024, Top-Notch Solutions for Disabled Apple ID On iPhone 14 Pro Max Making It Possible</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/in-2024-unlocking-your-instagrams-virtual-meet-up-potential/"><u>In 2024, Unlocking Your Instagram's Virtual Meet-Up Potential</u></a></li>
-<li><a href="https://games-able.techidaily.com/operasides-epic-battle-with-microsofts-edge-for-games/"><u>Operaside's Epic Battle with Microsoft's Edge for Games</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshoot-and-repair-iphones-standby-mode-issues-4-proven-methods/"><u>Troubleshoot & Repair iPhone's Standby Mode Issues: 4 Proven Methods</u></a></li>
-<li><a href="https://discover-dash.techidaily.com/tutoriel-transfert-automatique-de-vos-donnees-vers-le-nuage-fichiers-et-dossiers-sur-un-disque-dur-externe/"><u>Tutoriel : Transfert Automatique De Vos Données Vers Le Nuage - Fichiers Et Dossiers Sur Un Disque Dur Externe</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-evasion-of-ennui-comical-cells-and-chuckles-in-facebooks-boundaries/"><u>[New] 2024 Approved Evasion of Ennui Comical Cells and Chuckles in Facebook's Boundaries</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-conveniently-capture-top-chrome-utilities-for-fb-video-downloads/"><u>[New] In 2024, Conveniently Capture Top Chrome Utilities for FB Video Downloads</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-how-to-skip-without-missing-tips-on-bypassing-edgenuity-video-lessons/"><u>[New] In 2024, How to Skip Without Missing Tips on Bypassing Edgenuity Video Lessons</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-learn-the-mechanics-behind-self-playing-videos-in-fb/"><u>[New] In 2024, Learn the Mechanics Behind Self-Playing Videos in Fb</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-solve-facebook-messenger-not-sending-videos-on-iphone-and-android/"><u>[New] In 2024, Solve “Facebook Messenger Not Sending Videos” On iPhone and Android</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-exciting-auto-play-hits-for-children/"><u>[Updated] 2024 Approved Exciting Auto-Play Hits for Children</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-immersive-video-warfare-samsung-vs-lg-cam-clash-for-2024/"><u>[Updated] Immersive Video Warfare Samsung VS LG Cam Clash for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-safaris-picture-in-picture-on-ios-and-ipad-how-to-use/"><u>[Updated] Safari's Picture-in-Picture on iOS & iPad How to Use</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-engaging-audiences-with-wirecast-hosted-facebook-streams/"><u>2024 Approved Engaging Audiences with Wirecast-Hosted Facebook Streams</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-unlock-fb-lite-content-discover-the-best-video-downloader-apps/"><u>2024 Approved Unlock FB Lite Content Discover the Best Video Downloader Apps</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/adding-melodies-to-timelines-a-stepwise-guide-iosandroid-for-2024/"><u>Adding Melodies to Timelines A Stepwise Guide (iOS/Android) for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/elite-mp4-media-sender/"><u>Elite MP4 Media Sender</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-a-locked-honor-100-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked Honor 100 Phone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-vivo-y100-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Vivo Y100 to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-preparation-to-beat-giovani-in-pokemon-go-for-motorola-g54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Preparation to Beat Giovani in Pokemon Go For Motorola G54 5G | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-on-realme-narzo-n55-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Realme Narzo N55 FRP Bypass</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/top-backup-software-for-seagate-nas-systems-on-windows-platforms/"><u>Top Backup Software for Seagate NAS Systems on Windows Platforms</u></a></li>
 </ul></div>
 

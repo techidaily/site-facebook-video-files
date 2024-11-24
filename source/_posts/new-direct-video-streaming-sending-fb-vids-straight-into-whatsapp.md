@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Direct Video Streaming  Sending FB Vids Straight Into WhatsApp\""
-date: 2024-07-14T01:20:50.500Z
-updated: 2024-07-15T01:20:50.500Z
+date: 2024-11-18T17:46:03.331Z
+updated: 2024-11-24T17:35:43.097Z
 tags:
   - ai video
   - ai facebook
@@ -93,14 +93,15 @@ To manually **share Facebook video to WhatsApp** with your friends on iPhone, he
 
 **Step 1:** Install Facebook on your iPhone and sign in to your account by entering your username and password. Then search for the videos you want to share with your friends or family members.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 ![login to facebook account](https://images.wondershare.com/filmora/article-images/2022/02/share-facebook-video-to-whatsapp-7.jpg)
 
 **Step 2:** Select the video you want to share and tap on it. Here you will find two ways to share this particular video. You can use the "Share" icon to copy the link and share it with the person on WhatsApp or directly send the link on WhatsApp through the "Share" option.
 
 ![click on whatsapp share option](https://images.wondershare.com/filmora/article-images/2022/02/share-facebook-video-to-whatsapp-8.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 3:** Afterward, it’s time to go to your WhatsApp, where you can select any conversation or contact to send this video.
 
@@ -126,6 +127,10 @@ To **share Facebook video to WhatsApp**, first, you need to download the video b
 
 ![go to app downloads](https://images.wondershare.com/filmora/article-images/2022/02/share-facebook-video-to-whatsapp-12.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 5:** Now, to share the downloaded video with your friends, open your WhatsApp and select the contact you want to share the video. Select the attachment button and tap on "Photo and Video Library."
 
 ![click on photo and video library](https://images.wondershare.com/filmora/article-images/2022/02/share-facebook-video-to-whatsapp-13.jpg)
@@ -133,6 +138,10 @@ To **share Facebook video to WhatsApp**, first, you need to download the video b
 **Step 6:** Select the downloaded video from your camera roll and press on the "Send" icon to share it. It will take some time to send the video successfully, depending upon the quality and size of your video.
 
 ![click on send button](https://images.wondershare.com/filmora/article-images/2022/02/share-facebook-video-to-whatsapp-14.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: Share Facebook Videos to WhatsApp on Desktop
 
@@ -145,6 +154,10 @@ If you are looking to **share Facebook video to WhatsApp** on desktop, you are e
 **Step 2:** Now open the WhatsApp web from your browser by typing “[web.whatsapp.com](https://web.whatsapp.com/)." Meanwhile, open WhatsApp on your phone and go to its "Settings." There you have to tap on the option of "WhatsApp Web." So, scan the QR code on your desktop through your phone, and your WhatsApp account will be open on your PC.
 
 ![login whatsapp web](https://images.wondershare.com/filmora/article-images/2022/02/share-facebook-video-to-whatsapp-16.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 3:** Afterward, you can select any contact to share the Facebook video. On the input bar, paste the URL link of the Facebook video and click on "Send" to share it with your contact finally.
 
@@ -262,9 +275,6 @@ To **share Facebook video to WhatsApp**, first, you need to download the video b
 
 ![click on send button](https://images.wondershare.com/filmora/article-images/2022/02/share-facebook-video-to-whatsapp-14.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 ## Part 3: Share Facebook Videos to WhatsApp on Desktop
 
 If you are looking to **share Facebook video to WhatsApp** on desktop, you are exactly at the right place as in this section; we will discuss an easy way to do it. We will use WhatsApp web to share the video with your friends in this method. Just pay heed to the following steps:
@@ -280,6 +290,10 @@ If you are looking to **share Facebook video to WhatsApp** on desktop, you are e
 **Step 3:** Afterward, you can select any contact to share the Facebook video. On the input bar, paste the URL link of the Facebook video and click on "Send" to share it with your contact finally.
 
 ![paste facebook video link in chat](https://images.wondershare.com/filmora/article-images/2022/02/share-facebook-video-to-whatsapp-17.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -321,9 +335,6 @@ If you want to share a Facebook group video with a person present in the same gr
 
 **Step 5:** You can also directly share the Facebook video on WhatsApp with your friend or family by clicking on the “Share” button and then selecting the option of “WhatsApp.” It will directly open WhatsApp for sharing the video link.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![tap on whatsapp icon](https://images.wondershare.com/filmora/article-images/2022/02/share-facebook-video-to-whatsapp-2.jpg)
 
 ### 1.2 Method 2: Use a Reliable App to Download Facebook Videos
@@ -336,6 +347,10 @@ If the video you want to share is of a group where your friend or family is not 
 
 ![install the fastvid app](https://images.wondershare.com/filmora/article-images/2022/02/share-facebook-video-to-whatsapp-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2:** Now go back to FastVid, and there you will find the option of "URL," where you have to paste the URL address of the video. Once the link has been pasted, tap on "Download" to save the video on your Android phone.
 
 ![click on download button](https://images.wondershare.com/filmora/article-images/2022/02/share-facebook-video-to-whatsapp-4.jpg)
@@ -343,6 +358,10 @@ If the video you want to share is of a group where your friend or family is not 
 **Step 3:** You will be provided with two options to either "Download" or "Watch" the video. You have to select the option of "Download."
 
 ![tap on download option](https://images.wondershare.com/filmora/article-images/2022/02/share-facebook-video-to-whatsapp-5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 4:** Once you are done with downloading, the Facebook video will be saved in your phone's gallery. Now open your WhatsApp and select any contact you want to share the video. Press on the "Attachment" icon and select the option of "Gallery." Now choose the downloaded video and tap on "Send" to share it with your selected contact.
 
@@ -360,6 +379,10 @@ To manually **share Facebook video to WhatsApp** with your friends on iPhone, he
 
 ![login to facebook account](https://images.wondershare.com/filmora/article-images/2022/02/share-facebook-video-to-whatsapp-7.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2:** Select the video you want to share and tap on it. Here you will find two ways to share this particular video. You can use the "Share" icon to copy the link and share it with the person on WhatsApp or directly send the link on WhatsApp through the "Share" option.
 
 ![click on whatsapp share option](https://images.wondershare.com/filmora/article-images/2022/02/share-facebook-video-to-whatsapp-8.jpg)
@@ -375,6 +398,10 @@ To **share Facebook video to WhatsApp**, first, you need to download the video b
 **Step 1:** Navigate to the App Store and install "Explore: Save with Link." Make sure to download this app through a strong internet connection.
 
 ![download explore share with link app](https://images.wondershare.com/filmora/article-images/2022/02/share-facebook-video-to-whatsapp-9.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 2:** Now go to your Facebook account, and browse the video you want to share. Select the video and click on the option of "Share," which will be present next to the "Like" and "Comment" options. After tapping on the “Share” icon, you have to tap on “Copy Link” to save the URL address of your selected video.
 
@@ -396,6 +423,10 @@ To **share Facebook video to WhatsApp**, first, you need to download the video b
 
 ![click on send button](https://images.wondershare.com/filmora/article-images/2022/02/share-facebook-video-to-whatsapp-14.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3: Share Facebook Videos to WhatsApp on Desktop
 
 If you are looking to **share Facebook video to WhatsApp** on desktop, you are exactly at the right place as in this section; we will discuss an easy way to do it. We will use WhatsApp web to share the video with your friends in this method. Just pay heed to the following steps:
@@ -406,9 +437,6 @@ If you are looking to **share Facebook video to WhatsApp** on desktop, you are e
 
 **Step 2:** Now open the WhatsApp web from your browser by typing “[web.whatsapp.com](https://web.whatsapp.com/)." Meanwhile, open WhatsApp on your phone and go to its "Settings." There you have to tap on the option of "WhatsApp Web." So, scan the QR code on your desktop through your phone, and your WhatsApp account will be open on your PC.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![login whatsapp web](https://images.wondershare.com/filmora/article-images/2022/02/share-facebook-video-to-whatsapp-16.jpg)
 
 **Step 3:** Afterward, you can select any contact to share the Facebook video. On the input bar, paste the URL link of the Facebook video and click on "Send" to share it with your contact finally.
@@ -560,8 +588,6 @@ Facebook makes this world a global village where people share photos and videos.
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -570,7 +596,22 @@ Facebook makes this world a global village where people share photos and videos.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-joining-flv-files-a-step-by-step-guide/"><u>[New] Joining FLV Files A Step-by-Step Guide</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-online-alter-ego-artistry-drawing-a-fancy-profile-for-2024/"><u>[New] Online Alter-Ego Artistry Drawing a Fancy Profile for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-sudden-shadow-immediate-copyright-issue/"><u>[Updated] 2024 Approved Sudden Shadow Immediate Copyright Issue</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-grandview-media-mastering-the-art-of-selecting-a-cms/"><u>[Updated] Grandview Media Mastering the Art of Selecting a CMS</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-premium-tools-for-6-undetectable-viewings/"><u>[Updated] In 2024, Premium Tools for 6 Undetectable Viewings</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-restore-true-identity-on-fb-messages/"><u>[Updated] In 2024, Restore True Identity on FB Messages</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-social-media-hitmakers-top-10-music-video-recipes-for-fb/"><u>[Updated] In 2024, Social Media Hitmakers - TOP 10 Music Video Recipes for FB</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-overcoming-delayed-or-non-sending-videos-in-facebooks-popular-chat-application-for-mobile-users-for-2024/"><u>[Updated] Overcoming Delayed or Non-Sending Videos in Facebook's Popular Chat Application for Mobile Users for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-propagate-your-content-with-vimeo-links-for-2024/"><u>[Updated] Propagate Your Content with Vimeo Links for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/boundless-playlist-public-domain-music-for-games-for-2024/"><u>Boundless Playlist Public Domain Music for Games for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-pro-editors-picks-optimal-after-effects-plugin-choices/"><u>In 2024, Pro Editor's Picks Optimal After Effects Plugin Choices</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-depth-zoom-techniques-for-exceptional-podcasts/"><u>In-Depth Zoom Techniques for Exceptional Podcasts</u></a></li>
+<li><a href="https://common-error.techidaily.com/rebooting-woes-windows-10-troubleshooting/"><u>Rebooting Woes: Windows 10 Troubleshooting</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-solutions-to-free-an-iphone-from-persistent-earpiece-configuration/"><u>Step-by-Step Solutions to Free an iPhone From Persistent Earpiece Configuration</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/swipe-right-on-virality-blend-tiktok-trends-into-insta-reels/"><u>Swipe Right on Virality Blend TikTok Trends Into Insta Reels</u></a></li>
+</ul></div>
 

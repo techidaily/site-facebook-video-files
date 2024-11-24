@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Minimize MBs  Avoid FB Video Ads\""
-date: 2024-11-14T08:13:06.568Z
-updated: 2024-11-15T09:20:12.560Z
+date: 2024-11-20T17:01:00.958Z
+updated: 2024-11-24T18:53:40.716Z
 tags:
   - ai video
   - ai facebook
@@ -172,13 +172,6 @@ The ad blocking of annoying Facebook video Ads is accessible on a desktop as man
 
 ![add extension to desktop browser](https://images.wondershare.com/filmora/article-images/2021/how-to-block-facebook-video-ads-11.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Adding an ad-blocking extension on the web browser of your desktop can solve the issue. For example, suppose you're using Chrome you can :
 
 * Go to the desired extension pages. There are numerous ad blocking extensions for different browsers.
@@ -203,13 +196,6 @@ The budding video creators earn from Ads, and video creation and editing are wid
 [wondershare filmora](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![wondershare filmora for  editing videos](https://images.wondershare.com/filmora/article-images/2021/how-to-block-facebook-video-ads-12.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Also, it's best for social media platforms like Facebook, where you can tailor your video to any platform. You can directly share it with your social media handles, having a safe backup copy in your system. Also, you can edit and make changes to a final video. So, all the video content creators can quickly learn, edit and share valuable content to platforms like Facebook.
 
@@ -283,6 +269,10 @@ This is a very effortless method of keeping all the Facebook videos Ads aside. T
 
 Another helpful way is to install the Facebook Lite app on your mobile. Facebook lite, ofcourse, has more straightforward options and fewer Ads. It will show you all the content with limited Ads and features. It's advantageous to save your memory, data, and time.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1.4 Skip the Ads
 
 A beneficial way of dodging the Facebook video Ads is to skip it with this hack:
@@ -320,6 +310,10 @@ To limit the unconcerned Ads on your Facebook app, you can alter the settings. T
 ## Part 2\. Block Facebook Video Ads on iPhone
 
 You can also use some tricks to stop watching Facebook video Ads on your iPhone. The iPhone has a different user interface, and the methods are slightly different. Change in Settings, and with the help of some tools, you can save loads of time. So, catch up on all the effective methods.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2.1 Enable Content Blocker on Safari
 
@@ -417,13 +411,6 @@ You can easily disable auto running for video on Facebook, which will block all 
 * Click on the **Video** option, at bottom left of the page.
 * An **Auto-Play Videos Option**will be there. Change this option to **Off**.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 Ofcourse, the Facebook video Ads are annoying and hinder the flow of the content. In addition, they waste your time, use more memory and battery. So, alter some preferences to see the range which interests you. Also, you can install ad-blocking tools or use the effective tricks discussed above. Try them all out according to your Facebook using the platform. The hacks are effective and let us know what's lacking. We will add it for sure.
@@ -435,6 +422,10 @@ Ofcourse, the Facebook video Ads are annoying and hinder the flow of the content
 Do Facebook video Ads annoy you a lot? Unfortunately, the answer is yes for everyone. Video Ads are typical in all social media platforms, which are very time-consuming. However, primarily a platform like Facebook has many informative and entertaining videos.
 
 ![methods to block facebook video ads](https://images.wondershare.com/filmora/article-images/2021/how-to-block-facebook-video-ads-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 The mid video Ads can disrupt the watching experience as they appear whn you’re completely sunken into teh content. Well, you can block the Facebook video apps and enjoy your videos without any hindrance. Yes, it's possible, and these clever tricks discussed below will save lots of time.
 
@@ -449,10 +440,7 @@ Part 2: [Block Facebook Video Ads on iPhone](#step2)
 Part 3: [Block Facebook Video Ads on Desktop](#step3)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1\. Block Facebook Video Ads on Android
@@ -472,6 +460,10 @@ One of the best ways to review your ad settings on Facebook. It will block some 
 * Tap on **Ad Preferences**
 * Now set the preference according to your likes.
 * This will partially block the annoying Facebook Ads which don't concern your interests. Also, you can deselect all, and you will notice the change soon.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1.2 Use Your Browser to Block Facebook Ads
 
@@ -532,10 +524,7 @@ You can also use some tricks to stop watching Facebook video Ads on your iPhone.
 ![content blocker on safari](https://images.wondershare.com/filmora/article-images/2021/how-to-block-facebook-video-ads-8.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 You can block all Ads on the default web browser for iPhone Safari. To do so:
@@ -550,6 +539,10 @@ You can block all Ads on the default web browser for iPhone Safari. To do so:
 ### 2.2 Use Facebook Lite for iPhone
 
 You can install Facebook lite from the Apple store. It focuses on minimum memory usage and shows relevant content. It's easy on your device's memory, fast, and very convenient. In addition, it will have minimum Ads and save lots of time.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2.3 Change Preferences on the Facebook app
 
@@ -590,6 +583,10 @@ The ad blocking of annoying Facebook video Ads is accessible on a desktop as man
 ### 3.1 Add Extension
 
 ![add extension to desktop browser](https://images.wondershare.com/filmora/article-images/2021/how-to-block-facebook-video-ads-11.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Adding an ad-blocking extension on the web browser of your desktop can solve the issue. For example, suppose you're using Chrome you can :
 
@@ -682,13 +679,6 @@ This is a very effortless method of keeping all the Facebook videos Ads aside. T
 * Now, paste the link on your browser.
 * This will let you enjoy the Facebook video with no Ads and interference.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 1.3 Go for Facebook Lite
 
 ![facebook lite for less ads](https://images.wondershare.com/filmora/article-images/2021/how-to-block-facebook-video-ads-4.jpg)
@@ -707,28 +697,23 @@ A beneficial way of dodging the Facebook video Ads is to skip it with this hack:
 * As soon as the circle appears, tap on **Comments**, and open any**Profile** from the comments.
 * Then, tap on the back icon. The video will automatically skip the ad and resume from where you left.
 
-<!-- affiliate ads begin -->
-<span id="1492813">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 1.5 Use Ad Blocking Applications
 
 ![ad blocking apps for android](https://images.wondershare.com/filmora/article-images/2021/how-to-block-facebook-video-ads-6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Ad blockers are applications of android play stores that block the Ads on various apps. For example, applications like AdBlock for Facebook videos are available in your google play store. These top-rated apps block all Ads streaming between the videos and give a smooth watching experience.
 
 ### 1.6 Turning off Online Interest-Based Advertising
 
 ![turn off interest based advertising on facebook](https://images.wondershare.com/filmora/article-images/2021/how-to-block-facebook-video-ads-7.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 To limit the unconcerned Ads on your Facebook app, you can alter the settings. To do so, follow these steps:
 
@@ -768,13 +753,6 @@ You can install Facebook lite from the Apple store. It focuses on minimum memory
 Change preferences on the Facebook app. To do so:
 
 ![change ad preferences on facebook app](https://images.wondershare.com/filmora/article-images/2021/how-to-block-facebook-video-ads-9.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 * Open Facebook and navigate to the main **menu**.
 * Select**Settings** in the **Settings & Privacy**
@@ -876,18 +854,19 @@ Ofcourse, the Facebook video Ads are annoying and hinder the flow of the content
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-fb-video-grabber-win-mac-and-mobile/"><u>[New] FB Video Grabber - Win, Mac & Mobile</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-essential-list-the-10-leading-vimeo-downloaders-web/"><u>[New] In 2024, Essential List The 10 Leading Vimeo Downloaders Web</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-paper-artistry-building-harmonious-collages/"><u>[New] Paper Artistry Building Harmonious Collages</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-celebrating-the-best-ten-music-video-lives/"><u>[Updated] 2024 Approved Celebrating the Best Ten Music Video Lives</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-seamless-mp4-extraction-your-fb-video-fix/"><u>[Updated] 2024 Approved Seamless MP4 Extraction – Your FB Video Fix</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-enabling-youtube-and-facebook-on-apple-tv-for-2024/"><u>[Updated] Enabling YouTube and Facebook on Apple TV for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unleash-artistry-a-curated-list-of-premium-3d-animation-software/"><u>[Updated] Unleash Artistry A Curated List of Premium 3D Animation Software</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/2024-approved-download-fb-content-windows-and-mac-guide/"><u>2024 Approved Download FB Content Windows & Mac Guide</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-reset-gmail-password-on-asus-rog-phone-8-devices-by-drfone-android/"><u>How to Reset Gmail Password on Asus ROG Phone 8 Devices</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-in-ar-games-on-oppo-find-x7-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, How to Simulate GPS Movement in AR games On Oppo Find X7 Ultra? | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-mastering-lock-screen-settings-how-to-enable-and-disable-on-poco-x6-by-drfone-android/"><u>In 2024, Mastering Lock Screen Settings How to Enable and Disable on Poco X6</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-transform-your-pubg-audio-gameplay-fast/"><u>In 2024, Transform Your PUBG Audio Gameplay Fast</u></a></li>
-<li><a href="https://win-answers.techidaily.com/in-depth-tips-to-fix-and-prevent-lagging-during-gameplay-in-dying-light/"><u>In-Depth Tips to Fix and Prevent Lagging During Gameplay in Dying Light</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-sweep-through-your-contacts-with-speed-and-skill/"><u>[New] In 2024, Sweep Through Your Contacts with Speed and Skill</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-the-ultimate-amazon-prime-series-most-liked-and-watched-on-twitter/"><u>[New] In 2024, The Ultimate Amazon Prime Series Most Liked & Watched on Twitter</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-unlock-pip-in-edge-for-a-superior-browsing-experience/"><u>[New] In 2024, Unlock PIP in Edge for a Superior Browsing Experience</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-promote-your-youtube-channel-with-high-impact-showcase-techniques/"><u>[Updated] 2024 Approved How to Promote Your YouTube Channel with High-Impact Showcase Techniques</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-from-ordinary-to-outstanding-unveiling-the-secrets-of-engaging-biographies/"><u>[Updated] From Ordinary to Outstanding Unveiling the Secrets of Engaging Biographies</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-navigating-the-world-of-facebook-cover-vids-explained/"><u>[Updated] In 2024, Navigating the World of Facebook Cover Vids Explained</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-rights-and-recourse-following-sudden-account-suspension-on-fb/"><u>[Updated] In 2024, Rights and Recourse Following Sudden Account Suspension on FB</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/facebook-copyright-what-if-my-videos-removed-immediately-due-to-copyright/"><u>Facebook Copyright | What If My Videos Removed Immediately Due to Copyright?</u></a></li>
+<li><a href="https://discover-advanced.techidaily.com/guide-retrieving-eliminated-data-from-microsoft-onedrive-recycle-bin/"><u>Guide: Retrieving Eliminated Data From Microsoft OneDrive Recycle Bin</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-realme-12-proplus-5g-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Realme 12 Pro+ 5G to Outlook | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-watch-hulu-outside-us-on-realme-c53-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Realme C53 | Dr.fone</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/kostenlos-wege-daten-zwischen-servern-effizient-zu-ubertragen/"><u>Kostenlos Wege, Daten Zwischen Servern Effizient Zu Übertragen</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-sound-interruptions-in-windows-11/"><u>Troubleshooting Sound Interruptions in Windows 11</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unboxing-savings-alert-score-an-unbelievable-price-on-apple-watch-series-10-only-99-when-you-preorder-now-at-best-buy/"><u>Unboxing Savings Alert: Score an Unbelievable Price on Apple Watch Series 10 - Only $99 When You Preorder Now at Best Buy</u></a></li>
 </ul></div>
 

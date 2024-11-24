@@ -1,7 +1,7 @@
 ---
 title: "\"Trending Titles  Navigating Through Facebook's Hot Takes\""
-date: 2024-11-14T01:48:48.382Z
-updated: 2024-11-15T09:43:03.408Z
+date: 2024-11-21T19:12:25.554Z
+updated: 2024-11-24T17:03:45.153Z
 tags:
   - ai video
   - ai facebook
@@ -30,13 +30,6 @@ The trending videos feature of Facebook has been upgraded to a whole new tab wit
 ## Video number 1: The Ford GT… Ford v Ferrari
 
 ![The Ford GT... Ford v Ferrari](https://images.wondershare.com/filmora/article-images/2021/8-trending-videos-on-facebook-files-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 This video was among the most viral videos as it features a clip from the infamous 2019 Movie ‘Ford vs. Ferrari.’ It has amassed 8.5 million views and 92 thousand likes and reactions, plus 1.9k comments.
 
@@ -78,12 +71,181 @@ The link to the video is as follows:
 
 [Asking Superyacht Owners What They Do For a Living](https://fb.watch/a4zsQ9%5FezM/)
 
+## Video number 3: Disabled Woman Was Refused in Service at the Restaurant
+
+![Disabled Woman Was Refused in Service at the Restaurant](https://images.wondershare.com/filmora/article-images/2021/8-trending-videos-on-facebook-files-3.jpg)
+
+This video was uploaded to the Facebook page ‘DramatizeMe’ and gained over 3.7 million views, 63k likes, and 1.2k comments. It is titled ‘Disabled Woman Was Refused in Service at the Restaurant.’
+
+It was a viral video that trended on Facebook for quite some time as it featured a re-enactment of a social experiment.
+
+The video is a short film that stars a lady in a wheelchair who dines in a restaurant. The restaurant staff misbehaved with her and discriminated against the woman based on her disability.
+
+They assume that the critic might get a bad impression if anything is out of order or unusual, and it may become the reason for their restaurant’s failure.
+
+The staff insults her in many views including misbehaving, not taking the right order, providing her with the wrong food, and asking her to switch tables despite being pre-booked.
+
+Towards the end, when the lady has had enough, she stands out of her wheelchair, and to everyone’s surprise, she is the food critic by the name of Brooke White, who imitated to be in a wheelchair and test the restaurant staff.
+
+The manager, waiter, and owner are flabbergasted by the critic’s disguise and immediately start apologizing, but the damage is done! This viral video was a lesson for all of us not to discriminate against anyone based on their disabilities, looks, or any other thing and treat everyone equally with respect.
+
+The link to the video is:
+
+[Disabled Woman Was Refused in Service at the Restaurant](https://fb.watch/a4AF37n3LJ/)
+
+## Video number 4: The Final Boss OF Riddles: Dad
+
+![When you get to the final boss of riddles: The Dad](https://images.wondershare.com/filmora/article-images/2021/8-trending-videos-on-facebook-files-4.jpg)
+
+This video was uploaded on 1st June 2021 by the Facebook page named ‘LADbible Australia’ and has amassed a total of 65 million views, 185 thousand likes, and reacts, along with 9 thousand comments.
+
+It features a daughter asking her dad riddles, and the dad is simply amazing at solving them. The girl tries hard to trap his father, but he gets back to her every time. The riddles are quite challenging yet funny. The video went viral on TikTok and has made rounds on Facebook since.
+
+She asks the dad to name three consecutive days without using the words Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, and Sunday, to which the dad thinks for a minute and, to her surprise, replies with the correct answer that is ‘Yesterday, Today and Tomorrow.’
+
+The last riddle almost gets the dad when the daughter asks, ‘There are 30 cows in a field and 28 (20 ate) chickens; how many did not?’ Dad is stuck for a few minutes and struggles to figure out the answer, but he eventually gets it.
+
+The viral video picturizes the beautiful relationship with her dad, and the viewers have enjoyed the sight of it along with the riddles! To watch the video, click on the link:
+
+[The Final Boss OF Riddles: Dad](https://fb.watch/a4HBVxUzGx/)
+
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
-  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## Video number 5: So Cheap and Useful Gadgets for Every Occasion
+
+![Cheap and Useful Gadgets for Every Occasion](https://images.wondershare.com/filmora/article-images/2021/8-trending-videos-on-facebook-files-5.jpg)
+
+This video was uploaded by the Facebook Page ‘5-Minute Crafts’ on 21 December 2021\. The video went viral and gained over 22 million views in just 3 days! It also has over 54 thousand likes and is just shy of 1000 comments.
+
+The video shows cheap and easy life hacks and gadgets one can use to make their life easy and hassle-free without spending a fortune. A few of the gadgets include a gimmick for a hand wash bottle that, on a press, automatically converts the liquid into foam and sticks to your hand.
+
+Another gadget shown has a few pockets to put cherries in and a cover which, when put on top and pressed in, pushes the seeds out without any cuts or damaging the cherries.
+
+Another simple life hack shown is to add food coloring to ice and have colored ice for your cocktails! It also features a cheap device that is an automatic sanitizer dispenser that is motion activated.
+
+It targets the clean freaks out there as there is no need to touch the dispenser; it automatically senses your hand and dispenses the sanitizer on your hands, convenient!
+
+For more hacks and gadgets, follow the video link:
+
+[So Cheap and Useful Gadgets for Every Occasion](https://fb.watch/a4IAekUvSU/)
+
+## Video number 6: Donating $100,000 To Streamers With 0 Viewers
+
+![Donating $100,000 to Streamers with 0 Viewers!](https://images.wondershare.com/filmora/article-images/2021/8-trending-videos-on-facebook-files-6.jpg)
+
+The 6th video in the list of Viral Facebook Video was uploaded by the Facebook Page ‘MrBeast’ on 11 May 2020\. The video has since got 7.4 million views and 123 thousand likes and reactions.
+
+MrBeast is the channel of a guy named Jimmy who is known to spend and give away millions of dollars to random people who enter his gaming competitions or even randomly. In this video, he decided to help out streamers with 0 viewers new to the field or struggling.
+
+He starts by giving away $10k to a streamer, and his reaction is absolutely funny and amazing. Throughout the video, he continues to donate and supports new gamers and online streamers with thousands of dollars.
+
+He catches most of the streamers off guard, and their reactions are so amazing! They cannot thank him enough and cannot believe it. They mostly turn out to be dumbfounded by the enormous amount of money they receive.
+
+He also challenges the streamers to complete tasks in the game they are playing in return for extra rewards.
+
+Check out the video on this link:
+
+[Donating $100,000 To Streamers With 0 Viewers](https://fb.watch/a4JWmAlxg0/)
+
+## Video number 7: The Beauty of Tennis
+
+![The beauty of tennis.](https://images.wondershare.com/filmora/article-images/2021/8-trending-videos-on-facebook-files-7.jpg)
+
+This one is for the sportsmen out there! This short video was uploaded by the Facebook page ‘Tennis Instinct’ on 18 June 2020 and received 9.4M views after going viral immediately.
+
+It features a short clip from a tennis match played between the famous tennis players Rafael Nadal and Gilles Muller. The clip is of a point played with extremely difficult tosses exchanged, and it was unexplained how the professional players managed to save the point by their extraordinary talent.
+
+They played the ball several times before Nadal got the point, and that too by a very minute margin on the line; otherwise, the point would’ve gone to Muller, thanks to the modern monitoring systems and high-speed cameras.
+
+It shows the beauty of the game and the polished game presented by the professional players.
+
+To enjoy the video, click on the link here:
+
+[The Beauty of Tennis](https://fb.watch/a4KjEJu6Hp/)
+
+## Video number 8: I Pretended To Be A Terrible Violin Student
+
+![I Pretended To Be A Terrible Violin Student!](https://images.wondershare.com/filmora/article-images/2021/8-trending-videos-on-facebook-files-8.jpg)
+
+The last video in the list of 8 Viral videos on Facebook is uploaded by ‘Rob Landes’ with 7.9 million views and 88k likes.
+
+In this video, the guy hires violin teachers, pretends to be horrendous while playing the violin, and tries to annoy his teachers by pretending to be exceptionally bad. They try to instruct him, correct him in all possible ways, and buck him up.
+
+In the end, the guy suddenly starts playing so well that his teachers are astonished to see what he is capable of. It turns out that he is a professional violinist who has been playing for 30 years!
+
+He then apologizes to the teachers for pranking them and tells them he has two music performance degrees and thanks them for their advice.
+
+To watch the video, follow the link:
+
+[I Pretended To Be A Terrible Violin Student](https://fb.watch/a4LQjlp10F/)
+
+## Bonus Tip! How to Locate Trending Videos on Facebook?
+
+Recently, Facebook has changed its trending tab and has created a separate tab known as ‘Facebook Watch’ It has turned out to be a success as you do not have to select separate genres to watch viral videos.
+
+Instead, Facebook customizes it to your liking and preference by automatically gathering data and lining up the content according to your interests!
+
+Here’s how to locate it.
+
+### Step 1: Log in to Facebook
+
+![Log in to Facebook](https://images.wondershare.com/filmora/article-images/2021/8-trending-videos-on-facebook-files-9.jpg)
+
+### Step 2: Navigate to the Top Bar or Side Panel
+
+![Navigate to the Top Bar or Side Panel](https://images.wondershare.com/filmora/article-images/2021/8-trending-videos-on-facebook-files-10.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+You can locate the second icon on the top bar or the Watch tab in the side panel to open Facebook Watch. Click on any of these.
+
+### Step 3: You Are Ready to Go
+
+![Facebook Watch Page](https://images.wondershare.com/filmora/article-images/2021/8-trending-videos-on-facebook-files-11.jpg)
+
+You can now watch all the latest and trending videos on Facebook and that too according to your likings. You can also switch tabs and watch shows, or live videos that are currently trending or choose from Your Watchlist to choose any of the Facebook pages you prefer to watch the content of. Yes! It is that simple now!
+
+## How To Make Trending Videos Using WonderShare Filmora
+
+Do you also want to make viral videos like the ones mentioned above? Don’t worry; we’ve got you! Once you have finalized your content, you can use WonderShare Filmora to edit it, add tons of effects, filters, transitions, text, subtitles, and whatnot.
+
+WonderShare Filmora is a powerful editing tool that can help you create intriguing and engaging videos that will help you gain more views and eventually make it to the trending videos on Facebook.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+## Conclusion
+
+Creative and unique ideas always create a trend, which is the reason behind the fame of these 8 viral Facebook videos. Everyone has loved and enjoyed these videos, and there are many more similar videos in all genres ranging from sports, business pitches, entertainment, politics, etc.
+
+You can also make it to the trending videos if you’re a content creator. You can promote your business, brand, channel, content, or products by choosing the right content for your video. These videos range from highly entertaining topics to sensitive ones as well. You can watch more viral videos on Facebook Watch!S
+
+Video number 2: Asking Superyacht Owners What They Do For a Living
+
+![Asking Superyacht Owners What They Do For a Living](https://images.wondershare.com/filmora/article-images/2021/8-trending-videos-on-facebook-files-2.jpg)
+
+This video is uploaded on the Facebook page by ‘LADbible Australia’ and is titled ‘This lad asked superyacht owners what they do for a living. The video has 9.9 million views on Facebook, along with 6.7k likes and reactions.,
+
+It features a viral trend started by a famous blogger and TikToker Daniel Mac who asks people with expensive vehicles what they do for a living. In this video, he asks superyacht owners about their source of income.
+
+The Yachts featured are truly expensive and cost millions of dollars. Some of the superyachts included are Ferretti Custom Line Superyachts ranging between 13-15 million dollars, Pershing Milagros for 4 million dollars, Azimut 80 Flybridge for 2.8 million, and more.
+
+Some owners give him a dry response, while others ask him to hop on to the yachts and show Daniel around. They also explain different features of the yachts, e.g., the lounges, portholes, master staterooms, sauna, and much more. Some of the owners also give him life advice and share their lifestyles.
+
+Towards the end, the history of the trend is also explained, and a few other clips are shown where Daniel Mac is asking car owners about what they do for a living.
+
+Some of the cars featured include Mercedes-AMG G63 for $220 thousand, Audi R8 Supercharged for $205 thousand, Porsche 718 Cayman GT4 for $105 thousand, and a Lamborghini Aventador for $422 thousand.
+
+Most vehicle owners treat the blogger very nicely and answer his questions. This trend has been the most viral lately, and all the videos collectively have grasped millions of views across different social media platforms, including Facebook.
+
+The link to the video is as follows:
+
+[Asking Superyacht Owners What They Do For a Living](https://fb.watch/a4zsQ9%5FezM/)
 
 ## Video number 3: Disabled Woman Was Refused in Service at the Restaurant
 
@@ -141,6 +303,10 @@ For more hacks and gadgets, follow the video link:
 
 [So Cheap and Useful Gadgets for Every Occasion](https://fb.watch/a4IAekUvSU/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Video number 6: Donating $100,000 To Streamers With 0 Viewers
 
 ![Donating $100,000 to Streamers with 0 Viewers!](https://images.wondershare.com/filmora/article-images/2021/8-trending-videos-on-facebook-files-6.jpg)
@@ -158,13 +324,6 @@ He also challenges the streamers to complete tasks in the game they are playing 
 Check out the video on this link:
 
 [Donating $100,000 To Streamers With 0 Viewers](https://fb.watch/a4JWmAlxg0/)
-
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Video number 7: The Beauty of Tennis
 
@@ -215,20 +374,178 @@ Here’s how to locate it.
 ![Navigate to the Top Bar or Side Panel](https://images.wondershare.com/filmora/article-images/2021/8-trending-videos-on-facebook-files-10.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 You can locate the second icon on the top bar or the Watch tab in the side panel to open Facebook Watch. Click on any of these.
 
+### Step 3: You Are Ready to Go
+
+![Facebook Watch Page](https://images.wondershare.com/filmora/article-images/2021/8-trending-videos-on-facebook-files-11.jpg)
+
+You can now watch all the latest and trending videos on Facebook and that too according to your likings. You can also switch tabs and watch shows, or live videos that are currently trending or choose from Your Watchlist to choose any of the Facebook pages you prefer to watch the content of. Yes! It is that simple now!
+
+## How To Make Trending Videos Using WonderShare Filmora
+
+Do you also want to make viral videos like the ones mentioned above? Don’t worry; we’ve got you! Once you have finalized your content, you can use WonderShare Filmora to edit it, add tons of effects, filters, transitions, text, subtitles, and whatnot.
+
+WonderShare Filmora is a powerful editing tool that can help you create intriguing and engaging videos that will help you gain more views and eventually make it to the trending videos on Facebook.
+
+## Conclusion
+
+Creative and unique ideas always create a trend, which is the reason behind the fame of these 8 viral Facebook videos. Everyone has loved and enjoyed these videos, and there are many more similar videos in all genres ranging from sports, business pitches, entertainment, politics, etc.
+
+You can also make it to the trending videos if you’re a content creator. You can promote your business, brand, channel, content, or products by choosing the right content for your video. These videos range from highly entertaining topics to sensitive ones as well. You can watch more viral videos on Facebook Watch!S
+
+Video number 2: Asking Superyacht Owners What They Do For a Living
+
+![Asking Superyacht Owners What They Do For a Living](https://images.wondershare.com/filmora/article-images/2021/8-trending-videos-on-facebook-files-2.jpg)
+
+This video is uploaded on the Facebook page by ‘LADbible Australia’ and is titled ‘This lad asked superyacht owners what they do for a living. The video has 9.9 million views on Facebook, along with 6.7k likes and reactions.,
+
+It features a viral trend started by a famous blogger and TikToker Daniel Mac who asks people with expensive vehicles what they do for a living. In this video, he asks superyacht owners about their source of income.
+
+The Yachts featured are truly expensive and cost millions of dollars. Some of the superyachts included are Ferretti Custom Line Superyachts ranging between 13-15 million dollars, Pershing Milagros for 4 million dollars, Azimut 80 Flybridge for 2.8 million, and more.
+
+Some owners give him a dry response, while others ask him to hop on to the yachts and show Daniel around. They also explain different features of the yachts, e.g., the lounges, portholes, master staterooms, sauna, and much more. Some of the owners also give him life advice and share their lifestyles.
+
+Towards the end, the history of the trend is also explained, and a few other clips are shown where Daniel Mac is asking car owners about what they do for a living.
+
+Some of the cars featured include Mercedes-AMG G63 for $220 thousand, Audi R8 Supercharged for $205 thousand, Porsche 718 Cayman GT4 for $105 thousand, and a Lamborghini Aventador for $422 thousand.
+
+Most vehicle owners treat the blogger very nicely and answer his questions. This trend has been the most viral lately, and all the videos collectively have grasped millions of views across different social media platforms, including Facebook.
+
+The link to the video is as follows:
+
+[Asking Superyacht Owners What They Do For a Living](https://fb.watch/a4zsQ9%5FezM/)
+
+## Video number 3: Disabled Woman Was Refused in Service at the Restaurant
+
+![Disabled Woman Was Refused in Service at the Restaurant](https://images.wondershare.com/filmora/article-images/2021/8-trending-videos-on-facebook-files-3.jpg)
+
+This video was uploaded to the Facebook page ‘DramatizeMe’ and gained over 3.7 million views, 63k likes, and 1.2k comments. It is titled ‘Disabled Woman Was Refused in Service at the Restaurant.’
+
+It was a viral video that trended on Facebook for quite some time as it featured a re-enactment of a social experiment.
+
+The video is a short film that stars a lady in a wheelchair who dines in a restaurant. The restaurant staff misbehaved with her and discriminated against the woman based on her disability.
+
+They assume that the critic might get a bad impression if anything is out of order or unusual, and it may become the reason for their restaurant’s failure.
+
+The staff insults her in many views including misbehaving, not taking the right order, providing her with the wrong food, and asking her to switch tables despite being pre-booked.
+
+Towards the end, when the lady has had enough, she stands out of her wheelchair, and to everyone’s surprise, she is the food critic by the name of Brooke White, who imitated to be in a wheelchair and test the restaurant staff.
+
+The manager, waiter, and owner are flabbergasted by the critic’s disguise and immediately start apologizing, but the damage is done! This viral video was a lesson for all of us not to discriminate against anyone based on their disabilities, looks, or any other thing and treat everyone equally with respect.
+
+The link to the video is:
+
+[Disabled Woman Was Refused in Service at the Restaurant](https://fb.watch/a4AF37n3LJ/)
+
+## Video number 4: The Final Boss OF Riddles: Dad
+
+![When you get to the final boss of riddles: The Dad](https://images.wondershare.com/filmora/article-images/2021/8-trending-videos-on-facebook-files-4.jpg)
+
+This video was uploaded on 1st June 2021 by the Facebook page named ‘LADbible Australia’ and has amassed a total of 65 million views, 185 thousand likes, and reacts, along with 9 thousand comments.
+
+It features a daughter asking her dad riddles, and the dad is simply amazing at solving them. The girl tries hard to trap his father, but he gets back to her every time. The riddles are quite challenging yet funny. The video went viral on TikTok and has made rounds on Facebook since.
+
+She asks the dad to name three consecutive days without using the words Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, and Sunday, to which the dad thinks for a minute and, to her surprise, replies with the correct answer that is ‘Yesterday, Today and Tomorrow.’
+
+The last riddle almost gets the dad when the daughter asks, ‘There are 30 cows in a field and 28 (20 ate) chickens; how many did not?’ Dad is stuck for a few minutes and struggles to figure out the answer, but he eventually gets it.
+
+The viral video picturizes the beautiful relationship with her dad, and the viewers have enjoyed the sight of it along with the riddles! To watch the video, click on the link:
+
+[The Final Boss OF Riddles: Dad](https://fb.watch/a4HBVxUzGx/)
+
+## Video number 5: So Cheap and Useful Gadgets for Every Occasion
+
+![Cheap and Useful Gadgets for Every Occasion](https://images.wondershare.com/filmora/article-images/2021/8-trending-videos-on-facebook-files-5.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+This video was uploaded by the Facebook Page ‘5-Minute Crafts’ on 21 December 2021\. The video went viral and gained over 22 million views in just 3 days! It also has over 54 thousand likes and is just shy of 1000 comments.
+
+The video shows cheap and easy life hacks and gadgets one can use to make their life easy and hassle-free without spending a fortune. A few of the gadgets include a gimmick for a hand wash bottle that, on a press, automatically converts the liquid into foam and sticks to your hand.
+
+Another gadget shown has a few pockets to put cherries in and a cover which, when put on top and pressed in, pushes the seeds out without any cuts or damaging the cherries.
+
+Another simple life hack shown is to add food coloring to ice and have colored ice for your cocktails! It also features a cheap device that is an automatic sanitizer dispenser that is motion activated.
+
+It targets the clean freaks out there as there is no need to touch the dispenser; it automatically senses your hand and dispenses the sanitizer on your hands, convenient!
+
+For more hacks and gadgets, follow the video link:
+
+[So Cheap and Useful Gadgets for Every Occasion](https://fb.watch/a4IAekUvSU/)
+
+## Video number 6: Donating $100,000 To Streamers With 0 Viewers
+
+![Donating $100,000 to Streamers with 0 Viewers!](https://images.wondershare.com/filmora/article-images/2021/8-trending-videos-on-facebook-files-6.jpg)
+
+The 6th video in the list of Viral Facebook Video was uploaded by the Facebook Page ‘MrBeast’ on 11 May 2020\. The video has since got 7.4 million views and 123 thousand likes and reactions.
+
+MrBeast is the channel of a guy named Jimmy who is known to spend and give away millions of dollars to random people who enter his gaming competitions or even randomly. In this video, he decided to help out streamers with 0 viewers new to the field or struggling.
+
+He starts by giving away $10k to a streamer, and his reaction is absolutely funny and amazing. Throughout the video, he continues to donate and supports new gamers and online streamers with thousands of dollars.
+
+He catches most of the streamers off guard, and their reactions are so amazing! They cannot thank him enough and cannot believe it. They mostly turn out to be dumbfounded by the enormous amount of money they receive.
+
+He also challenges the streamers to complete tasks in the game they are playing in return for extra rewards.
+
+Check out the video on this link:
+
+[Donating $100,000 To Streamers With 0 Viewers](https://fb.watch/a4JWmAlxg0/)
+
+## Video number 7: The Beauty of Tennis
+
+![The beauty of tennis.](https://images.wondershare.com/filmora/article-images/2021/8-trending-videos-on-facebook-files-7.jpg)
+
+This one is for the sportsmen out there! This short video was uploaded by the Facebook page ‘Tennis Instinct’ on 18 June 2020 and received 9.4M views after going viral immediately.
+
+It features a short clip from a tennis match played between the famous tennis players Rafael Nadal and Gilles Muller. The clip is of a point played with extremely difficult tosses exchanged, and it was unexplained how the professional players managed to save the point by their extraordinary talent.
+
+They played the ball several times before Nadal got the point, and that too by a very minute margin on the line; otherwise, the point would’ve gone to Muller, thanks to the modern monitoring systems and high-speed cameras.
+
+It shows the beauty of the game and the polished game presented by the professional players.
+
+To enjoy the video, click on the link here:
+
+[The Beauty of Tennis](https://fb.watch/a4KjEJu6Hp/)
+
+## Video number 8: I Pretended To Be A Terrible Violin Student
+
+![I Pretended To Be A Terrible Violin Student!](https://images.wondershare.com/filmora/article-images/2021/8-trending-videos-on-facebook-files-8.jpg)
+
+The last video in the list of 8 Viral videos on Facebook is uploaded by ‘Rob Landes’ with 7.9 million views and 88k likes.
+
+In this video, the guy hires violin teachers, pretends to be horrendous while playing the violin, and tries to annoy his teachers by pretending to be exceptionally bad. They try to instruct him, correct him in all possible ways, and buck him up.
+
+In the end, the guy suddenly starts playing so well that his teachers are astonished to see what he is capable of. It turns out that he is a professional violinist who has been playing for 30 years!
+
+He then apologizes to the teachers for pranking them and tells them he has two music performance degrees and thanks them for their advice.
+
+To watch the video, follow the link:
+
+[I Pretended To Be A Terrible Violin Student](https://fb.watch/a4LQjlp10F/)
+
+## Bonus Tip! How to Locate Trending Videos on Facebook?
+
+Recently, Facebook has changed its trending tab and has created a separate tab known as ‘Facebook Watch’ It has turned out to be a success as you do not have to select separate genres to watch viral videos.
+
+Instead, Facebook customizes it to your liking and preference by automatically gathering data and lining up the content according to your interests!
+
+Here’s how to locate it.
+
+### Step 1: Log in to Facebook
+
+![Log in to Facebook](https://images.wondershare.com/filmora/article-images/2021/8-trending-videos-on-facebook-files-9.jpg)
+
+### Step 2: Navigate to the Top Bar or Side Panel
+
+![Navigate to the Top Bar or Side Panel](https://images.wondershare.com/filmora/article-images/2021/8-trending-videos-on-facebook-files-10.jpg)
+
+You can locate the second icon on the top bar or the Watch tab in the side panel to open Facebook Watch. Click on any of these.
 
 ### Step 3: You Are Ready to Go
 
@@ -330,182 +647,8 @@ For more hacks and gadgets, follow the video link:
 
 ![Donating $100,000 to Streamers with 0 Viewers!](https://images.wondershare.com/filmora/article-images/2021/8-trending-videos-on-facebook-files-6.jpg)
 
-The 6th video in the list of Viral Facebook Video was uploaded by the Facebook Page ‘MrBeast’ on 11 May 2020\. The video has since got 7.4 million views and 123 thousand likes and reactions.
-
-MrBeast is the channel of a guy named Jimmy who is known to spend and give away millions of dollars to random people who enter his gaming competitions or even randomly. In this video, he decided to help out streamers with 0 viewers new to the field or struggling.
-
-He starts by giving away $10k to a streamer, and his reaction is absolutely funny and amazing. Throughout the video, he continues to donate and supports new gamers and online streamers with thousands of dollars.
-
-He catches most of the streamers off guard, and their reactions are so amazing! They cannot thank him enough and cannot believe it. They mostly turn out to be dumbfounded by the enormous amount of money they receive.
-
-He also challenges the streamers to complete tasks in the game they are playing in return for extra rewards.
-
-Check out the video on this link:
-
-[Donating $100,000 To Streamers With 0 Viewers](https://fb.watch/a4JWmAlxg0/)
-
-## Video number 7: The Beauty of Tennis
-
-![The beauty of tennis.](https://images.wondershare.com/filmora/article-images/2021/8-trending-videos-on-facebook-files-7.jpg)
-
-This one is for the sportsmen out there! This short video was uploaded by the Facebook page ‘Tennis Instinct’ on 18 June 2020 and received 9.4M views after going viral immediately.
-
-It features a short clip from a tennis match played between the famous tennis players Rafael Nadal and Gilles Muller. The clip is of a point played with extremely difficult tosses exchanged, and it was unexplained how the professional players managed to save the point by their extraordinary talent.
-
-They played the ball several times before Nadal got the point, and that too by a very minute margin on the line; otherwise, the point would’ve gone to Muller, thanks to the modern monitoring systems and high-speed cameras.
-
-It shows the beauty of the game and the polished game presented by the professional players.
-
-To enjoy the video, click on the link here:
-
-[The Beauty of Tennis](https://fb.watch/a4KjEJu6Hp/)
-
-## Video number 8: I Pretended To Be A Terrible Violin Student
-
-![I Pretended To Be A Terrible Violin Student!](https://images.wondershare.com/filmora/article-images/2021/8-trending-videos-on-facebook-files-8.jpg)
-
-The last video in the list of 8 Viral videos on Facebook is uploaded by ‘Rob Landes’ with 7.9 million views and 88k likes.
-
-In this video, the guy hires violin teachers, pretends to be horrendous while playing the violin, and tries to annoy his teachers by pretending to be exceptionally bad. They try to instruct him, correct him in all possible ways, and buck him up.
-
-In the end, the guy suddenly starts playing so well that his teachers are astonished to see what he is capable of. It turns out that he is a professional violinist who has been playing for 30 years!
-
-He then apologizes to the teachers for pranking them and tells them he has two music performance degrees and thanks them for their advice.
-
-To watch the video, follow the link:
-
-[I Pretended To Be A Terrible Violin Student](https://fb.watch/a4LQjlp10F/)
-
-## Bonus Tip! How to Locate Trending Videos on Facebook?
-
-Recently, Facebook has changed its trending tab and has created a separate tab known as ‘Facebook Watch’ It has turned out to be a success as you do not have to select separate genres to watch viral videos.
-
-Instead, Facebook customizes it to your liking and preference by automatically gathering data and lining up the content according to your interests!
-
-Here’s how to locate it.
-
-### Step 1: Log in to Facebook
-
-![Log in to Facebook](https://images.wondershare.com/filmora/article-images/2021/8-trending-videos-on-facebook-files-9.jpg)
-
-### Step 2: Navigate to the Top Bar or Side Panel
-
-![Navigate to the Top Bar or Side Panel](https://images.wondershare.com/filmora/article-images/2021/8-trending-videos-on-facebook-files-10.jpg)
-
-You can locate the second icon on the top bar or the Watch tab in the side panel to open Facebook Watch. Click on any of these.
-
-### Step 3: You Are Ready to Go
-
-![Facebook Watch Page](https://images.wondershare.com/filmora/article-images/2021/8-trending-videos-on-facebook-files-11.jpg)
-
-You can now watch all the latest and trending videos on Facebook and that too according to your likings. You can also switch tabs and watch shows, or live videos that are currently trending or choose from Your Watchlist to choose any of the Facebook pages you prefer to watch the content of. Yes! It is that simple now!
-
-## How To Make Trending Videos Using WonderShare Filmora
-
-Do you also want to make viral videos like the ones mentioned above? Don’t worry; we’ve got you! Once you have finalized your content, you can use WonderShare Filmora to edit it, add tons of effects, filters, transitions, text, subtitles, and whatnot.
-
-WonderShare Filmora is a powerful editing tool that can help you create intriguing and engaging videos that will help you gain more views and eventually make it to the trending videos on Facebook.
-
-## Conclusion
-
-Creative and unique ideas always create a trend, which is the reason behind the fame of these 8 viral Facebook videos. Everyone has loved and enjoyed these videos, and there are many more similar videos in all genres ranging from sports, business pitches, entertainment, politics, etc.
-
-You can also make it to the trending videos if you’re a content creator. You can promote your business, brand, channel, content, or products by choosing the right content for your video. These videos range from highly entertaining topics to sensitive ones as well. You can watch more viral videos on Facebook Watch!S
-
-Video number 2: Asking Superyacht Owners What They Do For a Living
-
-![Asking Superyacht Owners What They Do For a Living](https://images.wondershare.com/filmora/article-images/2021/8-trending-videos-on-facebook-files-2.jpg)
-
-This video is uploaded on the Facebook page by ‘LADbible Australia’ and is titled ‘This lad asked superyacht owners what they do for a living. The video has 9.9 million views on Facebook, along with 6.7k likes and reactions.,
-
-It features a viral trend started by a famous blogger and TikToker Daniel Mac who asks people with expensive vehicles what they do for a living. In this video, he asks superyacht owners about their source of income.
-
-The Yachts featured are truly expensive and cost millions of dollars. Some of the superyachts included are Ferretti Custom Line Superyachts ranging between 13-15 million dollars, Pershing Milagros for 4 million dollars, Azimut 80 Flybridge for 2.8 million, and more.
-
-Some owners give him a dry response, while others ask him to hop on to the yachts and show Daniel around. They also explain different features of the yachts, e.g., the lounges, portholes, master staterooms, sauna, and much more. Some of the owners also give him life advice and share their lifestyles.
-
-Towards the end, the history of the trend is also explained, and a few other clips are shown where Daniel Mac is asking car owners about what they do for a living.
-
-Some of the cars featured include Mercedes-AMG G63 for $220 thousand, Audi R8 Supercharged for $205 thousand, Porsche 718 Cayman GT4 for $105 thousand, and a Lamborghini Aventador for $422 thousand.
-
-Most vehicle owners treat the blogger very nicely and answer his questions. This trend has been the most viral lately, and all the videos collectively have grasped millions of views across different social media platforms, including Facebook.
-
-The link to the video is as follows:
-
-[Asking Superyacht Owners What They Do For a Living](https://fb.watch/a4zsQ9%5FezM/)
-
-## Video number 3: Disabled Woman Was Refused in Service at the Restaurant
-
-![Disabled Woman Was Refused in Service at the Restaurant](https://images.wondershare.com/filmora/article-images/2021/8-trending-videos-on-facebook-files-3.jpg)
-
-This video was uploaded to the Facebook page ‘DramatizeMe’ and gained over 3.7 million views, 63k likes, and 1.2k comments. It is titled ‘Disabled Woman Was Refused in Service at the Restaurant.’
-
-It was a viral video that trended on Facebook for quite some time as it featured a re-enactment of a social experiment.
-
-The video is a short film that stars a lady in a wheelchair who dines in a restaurant. The restaurant staff misbehaved with her and discriminated against the woman based on her disability.
-
-They assume that the critic might get a bad impression if anything is out of order or unusual, and it may become the reason for their restaurant’s failure.
-
-The staff insults her in many views including misbehaving, not taking the right order, providing her with the wrong food, and asking her to switch tables despite being pre-booked.
-
-Towards the end, when the lady has had enough, she stands out of her wheelchair, and to everyone’s surprise, she is the food critic by the name of Brooke White, who imitated to be in a wheelchair and test the restaurant staff.
-
-The manager, waiter, and owner are flabbergasted by the critic’s disguise and immediately start apologizing, but the damage is done! This viral video was a lesson for all of us not to discriminate against anyone based on their disabilities, looks, or any other thing and treat everyone equally with respect.
-
-The link to the video is:
-
-[Disabled Woman Was Refused in Service at the Restaurant](https://fb.watch/a4AF37n3LJ/)
-
-## Video number 4: The Final Boss OF Riddles: Dad
-
-![When you get to the final boss of riddles: The Dad](https://images.wondershare.com/filmora/article-images/2021/8-trending-videos-on-facebook-files-4.jpg)
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-This video was uploaded on 1st June 2021 by the Facebook page named ‘LADbible Australia’ and has amassed a total of 65 million views, 185 thousand likes, and reacts, along with 9 thousand comments.
-
-It features a daughter asking her dad riddles, and the dad is simply amazing at solving them. The girl tries hard to trap his father, but he gets back to her every time. The riddles are quite challenging yet funny. The video went viral on TikTok and has made rounds on Facebook since.
-
-She asks the dad to name three consecutive days without using the words Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, and Sunday, to which the dad thinks for a minute and, to her surprise, replies with the correct answer that is ‘Yesterday, Today and Tomorrow.’
-
-The last riddle almost gets the dad when the daughter asks, ‘There are 30 cows in a field and 28 (20 ate) chickens; how many did not?’ Dad is stuck for a few minutes and struggles to figure out the answer, but he eventually gets it.
-
-The viral video picturizes the beautiful relationship with her dad, and the viewers have enjoyed the sight of it along with the riddles! To watch the video, click on the link:
-
-[The Final Boss OF Riddles: Dad](https://fb.watch/a4HBVxUzGx/)
-
-## Video number 5: So Cheap and Useful Gadgets for Every Occasion
-
-![Cheap and Useful Gadgets for Every Occasion](https://images.wondershare.com/filmora/article-images/2021/8-trending-videos-on-facebook-files-5.jpg)
-
-This video was uploaded by the Facebook Page ‘5-Minute Crafts’ on 21 December 2021\. The video went viral and gained over 22 million views in just 3 days! It also has over 54 thousand likes and is just shy of 1000 comments.
-
-The video shows cheap and easy life hacks and gadgets one can use to make their life easy and hassle-free without spending a fortune. A few of the gadgets include a gimmick for a hand wash bottle that, on a press, automatically converts the liquid into foam and sticks to your hand.
-
-Another gadget shown has a few pockets to put cherries in and a cover which, when put on top and pressed in, pushes the seeds out without any cuts or damaging the cherries.
-
-Another simple life hack shown is to add food coloring to ice and have colored ice for your cocktails! It also features a cheap device that is an automatic sanitizer dispenser that is motion activated.
-
-It targets the clean freaks out there as there is no need to touch the dispenser; it automatically senses your hand and dispenses the sanitizer on your hands, convenient!
-
-For more hacks and gadgets, follow the video link:
-
-[So Cheap and Useful Gadgets for Every Occasion](https://fb.watch/a4IAekUvSU/)
-
-## Video number 6: Donating $100,000 To Streamers With 0 Viewers
-
-![Donating $100,000 to Streamers with 0 Viewers!](https://images.wondershare.com/filmora/article-images/2021/8-trending-videos-on-facebook-files-6.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 The 6th video in the list of Viral Facebook Video was uploaded by the Facebook Page ‘MrBeast’ on 11 May 2020\. The video has since got 7.4 million views and 123 thousand likes and reactions.
@@ -566,177 +709,10 @@ Here’s how to locate it.
 
 ![Log in to Facebook](https://images.wondershare.com/filmora/article-images/2021/8-trending-videos-on-facebook-files-9.jpg)
 
-### Step 2: Navigate to the Top Bar or Side Panel
-
-![Navigate to the Top Bar or Side Panel](https://images.wondershare.com/filmora/article-images/2021/8-trending-videos-on-facebook-files-10.jpg)
-
-You can locate the second icon on the top bar or the Watch tab in the side panel to open Facebook Watch. Click on any of these.
-
-### Step 3: You Are Ready to Go
-
-![Facebook Watch Page](https://images.wondershare.com/filmora/article-images/2021/8-trending-videos-on-facebook-files-11.jpg)
-
-You can now watch all the latest and trending videos on Facebook and that too according to your likings. You can also switch tabs and watch shows, or live videos that are currently trending or choose from Your Watchlist to choose any of the Facebook pages you prefer to watch the content of. Yes! It is that simple now!
-
-## How To Make Trending Videos Using WonderShare Filmora
-
-Do you also want to make viral videos like the ones mentioned above? Don’t worry; we’ve got you! Once you have finalized your content, you can use WonderShare Filmora to edit it, add tons of effects, filters, transitions, text, subtitles, and whatnot.
-
-WonderShare Filmora is a powerful editing tool that can help you create intriguing and engaging videos that will help you gain more views and eventually make it to the trending videos on Facebook.
-
-## Conclusion
-
-Creative and unique ideas always create a trend, which is the reason behind the fame of these 8 viral Facebook videos. Everyone has loved and enjoyed these videos, and there are many more similar videos in all genres ranging from sports, business pitches, entertainment, politics, etc.
-
-You can also make it to the trending videos if you’re a content creator. You can promote your business, brand, channel, content, or products by choosing the right content for your video. These videos range from highly entertaining topics to sensitive ones as well. You can watch more viral videos on Facebook Watch!S
-
-Video number 2: Asking Superyacht Owners What They Do For a Living
-
-![Asking Superyacht Owners What They Do For a Living](https://images.wondershare.com/filmora/article-images/2021/8-trending-videos-on-facebook-files-2.jpg)
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
-This video is uploaded on the Facebook page by ‘LADbible Australia’ and is titled ‘This lad asked superyacht owners what they do for a living. The video has 9.9 million views on Facebook, along with 6.7k likes and reactions.,
-
-It features a viral trend started by a famous blogger and TikToker Daniel Mac who asks people with expensive vehicles what they do for a living. In this video, he asks superyacht owners about their source of income.
-
-The Yachts featured are truly expensive and cost millions of dollars. Some of the superyachts included are Ferretti Custom Line Superyachts ranging between 13-15 million dollars, Pershing Milagros for 4 million dollars, Azimut 80 Flybridge for 2.8 million, and more.
-
-Some owners give him a dry response, while others ask him to hop on to the yachts and show Daniel around. They also explain different features of the yachts, e.g., the lounges, portholes, master staterooms, sauna, and much more. Some of the owners also give him life advice and share their lifestyles.
-
-Towards the end, the history of the trend is also explained, and a few other clips are shown where Daniel Mac is asking car owners about what they do for a living.
-
-Some of the cars featured include Mercedes-AMG G63 for $220 thousand, Audi R8 Supercharged for $205 thousand, Porsche 718 Cayman GT4 for $105 thousand, and a Lamborghini Aventador for $422 thousand.
-
-Most vehicle owners treat the blogger very nicely and answer his questions. This trend has been the most viral lately, and all the videos collectively have grasped millions of views across different social media platforms, including Facebook.
-
-The link to the video is as follows:
-
-[Asking Superyacht Owners What They Do For a Living](https://fb.watch/a4zsQ9%5FezM/)
-
-## Video number 3: Disabled Woman Was Refused in Service at the Restaurant
-
-![Disabled Woman Was Refused in Service at the Restaurant](https://images.wondershare.com/filmora/article-images/2021/8-trending-videos-on-facebook-files-3.jpg)
-
-This video was uploaded to the Facebook page ‘DramatizeMe’ and gained over 3.7 million views, 63k likes, and 1.2k comments. It is titled ‘Disabled Woman Was Refused in Service at the Restaurant.’
-
-It was a viral video that trended on Facebook for quite some time as it featured a re-enactment of a social experiment.
-
-The video is a short film that stars a lady in a wheelchair who dines in a restaurant. The restaurant staff misbehaved with her and discriminated against the woman based on her disability.
-
-They assume that the critic might get a bad impression if anything is out of order or unusual, and it may become the reason for their restaurant’s failure.
-
-The staff insults her in many views including misbehaving, not taking the right order, providing her with the wrong food, and asking her to switch tables despite being pre-booked.
-
-Towards the end, when the lady has had enough, she stands out of her wheelchair, and to everyone’s surprise, she is the food critic by the name of Brooke White, who imitated to be in a wheelchair and test the restaurant staff.
-
-The manager, waiter, and owner are flabbergasted by the critic’s disguise and immediately start apologizing, but the damage is done! This viral video was a lesson for all of us not to discriminate against anyone based on their disabilities, looks, or any other thing and treat everyone equally with respect.
-
-The link to the video is:
-
-[Disabled Woman Was Refused in Service at the Restaurant](https://fb.watch/a4AF37n3LJ/)
-
-## Video number 4: The Final Boss OF Riddles: Dad
-
-![When you get to the final boss of riddles: The Dad](https://images.wondershare.com/filmora/article-images/2021/8-trending-videos-on-facebook-files-4.jpg)
-
-This video was uploaded on 1st June 2021 by the Facebook page named ‘LADbible Australia’ and has amassed a total of 65 million views, 185 thousand likes, and reacts, along with 9 thousand comments.
-
-It features a daughter asking her dad riddles, and the dad is simply amazing at solving them. The girl tries hard to trap his father, but he gets back to her every time. The riddles are quite challenging yet funny. The video went viral on TikTok and has made rounds on Facebook since.
-
-She asks the dad to name three consecutive days without using the words Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, and Sunday, to which the dad thinks for a minute and, to her surprise, replies with the correct answer that is ‘Yesterday, Today and Tomorrow.’
-
-The last riddle almost gets the dad when the daughter asks, ‘There are 30 cows in a field and 28 (20 ate) chickens; how many did not?’ Dad is stuck for a few minutes and struggles to figure out the answer, but he eventually gets it.
-
-The viral video picturizes the beautiful relationship with her dad, and the viewers have enjoyed the sight of it along with the riddles! To watch the video, click on the link:
-
-[The Final Boss OF Riddles: Dad](https://fb.watch/a4HBVxUzGx/)
-
-## Video number 5: So Cheap and Useful Gadgets for Every Occasion
-
-![Cheap and Useful Gadgets for Every Occasion](https://images.wondershare.com/filmora/article-images/2021/8-trending-videos-on-facebook-files-5.jpg)
-
-This video was uploaded by the Facebook Page ‘5-Minute Crafts’ on 21 December 2021\. The video went viral and gained over 22 million views in just 3 days! It also has over 54 thousand likes and is just shy of 1000 comments.
-
-The video shows cheap and easy life hacks and gadgets one can use to make their life easy and hassle-free without spending a fortune. A few of the gadgets include a gimmick for a hand wash bottle that, on a press, automatically converts the liquid into foam and sticks to your hand.
-
-Another gadget shown has a few pockets to put cherries in and a cover which, when put on top and pressed in, pushes the seeds out without any cuts or damaging the cherries.
-
-Another simple life hack shown is to add food coloring to ice and have colored ice for your cocktails! It also features a cheap device that is an automatic sanitizer dispenser that is motion activated.
-
-It targets the clean freaks out there as there is no need to touch the dispenser; it automatically senses your hand and dispenses the sanitizer on your hands, convenient!
-
-For more hacks and gadgets, follow the video link:
-
-[So Cheap and Useful Gadgets for Every Occasion](https://fb.watch/a4IAekUvSU/)
-
-## Video number 6: Donating $100,000 To Streamers With 0 Viewers
-
-![Donating $100,000 to Streamers with 0 Viewers!](https://images.wondershare.com/filmora/article-images/2021/8-trending-videos-on-facebook-files-6.jpg)
-
-The 6th video in the list of Viral Facebook Video was uploaded by the Facebook Page ‘MrBeast’ on 11 May 2020\. The video has since got 7.4 million views and 123 thousand likes and reactions.
-
-MrBeast is the channel of a guy named Jimmy who is known to spend and give away millions of dollars to random people who enter his gaming competitions or even randomly. In this video, he decided to help out streamers with 0 viewers new to the field or struggling.
-
-He starts by giving away $10k to a streamer, and his reaction is absolutely funny and amazing. Throughout the video, he continues to donate and supports new gamers and online streamers with thousands of dollars.
-
-He catches most of the streamers off guard, and their reactions are so amazing! They cannot thank him enough and cannot believe it. They mostly turn out to be dumbfounded by the enormous amount of money they receive.
-
-He also challenges the streamers to complete tasks in the game they are playing in return for extra rewards.
-
-Check out the video on this link:
-
-[Donating $100,000 To Streamers With 0 Viewers](https://fb.watch/a4JWmAlxg0/)
-
-## Video number 7: The Beauty of Tennis
-
-![The beauty of tennis.](https://images.wondershare.com/filmora/article-images/2021/8-trending-videos-on-facebook-files-7.jpg)
-
-This one is for the sportsmen out there! This short video was uploaded by the Facebook page ‘Tennis Instinct’ on 18 June 2020 and received 9.4M views after going viral immediately.
-
-It features a short clip from a tennis match played between the famous tennis players Rafael Nadal and Gilles Muller. The clip is of a point played with extremely difficult tosses exchanged, and it was unexplained how the professional players managed to save the point by their extraordinary talent.
-
-They played the ball several times before Nadal got the point, and that too by a very minute margin on the line; otherwise, the point would’ve gone to Muller, thanks to the modern monitoring systems and high-speed cameras.
-
-It shows the beauty of the game and the polished game presented by the professional players.
-
-To enjoy the video, click on the link here:
-
-[The Beauty of Tennis](https://fb.watch/a4KjEJu6Hp/)
-
-## Video number 8: I Pretended To Be A Terrible Violin Student
-
-![I Pretended To Be A Terrible Violin Student!](https://images.wondershare.com/filmora/article-images/2021/8-trending-videos-on-facebook-files-8.jpg)
-
-The last video in the list of 8 Viral videos on Facebook is uploaded by ‘Rob Landes’ with 7.9 million views and 88k likes.
-
-In this video, the guy hires violin teachers, pretends to be horrendous while playing the violin, and tries to annoy his teachers by pretending to be exceptionally bad. They try to instruct him, correct him in all possible ways, and buck him up.
-
-In the end, the guy suddenly starts playing so well that his teachers are astonished to see what he is capable of. It turns out that he is a professional violinist who has been playing for 30 years!
-
-He then apologizes to the teachers for pranking them and tells them he has two music performance degrees and thanks them for their advice.
-
-To watch the video, follow the link:
-
-[I Pretended To Be A Terrible Violin Student](https://fb.watch/a4LQjlp10F/)
-
-## Bonus Tip! How to Locate Trending Videos on Facebook?
-
-Recently, Facebook has changed its trending tab and has created a separate tab known as ‘Facebook Watch’ It has turned out to be a success as you do not have to select separate genres to watch viral videos.
-
-Instead, Facebook customizes it to your liking and preference by automatically gathering data and lining up the content according to your interests!
-
-Here’s how to locate it.
-
-### Step 1: Log in to Facebook
-
-![Log in to Facebook](https://images.wondershare.com/filmora/article-images/2021/8-trending-videos-on-facebook-files-9.jpg)
-
 ### Step 2: Navigate to the Top Bar or Side Panel
 
 ![Navigate to the Top Bar or Side Panel](https://images.wondershare.com/filmora/article-images/2021/8-trending-videos-on-facebook-files-10.jpg)
@@ -749,11 +725,19 @@ You can locate the second icon on the top bar or the Watch tab in the side panel
 
 You can now watch all the latest and trending videos on Facebook and that too according to your likings. You can also switch tabs and watch shows, or live videos that are currently trending or choose from Your Watchlist to choose any of the Facebook pages you prefer to watch the content of. Yes! It is that simple now!
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How To Make Trending Videos Using WonderShare Filmora
 
 Do you also want to make viral videos like the ones mentioned above? Don’t worry; we’ve got you! Once you have finalized your content, you can use WonderShare Filmora to edit it, add tons of effects, filters, transitions, text, subtitles, and whatnot.
 
 WonderShare Filmora is a powerful editing tool that can help you create intriguing and engaging videos that will help you gain more views and eventually make it to the trending videos on Facebook.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -782,17 +766,24 @@ You can also make it to the trending videos if you’re a content creator. You c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-unraveling-the-process-of-gaining-facebooks-blue-badge/"><u>[New] 2024 Approved Unraveling the Process of Gaining Facebook's Blue Badge</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-fbs-hot-five-most-captivating-vids-for-2024/"><u>[New] FB's Hot Five Most Captivating Vids for 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-trick-for-effortless-video-playback-from-youtube-to-facebook-groups/"><u>[New] In 2024, Trick for Effortless Video Playback From Youtube to Facebook Groups</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-the-essentials-of-transferring-youtube-media-to-social-networks/"><u>[Updated] 2024 Approved The Essentials of Transferring YouTube Media to Social Networks</u></a></li>
-<li><a href="https://dvd-bd.techidaily.com/1-resolved-fixes-for-the-persistent-black-screen-issue-during-movie-playback-and-editing/"><u>1. Resolved: Fixes for the Persistent Black Screen Issue During Movie Playback and Editing</u></a></li>
-<li><a href="https://discover-best.techidaily.com/enhance-your-website-with-automated-cookiebot-driven-conversion-tracking/"><u>Enhance Your Website with Automated Cookiebot-Driven Conversion Tracking</u></a></li>
-<li><a href="https://fox-that.techidaily.com/essential-tips-solving-the-problem-of-non-working-iphone-voicemail-in-9-steps/"><u>Essential Tips: Solving the Problem of Non-Working iPhone Voicemail in 9 Steps</u></a></li>
-<li><a href="https://driver-install.techidaily.com/fix-and-upgrade-gaming-mouse-driver-for-win-7-users/"><u>Fix and Upgrade: Gaming Mouse Driver for Win 7 Users</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-oppo-find-n3-flip-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Oppo Find N3 Flip | Dr.fone</u></a></li>
-<li><a href="https://solve-marvelous.techidaily.com/online-konvertie-van-dng-naar-png-kostenloos-en-gemakkelijke-oplossingen-met-movavi/"><u>Online Konvertie Van DNG Naar PNG: Kostenloos en Gemakkelijke Oplossingen Met Movavi</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/unlock-hd-potential-for-your-social-media-platform-fb-for-2024/"><u>Unlock HD Potential for Your Social Media Platform (FB) for 2024</u></a></li>
-<li><a href="https://solve-hot.techidaily.com/wie-man-freigegebene-daten-auf-einer-vollen-festplatte-sicher-loscht-tipps-fur-windows-10/"><u>Wie Man Freigegebene Daten Auf Einer Vollen Festplatte Sicher Löscht - Tipps Für Windows 10</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-protecting-privacy-during-youtube-to-mp4-conversion/"><u>[New] 2024 Approved Protecting Privacy During YouTube-to-MP4 Conversion</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-twitter-titans-the-most-shared-tweets/"><u>[New] 2024 Approved Twitter Titans The Most Shared Tweets</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-crafting-quality-podcasts-iphone-and-ipad-tips-for-intense-interviewing/"><u>[New] Crafting Quality Podcasts IPhone & iPad Tips for Intense Interviewing</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-easily-create-compelling-fb-video-ads-with-no-cost-kit/"><u>[New] Easily Create Compelling FB Video Ads with No-Cost Kit</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-enabling-autoplay-youtube-videos-in-social-media-network/"><u>[New] Enabling Autoplay Youtube Videos in Social Media Network</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-examining-the-reasons-behind-instant-facebook-content-revocation/"><u>[New] In 2024, Examining the Reasons Behind Instant Facebook Content Revocation</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-screen-recording-techniques-for-windows-8-users/"><u>[New] In 2024, Screen Recording Techniques for Windows 8 Users</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-the-ultimate-list-of-sandbox-treasures/"><u>[New] In 2024, The Ultimate List of Sandbox Treasures</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-rebooted-social-scene-taking-control-of-fb-again/"><u>[New] Rebooted Social Scene Taking Control of Fb Again</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-the-ultimate-farming-revamp-7-14-mod-comparison-guide-for-2024/"><u>[New] The Ultimate Farming Revamp #7-14 Mod Comparison Guide for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-easy-extraction-of-social-media-videos-with-chrome-plugs/"><u>[Updated] Easy Extraction of Social Media Videos with Chrome Plugs</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-elevate-your-content-game-youtube-and-facebook-sync/"><u>[Updated] Elevate Your Content Game YouTube & Facebook Sync</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-the-secret-behind-the-blue-status-update-sticker/"><u>[Updated] In 2024, The Secret Behind the Blue Status Update Sticker</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-unlock-fb-potential-link-your-youtube-video/"><u>[Updated] In 2024, Unlock FB Potential Link Your YouTube Video</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/effortless-methods-for-crafting-custom-iphone-ringtones-independently-of-itunes/"><u>Effortless Methods for Crafting Custom iPhone Ringtones Independently of iTunes</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/evasive-storage-strategies-keeping-ai-dialogues-hidden/"><u>Evasive Storage Strategies: Keeping AI Dialogues Hidden</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/leap-into-instagram-stardom-with-ease/"><u>Leap Into Instagram Stardom with Ease</u></a></li>
+<li><a href="https://driver-error.techidaily.com/mouse-troubleshoot-invisible-hand-in-windows/"><u>Mouse Troubleshoot - Invisible Hand in Windows</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/unveiling-a-world-of-live-content-roku-and-facebook-integration/"><u>Unveiling a World of Live Content Roku and Facebook Integration</u></a></li>
 </ul></div>
 
