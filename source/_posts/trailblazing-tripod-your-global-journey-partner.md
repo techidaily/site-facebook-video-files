@@ -1,7 +1,7 @@
 ---
 title: "Trailblazing Tripod: Your Global Journey Partner"
-date: 2024-11-18T18:26:25.230Z
-updated: 2024-11-24T17:47:32.938Z
+date: 2024-11-28T17:31:55.504Z
+updated: 2024-12-02T17:36:30.727Z
 categories:
   - BestProducts
 description: "This Article Describes Trailblazing Tripod: Your Global Journey Partner"
@@ -13,13 +13,13 @@ thumbnail: https://thmb.techidaily.com/93cb6ac8ec609718de42842a42295e1ee84908cc0
 
 3.8
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Bethesda The Elder Scrolls V: Skyrim (Nintendo Switch)
 
 ![The Elder Scrolls V: Skyrim](https://www.lifewire.com/thmb/JA3JlwOuidCKxo4M92FWCfYUoI4=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_1LW415460710-2185a26d460b40978c1e0887900fbc7b.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Lifewire / Kelsey Simon
 
@@ -39,6 +39,10 @@ Lifewire / Kelsey Simon
 [View On Amazon](https://www.amazon.com/dp/B075NFTX36/?tag=lifewire-onsite-prod-20&ascsubtag=4685718%7Cn0dc423de187c40659bf9fd9ffcd5e7ec22%7CB075NFTX36) [View On Walmart](https://www.walmart.com/ip/829171723)
 
 3.8
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Bethesda The Elder Scrolls V: Skyrim (Nintendo Switch)
 
@@ -66,19 +70,11 @@ Lifewire / Kelsey Simon
 
  The Elder Scrolls V: Skyrim is an action role-playing game focused on single-player immersion in a fantasy world. It was originally released in 2011 and has most recently been ported over to the Switch. We took a close look at this game on its newest platform, playing it on the go to test the handheld gameplay experience, along with the plot and graphics.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Setup Process: Simple for all users**
 
  As with other games on the Nintendo Switch, you’ll need to insert the cartridge into your device. Skyrim does take a while to launch, so be patient as it loads up. There shouldn’t be any special downloads required, like with other games, and as soon as things load you’ll be able to play.
 
 ![The Elder Scrolls V: Skyrim](https://www.lifewire.com/thmb/uXDVHaBrdIlv5tI-qRgiPK0Iig4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW415460721-e6a53664e7eb4e65a75bf5cceb928e28.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Lifewire / Kelsey Simon
 
@@ -126,10 +122,6 @@ Lifewire / Kelsey Simon
 
  The graphics in Skyrim aren’t awful, but they haven't progressed much since 2011\. If you’ve played any other version of Skyrim, you can overlook it, simply because you know what you’re getting into. Bethesda attempted to make Skyrim look realistic, likely in their desire to give you a fully immersive experience. But these days, Skyrim’s graphics just aren’t as realistic as what other, more recent games have accomplished. In places, the mountains look blocky and the grass a little patchy. Character’s faces sometimes seem deeply sunken around the eyes, with the skin looking more like leather than flesh. It’s not that the graphics are overly bad, they’re just not as good as what you can get with better hardware on the PC.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Platform: Take Skyrim on the go**
 
  Considering The Elder Scrolls V: Skyrim is available on so many other devices, it raises the question of whether or not it’s worth getting for the Switch. First, let’s talk about the negatives. We mentioned our issues with the controls earlier. If you're used to playing the game with a mouse and keyboard, the controls on the Switch just aren't as easy to use.
@@ -143,16 +135,24 @@ Lifewire / Kelsey Simon
 ![The Elder Scrolls V: Skyrim](https://www.lifewire.com/thmb/Iik6f_7RIRMWo5R6zGYxgGeL4n0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW41546076-8fb741faa7144fa6bafe386d2b7d8296.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Lifewire / Kelsey Simon
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Price: A tad expensive**
 
  The Elder Scrolls V: Skyrim costs roughly $60 dollars for the Switch (MSRP). You might be able to find it on sale on Amazon for less, but it’s still on the more expensive side like other popular Switch games. This is disappointing since you can find Skyrim on other platforms for a fraction of the cost, even snatching it up for sale on Steam for $25 or less on PC. Considering the cost difference, the PC version of the game is the better deal, especially since the gameplay is better looking. But if you’re looking to take Skyrim on the go, or a Switch is your preferred gaming system, the price isn’t unreasonable.
 
 ![The Elder Scrolls V: Skyrim](https://www.lifewire.com/thmb/HBIvthh4-o2kkXUP5CB6pSTnyOE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW415460725-46d1960a611c4ea488515c19052068bf.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Lifewire / Kelsey Simon
 
@@ -166,15 +166,15 @@ Lifewire / Kelsey Simon
 
  Even though The Elder Scrolls V: Skyrim is a great game and the Switch is an amazing platform, our advice is only to buy Skyrim for the Switch if you’re looking to play on the go. Otherwise, we’d suggest purchasing Skyrim for the PC, where you’ll really be able to enjoy superior graphics and customization options.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Similar Products We've Reviewed
 
 * [The Legend of Zelda: Breath of the Wild](https://www.lifewire.com/the-legend-of-zelda-breath-of-the-wild-review-4685759)
 * [Mario Kart 8 Deluxe](https://www.lifewire.com/mario-kart-8-deluxe-review-4688951)
 * [Splatoon 2](https://www.lifewire.com/splatoon-2-review-4688940)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Specs
 
@@ -198,18 +198,22 @@ Lifewire / Kelsey Simon
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-connect-online-screen-sharing-secrets-for-live-streaming/"><u>[New] 2024 Approved Connect Online Screen-Sharing Secrets for Live Streaming</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-unlocking-iphones-podcast-potential-for-2024/"><u>[New] Unlocking iPhone's Podcast Potential for 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-unveiling-the-path-to-your-facebook-status-video-archive/"><u>[New] Unveiling the Path to Your Facebook Status Video Archive</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/our-quick-guide-to-securing-a-youtube-revenue-stream/"><u>[New] Your Quick Guide to Securing a Youtube Revenue Stream</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-the-insiders-guide-to-vids-on-the-big-blue-network/"><u>[Updated] 2024 Approved The Insider's Guide to Vids on the Big Blue Network</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-integrating-facebook-livestream-into-your-roku-setup/"><u>[Updated] Integrating Facebook Livestream Into Your Roku Setup</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/2024-approved-a-day-in-the-life-on-facebook-enhancing-participation/"><u>2024 Approved A Day in the Life on Facebook Enhancing Participation</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-hidefake-snapchat-location-on-your-realme-c55-drfone-by-drfone-virtual-android/"><u>How to Hide/Fake Snapchat Location on Your Realme C55 | Dr.fone</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-windows-best-camcorders-reviewed-and-rated/"><u>In 2024, Window's Best Camcorders Reviewed & Rated</u></a></li>
-<li><a href="https://games-able.techidaily.com/innovative-protection-for-your-steam-device-in-24/"><u>Innovative Protection for Your Steam Device in '24</u></a></li>
-<li><a href="https://win-answers.techidaily.com/master-guide-how-to-overcome-and-repair-a-stubborn-non-opening-discord-application/"><u>Master Guide: How to Overcome and Repair a Stubborn, Non-Opening Discord Application</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/orm-profitability-showdown-dailymovements-standards-vs-youtube-for-2024/"><u>Platform Profitability Showdown DailyMovement's Standards Vs Youtube for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/understanding-different-hand-tracker-techniques/"><u>Understanding Different Hand Tracker Techniques</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-get-hd-quality-facebook-videos-on-pcmobile/"><u>[New] 2024 Approved Get HD Quality Facebook Videos on PC/Mobile</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-stream-like-a-pro-fb-live-tips-2023/"><u>[New] 2024 Approved Stream Like a Pro FB Live Tips 2023</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-how-to-check-what-youve-liked-on-facebook-lately/"><u>[Updated] How To Check What You've Liked on Facebook Lately</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-echovideo-capture-toolkit-for-fb/"><u>[Updated] In 2024, EchoVideo Capture Toolkit for FB</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-unhindered-video-streaming-with-chromes-performance-fixes/"><u>[Updated] In 2024, Unhindered Video Streaming with Chrome's Performance Fixes</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/10-best-digital-wallpaper-change-software-for-2024/"><u>10 Best Digital Wallpaper Change Software for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-no-1s-choice-optimal-sierra-video-apps/"><u>2024 Approved No. 1'S Choice Optimal Sierra Video Apps</u></a></li>
+<li><a href="https://games-able.techidaily.com/avoid-regret-right-oled-display-selection-tips/"><u>Avoid Regret: Right OLED Display Selection Tips</u></a></li>
+<li><a href="https://program-issues.techidaily.com/beat-the-loading-endlessly-problem-tips-to-get-cold-war-running-smoothly-on-console-and-pc/"><u>Beat the 'Loading Endlessly' Problem - Tips to Get Cold War Running Smoothly on Console & PC</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/expert-fb-video-sharing-tactics-for-desktop-and-handheld-devices-for-2024/"><u>Expert FB Video Sharing Tactics for Desktop and Handheld Devices for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/fbs-top-songs-on-screen-a-step-by-step-vlog-series/"><u>FB's Top Songs on Screen A Step-by-Step Vlog Series</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixing-excessive-cpu-use-by-zoom-discover-these-6-essential-tips/"><u>Fixing Excessive CPU Use by Zoom: Discover These 6 Essential Tips!</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-turn-your-passion-into-profits-youtube-on-facebook-monetization-steps/"><u>In 2024, Turn Your Passion Into Profits YouTube on Facebook Monetization Steps</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/inside-look-free-powerful-photo-editing-with-photoscape-software-breakdown/"><u>Inside Look: Free, Powerful Photo Editing with PhotoScape Software Breakdown</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/the-ultimate-guide-to-professional-streaming-on-fb/"><u>The Ultimate Guide to Professional Streaming on FB</u></a></li>
+<li><a href="https://common-error.techidaily.com/understanding-msda80dll-importance-and-maintenance-tips/"><u>Understanding MSDA80.DLL: Importance and Maintenance Tips</u></a></li>
+<li><a href="https://howto.techidaily.com/why-is-my-vivo-y200-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Vivo Y200 Offline? Troubleshooting Guide | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Leveraging GPT for Evidence-Based Therapeutic Practices
-date: 2024-11-23T17:46:47.280Z
-updated: 2024-11-24T19:04:04.867Z
+date: 2024-11-25T20:54:01.839Z
+updated: 2024-12-03T10:48:44.333Z
 tags:
   - chatgpt
   - open-ai
@@ -31,10 +31,6 @@ thumbnail: https://thmb.techidaily.com/162b2aac03e354d0551440e420920822fdecda676
 
  A whole new world of prompt engineering is springing into life, all dedicated to crafting and perfecting the art of AI prompting. But you can skip the tricky bits and improve your AI prompting game with these tips and tricks.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1 Be as Specific as Possible
 
  One[ChatGPT prompt mistake](https://www.makeuseof.com/chatgpt-prompt-mistakes-to-avoid/) is not being specific with the information you give, and this is also a problem when using Microsoft Copilot and other AI tools. If you want AI to provide more accurate results, you need to tell it exactly what you're looking for.p
@@ -48,7 +44,7 @@ thumbnail: https://thmb.techidaily.com/162b2aac03e354d0551440e420920822fdecda676
 ![A gym routine generated with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-12-59-46.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The more context you provide your AI tool, the better of a response you'll receive.
@@ -66,10 +62,14 @@ thumbnail: https://thmb.techidaily.com/162b2aac03e354d0551440e420920822fdecda676
 ![An expanded answer with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-13-11-12.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  As a general rule of thumb, ask as many questions as you feel necessary to get all the information you're looking for. You may also want to determine[whether premium AI prompts are worth the money](https://www.makeuseof.com/should-you-buy-ai-prompts/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3 Explain What Hasn't Worked When You've Prompted in the Past
 
@@ -100,10 +100,14 @@ thumbnail: https://thmb.techidaily.com/162b2aac03e354d0551440e420920822fdecda676
 ![Answer options from ChatGPT, based on what the user did and didn't want ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-13-38-46.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Sometimes, your AI tool will give you multiple options in your answers. You can then choose whichever one works best for you.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6 Upload Images or Files (if Available)
 
@@ -112,10 +116,6 @@ thumbnail: https://thmb.techidaily.com/162b2aac03e354d0551440e420920822fdecda676
  If you're using AI to create art, it's also a good idea to upload images that the AI tool can use as examples. Meanwhile, if you want to[use Photo AI](https://www.makeuseof.com/what-is-photo-ai/) or similar tools for pictures of yourself, uploading selfies, headshots, and other images will help you achieve what you want.
 
 [Some AI tools can even answer questions from your PDFs](https://www.makeuseof.com/ai-tools-answer-pdf/) if you want to get more clarity.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7 Mention Where You Want to Use Your Prompt Answers
 
@@ -142,20 +142,18 @@ thumbnail: https://thmb.techidaily.com/162b2aac03e354d0551440e420920822fdecda676
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-enhancing-your-social-media-footprint-upload-success-tips-for-stories-for-2024/"><u>[New] Enhancing Your Social Media Footprint Upload Success Tips for Stories for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-from-novice-to-expert-perfecting-mac-audio-with-audacity-for-2024/"><u>[Updated] From Novice to Expert Perfecting Mac Audio with Audacity for 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-halt-video-size-bloat-convert-fb-vids-to-720p-and-1080p-mp4/"><u>[Updated] In 2024, Halt Video Size Bloat Convert FB Vids to 720P & 1080P MP4</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-the-quintessential-fb-video-list-for-you/"><u>[Updated] In 2024, The Quintessential FB Video List for You</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-one-minute-color-concealment/"><u>[Updated] One-Minute Color Concealment</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-vlc-tutorial-how-to-record-webcam-video-for-2024/"><u>[Updated] VLC Tutorial How to Record Webcam Video for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-navigating-the-nuances-of-nonlinear-audio-editing-in-audacity/"><u>2024 Approved Navigating the Nuances of Nonlinear Audio Editing in Audacity</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/fix-chrome-non-playing-androidios-videos-for-2024/"><u>Fix Chrome Non-Playing Android/iOS Videos for 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/fix-facebook-snap-glitches-stories-upload-woes/"><u>Fix Facebook Snap Glitches Stories Upload Woes</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/get-microsoft-va-training-content-in-multiple-formats-mp4-wmv-avi-and-flv/"><u>Get Microsoft VA Training Content in Multiple Formats: MP4, WMV, AVI & FLV</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/in-2024-fb-chronicles-the-hidden-viewer/"><u>In 2024, FB Chronicles The Hidden Viewer</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-frp-on-realme-narzo-60x-5g-by-drfone-android/"><u>In 2024, How to Bypass FRP on Realme Narzo 60x 5G?</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-nextgen-flawless-frame-processor-windowsmac/"><u>In 2024, NextGen Flawless Frame Processor (Windows/Mac)</u></a></li>
-<li><a href="https://article-tips.techidaily.com/in-2024-premium-cloud-storage-services-a-guides-choice/"><u>In 2024, Premium Cloud Storage Services A Guide's Choice</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-the-art-of-hue-adjustment-in-post-production/"><u>In 2024, The Art of Hue Adjustment in Post-Production</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-interactive-events-recorder-yearly-edition/"><u>[Updated] 2024 Approved Interactive Events Recorder - Yearly Edition</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-facebooks-new-era-select-addons-and-browser-plugins-to-optimize-video-viewing-in-firefox-for-2024/"><u>[Updated] Facebook's New Era Select Addons & Browser Plugins to Optimize Video Viewing in Firefox for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-firefoxs-prime-expert-downloads-and-addons-navigating-facebook-videos/"><u>[Updated] Firefox's Prime Expert Downloads & Addons Navigating Facebook Videos</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-mastering-lecture-capture-a-comprehensible-methodology-for-mac-users/"><u>[Updated] In 2024, Mastering Lecture Capture A Comprehensible Methodology for Mac Users</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-social-stream-top-8-viral-videos/"><u>[Updated] In 2024, Social Stream Top 8 Viral Videos</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-lights-spectrum-in-focus-pro-hdr-creation-tips-for-ps/"><u>[Updated] Light's Spectrum in Focus Pro HDR Creation Tips for PS</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-exploring-legal-restrictions-for-broadcasting-content-online/"><u>2024 Approved Exploring Legal Restrictions for Broadcasting Content Online</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-reclaim-your-social-space-after-a-hack/"><u>2024 Approved Reclaim Your Social Space After a Hack</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-stop-unexpected-termination-with-error-1067-on-your-pc-solutions-explored/"><u>How to Stop Unexpected Termination with Error 1067 on Your PC - Solutions Explored</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fake-gps-on-vivo-s17e-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>In 2024, How To Fake GPS On Vivo S17e For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/optimize-your-videos-discoverability-with-key-youtube-seo-strategies-for-2024/"><u>Optimize Your Videos' Discoverability with Key YouTube SEO Strategies for 2024</u></a></li>
+<li><a href="https://techidaily.com/remove-samsung-lock-screen-without-password-samsung-galaxy-s23-fe-by-drfone-android-unlock-android-unlock/"><u>Remove Samsung Lock Screen without Password(Samsung Galaxy S23 FE)</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-best-android-unlock-software-for-poco-c65-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>The Best Android Unlock Software For Poco C65 Device Top 5 Picks to Remove Android Locks</u></a></li>
 </ul></div>
 

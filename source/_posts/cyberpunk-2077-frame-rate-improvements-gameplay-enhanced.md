@@ -1,7 +1,7 @@
 ---
 title: Cyberpunk 2077 Frame Rate Improvements - Gameplay Enhanced
-date: 2024-11-18T16:09:37.153Z
-updated: 2024-11-24T17:10:44.693Z
+date: 2024-11-26T13:15:51.086Z
+updated: 2024-12-03T02:57:24.010Z
 tags:
   - win11
   - win10
@@ -28,7 +28,7 @@ Don’t worry, here’re fixes may help you solve the issue.
 3. [Update the device driver](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Change the in-game settings
@@ -45,10 +45,6 @@ Don’t worry, here’re fixes may help you solve the issue.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-15_15-48-52.jpg)
 4. In the open section, change**Response Curve** to**Raw** , and set**Horizontal Turning Bonus** and**Vertical Turning Bonus** to**0** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-15_15-50-02.jpg)
 
 #### For mouse/keyboard users
@@ -61,6 +57,10 @@ If you’re not using the controller, check the below settings.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-15_15-53-01.jpg)
 4. If you need to lower your graphic resolution, move to the**GRAPHICS** tab.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Scroll down to find the**Resolution Scaling** section.
 6. Set the**Static FidelityFX CAS** to**ON** and lower the Resolution Scaling.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-15_15-59-50.jpg)
@@ -68,6 +68,10 @@ If you’re not using the controller, check the below settings.
  Some users have reported that by disabling all the aim assist options in settings, the issue has been improved a lot.
 
 If this fix doesn’t work, move to the next one.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Change the mouse setting
 
@@ -79,7 +83,7 @@ If this fix doesn’t work, move to the next one.
 3. Go to the**Mouse** tab, click**Additional mouse options** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-15_16-00-50.jpg)
@@ -87,10 +91,6 @@ If this fix doesn’t work, move to the next one.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-15_16-01-18.jpg)
 5. Launch the game and check.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 If it doesn’t work, move to the next fix.
 
@@ -126,7 +126,7 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you need assistance, please contact **Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
@@ -152,20 +152,22 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-journey-to-the-heart-of-windows-11s-newest-gems/"><u>[New] 2024 Approved Journey to the Heart of Windows 11'S Newest Gems</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-the-blueprint-to-buzz-generating-posts/"><u>[New] In 2024, The Blueprint to Buzz-Generating Posts</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-video-make-for-facebook-how-to-make-facebook-video/"><u>[New] In 2024, Video Make for Facebook How to Make Facebook Video</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-step-wise-technique-turn-video-upside-down-in-vlc-media-player-for-2024/"><u>[New] Step-Wise Technique Turn Video Upside Down in VLC Media Player for 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-facebooks-favorites-top-10-viral-music-videos-guide/"><u>[Updated] 2024 Approved Facebook's Favorites TOP 10 Viral Music Videos Guide</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/2023-fix-reappear-disappeared-watch-video-icon-for-2024/"><u>2023 Fix Reappear Disappeared Watch Video Icon for 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/2024-approved-unlock-facebook-popularity-discover-best-apps-from-androidiphone/"><u>2024 Approved Unlock Facebook Popularity Discover Best Apps From Android/iPhone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/conquering-peaks-and-valleys-comparing-the-mightiest-gopros-b-and-sessions/"><u>Conquering Peaks and Valleys Comparing the Mightiest GoPros, B & Sessions</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/from-concept-to-completion-producing-a-viral-facebook-reel-for-2024/"><u>From Concept to Completion Producing a Viral Facebook Reel for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-oppo-a1x-5g-drfone-by-drfone-virtual-android/"><u>How to share/fake gps on Uber for Oppo A1x 5G | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/streamline-system-performance-by-adding-disk-space-analyzer-tool/"><u>Streamline System Performance by Adding Disk Space Analyzer Tool</u></a></li>
-<li><a href="https://common-error.techidaily.com/tire-maintenance-ensure-that-your-tires-are-correctly-inflated-as-per-the-manufacturers-specifications-as-both-over-inflation-and-under-inflation-can-lead-t34/"><u>Tire Maintenance: Ensure that Your Tires Are Correctly Inflated as per the Manufacturer's Specifications, as Both Over-Inflation and Under-Inflation Can Lead to Increased Strain on Suspension Components and Uneven Wear Patterns</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1723862728633-unleash-your-inner-gamer-with-lenovo-legion-slim-5-a-steal-at-under-1100-from-newegg/"><u>Unleash Your Inner Gamer with Lenovo Legion Slim 5 – A Steal at Under $1,100 From Newegg!</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/virtual-vision-creation-shaping-a-humorous-self-portrait/"><u>Virtual Vision Creation Shaping a Humorous Self-Portrait</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/zoom-video-mastery-with-our-6-best-cam-guide/"><u>Zoom Video Mastery with Our #6 Best Cam Guide</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-maximizing-tv-reach-with-fb-live-streaming/"><u>[New] 2024 Approved Maximizing TV Reach with FB Live Streaming</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-direct-links-sharing-twitch-content-with-friends-on-fb-for-2024/"><u>[New] Direct Links Sharing Twitch Content with Friends on FB for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-handling-the-youre-there-mistake-in-fb-messages/"><u>[New] Handling the You're There Mistake in FB Messages</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-discovering-success-through-the-most-effective-15-youtube-themes/"><u>[New] In 2024, Discovering Success Through the Most Effective 15 YouTube Themes</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-selecting-the-perfect-screen-ultrawide-or-uhd-4k/"><u>[New] In 2024, Selecting the Perfect Screen UltraWide or UHD 4K?</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-a-step-by-step-tutorial-for-recording-youtube-live-across-devices/"><u>[Updated] 2024 Approved A Step-by-Step Tutorial for Recording YouTube Live Across Devices</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-clearer-chrome-tips-to-improve-facebook-playback/"><u>[Updated] Clearer Chrome Tips to Improve Facebook Playback</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-troubleshooting-tips-unearth-hidden-facebook-content/"><u>[Updated] In 2024, Troubleshooting Tips Unearth Hidden Facebook Content</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-steps-to-ensure-whole-sound-in-fb-video-playbacks-for-2024/"><u>[Updated] Steps to Ensure Whole Sound in FB Video Playbacks for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-top-5-cloud-based-voice-customizers-for-chrome-os-vocal-transformation-tools-reviewed/"><u>2024 Approved Top 5 Cloud-Based Voice Customizers for Chrome OS Vocal Transformation Tools Reviewed</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/enhancing-text-via-ai-editing/"><u>Enhancing Text via AI Editing</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/from-passive-page-peeps-to-paying-patrons-facebook-monetization-magic/"><u>From Passive Page Peeps to Paying Patrons Facebook Monetization Magic</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-3-ways-to-track-samsung-galaxy-a14-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Track Samsung Galaxy A14 5G without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/mastering-luts-unlocking-color-grading-in-ar-and-vfx/"><u>Mastering LUTs Unlocking Color Grading in AR & VFX</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/secure-your-videos-top-5-fb-downloader-apps-ranked-for-2024/"><u>Secure Your Videos Top 5 FB Downloader Apps Ranked for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-ultimate-guide-to-why-the-samsung-galaxy-s10-stands-out-as-a-superior-smartphone/"><u>The Ultimate Guide to Why the Samsung Galaxy S10 Stands Out as a Superior Smartphone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-helldivers-ii-how-to-resolve-the-black-screen-issue-at-game-start/"><u>Troubleshooting Helldivers II: How to Resolve the Black Screen Issue at Game Start</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, Taking Control of Your Digital Footprint  New Facebook Guide\""
-date: 2024-07-14T01:15:00.764Z
-updated: 2024-07-15T01:15:00.764Z
+date: 2024-11-29T01:03:18.237Z
+updated: 2024-12-03T12:10:10.402Z
 tags:
   - ai video
   - ai facebook
@@ -45,9 +45,17 @@ thumbnail: https://thmb.techidaily.com/9f799a63c5ced001089eec847a965c77100b85a29
 
 ![facebook settings option](https://images.wondershare.com/filmora/article-images/facebook-settings-option.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  A new settings window will open and you will find so many options in a navigation pane located at left hand side. Select privacy settings from this long list.
 
 ![facebook privacy settings](https://images.wondershare.com/filmora/article-images/facebook-privacy-settings.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You will find different options for content audience: Public, Friends, Specific Friends and Only Me, chose any of these as per your need. Note that privacy settings can be also adjusted at the time of new post updates.
 
@@ -104,17 +112,15 @@ Follow @Shanoon Cox
  So, follow these guidelines to get started with a new Facebook account.
 
 <!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Create a Facebook Account
 
 #### Step 1.Sign Up
 
  The very first step is to open <www.facebook.com> on your web browser and then hit Create account option. It will ask for your basic information, simple add your real name in the space provided with two fields: First name and Last name. For the security reasons you may have to prove your identity so always prefer to create Facebook account with real name only.
 
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![facebook create account](https://images.wondershare.com/filmora/article-images/facebook-create-account.jpg)
 
  Then enter your accurate and working mobile number or users can also prefer to update their email ID. It will be useful to get updates regarding their facebook account. Up date your desired secure password, birthday details and gender information. Once you enter this information, you will receive a verification code via SMS (if you have entered Mobile Number) or a link in email (if you have entered your email ID). Confirm your identity using this code or email link as your account will be created only after this verification.
@@ -132,6 +138,10 @@ Follow @Shanoon Cox
  You will find different options for content audience: Public, Friends, Specific Friends and Only Me, chose any of these as per your need. Note that privacy settings can be also adjusted at the time of new post updates.
 
 ![facebook public settings](https://images.wondershare.com/filmora/article-images/facebook-public-settings.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### Step 3.Complete Profile Information
 
@@ -164,6 +174,10 @@ Follow @Shanoon Cox
 **Import:** Facebook also allows users to directly import their contacts. It can search contacts via Gmail, Outlook, Yahoo, AIM, Live Messenger etc. Simply move to find friend page to get started with this feature.
 
 ![facebook find friends](https://images.wondershare.com/filmora/article-images/facebook-find-friends.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  So finally, it is time to update an eye catching status for your friends on your new Facebook account.
 
@@ -207,6 +221,10 @@ Follow @Shanoon Cox
 
 ![facebook public settings](https://images.wondershare.com/filmora/article-images/facebook-public-settings.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### Step 3.Complete Profile Information
 
  Now it is time to update your major profile information. This is quite interesting!
@@ -241,10 +259,11 @@ Follow @Shanoon Cox
 
  So finally, it is time to update an eye catching status for your friends on your new Facebook account.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Shanoon Cox
 
@@ -268,6 +287,10 @@ Follow @Shanoon Cox
 
 ![facebook create account](https://images.wondershare.com/filmora/article-images/facebook-create-account.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Then enter your accurate and working mobile number or users can also prefer to update their email ID. It will be useful to get updates regarding their facebook account. Up date your desired secure password, birthday details and gender information. Once you enter this information, you will receive a verification code via SMS (if you have entered Mobile Number) or a link in email (if you have entered your email ID). Confirm your identity using this code or email link as your account will be created only after this verification.
 
 #### Step 2.Set up Privacy Settings
@@ -276,9 +299,17 @@ Follow @Shanoon Cox
 
 ![facebook settings option](https://images.wondershare.com/filmora/article-images/facebook-settings-option.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  A new settings window will open and you will find so many options in a navigation pane located at left hand side. Select privacy settings from this long list.
 
 ![facebook privacy settings](https://images.wondershare.com/filmora/article-images/facebook-privacy-settings.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You will find different options for content audience: Public, Friends, Specific Friends and Only Me, chose any of these as per your need. Note that privacy settings can be also adjusted at the time of new post updates.
 
@@ -310,9 +341,6 @@ Follow @Shanoon Cox
 
 **Search:** You will find a search bar on the top of screen, enter name of your friends over there and as soon as you find them hit the “send friend request” button.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![facebook search bar](https://images.wondershare.com/filmora/article-images/facebook-search-bar.jpg)
 
 **Import:** Facebook also allows users to directly import their contacts. It can search contacts via Gmail, Outlook, Yahoo, AIM, Live Messenger etc. Simply move to find friend page to get started with this feature.
@@ -340,8 +368,6 @@ Follow @Shanoon Cox
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -350,7 +376,23 @@ Follow @Shanoon Cox
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-leveraging-a-3-step-writing-system-for-social-media-success-with-fb-ads/"><u>[New] In 2024, Leveraging a 3-Step Writing System for Social Media Success with FB Ads</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-polishing-audio-in-home-recordings-on-youtube/"><u>[New] Polishing Audio in Home Recordings on YouTube</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-decoding-facebooks-video-ratio-standards-for-excellence/"><u>[Updated] 2024 Approved Decoding Facebook's Video Ratio Standards for Excellence</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-spotlight-on-todays-viral-tiktok-experiments/"><u>[Updated] 2024 Approved Spotlight on Today’s Viral TikTok Experiments</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-embedding-audio-in-instant-storytelling-platforms-for-2024/"><u>[Updated] Embedding Audio in Instant Storytelling Platforms for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-how-to-make-your-profile-cover-video-more-attractive-for-2024/"><u>[Updated] How to Make Your Profile Cover Video More Attractive for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/android-enthusiasts-winning-list-updated-top-10-fb-video-downloaders-for-2024/"><u>Android Enthusiasts Winning List Updated Top 10 FB Video Downloaders for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/discovering-the-veracity-in-luminances-hdr/"><u>Discovering the Veracity in Luminance’s HDR</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/fetching-mp3-from-facebook-groups/"><u>Fetching MP3 From Facebook Groups</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-restore-licenses-on-your-ps5/"><u>How to Restore Licenses on Your PS5</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-nokia-c110-phone-with-broken-screen-by-drfone-android/"><u>How to Unlock Nokia C110 Phone with Broken Screen</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-peeling-back-layers-of-the-apple-m1-chip/"><u>In 2024, Peeling Back Layers of the Apple M1 Chip</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719258280599-jump-over-the-endless-update-hurdle-quick-fixes-now/"><u>Jump Over The Endless Update Hurdle: Quick Fixes Now!</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/meme-tastic-creativity-tips-on-standing-out-in-virtual-worlds-for-2024/"><u>Meme-Tastic Creativity Tips on Standing Out in Virtual Worlds for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-setting-up-videoleap-on-macbook-download-install-and-start-editing/"><u>New In 2024, Setting Up Videoleap on MacBook Download, Install, and Start Editing</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/unlocking-social-networks-the-pathway-to-a-facebook-profile-for-2024/"><u>Unlocking Social Networks The Pathway to a Facebook Profile for 2024</u></a></li>
+</ul></div>
 
