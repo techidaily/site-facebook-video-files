@@ -1,7 +1,7 @@
 ---
 title: Cyberpunk 2077 Frame Rate Improvements - Gameplay Enhanced
-date: 2024-11-26T13:15:51.086Z
-updated: 2024-12-03T02:57:24.010Z
+date: 2024-12-04T10:14:33.287Z
+updated: 2024-12-10T01:38:51.937Z
 tags:
   - win11
   - win10
@@ -27,10 +27,6 @@ Don’t worry, here’re fixes may help you solve the issue.
 2. [Change the mouse setting](https://tools.techidaily.com/drivereasy/download/)
 3. [Update the device driver](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Change the in-game settings
 
  Change the in-game setting can help you fix the input lagging issue. If you’re not using controllers, change[Graphics settings](https://tools.techidaily.com/drivereasy/download/) would also help.
@@ -45,7 +41,15 @@ Don’t worry, here’re fixes may help you solve the issue.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-15_15-48-52.jpg)
 4. In the open section, change**Response Curve** to**Raw** , and set**Horizontal Turning Bonus** and**Vertical Turning Bonus** to**0** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-15_15-50-02.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### For mouse/keyboard users
 
@@ -57,10 +61,6 @@ If you’re not using the controller, check the below settings.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-15_15-53-01.jpg)
 4. If you need to lower your graphic resolution, move to the**GRAPHICS** tab.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. Scroll down to find the**Resolution Scaling** section.
 6. Set the**Static FidelityFX CAS** to**ON** and lower the Resolution Scaling.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-15_15-59-50.jpg)
@@ -70,7 +70,7 @@ If you’re not using the controller, check the below settings.
 If this fix doesn’t work, move to the next one.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Change the mouse setting
@@ -82,15 +82,15 @@ If this fix doesn’t work, move to the next one.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-15_16-46-09.jpg)
 3. Go to the**Mouse** tab, click**Additional mouse options** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-15_16-00-50.jpg)
 4. Make sure you uncheck the**Enhance pointer precision** . Click**Apply > OK** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-15_16-01-18.jpg)
 5. Launch the game and check.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 If it doesn’t work, move to the next fix.
 
@@ -122,12 +122,12 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If you need assistance, please contact **Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
@@ -152,22 +152,19 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-maximizing-tv-reach-with-fb-live-streaming/"><u>[New] 2024 Approved Maximizing TV Reach with FB Live Streaming</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-direct-links-sharing-twitch-content-with-friends-on-fb-for-2024/"><u>[New] Direct Links Sharing Twitch Content with Friends on FB for 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-handling-the-youre-there-mistake-in-fb-messages/"><u>[New] Handling the You're There Mistake in FB Messages</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-discovering-success-through-the-most-effective-15-youtube-themes/"><u>[New] In 2024, Discovering Success Through the Most Effective 15 YouTube Themes</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-selecting-the-perfect-screen-ultrawide-or-uhd-4k/"><u>[New] In 2024, Selecting the Perfect Screen UltraWide or UHD 4K?</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-a-step-by-step-tutorial-for-recording-youtube-live-across-devices/"><u>[Updated] 2024 Approved A Step-by-Step Tutorial for Recording YouTube Live Across Devices</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-clearer-chrome-tips-to-improve-facebook-playback/"><u>[Updated] Clearer Chrome Tips to Improve Facebook Playback</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-troubleshooting-tips-unearth-hidden-facebook-content/"><u>[Updated] In 2024, Troubleshooting Tips Unearth Hidden Facebook Content</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-steps-to-ensure-whole-sound-in-fb-video-playbacks-for-2024/"><u>[Updated] Steps to Ensure Whole Sound in FB Video Playbacks for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-top-5-cloud-based-voice-customizers-for-chrome-os-vocal-transformation-tools-reviewed/"><u>2024 Approved Top 5 Cloud-Based Voice Customizers for Chrome OS Vocal Transformation Tools Reviewed</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/enhancing-text-via-ai-editing/"><u>Enhancing Text via AI Editing</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/from-passive-page-peeps-to-paying-patrons-facebook-monetization-magic/"><u>From Passive Page Peeps to Paying Patrons Facebook Monetization Magic</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-3-ways-to-track-samsung-galaxy-a14-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Track Samsung Galaxy A14 5G without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/mastering-luts-unlocking-color-grading-in-ar-and-vfx/"><u>Mastering LUTs Unlocking Color Grading in AR & VFX</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/secure-your-videos-top-5-fb-downloader-apps-ranked-for-2024/"><u>Secure Your Videos Top 5 FB Downloader Apps Ranked for 2024</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/the-ultimate-guide-to-why-the-samsung-galaxy-s10-stands-out-as-a-superior-smartphone/"><u>The Ultimate Guide to Why the Samsung Galaxy S10 Stands Out as a Superior Smartphone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-helldivers-ii-how-to-resolve-the-black-screen-issue-at-game-start/"><u>Troubleshooting Helldivers II: How to Resolve the Black Screen Issue at Game Start</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-social-media-sensation-top-eight-videos/"><u>[New] Social Media Sensation Top Eight Videos</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-unveiling-the-secrets-to-profitable-facebook-animation-strategies-for-2024/"><u>[New] Unveiling the Secrets to Profitable Facebook Animation Strategies for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-cutting-edge-video-tools-opt-for-studio-or-latest-beta-version-for-2024/"><u>[Updated] Cutting-Edge Video Tools Opt for Studio or Latest Beta Version for 2024</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-in-2024-spinning-jujutsu-kaisen-stories-on-tiktok/"><u>[Updated] In 2024, Spinning Jujutsu Kaisen Stories on TikTok</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-the-6-pillars-of-effective-facebook-live-website-integration/"><u>[Updated] In 2024, The 6 Pillars of Effective Facebook Live Website Integration</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/bypass-activation-lock-on-apple-iphone-13-4-easy-ways-by-drfone-ios/"><u>Bypass Activation Lock On Apple iPhone 13 - 4 Easy Ways</u></a></li>
+<li><a href="https://facebook.techidaily.com/deciding-when-to-transform-your-social-media-icon/"><u>Deciding When to Transform Your Social Media Icon</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/expert-advice-what-to-do-when-you-cant-use-spotify-on-a-windows-computer/"><u>Expert Advice: What to Do When You Can’t Use Spotify on a Windows Computer</u></a></li>
+<li><a href="https://games-able.techidaily.com/fortnite-fund-flubs-navigating-the-refund-roadmap/"><u>Fortnite Fund Flubs - Navigating the Refund Roadmap</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-brighten-up-your-visuals-essential-color-correction-tutorials/"><u>In 2024, Brighten Up Your Visuals Essential Color Correction Tutorials</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-tips-for-posting-wide-angle-photos-to-facebook-from-smartphones/"><u>In 2024, Tips for Posting Wide Angle Photos to Facebook From Smartphones</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/master-the-art-of-dvd-ripping-convert-your-dvds-into-crystal-clear-wmv-files-using-windows-tools/"><u>Master the Art of DVD Ripping: Convert Your DVDs Into Crystal Clear WMV Files Using Windows Tools</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/mastering-fb-slideshows-for-content-sharing-for-2024/"><u>Mastering FB Slideshows for Content Sharing for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/network-locked-sim-card-inserted-on-your-vivo-y56-5g-phone-unlock-it-now-by-drfone-android/"><u>Network Locked SIM Card Inserted On Your Vivo Y56 5G Phone? Unlock It Now</u></a></li>
 </ul></div>
 

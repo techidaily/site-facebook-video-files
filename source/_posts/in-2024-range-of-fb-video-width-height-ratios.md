@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Range of FB Video Width-Height Ratios\""
-date: 2024-07-14T01:08:57.170Z
-updated: 2024-07-15T01:08:57.170Z
+date: 2024-12-06T17:52:42.729Z
+updated: 2024-12-10T07:01:53.227Z
 tags:
   - ai video
   - ai facebook
@@ -31,9 +31,6 @@ Therefore, it is essential that video quality complement with platform dimension
 
 03 [How to Adjust your Facebook Video in Proper Aspect Ratios?](#Part 3)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1 Types of Facebook Video Aspect Ratios
 
 When you talk about videos, Facebook always recommends to upload videos with square (1:1) or vertical (9:16, 4:5, and 16:9) aspect ratios. As a result, it increases the compatibility on mobile and desktop screens.
@@ -110,6 +107,10 @@ Use MP4, MOV, or GIF format, with a maximum 4GB file and 241 min length.
 
 ![Facebook Stories Ads](https://images.wondershare.com/filmora/article-images/2021/fb-aspect-ratio-6.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **●** Recommended: Highest resolution available (at least 1080 x 1080 px)
 
 **●** Video Ratio: 9:16 (1.91 to 9:16 supported)
@@ -117,6 +118,10 @@ Use MP4, MOV, or GIF format, with a maximum 4GB file and 241 min length.
 **●** Video File Size: 4GB max
 
 **●** Maximum Video Length: 2 minutes
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 6\. Facebook Video Feeds
 
@@ -354,6 +359,10 @@ Use MP4, MOV, or GIF format, with a maximum 4GB file and 241 min length.
 
 **●** Maximum Video Length: 10 minutes (limit varies based on objective)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 4\. Facebook Marketplace Video Ads
 
 ![Facebook Marketplace Video Ads](https://images.wondershare.com/filmora/article-images/2021/fb-aspect-ratio-5.jpg)
@@ -371,6 +380,10 @@ Use MP4, MOV, or GIF format, with a maximum 4GB file and 241 min length.
 ### 5\. Facebook Stories Ads
 
 ![Facebook Stories Ads](https://images.wondershare.com/filmora/article-images/2021/fb-aspect-ratio-6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **●** Recommended: Highest resolution available (at least 1080 x 1080 px)
 
@@ -477,6 +490,10 @@ Get started easily with Filmora's powerful performance, intuitive interface, and
 [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More about Filmora>](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![download](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 You can adjust the aspect ratio by clicking on the "Project Settings." Then, decide the target aspect ratio depending on the aspect ratio of the media source.
 
@@ -591,6 +608,10 @@ Use MP4, MOV, or GIF format, with a maximum 4GB file and 241 min length.
 ### 2\. Facebook Article Videos
 
 ![Facebook Article Videos](https://images.wondershare.com/filmora/article-images/2021/fb-aspect-ratio-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **●** Resolution: at least 1080 x 1080 px
 
@@ -804,11 +825,12 @@ Animaker’s video editing suite offers tools that you can use to edit videos on
 
 This software has been created explicitly for marketers, non-designers, or anyone who wants to edit social media or web videos.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. VEED.IO
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![VEED.IO](https://images.wondershare.com/filmora/article-images/2021/fb-aspect-ratio-12.jpg)
 
 VEED is a great software that offers subtitling, effect/text encoding, editing, and other features. This tool allows you to use some incredible video effects, brightness, color grading, rotate your videos, exposure, and more.
@@ -832,6 +854,10 @@ Facebook also suggests you upload short videos (15 seconds or less) and design v
 ### 1\. Facebook Feed Videos
 
 ![Facebook Feed Videos](https://images.wondershare.com/filmora/article-images/2021/fb-aspect-ratio-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **●** Minimum Width: 120 px
 
@@ -869,9 +895,6 @@ Use MP4, MOV, or GIF format, with a maximum 4GB file and 241 min length.
 
 ### 3\. Facebook In-Stream Videos
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Facebook In-Stream Videos](https://images.wondershare.com/filmora/article-images/2021/fb-aspect-ratio-4.jpg)
 
 **●** Resolution: at least 1080 x 1080 px
@@ -935,6 +958,10 @@ The right Facebook video size can make or break your post’s success. Below are
 Facebook videos are pretty flexible, and you can upload them in square, horizontal, or vertical aspect ratios.
 
 ![Facebook Video Posts Size](https://images.wondershare.com/filmora/article-images/2021/fb-aspect-ratio-9.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Use a mobile-first approach for optimal viewing. For a streamlined and enjoyable experience on a smartphone for the audience, choose the 9:16 aspect ratio.
 
@@ -1066,6 +1093,10 @@ You can save the clip to your system or smartphones, depending on your requireme
 
 ![Animaker](https://images.wondershare.com/filmora/article-images/2021/fb-aspect-ratio-11.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Animaker video resizer is an easy and reliable tool that quickly changes or resizes the video aspect ratio. Moreover, it lets you download some watermark-free videos. It helps you to make a video that perfectly fit the required dimensions.
 
 Animaker’s video editing suite offers tools that you can use to edit videos online. Moreover, you can work on it even if you don’t have video editing experience.
@@ -1080,9 +1111,6 @@ VEED is a great software that offers subtitling, effect/text encoding, editing, 
 
 So, it is all-in-one editing tool that can make the video adjustment process easy.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Conclusion
 
 **●** Hopefully, the above mentioned tips and tools allow you to adjust the Facebook video ratio quickly and efficiently. In addition, it will enable you to enhance the video quality.
@@ -1098,8 +1126,6 @@ So, it is all-in-one editing tool that can make the video adjustment process eas
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -1108,7 +1134,22 @@ So, it is all-in-one editing tool that can make the video adjustment process eas
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-understanding-vr-technology-and-its-impact-on-us/"><u>[New] In 2024, Understanding VR Technology and Its Impact on Us</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-maximizing-your-fb-page-visibility-a-step-by-step-guide-for-2024/"><u>[New] Maximizing Your FB Page Visibility A Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-quick-convert-facebook-videos-to-mp4-opting-for-hd-variants-for-2024/"><u>[New] Quick-Convert Facebook Videos to MP4, Opting for HD Variants for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-share-live-feeds-skip-the-retweet-tactics-for-2024/"><u>[New] Share Live Feeds Skip the Retweet Tactics for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-dynamic-duo-shots-perfecting-youtube-video-splitting/"><u>[Updated] 2024 Approved Dynamic Duo Shots Perfecting YouTube Video Splitting</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-the-6-pillars-of-effective-facebook-live-website-integration/"><u>[Updated] 2024 Approved The 6 Pillars of Effective Facebook Live Website Integration</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-discover-whats-hot-and-why-todays-top-8-videos-for-2024/"><u>[Updated] Discover What’s Hot and Why Today’s Top 8 Videos for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-infusing-instant-storytelling-with-musical-essence/"><u>[Updated] In 2024, Infusing Instant Storytelling With Musical Essence</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-innovating-in-the-digital-age-making-stellar-fb-reels-on-youtube/"><u>[Updated] In 2024, Innovating in the Digital Age Making Stellar FB Reels on YouTube</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-ways-to-eliminate-screen-flickering-and-tearing-in-valorant/"><u>Effective Ways to Eliminate Screen Flickering & Tearing in Valorant</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/facebook-video-submission-pc-and-android-users-blueprint-for-2024/"><u>Facebook Video Submission PC and Android Users' Blueprint for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/gigglesgateway-leading-online-portals-for-chuckling-calls/"><u>GigglesGateway Leading Online Portals for Chuckling Calls</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-fix-when-apple-account-locked-on-iphone-15-by-drfone-ios/"><u>How to Fix when Apple Account Locked On iPhone 15?</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-yuneec-typhoon-h-examined-an-extensive-review/"><u>In 2024, Yuneec Typhoon H Examined An Extensive Review</u></a></li>
+<li><a href="https://extra-support.techidaily.com/maximize-mobile-shots-the-top-iphone-photography-apps-7plus-for-2024/"><u>Maximize Mobile Shots The Top iPhone Photography Apps (7+) for 2024</u></a></li>
+</ul></div>
 
