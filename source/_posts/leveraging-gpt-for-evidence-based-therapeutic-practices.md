@@ -1,7 +1,7 @@
 ---
 title: Leveraging GPT for Evidence-Based Therapeutic Practices
-date: 2024-12-03T09:10:48.010Z
-updated: 2024-12-09T19:42:12.556Z
+date: 2024-12-13T16:31:59.840Z
+updated: 2024-12-16T16:32:52.327Z
 tags:
   - chatgpt
   - open-ai
@@ -31,10 +31,6 @@ thumbnail: https://thmb.techidaily.com/162b2aac03e354d0551440e420920822fdecda676
 
  A whole new world of prompt engineering is springing into life, all dedicated to crafting and perfecting the art of AI prompting. But you can skip the tricky bits and improve your AI prompting game with these tips and tricks.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1 Be as Specific as Possible
 
  One[ChatGPT prompt mistake](https://www.makeuseof.com/chatgpt-prompt-mistakes-to-avoid/) is not being specific with the information you give, and this is also a problem when using Microsoft Copilot and other AI tools. If you want AI to provide more accurate results, you need to tell it exactly what you're looking for.p
@@ -47,11 +43,11 @@ thumbnail: https://thmb.techidaily.com/162b2aac03e354d0551440e420920822fdecda676
 
 ![A gym routine generated with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-12-59-46.png)
 
- The more context you provide your AI tool, the better of a response you'll receive.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ The more context you provide your AI tool, the better of a response you'll receive.
 
 ## 2 Ask for More Information After Getting an Initial Answer
 
@@ -65,6 +61,10 @@ thumbnail: https://thmb.techidaily.com/162b2aac03e354d0551440e420920822fdecda676
 
 ![An expanded answer with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-13-11-12.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  As a general rule of thumb, ask as many questions as you feel necessary to get all the information you're looking for. You may also want to determine[whether premium AI prompts are worth the money](https://www.makeuseof.com/should-you-buy-ai-prompts/) .
 
 ## 3 Explain What Hasn't Worked When You've Prompted in the Past
@@ -74,10 +74,6 @@ thumbnail: https://thmb.techidaily.com/162b2aac03e354d0551440e420920822fdecda676
  This tip is especially important if you want to use AI tools like DALL-E 3 to generate images. I've often noticed that first drafts sometimes don't yield what I'm looking for, and there could also be problems like defects for items like flags.
 
  Besides mentioning what hasn't worked for you when prompting in the past, you may also wish to outline anything that has not worked with what you're trying to do. For example, if you're putting together a new workout regimen, you may want to talk about which foods you've noticed you have a negative reaction to before.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4 Don't Make Your AI Multitask
 
@@ -91,10 +87,6 @@ thumbnail: https://thmb.techidaily.com/162b2aac03e354d0551440e420920822fdecda676
 
  Once you've received one prompt's results, you can move on to the next one until you're happy with everything. Doing things this way might seem more time-consuming, but[single-tasking often improves productivity](https://www.makeuseof.com/master-single-tasking-using-technology-improve-productivity/) , and it's the same for your AI, too.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5 Tell Your AI Tool What You Don't Want in Your Answer
 
  Do you remember in our first point when we told you to be as specific as possible? This also means you should let your AI tool know what you don't want in your answers. While generative AI can produce some pretty cool results, it can't guess everything for you.
@@ -104,10 +96,14 @@ thumbnail: https://thmb.techidaily.com/162b2aac03e354d0551440e420920822fdecda676
 ![Answer options from ChatGPT, based on what the user did and didn't want ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-13-38-46.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Sometimes, your AI tool will give you multiple options in your answers. You can then choose whichever one works best for you.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6 Upload Images or Files (if Available)
 
@@ -116,6 +112,10 @@ thumbnail: https://thmb.techidaily.com/162b2aac03e354d0551440e420920822fdecda676
  If you're using AI to create art, it's also a good idea to upload images that the AI tool can use as examples. Meanwhile, if you want to[use Photo AI](https://www.makeuseof.com/what-is-photo-ai/) or similar tools for pictures of yourself, uploading selfies, headshots, and other images will help you achieve what you want.
 
 [Some AI tools can even answer questions from your PDFs](https://www.makeuseof.com/ai-tools-answer-pdf/) if you want to get more clarity.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7 Mention Where You Want to Use Your Prompt Answers
 
@@ -142,17 +142,22 @@ thumbnail: https://thmb.techidaily.com/162b2aac03e354d0551440e420920822fdecda676
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-will-televising-facebook-vids-become-a-trend/"><u>[New] 2024 Approved Will Televising Facebook Vids Become a Trend ?</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-thrifty-pc-recording-utilities/"><u>[Updated] 2024 Approved Thrifty PC Recording Utilities</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-is-it-possible-to-watch-fb-videos-on-tv/"><u>[Updated] In 2024, Is It Possible to Watch FB Videos on TV ?</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-vidgrabmaster-mobilepc-app-downloads/"><u>[Updated] VidGrabMaster Mobile/PC App Downloads</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/2024-approved-mastering-hd-broadcasts-on-the-social-media-giant-fb/"><u>2024 Approved Mastering HD Broadcasts on the Social Media Giant, FB</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/2024-approved-recover-lost-watch-visual-preview/"><u>2024 Approved Recover Lost Watch Visual Preview</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-change-lock-screen-wallpaper-on-samsung-galaxy-f34-5g-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Samsung Galaxy F34 5G</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-top-imei-unlokers-for-iphone-xr-and-android-phones-by-drfone-ios/"><u>In 2024, Top IMEI Unlokers for iPhone XR and Android Phones</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/step-by-step-method-to-personalize-iphone-ringtones/"><u>Step-By-Step Method to Personalize iPhone Ringtones</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-how-to-prevent-battlefront-ii-from-crashing-on-windowslinuxmacos/"><u>Troubleshooting Guide - How to Prevent Battlefront II From Crashing on Windows/Linux/MacOS</u></a></li>
-<li><a href="https://techtrends.techidaily.com/troubleshooting-missing-winhttpdll-files-on-your-computer-tips-and-solutions/"><u>Troubleshooting Missing Winhttp.dll Files on Your Computer – Tips and Solutions</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/webm-audio-extraction-from-twitta-vids/"><u>WebM Audio Extraction From Twitta Vids</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-engaging-content-creation-videography-tips-in-education-for-2024/"><u>[New] Engaging Content Creation Videography Tips in Education for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-expert-advice-on-efficiently-locating-luminous-pexels/"><u>[New] Expert Advice on Efficiently Locating Luminous Pexels</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-fine-tuning-your-fb-videos-aspect-ratios-decoded/"><u>[New] In 2024, Fine-Tuning Your FB Videos Aspect Ratios Decoded</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-direct-linkage-bridging-youtube-and-imovie-with-music/"><u>[Updated] 2024 Approved Direct Linkage Bridging YouTube and iMovie with Music</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-discovering-the-best-practices-for-a-bigger-roi-with-fb-videos/"><u>[Updated] 2024 Approved Discovering the Best Practices for a Bigger ROI with FB Videos</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-demystifying-chromecast-for-effortless-broadcasting/"><u>[Updated] Demystifying Chromecast for Effortless Broadcasting</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-stealthy-watcher-of-digital-tales/"><u>[Updated] In 2024, Stealthy Watcher of Digital Tales</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-spotlight-on-upcoming-fb-ad-tactics-2024-edition/"><u>[Updated] Spotlight on Upcoming FB Ad Tactics, 2024 Edition</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-compile-the-best-6-leading-apps-for-fb-lite-video-downloads/"><u>2024 Approved Compile the Best 6 Leading Apps for FB Lite Video Downloads</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-cyber-profile-pixelation-crafting-a-playful-look/"><u>2024 Approved Cyber-Profile Pixelation Crafting a Playful Look</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-dollars-and-sense-profit-driven-techniques-for-fb-video-content/"><u>2024 Approved Dollars and Sense Profit-Driven Techniques for FB Video Content</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/capture-the-best-on-fb-top-8-movie-downloaders/"><u>Capture the Best on FB Top 8 Movie Downloaders</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/enhance-your-photography-journey-adding-music-and-filters-in-windows-10-photos/"><u>Enhance Your Photography Journey Adding Music and Filters in Windows 10 Photos</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-and-where-to-find-a-shiny-stone-pokemon-for-itel-s23-drfone-by-drfone-virtual-android/"><u>How and Where to Find a Shiny Stone Pokémon For Itel S23? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-11-pro-to-other-iphone-14-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 11 Pro To Other iPhone 14 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-poco-frp-by-drfone-android/"><u>In 2024, Step-by-Step Tutorial How To Bypass Poco FRP</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolve-windows-device-conflicts-no-more-in-use-name-woes/"><u>Resolve Windows Device Conflicts: No More In-Use Name Woes</u></a></li>
 </ul></div>
 

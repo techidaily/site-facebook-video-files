@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Made Easy: How to Prevent Assassin's Creed Valhalla Crashes on PC"
-date: 2024-12-05T11:24:56.627Z
-updated: 2024-12-10T07:36:28.970Z
+date: 2024-12-11T16:54:10.912Z
+updated: 2024-12-16T17:01:25.815Z
 tags:
   - win11
   - win10
@@ -18,10 +18,6 @@ thumbnail: https://thmb.techidaily.com/6816402dd23c56a105ec64bc0a33bec17942a9ec3
 [Assassin’s Creed Valhalla](https://www.epicgames.com/store/en-US/p/assassins-creed-valhalla?epic%5Fcreator%5Fid=28725b529b5346a38a080b6a920aa97a&epic%5Fgame%5Fid=400347196e674de89c23cc2a7f2121db) , another Ubisoft blockbuster in 2020, is finally here.
 
  And just like what happened with the release of[Watch Dogs: Legion](https://www.epicgames.com/store/en-US/p/watch-dogs-legion?epic%5Fcreator%5Fid=28725b529b5346a38a080b6a920aa97a&epic%5Fgame%5Fid=0a84818055e740a7be21a2e5b6162703) , many gamers start reporting the**constant crashes with AC Valhalla** . But don’t worry if you happen to be one of them. After some diggings on Reddit and YouTube, we’ve gathered several fixes that worked for many Vikings. Try them and get back to Valhalla right away.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fixes to try
 
@@ -62,10 +58,6 @@ thumbnail: https://thmb.techidaily.com/6816402dd23c56a105ec64bc0a33bec17942a9ec3
 
  If you’re sure that your gaming rig is ready for the game, you can take a look at the next fix below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 2: Verify the integrity of game files
 
  So let’s start from some easy troubleshooting. The in-game crashes or crashing at clicking “New Game” might indicate**an integrity issue with your game files** . It’s a common issue when you encounter network glitches. You can follow these steps to check and repair any corrupted files:
@@ -75,7 +67,15 @@ thumbnail: https://thmb.techidaily.com/6816402dd23c56a105ec64bc0a33bec17942a9ec3
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/valhalla-verify-1.jpg)
 3. Select **Verify files** . Then wait for the checking to complete.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/valhalla-verify-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now you can launch Assassin’s Creed Valhalla and check if it crashes again.
 
@@ -90,10 +90,6 @@ You can use these steps to check for Windows updates manually:
 1. On your keyboard, press**Win+I** (the Windows logo key and the i key) to open the Windows Settings app. Click**Update & Security** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-setting-app-security-update.jpg)
 2. Click **Check for updates** . Windows will automatically download and install all the available updates. This might take up to an hour depending on your Internet speed.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
@@ -129,6 +125,10 @@ If the crash happens again, you can take a look at the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
@@ -139,7 +139,7 @@ If the crash happens again, you can take a look at the next fix.
  If the driver update doesn’t do the trick for you, simply continue to the next fix below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 5: Lower in-game graphics settings
@@ -156,7 +156,7 @@ If the crash happens again, you can take a look at the next fix.
  If this trick failed to solve your problem, you can move on to the next one.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 6: Disable peripherals
@@ -170,7 +170,7 @@ If the crash happens again, you can take a look at the next fix.
  If you’re a tech-savvy player, one effective way to troubleshoot is to check the**launcher\_log.txt** after crashing. The default location to find your log files is:**C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\logs** . In the file named**launcher\_log.txt** , you should see what happened exactly. Check if the crash involves certain game files. If yes, delete them and run a**Scan and Repair** to re-download the latest files.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 8: Reinstall Assassin’s Creed Valhalla
@@ -196,21 +196,24 @@ If the crash happens again, you can take a look at the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-accelerating-profile-lookups-on-facebook-for-2024/"><u>[New] Accelerating Profile Lookups on Facebook for 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-deciphering-old-facebook-threads-a-step-by-step-mobile-and-desktop-guide-for-2024/"><u>[New] Deciphering Old Facebook Threads A Step-by-Step Mobile & Desktop Guide for 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-the-art-of-finding-classic-facebook-content/"><u>[New] In 2024, The Art of Finding Classic Facebook Content</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-essential-steps-for-iptv-video-recording/"><u>[Updated] In 2024, Essential Steps for IPTV Video Recording</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-master-your-creative-process-essential-affects-plugin-guide-for-2024/"><u>[Updated] Master Your Creative Process Essential Affects Plugin Guide for 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-reinstating-normalcy-regain-your-fb-account/"><u>[Updated] Reinstating Normalcy Regain Your FB Account</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/expert-evaluation-of-the-best-tracking-device-for-your-iphone-apple-airtag/"><u>Expert Evaluation of the Best Tracking Device for Your iPhone – Apple AirTag</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/harness-the-power-of-cookiebot-for-better-user-engagement/"><u>Harness the Power of Cookiebot for Better User Engagement</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-xiaomi-14-pro-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Xiaomi 14 Pro | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-all-inclusive-breakdown-deciphering-google-podcasts/"><u>In 2024, All-Inclusive Breakdown Deciphering Google Podcasts</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/in-2024-unlock-joy-amidst-confinement-prime-20-jailbreak-funny-on-fb/"><u>In 2024, Unlock Joy Amidst Confinement Prime 20 Jailbreak Funny on Fb</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/master-the-art-of-social-media-success-with-these-10-facebook-tips-for-2024/"><u>Master the Art of Social Media Success with These 10 Facebook Tips for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ms-riches-the-ultimate-dj-templates-collection/"><u>Rhythm's Riches The Ultimate DJ Templates Collection</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/split-your-videos-with-ease-top-5-free-software-for-2024/"><u>Split Your Videos with Ease Top 5 Free Software for 2024</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/tips-and-tricks-to-tell-if-your-iphone-xr-is-unlocked-by-drfone-ios/"><u>Tips And Tricks To Tell if Your iPhone XR Is Unlocked</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/unlocking-fb-ad-success-no-cost-for-video-creation-tools/"><u>Unlocking FB Ad Success No Cost for Video Creation Tools</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-fb-rights-instant-video-ownership-takedown-questions/"><u>[New] 2024 Approved FB Rights Instant Video Ownership Takedown Questions</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-integrating-multimedia-elements-for-engaging-facebook-slideshows/"><u>[New] 2024 Approved Integrating Multimedia Elements for Engaging Facebook Slideshows</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-your-guide-to-50-creative-free-youtube-advertising-options/"><u>[New] 2024 Approved Your Guide to 50 Creative, Free YouTube Advertising Options</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-best-online-places-for-youtube-video-growth-for-2024/"><u>[New] Best Online Places for YouTube Video Growth for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-design-tips-for-captivating-facebook-slideshows/"><u>[New] In 2024, Design Tips for Captivating Facebook Slideshows</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-echoes-of-now-strategies-for-downloading-current-events/"><u>[New] In 2024, Echoes of Now Strategies for Downloading Current Events</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-highest-quality-mp4-adapter-for-fb-integration/"><u>[New] In 2024, Highest Quality MP4 Adapter for FB Integration</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-mastery-over-buffering-in-vimeo-streams-revised-tips/"><u>[New] In 2024, Mastery Over Buffering in Vimeo Streams (Revised Tips)</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-standout-methods-for-fb-ad-visualization/"><u>[New] In 2024, Standout Methods for FB Ad Visualization</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-tailor-the-face-of-facebook-videos-for-2024/"><u>[New] Tailor the Face of Facebook Videos for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-optimize-your-youtube-stream-choosing-superior-webcams/"><u>[Updated] 2024 Approved Optimize Your YouTube Stream Choosing Superior Webcams</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-compre-written-explanation-easy-hdr-understanding/"><u>[Updated] Compre Written Explanation Easy HDR Understanding</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-facebooks-approach-for-automatic-youtube-video-playback/"><u>[Updated] Facebook's Approach for Automatic YouTube Video Playback</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-the-ultimate-pathway-to-vimeo-recording/"><u>[Updated] The Ultimate Pathway to Vimeo Recording</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/examination-the-top-tier-ar-parrot-drone-20-for-2024/"><u>Examination The Top-Tier AR Parrot Drone 2.0 for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-internet-companion-fb-story-backup-tool/"><u>In 2024, Internet Companion FB Story Backup Tool</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-navigating-through-the-ultimate-guide-to-top-9-free-logos/"><u>In 2024, Navigating Through The Ultimate Guide to Top 9 Free Logos</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-pc-issues-how-to-stop-minecraft-dungeons-from-continuously-crashing/"><u>Solving PC Issues: How to Stop Minecraft Dungeons From Continuously Crashing</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-the-ultimate-movie-making-blueprint-easy-and-fast-for-2024/"><u>Updated The Ultimate Movie Making Blueprint Easy and Fast for 2024</u></a></li>
 </ul></div>
 

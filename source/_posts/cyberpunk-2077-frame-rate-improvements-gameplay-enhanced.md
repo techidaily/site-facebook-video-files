@@ -1,7 +1,7 @@
 ---
 title: Cyberpunk 2077 Frame Rate Improvements - Gameplay Enhanced
-date: 2024-12-04T10:14:33.287Z
-updated: 2024-12-10T01:38:51.937Z
+date: 2024-12-10T16:43:42.486Z
+updated: 2024-12-16T16:33:03.787Z
 tags:
   - win11
   - win10
@@ -19,6 +19,10 @@ Cyberpunk 2077 is finally here! After several hours of gameplay, did you feel yo
 
 Don’t worry, here’re fixes may help you solve the issue.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -26,6 +30,10 @@ Don’t worry, here’re fixes may help you solve the issue.
 1. [Change the in-game settings](https://tools.techidaily.com/drivereasy/download/)
 2. [Change the mouse setting](https://tools.techidaily.com/drivereasy/download/)
 3. [Update the device driver](https://tools.techidaily.com/drivereasy/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Change the in-game settings
 
@@ -41,15 +49,7 @@ Don’t worry, here’re fixes may help you solve the issue.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-15_15-48-52.jpg)
 4. In the open section, change**Response Curve** to**Raw** , and set**Horizontal Turning Bonus** and**Vertical Turning Bonus** to**0** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-15_15-50-02.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 #### For mouse/keyboard users
 
@@ -65,13 +65,13 @@ If you’re not using the controller, check the below settings.
 6. Set the**Static FidelityFX CAS** to**ON** and lower the Resolution Scaling.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-15_15-59-50.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Some users have reported that by disabling all the aim assist options in settings, the issue has been improved a lot.
 
 If this fix doesn’t work, move to the next one.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Change the mouse setting
 
@@ -82,15 +82,19 @@ If this fix doesn’t work, move to the next one.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-15_16-46-09.jpg)
 3. Go to the**Mouse** tab, click**Additional mouse options** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-15_16-00-50.jpg)
 4. Make sure you uncheck the**Enhance pointer precision** . Click**Apply > OK** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-15_16-01-18.jpg)
 5. Launch the game and check.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 If it doesn’t work, move to the next fix.
 
@@ -122,10 +126,6 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 
@@ -152,19 +152,19 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-social-media-sensation-top-eight-videos/"><u>[New] Social Media Sensation Top Eight Videos</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-unveiling-the-secrets-to-profitable-facebook-animation-strategies-for-2024/"><u>[New] Unveiling the Secrets to Profitable Facebook Animation Strategies for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-cutting-edge-video-tools-opt-for-studio-or-latest-beta-version-for-2024/"><u>[Updated] Cutting-Edge Video Tools Opt for Studio or Latest Beta Version for 2024</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/updated-in-2024-spinning-jujutsu-kaisen-stories-on-tiktok/"><u>[Updated] In 2024, Spinning Jujutsu Kaisen Stories on TikTok</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-the-6-pillars-of-effective-facebook-live-website-integration/"><u>[Updated] In 2024, The 6 Pillars of Effective Facebook Live Website Integration</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/bypass-activation-lock-on-apple-iphone-13-4-easy-ways-by-drfone-ios/"><u>Bypass Activation Lock On Apple iPhone 13 - 4 Easy Ways</u></a></li>
-<li><a href="https://facebook.techidaily.com/deciding-when-to-transform-your-social-media-icon/"><u>Deciding When to Transform Your Social Media Icon</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/expert-advice-what-to-do-when-you-cant-use-spotify-on-a-windows-computer/"><u>Expert Advice: What to Do When You Can’t Use Spotify on a Windows Computer</u></a></li>
-<li><a href="https://games-able.techidaily.com/fortnite-fund-flubs-navigating-the-refund-roadmap/"><u>Fortnite Fund Flubs - Navigating the Refund Roadmap</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-brighten-up-your-visuals-essential-color-correction-tutorials/"><u>In 2024, Brighten Up Your Visuals Essential Color Correction Tutorials</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/in-2024-tips-for-posting-wide-angle-photos-to-facebook-from-smartphones/"><u>In 2024, Tips for Posting Wide Angle Photos to Facebook From Smartphones</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/master-the-art-of-dvd-ripping-convert-your-dvds-into-crystal-clear-wmv-files-using-windows-tools/"><u>Master the Art of DVD Ripping: Convert Your DVDs Into Crystal Clear WMV Files Using Windows Tools</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/mastering-fb-slideshows-for-content-sharing-for-2024/"><u>Mastering FB Slideshows for Content Sharing for 2024</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/network-locked-sim-card-inserted-on-your-vivo-y56-5g-phone-unlock-it-now-by-drfone-android/"><u>Network Locked SIM Card Inserted On Your Vivo Y56 5G Phone? Unlock It Now</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-instantly-connecting-fans-how-to-take-your-fb-live-further/"><u>[New] 2024 Approved Instantly Connecting Fans How to Take Your FB Live Further</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-overcoming-deceptive-user-presentation-on-facebook/"><u>[New] In 2024, Overcoming Deceptive User-Presentation on Facebook</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-present-day-drones-and-their-upcoming-role-evolution/"><u>[New] Present-Day Drones and Their Upcoming Role Evolution</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2023s-leading-choices-for-downloading-facebook-lite-videos/"><u>[Updated] 2023'S Leading Choices for Downloading Facebook Lite Videos</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-yearly-guide-youtubes-most-compelling-storytellers/"><u>[Updated] 2024 Approved Yearly Guide YouTube's Most Compelling Storytellers</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-mastery-over-buffering-in-vimeo-streams-revised-tips/"><u>[Updated] Mastery Over Buffering in Vimeo Streams (Revised Tips)</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-tiktok-audio-integrity-overcoming-silent-intervals-in-videos/"><u>[Updated] TikTok Audio Integrity Overcoming Silent Intervals in Videos</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/10-steps-to-perfectly-plated-food-vids-for-2024/"><u>10 Steps to Perfectly Plated Food Vids for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-ishowu-audio-capture-review/"><u>2024 Approved IShowU Audio Capture Review</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/a-comprehensive-guide-to-crop-your-video-for-instagram-for-2024/"><u>A Comprehensive Guide to Crop Your Video for Instagram for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/best-itel-p55-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>Best Itel P55 Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-se-to-android-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone SE To Android? | Dr.fone</u></a></li>
+<li><a href="https://discover-amazing.techidaily.com/solve-the-disk-is-overloaded-issue-for-ms-excel-201020132016-users/"><u>Solve the 'Disk Is Overloaded' Issue for MS Excel 2010/2013/2016 Users</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unmatched-clarity-awaits-with-our-lightweight-laptops-exceptional-screen-now-discounted-on-zdnet/"><u>Unmatched Clarity Awaits with Our Lightweight Laptop's Exceptional Screen, Now Discounted on ZDNet!</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Master Terraria's Performance : Proven Strategies to Avoid System Crashes"
-date: 2024-12-03T01:02:39.076Z
-updated: 2024-12-10T08:10:50.331Z
+date: 2024-12-13T16:11:44.516Z
+updated: 2024-12-16T16:20:47.617Z
 tags:
   - win11
   - win10
@@ -63,10 +63,6 @@ Before you move on, select your gaming platform first:
 ![](https://www.drivereasy.com/wp-content/uploads/2019/07/image-222.png)
 2. Check your **Operating System, Processor, Memory** and **DirectX Version** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2019/09/image-91.png)
 3. Click the **Display** tab, and then check your graphics card’s information.  
 
@@ -91,7 +87,7 @@ Before you move on, select your gaming platform first:
 2. Select the **Compatibility**  tab. Tick the box for **Run this program as an administrator** . Then click **Apply > OK**  to save the changes.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-57.png)
@@ -128,10 +124,6 @@ OR
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/05/NVIDIA-GeForce-RTX-3090-Ti.jpg)
 4. After updating, restart your computer to take effect.
@@ -148,10 +140,6 @@ If your issue persists, then move on and try the next fix.
 ![](https://www.drivereasy.com/wp-content/uploads/2019/07/image-428.png)
 2. Type **easyanticheat**  in the search box and press **Enter**  on your keyboard.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2019/07/image-458.png)
 3. Right-click **EasyAntiCheat\_Setup.exe** , and then select **Run as administrator** . If you’re prompted about permissions, select Continue.  
 
@@ -161,15 +149,7 @@ If your issue persists, then move on and try the next fix.
 ![](https://www.drivereasy.com/wp-content/uploads/2019/09/image-191.png)
 5. Click**Repair Service** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2019/09/image-192.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  After the process is complete, relaunch your game to check if your problem has been resolved. If not, read on and try the fix, below.
 
@@ -182,6 +162,10 @@ If your issue persists, then move on and try the next fix.
 
 ![Steam - how to verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2023/10/Steam-verify-integrity-of-game-files-properties.jpg)
 3. Select the**Installed Files** tab and click on the**Verified integrity of game files** button.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![Steam - how to verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2023/10/Steam-verify-integrity-of-game-files.jpg)
 4. Steam will verify the game’s files – this process may take several minutes.
@@ -205,6 +189,10 @@ Follow the instructions below to see how to fix it:
 4. Select **High Performance** .  
 
 ![](https://www.drivereasy.com/wp-content/uploads/2019/05/image-738.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Restart your computer and your game to see if this worked for you. If your problem persists, try the fix below.
 
@@ -234,17 +222,21 @@ If this didn’t work for you, check the fix, below.
 ![](https://www.drivereasy.com/wp-content/uploads/2019/05/image-885.png)
 2. Right-click the **steamapps folder** and select **Copy.** Then, place the copy in another location to back it up.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2019/05/image-886.png)
 3. On your keyboard, press the **Windows logo** key and type **control** . Then, click **Control panel** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2019/05/image-737.png)
 4. Under **View by,** click **Large icons** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2019/05/image-720.png)
 5. Select **Uninstall a program** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2019/05/image-889.png)
 6. Right-click **Steam** , and then click **Uninstall** .  
@@ -262,10 +254,6 @@ If this didn’t work for you, check the fix, below.
 11. Restart_Dead by Daylight_ to see if this fixed your issue.
 
  Hopefully, one of the fixes above fixed your issue and you’re now able to actually play! If you have any questions, please leave a comment below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Xbox One
 
@@ -331,10 +319,6 @@ If this didn’t work for you, check the fix, below.
 ![](https://www.drivereasy.com/wp-content/uploads/2019/08/image-94.png)
 5. Select **Reset console** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2019/08/image-97.png)
 6. Select **Reset and keep my games & apps** .  
 
@@ -358,17 +342,25 @@ If this didn’t work for you, check the fix, below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/xbox-one-controller-2206687_1920-1-1024x671.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **4)** Highlight your game, then press the **☰ button** on your controller.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-175-1024x439.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **5)**  Select **Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-108.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **6)** After the game is uninstalled, insert **the game disc** into the drive to download and install Dead by Daylight.
 
@@ -451,9 +443,17 @@ If this didn’t work for you, check the fix, below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1095.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **7)**  Select **Yes**  and wait for the process to be complete.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1096.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **8)**  Restart your game to see if this fix worked.
 
@@ -482,16 +482,22 @@ If this didn’t work for you, check the fix, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-elevate-your-filmmaking-skills-for-ig-reels-for-2024/"><u>[New] Elevate Your Filmmaking Skills for IG Reels for 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-from-concept-to-completion-building-effective-facebook-covers/"><u>[New] In 2024, From Concept to Completion Building Effective Facebook Covers</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-the-top-12-tactics-to-fix-and-make-your-vids-appear-on-fb-today/"><u>[New] In 2024, The Top 12 Tactics to Fix and Make Your Vids Appear on FB Today</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-unveil-your-world-in-wide-angle-iosandroid-photo-integration-on-social-media/"><u>[Updated] 2024 Approved Unveil Your World in Wide Angle IOS/Android Photo Integration on Social Media</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-elevate-your-content-mastery-in-live-streaming-screens/"><u>[Updated] In 2024, Elevate Your Content Mastery in Live Streaming Screens</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-maximizing-memories-phones-snapchat-recording/"><u>2024 Approved Maximizing Memories Phones' Snapchat Recording</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/2024-approved-tiktok-audio-integrity-overcoming-silent-intervals-in-videos/"><u>2024 Approved TikTok Audio Integrity Overcoming Silent Intervals in Videos</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/how-does-cryptocurrency-transform-finance-discover-key-advantages-according-to-experts-at-yl-software/"><u>How Does Cryptocurrency Transform Finance? Discover Key Advantages According to Experts at YL Software</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-expert-tips-on-finding-optimal-free-srt-translator-services/"><u>In 2024, Expert Tips on Finding Optimal Free SRT Translator Services</u></a></li>
-<li><a href="https://article-posts.techidaily.com/revolutionizing-your-photo-video-experience-for-2024/"><u>Revolutionizing Your Photo-Video Experience for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/streamlining-tasks-leveraging-chatgpt-to-enhance-scheduling-skills/"><u>Streamlining Tasks: Leveraging ChatGPT to Enhance Scheduling Skills</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/mbedding-yt-playlists-seamlessly-on-webpages-for-2024/"><u>[New] Embedding YT Playlists Seamlessly on Webpages for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-express-exuberance-create-memetic-content-with-kapwing/"><u>[New] Express Exuberance Create Memetic Content With Kapwing</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-content-compromise-rapid-deletion-dilemma/"><u>[Updated] 2024 Approved Content Compromise Rapid Deletion Dilemma</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-achieve-profitability-with-powerful-facebook-video-marketing-tips/"><u>[Updated] In 2024, Achieve Profitability with Powerful Facebook Video Marketing Tips</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-the-future-awaits-elevate-your-fb-chronicles-for-free-for-2024/"><u>[Updated] The Future Awaits Elevate Your FB Chronicles for FREE for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-the-ultimate-list-of-superior-cloud-services-for-2024/"><u>[Updated] The Ultimate List of Superior Cloud Services for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1-successful-guide-watching-dvds-on-your-nintendo-wii-or-wii-u-console/"><u>1. Successful Guide: Watching DVDs on Your Nintendo Wii or Wii U Console</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-crescendo-control-secure-sound-sharing-online/"><u>2024 Approved Crescendo Control Secure Sound Sharing Online</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-expert-picks-top-6-fb-lite-extractors/"><u>2024 Approved Expert Picks Top 6 FB Lite Extractors</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/fb-story-downloads-decoded-a-quick-and-convenient-guide-for-all-users/"><u>FB Story Downloads Decoded A Quick & Convenient Guide for All Users</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/fix-apple-iphone-x-stuck-on-data-transfer-verified-solution-drfone-by-drfone-transfer-from-ios/"><u>Fix Apple iPhone X Stuck on Data Transfer Verified Solution! | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-creating-captivating-360-footage-for-social-media-sharing/"><u>In 2024, Creating Captivating 360 Footage for Social Media Sharing</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-finding-the-right-angle-for-your-fb-videos/"><u>In 2024, Finding the Right Angle for Your FB Videos</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ios-guide-disabling-access-to-youtube-on-your-tablet/"><u>IOS Guide: Disabling Access to YouTube on Your Tablet</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723211494794-resolved-unplanned-automatic-reboots-on-windows-10-fixed/"><u>Resolved: Unplanned Automatic Reboots on Windows 10 – Fixed</u></a></li>
+<li><a href="https://win-community.techidaily.com/ultimate-guide-to-harmonizing-melodies-in-dex-3-how-to-easily-find-matching-keys-for-flawless-transitions/"><u>Ultimate Guide to Harmonizing Melodies in DEX 3: How to Easily Find Matching Keys for Flawless Transitions</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/your-guide-to-gaining-facebooks-elite-verification-badge/"><u>Your Guide to Gaining Facebook's Elite Verification Badge</u></a></li>
 </ul></div>
 

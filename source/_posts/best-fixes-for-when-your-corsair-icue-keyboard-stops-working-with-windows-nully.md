@@ -1,7 +1,7 @@
 ---
 title: Best Fixes for When Your Corsair iCUE Keyboard Stops Working with Windows Nully
-date: 2024-12-05T00:20:46.285Z
-updated: 2024-12-10T09:47:43.744Z
+date: 2024-12-13T16:43:41.159Z
+updated: 2024-12-16T16:32:32.670Z
 tags:
   - win11
   - win10
@@ -39,10 +39,6 @@ Outlook keeps crashing on your computer? This is quite annoying and you’re cer
 **[How to Enter Safe Mode in Windows 8 & 8.1](https://tools.techidaily.com/drivereasy/download/)**
 **[How to Enter Safe Mode in Window 7, Vista & XP](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 2: Update Outlook
 
  Sometimes, an outdated version of Outlook may also be the cause of your issue. In this case, an update is very likely the solution to it. Here is how to do it:
@@ -57,13 +53,13 @@ Outlook keeps crashing on your computer? This is quite annoying and you’re cer
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-31_15-15-27-1024x620.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **4)**  Click **Update Now.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-31_15-15-22.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **5)** Wait for the program to detect the latest version of Outlook, and then follow the on-screen instructions to update your Outlook.
 
@@ -78,31 +74,27 @@ Outlook keeps crashing on your computer? This is quite annoying and you’re cer
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/2019-12-31_10-30-58.jpg)
 2. **Click Account Settings, and then click Account Settings in the drop-down menu.**  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Click **Account Settings** , and then click **Account Settings** in the drop-down menu.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/2019-12-31_10-32-45.jpg)
 3. **Select your account, then click Repair.**  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Select**your account** , then click**Repair** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/2019-12-31_10-33-28.jpg)
 4. **Click Next, then follow the on-screen instructions to repair your account.**  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Click **Next,** then follow the on-screen instructions to repair your account.![](https://images.drivereasy.com/wp-content/uploads/2019/07/2019-12-31_10-33-54.jpg)
 5. **Reopen Outlook to check if it runs smoothly now.**  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Reopen Outlook to check if it runs smoothly now.
 
 If your problem persists, try the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Remove unnecessary Outlook add-ins
 
@@ -118,21 +110,21 @@ If your problem persists, try the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-31_15-13-48.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **4)** Click **Add-ins.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-31_15-13-36.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **5)** Verify that the **Manage** option is set to **COM Add-ins** . Then, click **Go** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-31_15-12-59.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **6)** Uncheck the box next to the unessential add-ins to disable them. Then, click **OK.**
 
@@ -141,7 +133,7 @@ If your problem persists, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-31_15-12-35.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Reopen Outlook to see if this worked for you. If your problem still exists, try the next fix.
@@ -164,6 +156,10 @@ If your problem persists, try the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-31_15-11-13.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **5)**  If you find an **.ost file** in the current window, right-click **the file** , and then click **Rename** .
 
  If you see a **.pst file** instead, skip this fix and check **[fix 6](https://tools.techidaily.com/drivereasy/download/)**  below.
@@ -173,10 +169,6 @@ If your problem persists, try the next fix.
 **6)**  Change the file name extension to **.old** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-31_15-10-45.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **7)** Reopen Outlook and wait for it to rebuild your data file.
 
@@ -192,9 +184,17 @@ If your problem persists, try the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-31_15-10-25.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)** Under **View by** , click **Category.**  Then, click **Uninstall a program** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-31_15-10-14.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)** Right-click **Microsoft Office 365** , and then click **Uninstall** .
 
@@ -205,7 +205,7 @@ If your problem persists, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-31_15-09-40-1024x449.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **5)**  Click **Install Office** , and then click **Office 365 apps** to download Office 365.
@@ -239,20 +239,20 @@ If your problem persists, try the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-mastering-audio-transitions-in-premiere-pro/"><u>[New] 2024 Approved Mastering Audio Transitions in Premiere Pro</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-making-a-mark-creating-standout-slideshows-for-facebook-networks/"><u>[New] In 2024, Making a Mark Creating Standout Slideshows for Facebook Networks</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-innovative-strategies-for-displaying-your-screen-in-google-meet-for-2024/"><u>[New] Innovative Strategies for Displaying Your Screen in Google Meet for 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-mastering-high-definition-facebook-video-downloads-for-2024/"><u>[New] Mastering High-Definition Facebook Video Downloads for 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-unfolding-the-world-on-iphone-perfect-fb-video-sharing-for-2024/"><u>[Updated] Unfolding the World on iPhone Perfect FB Video Sharing for 2024</u></a></li>
-<li><a href="https://discover-data.techidaily.com/1728506422832-windows-11/"><u>如何在 Windows 11 系统中通过命令行解决问题 - 专业方法分享</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/come-risolvere-i-problemi-di-cronologia-file-su-windows-11-che-non-si-attiva/"><u>Come Risolvere I Problemi Di Cronologia File Su Windows 11 Che Non Si Attiva</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/detailed-premiere-pro-full-screen-analysis/"><u>Detailed Premiere Pro Full Screen Analysis</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/filmoras-peers-the-best-slide-show-template-collections/"><u>Filmora's Peers The Best Slide Show Template Collections</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/in-2024-optimizing-your-snapchat-ads-for-maximum-monetization/"><u>In 2024, Optimizing Your Snapchat Ads for Maximum Monetization</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/play-store-stuck-on-downloading-of-realme-12-5g-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Realme 12 5G? 7 Ways to Resolve | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/the-essential-iphoneside-by-side-guide-for-fb-sharing-for-2024/"><u>The Essential iPhoneside by Side Guide for FB Sharing for 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/top-8-facebook-movie-downloaders/"><u>Top 8 Facebook Movie Downloaders</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/unveiling-the-secrets-of-self-playing-fb-videos-for-2024/"><u>Unveiling the Secrets of Self-Playing FB Videos for 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/which-angle-works-better-for-social-sharing-vertical-or-horizontal-in-2024/"><u>Which Angle Works Better for Social Sharing Vertical or Horizontal, In 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-ways-to-watch-facebook-live-on-tv/"><u>[New] 2024 Approved Ways To Watch Facebook Live On TV</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-fb-url-harnesser-secure-and-free-downloader-bundle-for-23/"><u>[New] FB URL Harnesser Secure & Free Downloader Bundle for '23</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-firefoxs-finest-leading-video-downloads-and-addons-for-facebook-for-2024/"><u>[New] Firefox's Finest Leading Video Downloads & Addons for Facebook for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-future-of-fb-ads-whats-a-must-try/"><u>[New] Future of FB Ads – What’s a Must-Try?</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/remium-tools-for-saving-your-live-video-memories-for-2024/"><u>[New] Premium Tools for Saving Your Live Video Memories for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-twitters-hot-takes-the-10-craziest-tweets/"><u>[Updated] 2024 Approved Twitter's Hot Takes The 10 Craziest Tweets</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-maximizing-audience-reach-sharing-twitch-live/"><u>2024 Approved Maximizing Audience Reach Sharing Twitch Live</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-professional-recording-methods-for-your-social-video-sessions/"><u>2024 Approved Professional Recording Methods for Your Social Video Sessions</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-streamlined-video-calls-synchronizing-zoom-and-gmail-for-better-communication/"><u>2024 Approved Streamlined Video Calls Synchronizing Zoom & Gmail for Better Communication</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/a-closer-look-at-the-speedy-and-secure-tri-band-network-of-netgears-nighthawk-x6-ac3200-router-perfect-for-busy-households/"><u>A Closer Look at the Speedy & Secure Tri-Band Network of Netgear's Nighthawk X6 AC3200 Router: Perfect for Busy Households</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/138621197-9781601634146-sky-people/"><u>Sky People | Free Book</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/streamlined-savings-for-cloud-storage-costs-analysis/"><u>Streamlined Savings for Cloud Storage Costs Analysis</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/strengthening-your-brand-with-high-quality-fb-covers/"><u>Strengthening Your Brand with High-Quality FB Covers</u></a></li>
+<li><a href="https://discover-able.techidaily.com/top-strategies-for-boosting-windows-performance-expert-advice-by-yl-tech-experts/"><u>Top Strategies for Boosting Windows Performance: Expert Advice by YL Tech Experts</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-unlock-exclusive-deals-top-7-filmora-discount-codes/"><u>Updated 2024 Approved Unlock Exclusive Deals Top 7 Filmora Discount Codes</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Solving the 'Cannot Connect to World' Problem in Minecraft for Seamless Gameplay
-date: 2024-12-04T10:01:31.560Z
-updated: 2024-12-09T16:45:40.616Z
+date: 2024-12-15T16:17:53.874Z
+updated: 2024-12-16T16:44:04.096Z
 tags:
   - win11
   - win10
@@ -16,10 +16,6 @@ thumbnail: https://thmb.techidaily.com/c526ac87f9f87d0fc29a8b589fea98a72d5043022
 ## Effortless Fix: Resolving the 'Origin' App Crash Problem Swiftly
 
 **Running into Origin crash issue on your PC?** Don’t worry… Although it’s incredibly frustrating, you’re definitely not the only person to experience this problem. Thousands of players have recently reported the very same issue. More importantly, you should be able to fix it pretty easily…
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -36,6 +32,10 @@ thumbnail: https://thmb.techidaily.com/c526ac87f9f87d0fc29a8b589fea98a72d5043022
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Clear the Origin cache
 
  The corrupted application cache may crash the Origin client. You can try clearing the Origin cache to see if this issue persists. Here is how to do it:
@@ -51,44 +51,29 @@ thumbnail: https://thmb.techidaily.com/c526ac87f9f87d0fc29a8b589fea98a72d5043022
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/ProgramData-Origin-folder-2.png)
 5. On your keyboard, press **the Windows logo key** and **R** at the same time to open the Run dialog. Then type **%AppData%**  and press **Enter** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![run dialog: %AppData%](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-AppData.png)
 6. In the pop-up window, delete the **Origin**  folder.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/AppData-Roaming-Origin-folder.png)
 7. Click **AppData** in the address bar.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/AppData-Address-Bar.png)
 8. Double-click the **Local**  folder to open it.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/AppData-Local-folder.png)
 9. Delete the **Origin**  folder in the **Local** folder.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/AppData-Local-Origin-folder.png)
 10. Restart Windows.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 11. **Double-click** the shortcut of Origin on your desktop.
 
  See if Origin crashes after you cleared the cache. If this issue persists, try the next fix, below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Run Origin as administrator
 
@@ -101,6 +86,10 @@ thumbnail: https://thmb.techidaily.com/c526ac87f9f87d0fc29a8b589fea98a72d5043022
 If Origin crashes again, try the next fix to update your graphics driver.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics driver
 
@@ -116,10 +105,6 @@ If Origin crashes again, try the next fix to update your graphics driver.
 2. Run Driver Easy and click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/DE-scan-screen.png)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. You need the Pro version of Driver Easy to do this, so you’ll be prompted to upgrade.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Don’t worry; it comes with a 30-day money-back guarantee, so if you don’t like it you can get a full refund, no questions asked.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/DE-Update-all-drivers.png)  
@@ -143,8 +128,16 @@ If Origin crashes again, try the next fix to update your graphics driver.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/Task-Manager-main-screen.png)
 2. Go to your Origin install folder (Normally the path should be**C:\\Program Files (x86)\\Origin** ) and delete the file “**OriginThinSetupInternal** “.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/origin-123.png)
 3. In your Origin install folder,**right-click** the file**Origin** and select**Properties** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/Orgin-1234.png)
 4. In the**Origin Properties** window, navigate to the**Compatibility** tab and click**Run compatibility troubleshooter** .  
@@ -162,15 +155,11 @@ If Origin crashes again, try the next fix to update your graphics driver.
 8. If not, select**No, try again using different settings** . Then follow the on-screen instructions to run Program Compatibility Troubleshooter.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 9. If it still doesn’t work, then run Program Compatibility Troubleshooter again and **select the second option**   **to choose compatibility settings based on problems you notice** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/Program-compatibility-troubleshooter3.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Adjust the following settings manually and select **OK** when you’re done.
 
@@ -190,6 +179,10 @@ If Origin crashes again, try the next fix to update your graphics driver.
  If Origin still crashes after you tried this fix, try the next one, below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Perform a Windows update
 
@@ -227,6 +220,10 @@ If Origin crashes again, try the next fix to update your graphics driver.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/msconfig.png)
 2. Navigate to the **Services** tab, check **Hide all Microsoft services** and then click **Disable all** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration.png)
 3. Select the **Startup** tab and click **Open Task Manager** .  
 
@@ -235,6 +232,10 @@ If Origin crashes again, try the next fix to update your graphics driver.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration3.png)
 5. Go back to the **System Configuration** window and click **OK** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration4.png)
 6. Click **Restart** to restart your PC.  
@@ -247,6 +248,10 @@ If Origin crashes again, try the next fix to update your graphics driver.
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 8: Reinstall Origin
 
  If all the fixes above still don’t work, it’s time to uninstall Origin and reinstall it.
@@ -258,10 +263,6 @@ If Origin crashes again, try the next fix to update your graphics driver.
  i. On your keyboard, press **the Windows logo key** and **R** at the same time to open the Run dialog. Then type **control**  and press **Enter** to open**Control Panel** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap7-1-1.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  ii. View Control Panel by **Category** , and then click **Uninstall a program** .
 
@@ -298,24 +299,20 @@ iv. Restart your Windows system when it is completed.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-immediate-removal-policy-for-videos-user-concerns/"><u>[New] 2024 Approved Immediate Removal Policy for Videos - User Concerns</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-cyber-self-portraiture-creating-a-caricatured-emblem-for-2024/"><u>[New] Cyber Self-Portraiture Creating a Caricatured Emblem for 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-digging-deep-into-facebooks-short-video-shift-the-2023-scenario/"><u>[New] Digging Deep Into Facebook's Short Video Shift The 2023 Scenario</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-effortlessly-connect-with-these-10-affordable-video-conferencing-services/"><u>[New] Effortlessly Connect with These 10 Affordable Video Conferencing Services</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-best-ff-browser-add-ons-for-fb-videos/"><u>[New] In 2024, Best FF Browser Add-Ons for FB Videos</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-barely-known-to-famous-elevate-your-viewership-on-youtube/"><u>[New] In 2024, From Barely Known to Famous Elevate Your Viewership on Youtube</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-trendsetters-toolkit-must-have-essentials-for-todays-innovative-professionals/"><u>[New] Trendsetters Toolkit Must-Have Essentials for Today's Innovative Professionals</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-how-to-live-stream-xbox-to-facebook-live/"><u>[Updated] 2024 Approved How to Live Stream Xbox to Facebook Live</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-the-art-of-revisiting-historical-facebook-posts-mobilelaptop/"><u>[Updated] 2024 Approved The Art of Revisiting Historical Facebook Posts (Mobile/Laptop)</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-unraveling-online-video-discussions/"><u>[Updated] 2024 Approved Unraveling Online Video Discussions</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-unlocking-the-process-for-claiming-facebooks-top-tier-marker/"><u>[Updated] In 2024, Unlocking the Process for Claiming Facebook’s Top-Tier Marker</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-merging-melodies-and-memories-online/"><u>[Updated] Merging Melodies and Memories Online</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/best-value-for-money-top-6-budget-4k-projector-models-for-2024/"><u>Best Value for Money Top 6 Budget 4K Projector Models for 2024</u></a></li>
-<li><a href="https://change-location.techidaily.com/guide-how-to-unbrick-a-bricked-samsung-galaxy-s24plus-phone-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Guide How To Unbrick a Bricked Samsung Galaxy S24+ Phone | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/in-2024-how-to-expose-and-rectify-vanished-videos-on-fb/"><u>In 2024, How to Expose and Rectify Vanished Videos on FB</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/mastering-lock-screen-settings-how-to-enable-and-disable-on-poco-m6-pro-5g-by-drfone-android/"><u>Mastering Lock Screen Settings How to Enable and Disable on Poco M6 Pro 5G</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-easy-peasy-reaction-videos-a-beginners-guide-to-filmora/"><u>New In 2024, Easy Peasy Reaction Videos A Beginners Guide to Filmora</u></a></li>
-<li><a href="https://fox-info.techidaily.com/precision-no-download-leading-websites-turning-gif-into-video/"><u>Precision No-Download Leading Websites Turning GIF Into Video</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/solutions-for-resolving-the-coredll-file-is-absent-issue/"><u>Solutions for Resolving the 'core.dll File Is Absent' Issue</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-digital-chronicling-of-live-audio-content-on-the-net/"><u>[New] In 2024, Digital Chronicling of Live Audio Content on the Net</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-cyberspace-enhancer-facebook-story-backup-tool/"><u>[Updated] In 2024, Cyberspace Enhancer Facebook Story Backup Tool</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-linkedin-image-aspect-ratios-explained/"><u>[Updated] In 2024, LinkedIn Image Aspect Ratios Explained</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-pro-landscape-capture-iphone-killer-secrets-revealed/"><u>[Updated] Pro Landscape Capture IPhone Killer Secrets Revealed</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-steps-for-perfect-audio-transition-in-adobe-audition/"><u>[Updated] Steps for Perfect Audio Transition in Adobe Audition</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-concealing-content-securing-video-data-ethics/"><u>2024 Approved Concealing Content Securing Video Data Ethics</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-mastering-tunes-in-fb-video-posts-your-step-by-step-manual/"><u>2024 Approved Mastering Tunes in FB Video Posts Your Step-by-Step Manual</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-the-3-elemental-strategies-for-writing-effective-social-media-promotions/"><u>2024 Approved The 3 Elemental Strategies for Writing Effective Social Media Promotions</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-art-of-using-b-roll-to-complement-visuals-effectively/"><u>2024 Approved The Art of Using B-Roll to Complement Visuals Effectively</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-incorporating-backgrounds-a-filmmakers-guide/"><u>In 2024, Incorporating Backgrounds A Filmmaker's Guide</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/meetup-event-visual-format-for-2024/"><u>Meetup Event Visual Format for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/optimize-profitability-the-science-behind-high-roi-fb-animatons/"><u>Optimize Profitability The Science Behind High-ROI FB Animatons</u></a></li>
+<li><a href="https://games-able.techidaily.com/premium-165hz-gaming-screen-upgrades/"><u>Premium 165Hz Gaming Screen Upgrades</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/simplified-guide-fb-video-to-mp3-audio-transformations/"><u>Simplified Guide FB Video to MP3 Audio Transformations</u></a></li>
+<li><a href="https://fox-access.techidaily.com/why-does-imovie-enforce-dimensions-for-2024/"><u>Why Does iMovie Enforce Dimensions for 2024</u></a></li>
 </ul></div>
 
