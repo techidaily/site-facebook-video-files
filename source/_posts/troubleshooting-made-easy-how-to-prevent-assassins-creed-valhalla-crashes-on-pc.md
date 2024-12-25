@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Made Easy: How to Prevent Assassin's Creed Valhalla Crashes on PC"
-date: 2024-12-11T16:54:10.912Z
-updated: 2024-12-16T17:01:25.815Z
+date: 2024-12-24T00:31:32.824Z
+updated: 2024-12-24T17:13:43.212Z
 tags:
   - win11
   - win10
@@ -67,19 +67,19 @@ thumbnail: https://thmb.techidaily.com/6816402dd23c56a105ec64bc0a33bec17942a9ec3
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/valhalla-verify-1.jpg)
 3. Select **Verify files** . Then wait for the checking to complete.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/valhalla-verify-2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Now you can launch Assassin’s Creed Valhalla and check if it crashes again.
 
  If verifying game files didn’t help your case, simply check out the next method.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Install all Windows updates
 
@@ -98,6 +98,10 @@ You can use these steps to check for Windows updates manually:
  Once you’ve fully updated your system, restart your PC and check if Assassin’s Creed Valhalla becomes stable.
 
 If the crash happens again, you can take a look at the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Update your graphics driver
 
@@ -125,10 +129,6 @@ If the crash happens again, you can take a look at the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
@@ -137,10 +137,6 @@ If the crash happens again, you can take a look at the next fix.
  Once you’ve updated your graphics driver, restart your PC and test the gameplay in Assassin’s Creed Valhalla.
 
  If the driver update doesn’t do the trick for you, simply continue to the next fix below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5: Lower in-game graphics settings
 
@@ -153,10 +149,14 @@ If the crash happens again, you can take a look at the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/valhalla-lower-settings.jpg)
 3. Continue your game and check if it crashes again.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If this trick failed to solve your problem, you can move on to the next one.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 6: Disable peripherals
@@ -165,13 +165,13 @@ If the crash happens again, you can take a look at the next fix.
 
  If disabling peripherals doesn’t work for you, or you’re not using any at the first place, you can take a look at the next fix below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 7: Check the launcher log
 
  If you’re a tech-savvy player, one effective way to troubleshoot is to check the**launcher\_log.txt** after crashing. The default location to find your log files is:**C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\logs** . In the file named**launcher\_log.txt** , you should see what happened exactly. Check if the crash involves certain game files. If yes, delete them and run a**Scan and Repair** to re-download the latest files.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 8: Reinstall Assassin’s Creed Valhalla
 
@@ -196,24 +196,17 @@ If the crash happens again, you can take a look at the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-fb-rights-instant-video-ownership-takedown-questions/"><u>[New] 2024 Approved FB Rights Instant Video Ownership Takedown Questions</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-integrating-multimedia-elements-for-engaging-facebook-slideshows/"><u>[New] 2024 Approved Integrating Multimedia Elements for Engaging Facebook Slideshows</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-your-guide-to-50-creative-free-youtube-advertising-options/"><u>[New] 2024 Approved Your Guide to 50 Creative, Free YouTube Advertising Options</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-best-online-places-for-youtube-video-growth-for-2024/"><u>[New] Best Online Places for YouTube Video Growth for 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-design-tips-for-captivating-facebook-slideshows/"><u>[New] In 2024, Design Tips for Captivating Facebook Slideshows</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-echoes-of-now-strategies-for-downloading-current-events/"><u>[New] In 2024, Echoes of Now Strategies for Downloading Current Events</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-highest-quality-mp4-adapter-for-fb-integration/"><u>[New] In 2024, Highest Quality MP4 Adapter for FB Integration</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-mastery-over-buffering-in-vimeo-streams-revised-tips/"><u>[New] In 2024, Mastery Over Buffering in Vimeo Streams (Revised Tips)</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-standout-methods-for-fb-ad-visualization/"><u>[New] In 2024, Standout Methods for FB Ad Visualization</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-tailor-the-face-of-facebook-videos-for-2024/"><u>[New] Tailor the Face of Facebook Videos for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-optimize-your-youtube-stream-choosing-superior-webcams/"><u>[Updated] 2024 Approved Optimize Your YouTube Stream Choosing Superior Webcams</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-compre-written-explanation-easy-hdr-understanding/"><u>[Updated] Compre Written Explanation Easy HDR Understanding</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-facebooks-approach-for-automatic-youtube-video-playback/"><u>[Updated] Facebook's Approach for Automatic YouTube Video Playback</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-the-ultimate-pathway-to-vimeo-recording/"><u>[Updated] The Ultimate Pathway to Vimeo Recording</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/examination-the-top-tier-ar-parrot-drone-20-for-2024/"><u>Examination The Top-Tier AR Parrot Drone 2.0 for 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/in-2024-internet-companion-fb-story-backup-tool/"><u>In 2024, Internet Companion FB Story Backup Tool</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-navigating-through-the-ultimate-guide-to-top-9-free-logos/"><u>In 2024, Navigating Through The Ultimate Guide to Top 9 Free Logos</u></a></li>
-<li><a href="https://win-able.techidaily.com/solving-pc-issues-how-to-stop-minecraft-dungeons-from-continuously-crashing/"><u>Solving PC Issues: How to Stop Minecraft Dungeons From Continuously Crashing</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-the-ultimate-movie-making-blueprint-easy-and-fast-for-2024/"><u>Updated The Ultimate Movie Making Blueprint Easy and Fast for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-crafting-compelling-gopro-livestreams-on-facebook-and-periscope/"><u>[New] 2024 Approved Crafting Compelling GoPro Livestreams on Facebook & Periscope</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-skyrocket-your-e-commerce-with-these-15-facebook-analytics/"><u>[New] 2024 Approved Skyrocket Your E-Commerce with These 15 Facebook Analytics</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-the-insiders-tactics-for-creating-gripping-puzzle-posts-on-instagram/"><u>[New] The Insider's Tactics for Creating Gripping Puzzle Posts on Instagram</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-unveiling-past-images-3-approaches-for-fb-reverse-search/"><u>[New] Unveiling Past Images 3 Approaches for FB Reverse Search</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-prowess-in-phrasing-best-tags-for-gamer-videos/"><u>[Updated] Prowess in Phrasing Best Tags for Gamer Videos</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-step-up-to-spectacle-adding-neon-borderlines-to-youtubes/"><u>[Updated] Step Up to Spectacle Adding Neon Borderlines to YouTubes</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-the-blue-badge-breakdown-a-guide-to-social-media-credibility-for-2024/"><u>[Updated] The Blue Badge Breakdown A Guide to Social Media Credibility for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/cranking-cadence-select-tools-that-elevate-pc-sound-past-limit/"><u>Cranking Cadence: Select Tools That Elevate PC Sound Past Limit</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-lava-blaze-2-pro-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Lava Blaze 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-gentle-fading-audio-paths-in-live/"><u>In 2024, Gentle Fading Audio Paths in Live</u></a></li>
+<li><a href="https://extra-information.techidaily.com/optimal-assistance-premier-tone-designers-for-iphones/"><u>Optimal Assistance Premier Tone Designers for iPhones</u></a></li>
+<li><a href="https://win11.techidaily.com/quell-windows-update-activations/"><u>Quell Windows Update Activations</u></a></li>
 </ul></div>
 

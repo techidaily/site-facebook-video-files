@@ -1,7 +1,7 @@
 ---
 title: Effective Fixes for Persona 3 Extra Release Not Launching Properly
-date: 2024-12-10T16:36:36.614Z
-updated: 2024-12-16T16:52:01.118Z
+date: 2024-12-19T04:24:35.402Z
+updated: 2024-12-24T17:37:44.553Z
 tags:
   - win11
   - win10
@@ -28,10 +28,6 @@ thumbnail: https://thmb.techidaily.com/e46847f4d730c4e71d01b69ffbbf4867ec3238091
 * [Fix 5: Enable low spec mode](https://tools.techidaily.com/drivereasy/download/)
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: Make sure your PC meets meets the system requirements for League of Legends
 
@@ -64,10 +60,6 @@ thumbnail: https://thmb.techidaily.com/e46847f4d730c4e71d01b69ffbbf4867ec3238091
 
  If your PC meets the system requirement for League of Legends but the game crashing issue persists, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 2: Update your drivers
 
  A missing or outdated driver may also trigger the game crashing issue. If it’s the case, this issue can be easily resolved after you update your drivers.
@@ -97,12 +89,16 @@ thumbnail: https://thmb.techidaily.com/e46847f4d730c4e71d01b69ffbbf4867ec3238091
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-84.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact**Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Install the latest Windows Updates
 
@@ -116,11 +112,19 @@ thumbnail: https://thmb.techidaily.com/e46847f4d730c4e71d01b69ffbbf4867ec3238091
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-63-1024x796.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3) Wait until Windows downloaded and installed all the updates.
 
 4) Restart Windows and run League of Legends again.
 
  See if you can play the game without crashes. If so, you’ve fixed this issue! If not, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Repair corrupted game files
 
@@ -140,11 +144,11 @@ thumbnail: https://thmb.techidaily.com/e46847f4d730c4e71d01b69ffbbf4867ec3238091
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap780.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Run the game to see if you can play it without crashes. If not, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Enable low spec mode
 
@@ -157,10 +161,6 @@ thumbnail: https://thmb.techidaily.com/e46847f4d730c4e71d01b69ffbbf4867ec3238091
 2) In the upper-right corner, click**the gear button**  to open the game settings.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap777.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3)**Check the box** next to **Enable Low Spec Mode** and click **DONE** .
 
@@ -188,21 +188,24 @@ Run League of Legends to see if you resolved this issue.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-elevate-your-ads-performance-animation-strategies-for-success-for-2024/"><u>[New] Elevate Your Ad's Performance Animation Strategies for Success for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-streamlining-audio-capture-in-windows-11/"><u>[New] Streamlining Audio Capture in Windows 11</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-the-quietest-cool-memes-on-the-web/"><u>[New] The Quietest Cool Memes on the Web</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-how-to-find-videos-on-facebook-in-2024/"><u>[Updated] How to Find Videos on Facebook, In 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-unmatched-mp4-generation-from-facebook-clips/"><u>[Updated] In 2024, Unmatched MP4 Generation From Facebook Clips</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-mastering-movements-intova-xs-video-excellence/"><u>[Updated] Mastering Movements Intova X's Video Excellence</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-visual-vault-verifier-for-2024/"><u>[Updated] Visual Vault Verifier for 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/2023s-leading-facebook-film-extractors-top-picks-for-2024/"><u>2023'S Leading Facebook Film Extractors - Top Picks for 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/2024-approved-integrating-multimedia-elements-for-engaging-facebook-slideshows/"><u>2024 Approved Integrating Multimedia Elements for Engaging Facebook Slideshows</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-change-location-on-facebook-marketplace-for-apple-iphone-7-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, 3 Ways to Change Location on Facebook Marketplace for Apple iPhone 7 Plus | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-samsung-galaxy-a14-4g-by-phone-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Samsung Galaxy A14 4G by Phone Number | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-peek-into-pixel-play-resolution-basics-explained/"><u>In 2024, Peek Into Pixel Play Resolution Basics Explained</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-secrets-to-shooting-exceptional-micro-videos/"><u>In 2024, Secrets to Shooting Exceptional Micro Videos</u></a></li>
-<li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-vivo-y78plus-look-no-further-drfone-by-drfone-virtual-android/"><u>Looking For A Location Changer On Vivo Y78+? Look No Further | Dr.fone</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/2593904-9781785259906-su-horoscopo-chino-caballo/"><u>Su horóscopo chino. Caballo | Free Book</u></a></li>
-<li><a href="https://techidaily.com/things-you-dont-know-about-poco-f5-5g-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Poco F5 5G Reset Code | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-turning-tape-backwards-instagrams-video-trickery/"><u>[New] 2024 Approved Turning Tape Backwards Instagram's Video Trickery</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-explore-a-world-of-delicious-treats-top-rated-cookie-shops-for-2024/"><u>[New] Explore a World of Delicious Treats Top-Rated Cookie Shops for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-capture-your-audience-the-smartphone-guide-to-youtube-thumbnails/"><u>[Updated] 2024 Approved Capture Your Audience The Smartphone Guide to YouTube Thumbnails</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-best-practice-mp4-director-to-fb-for-2024/"><u>[Updated] Best Practice MP4 Director to FB for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-merge-soundtracks-and-cinematography-in-premiere-pro/"><u>[Updated] In 2024, Merge Soundtracks and Cinematography in Premiere Pro</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-navigating-streamed-content-a-comprehensive-breakdown/"><u>[Updated] In 2024, Navigating Streamed Content A Comprehensive Breakdown</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-myspace-profileshot-guide-size-codec-timing/"><u>[Updated] MySpace Profileshot Guide Size, Codec, Timing</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-non-playing-youtube-content-fixed-for-phonestablets/"><u>[Updated] Non-Playing YouTube Content Fixed for Phones/Tablets</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-streamlining-call-logs-the-4-step-guide-for-fb-calls/"><u>[Updated] Streamlining Call Logs The 4-Step Guide for FB Calls</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-unfollow-trail-on-the-social-giant-instagram/"><u>[Updated] Unfollow Trail on the Social Giant Instagram</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-21plus-puzzling-pictures-assemble-a-joyous-vision/"><u>2024 Approved 21+ Puzzling Pictures Assemble a Joyous Vision</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-digital-disappointment-unexpected-deletion/"><u>2024 Approved Digital Disappointment Unexpected Deletion</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-navigating-the-clouds-and-crowds-stream-from-dji-to-facebook/"><u>2024 Approved Navigating the Clouds and Crowds Stream From DJI to Facebook</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-premium-free-fb-photovideo-producer-package/"><u>2024 Approved Premium Free FB Photo/Video Producer Package</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/facebooks-most-impressive-new-additions-decoded-for-2024/"><u>Facebook's Most Impressive New Additions Decoded for 2024</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-how-to-perform-a-successful-streaming-on-twitch/"><u>New How To Perform a Successful Streaming on Twitch</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/revolutionizing-gaming-with-funimate/"><u>Revolutionizing Gaming with Funimate</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/the-art-of-advertising-making-money-on-the-worlds-social-network-for-2024/"><u>The Art of Advertising Making Money on the World's Social Network for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ultimate-guide-for-a-smart-4k-lens-upgrade-for-2024/"><u>The Ultimate Guide for a Smart 4K Lens Upgrade for 2024</u></a></li>
 </ul></div>
 
