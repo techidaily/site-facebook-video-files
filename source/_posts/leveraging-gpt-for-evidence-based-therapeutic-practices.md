@@ -1,7 +1,7 @@
 ---
 title: Leveraging GPT for Evidence-Based Therapeutic Practices
-date: 2024-12-20T09:40:32.687Z
-updated: 2024-12-25T03:58:33.886Z
+date: 2024-12-30T17:42:16.863Z
+updated: 2025-01-03T17:48:39.194Z
 tags:
   - chatgpt
   - open-ai
@@ -45,6 +45,10 @@ thumbnail: https://thmb.techidaily.com/162b2aac03e354d0551440e420920822fdecda676
 
  The more context you provide your AI tool, the better of a response you'll receive.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2 Ask for More Information After Getting an Initial Answer
 
  As you use tools like ChatGPT more frequently, you'll quickly learn that the first answer you get shouldn't always be taken as is. In the same way that you'd ask a person further questions to get more information out of them, you should do the same when prompting with AI.
@@ -54,7 +58,7 @@ thumbnail: https://thmb.techidaily.com/162b2aac03e354d0551440e420920822fdecda676
 ![An itinerary generated with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-13-06-24.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  However, I wanted to get further information that wasn't included. So, I asked for hotel recommendations within a customized budget:
@@ -62,14 +66,10 @@ thumbnail: https://thmb.techidaily.com/162b2aac03e354d0551440e420920822fdecda676
 ![An expanded answer with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-13-11-12.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  As a general rule of thumb, ask as many questions as you feel necessary to get all the information you're looking for. You may also want to determine[whether premium AI prompts are worth the money](https://www.makeuseof.com/should-you-buy-ai-prompts/) .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3 Explain What Hasn't Worked When You've Prompted in the Past
 
@@ -79,13 +79,13 @@ thumbnail: https://thmb.techidaily.com/162b2aac03e354d0551440e420920822fdecda676
 
  Besides mentioning what hasn't worked for you when prompting in the past, you may also wish to outline anything that has not worked with what you're trying to do. For example, if you're putting together a new workout regimen, you may want to talk about which foods you've noticed you have a negative reaction to before.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4 Don't Make Your AI Multitask
 
 ![chatgpt logo and message on smartphone feature](https://thmb.techidaily.com/7dd47039b908f15adfac56204ff22ad7becb8a002a35f04201c966ce7066b460.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Ascannio/[Shutterstock](https://www.shutterstock.com/image-photo/chatgpt-chat-bot-screen-seen-on-2237655785)
 
@@ -95,10 +95,6 @@ thumbnail: https://thmb.techidaily.com/162b2aac03e354d0551440e420920822fdecda676
 
  Once you've received one prompt's results, you can move on to the next one until you're happy with everything. Doing things this way might seem more time-consuming, but[single-tasking often improves productivity](https://www.makeuseof.com/master-single-tasking-using-technology-improve-productivity/) , and it's the same for your AI, too.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5 Tell Your AI Tool What You Don't Want in Your Answer
 
  Do you remember in our first point when we told you to be as specific as possible? This also means you should let your AI tool know what you don't want in your answers. While generative AI can produce some pretty cool results, it can't guess everything for you.
@@ -106,6 +102,10 @@ thumbnail: https://thmb.techidaily.com/162b2aac03e354d0551440e420920822fdecda676
  When designing your prompt, be very specific about what you don't want in your results. For example, if you're planning a trip, you may want to mention that you don't want to join tours or would prefer to avoid popular spots.
 
 ![Answer options from ChatGPT, based on what the user did and didn't want ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-13-38-46.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Sometimes, your AI tool will give you multiple options in your answers. You can then choose whichever one works best for you.
 
@@ -142,14 +142,19 @@ thumbnail: https://thmb.techidaily.com/162b2aac03e354d0551440e420920822fdecda676
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-a-2023-survival-guide-seeking-fb-videos-on-every-tab/"><u>[New] In 2024, A 2023 Survival Guide Seeking FB Videos on Every Tab</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-saving-facebook-gifs-on-computer-phone-and-tablet-for-2024/"><u>[New] Saving Facebook GIFs on Computer, Phone & Tablet for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-expert-insights-where-to-invest-in-youtube-creator-revenue-for-2024/"><u>[Updated] Expert Insights Where to Invest in YouTube Creator Revenue for 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-innovative-tech-for-your-instant-sharing-needs-on-facebook/"><u>[Updated] In 2024, Innovative Tech for Your Instant Sharing Needs on Facebook</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-strategies-to-fix-your-games-audio-issues-in-new-world/"><u>Expert Strategies to Fix Your Game's Audio Issues in New World</u></a></li>
-<li><a href="https://blog-min.techidaily.com/in-2024-how-to-teleport-your-gps-location-on-infinix-hot-40i-drfone-by-drfone-virtual-android/"><u>In 2024, How To Teleport Your GPS Location On Infinix Hot 40i? | Dr.fone</u></a></li>
-<li><a href="https://win-forum.techidaily.com/lock-down-your-files-easy-methods-for-protecting-text-documents-with-passwords/"><u>Lock Down Your Files: Easy Methods for Protecting Text Documents with Passwords</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/virtual-visage-creation-shaping-your-exaggerated-image-for-2024/"><u>Virtual Visage Creation Shaping Your Exaggerated Image for 2024</u></a></li>
-<li><a href="https://win-dash.techidaily.com/windows-10-webcam-troubles-learn-how-to-update-the-drivers-easily/"><u>Windows 10 Webcam Troubles? Learn How to Update the Drivers Easily!</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-transitioning-from-smartphone-to-watching-fb-videos-on-appletv/"><u>[New] In 2024, Transitioning From Smartphone to Watching FB Videos on AppleTV</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-crafting-effective-in-stream-ad-campaigns-on-facebook-a-comprehensive-guide/"><u>[Updated] Crafting Effective In-Stream Ad Campaigns on Facebook A Comprehensive Guide</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-how-to-quickly-craft-perfect-subtitles-and-captions-for-facebook-video-feeds/"><u>[Updated] How To Quickly Craft Perfect Subtitles and Captions for Facebook Video Feeds</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-lively-captions-how-to-add-motion-to-instagram-posts/"><u>[Updated] Lively Captions How to Add Motion to Instagram Posts</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-seeing-beyond-our-elite-rankings-of-camera-lenses-1-10-for-2024/"><u>[Updated] Seeing Beyond Our Elite Rankings of Camera Lenses #1-10 for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2023-12-methods-to-posted-facebook-videos-not-showing-up-for-2024/"><u>2023 | 12 Methods to Posted Facebook Videos Not Showing Up for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-best-practices-for-hash-tags-in-fb-marketing-campaigns/"><u>2024 Approved Best Practices for Hash Tags in FB Marketing Campaigns</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-ultimate-live-streaming-recorders-for-youtube-maestros/"><u>2024 Approved Ultimate Live Streaming Recorders for YouTube Maestros</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-methods-to-mirror-poco-x6-to-roku-drfone-by-drfone-android/"><u>3 Methods to Mirror Poco X6 to Roku | Dr.fone</u></a></li>
+<li><a href="https://fox-info.techidaily.com/becoming-an-srt-creation-virtuoso-a-complete-manual/"><u>Becoming an SRT Creation Virtuoso A Complete Manual</u></a></li>
+<li><a href="https://techidaily.com/recover-apple-iphone-xs-data-from-itunes-backup-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone XS Data From iTunes Backup | Dr.fone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/step-by-step-tutorial-for-total-system-refresh-in-windows-11-using-revo-uninstaller/"><u>Step-by-Step Tutorial for Total System Refresh in Windows 11 Using Revo Uninstaller</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/95782731-9781594778377-the-healing-energy-of-shared-consciousness/"><u>The Healing Energy of Shared Consciousness | Free Book</u></a></li>
+<li><a href="https://some-tips.techidaily.com/zdnet-coverage-australias-latest-cyber-defense-arsenal-for-small-and-medium-enterprises-revealed-through-comprehensive-guides/"><u>ZDNet Coverage: Australia's Latest Cyber Defense Arsenal for Small & Medium Enterprises Revealed Through Comprehensive Guides</u></a></li>
 </ul></div>
 

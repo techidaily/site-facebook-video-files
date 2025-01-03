@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Unraveling the Mysteries of FB Instream Ads Configuration & Evaluation\""
-date: 2024-07-14T00:40:37.600Z
-updated: 2024-07-15T00:40:37.600Z
+date: 2024-12-28T16:35:17.624Z
+updated: 2025-01-03T16:37:43.295Z
 tags:
   - ai video
   - ai facebook
@@ -123,9 +123,6 @@ Artists usually share their daily routines. They make videos of how they spend a
 
 The update of Facebook now allows content creators to monetize their content. With this update, more users and content creators can earn money from their videos, live streams, etc., whereas according to an old version, videos that were 3 minutes long were only monetized.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 4\. How to Create an Instream Ads?
 
 If you want to include **Facebook instream video ads** in your video, then it should meet the eligibility criteria. What if your video meets the criteria? Do you know what should be done next? Don't worry; we are here to guide you.
@@ -288,6 +285,10 @@ Artists usually share their daily routines. They make videos of how they spend a
 
 The update of Facebook now allows content creators to monetize their content. With this update, more users and content creators can earn money from their videos, live streams, etc., whereas according to an old version, videos that were 3 minutes long were only monetized.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 4\. How to Create an Instream Ads?
 
 If you want to include **Facebook instream video ads** in your video, then it should meet the eligibility criteria. What if your video meets the criteria? Do you know what should be done next? Don't worry; we are here to guide you.
@@ -376,6 +377,10 @@ Part 5: [How to Estimate the Results of Instream Ads?](#step5)
 
 ![types of fb instream ads](https://images.wondershare.com/filmora/article-images/2022/02/facebook-instream-ads-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 As we have mentioned, ads might appear before, during, or after the video. So hence, **FB instream ads** have various formats. Let us introduce them to you.
 
 **Pre-Roll Ads**
@@ -394,6 +399,10 @@ Some ads are displayed under the content. These ads are static and are known as 
 
 Lastly, the ads that play at the end of the video are known as Post-Roll Ads. These ads are mostly shown to those viewers who have not received any pre-roll, mid-roll, or image ad.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2\. Instream Ads for Live
 
 It is a common practice that Facebook Pages do live streams where they answer your question or do live chat. What you don’t know is that you can place **Facebook in-stream** **ads** before or during your live stream. Before you start the live session, you can select if you want to show or not show any ads. If you don't know how that's done, then follow the steps shared below.
@@ -402,13 +411,14 @@ It is a common practice that Facebook Pages do live streams where they answer yo
 
 ![access live producer](https://images.wondershare.com/filmora/article-images/2022/02/facebook-instream-ads-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2**: Next, for accessing the default in-stream ad settings of your Page, you need to click on the expand icon. The icon will be visible within the widget.
 
 **Step 3**: Now, in Creator Studio, click on the 'Monetization' tab. There, select 'Instream ads' and hit the option of 'Settings.' You can toggle on the option so that default ads are included.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![access the instream ads option](https://images.wondershare.com/filmora/article-images/2022/02/facebook-instream-ads-3.jpg)
 
 **Step 4**: Lastly, you can go live and enjoy because the **instream Facebook** ad settings are complete.
@@ -419,9 +429,6 @@ Once your live stream is complete, you can save the video to your Page. While sa
 
 There is one important thing that you should know. If you have turned off in-stream ads, then you cannot change the settings during the live session. Whereas, for mid-roll ads, you can toggle them on or off even during the broadcast.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 3\. FB Instream Ads for Artist
 
 With **FB instream ads,** you can earn money. Different types of content can be monetized through different Pages. If we talk about music Pages, do you know what type of content they can monetize? Let us increase your knowledge by sharing the different content types that music Pages can monetize.
@@ -433,6 +440,10 @@ You can record a video for a songwriting session and publish it afterward. Any s
 ### 2\. Artist Interview
 
 If two Artists interview each other or do a live session together, and the video is published on Facebook. Such content can also be used by music Pages to monetize.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Behind the Scene Footage
 
@@ -474,18 +485,23 @@ First of all, let us talk about how to add **FB in-stream ads** in new videos. W
 
 ![instream ads for new videos](https://images.wondershare.com/filmora/article-images/2022/02/facebook-instream-ads-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Include In-stream Ads in Existing Videos
 
 After including ads in new videos, it’s time to learn about including **Facebook in-stream** ads in already existing videos. This could be done by your ‘Monetization’ settings. Either you can bulk monetize, or else, when your Pages are onboard for instream ads, you can select to monetize automatically. In this way, all the eligible videos are monetized in one step that has been uploaded in the last 30 days.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![instream ads for old videos](https://images.wondershare.com/filmora/article-images/2022/02/facebook-instream-ads-6.jpg)
 
 ## Part 5\. How to Estimate the Results of Instream Ads?
 
 There are a few things that you need to look at for estimating the results of **Facebook instream ads**. You should have clear knowledge about Insights and Estimated Earnings. Let us discuss them with you.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Insights in Creator Studio
 
@@ -514,6 +530,10 @@ You get Insights from the videos you upload or the videos your share on your Fac
 **1 Minute Video Views**: This includes the total number of views on your video with ads within 1 minute or longer. 1-minute video view is important for monetization.
 
 **Monetizable View RPM**: This is referred to as the amount you earn when your video with instream ads is viewed for more than a minute every 1000 times.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Concluding Thoughts
 
@@ -625,6 +645,10 @@ The update of Facebook now allows content creators to monetize their content. Wi
 
 If you want to include **Facebook instream video ads** in your video, then it should meet the eligibility criteria. What if your video meets the criteria? Do you know what should be done next? Don't worry; we are here to guide you.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Use In-stream Ads in New Videos
 
 First of all, let us talk about how to add **FB in-stream ads** in new videos. We will be sharing the steps to set up the ad in Creator Studio.
@@ -664,6 +688,10 @@ After this, let us share with you Video Level insights and the factors that are 
 **Performance**: Any video that you share or cross-post on your Facebook Pages, you can view its performance from metrics.
 
 **Loyalty**: You can keep an eye on all your new followers when people are coming back to watch something or how often they are watching something.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Understand Estimated Earning
 
@@ -696,8 +724,6 @@ The article also sheds light on the type of content that music Pages can share. 
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -706,7 +732,22 @@ The article also sheds light on the type of content that music Pages can share. 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-enhance-info-blocks-templates-for-youtube-titles/"><u>[New] 2024 Approved Enhance Info Blocks Templates for YouTube Titles</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-how-do-i-explore-every-shared-piece-by-friends-on-messages/"><u>[New] 2024 Approved How Do I Explore Every Shared Piece by Friends on Messages?</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-creating-compelling-call-to-actions-utilizing-three-critical-copy-techniques/"><u>[New] In 2024, Creating Compelling Call-To-Actions Utilizing Three Critical Copy Techniques</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-syncing-your-browser-with-auto-play-feature-in-facebook-for-2024/"><u>[New] Syncing Your Browser with Auto-Play Feature in Facebook for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-3-copywriting-structure-for-facebook-ads/"><u>[Updated] 3 Copywriting Structure for Facebook Ads</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-adding-visual-time-indicators-to-your-youtube-links-for-2024/"><u>[Updated] Adding Visual Time Indicators to Your YouTube Links for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-elite-8-films-on-facebook-for-2024/"><u>[Updated] Elite 8 Films on Facebook for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-crafting-connection-tips-and-tricks-for-sharing-content-via-facebook/"><u>[Updated] In 2024, Crafting Connection Tips and Tricks for Sharing Content via Facebook</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-audiotest-review/"><u>2024 Approved AudioTest Review</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-expert-techniques-efficiently-crafting-compelling-subtitles-for-fb-video-content/"><u>2024 Approved Expert Techniques Efficiently Crafting Compelling Subtitles for FB Video Content</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/experience-premium-features-on-a-budget-deep-dive-into-insignias-alexa-and-ultra-hd-fire-tv-ns-43df710na19/"><u>Experience Premium Features on a Budget: Deep Dive Into Insignia's Alexa & Ultra HD Fire TV NS-43DF710NA19</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-latest-printer-driver-for-hp-deskjet-3755-all-in-one-on-windows-1087-free-download/"><u>Get the Latest Printer Driver for HP DeskJet 3755 All-in-One on Windows 10/8/7 - Free Download</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-samsung-galaxy-a23-5gwithwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Samsung Galaxy A23 5Gwith/without a PC</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-optimizing-your-in-stream-ad-strategy-on-facebooks-platform/"><u>In 2024, Optimizing Your In-Stream Ad Strategy on Facebook's Platform</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/microsoft-explores-ai-powered-chatbots-for-enhanced-xbox-customer-care-learn-the-mechanics/"><u>Microsoft Explores AI-Powered Chatbots for Enhanced Xbox Customer Care - Learn the Mechanics!</u></a></li>
+</ul></div>
 

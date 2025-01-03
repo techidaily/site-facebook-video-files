@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Tips: How to Correctly Fix Scanner Malfunctions"
-date: 2024-12-18T18:41:50.547Z
-updated: 2024-12-25T05:19:37.412Z
+date: 2024-12-28T17:03:13.299Z
+updated: 2025-01-03T18:10:20.075Z
 tags:
   - win11
   - win10
@@ -47,6 +47,10 @@ Trying to play**Madden 20** but**it keeps crashing** ? You’re certainly not al
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4) Restart your computer for the changes to take effect.
 
 5) Launch Madden 20 to see if the crashing problems have been resolved. If yes, then great! If the game still crashes, please move on to**Fix** 2, below.
@@ -83,16 +87,12 @@ Trying to play**Madden 20** but**it keeps crashing** ? You’re certainly not al
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-13.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Under the **System** tab and you can check the **Operating System**  and **Memory** information on your PC.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-526.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click the **Display** tab and you can check what **graphics card** your PC is using.
@@ -126,7 +126,7 @@ Here is how to do it:
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Install the latest game patch
@@ -136,10 +136,6 @@ Here is how to do it:
  If there is no patches available, or the patch fails to address the problem, then please try**Fix 4** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5: Reinstall Origin and Madden 20
 
@@ -152,12 +148,16 @@ Here are the steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-174.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) In the program list, locate **Origin** , then right-click on it and click**Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-175-1024x499.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Locate **Madden 20** and uninstall it too.
 
@@ -190,22 +190,15 @@ Here are the steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-tips-for-incorporating-songs-into-social-media-video-content/"><u>[New] 2024 Approved Tips for Incorporating Songs Into Social Media Video Content</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-unraveling-the-mysteries-of-fb-instream-ads-configuration-and-evaluation/"><u>[New] 2024 Approved Unraveling the Mysteries of FB Instream Ads Configuration & Evaluation</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-the-ultimate-guide-to-increasing-traffic-with-powerful-social-media-videos/"><u>[New] The Ultimate Guide to Increasing Traffic with Powerful Social Media Videos</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-creating-a-personal-brand-on-facebook/"><u>[Updated] 2024 Approved Creating a Personal Brand on Facebook</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-unlock-the-mystery-of-non-displaying-fb-posts-with-our-12-expert-steps-facebook/"><u>[Updated] 2024 Approved Unlock the Mystery of Non-Displaying FB Posts with Our 12 Expert Steps, Facebook</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-prime-8-film-grabs-from-fb-2023-edition/"><u>[Updated] In 2024, Prime 8 Film Grabs From FB 2023 Edition</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-tailoring-thumbnails-for-maximum-youtube-impact/"><u>[Updated] Tailoring Thumbnails for Maximum YouTube Impact</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/2024-approved-step-by-step-techniques-for-sharing-videos-on-instagram/"><u>2024 Approved Step-by-Step Techniques for Sharing Videos on Instagram</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/baldurs-gate-3-performance-optimization-fixing-high-cpu-issues-latest-techniques/"><u>Baldur's Gate 3 Performance Optimization: Fixing High CPU Issues - Latest Techniques</u></a></li>
-<li><a href="https://article-posts.techidaily.com/delving-deep-into-affordable-high-quality-lut-landscapes-for-2024/"><u>Delving Deep Into Affordable High-Quality LUT Landscapes for 2024</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/empower-your-video-creation-blending-youtube-and-imovie-for-impressive-results/"><u>Empower Your Video Creation Blending YouTube and iMovie for Impressive Results</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/essential-leaderboard-scratcher-youtube-trending-analysis/"><u>Essential Leaderboard Scratcher YouTube Trending Analysis</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/free-your-feed-beating-fbs-vids/"><u>Free Your Feed Beating FB's Vids</u></a></li>
-<li><a href="https://win-lab.techidaily.com/how-to-effortlessly-copy-multiple-drive-sections-onto-an-ssd-with-step-by-step-instructions/"><u>How to Effortlessly Copy Multiple Drive Sections Onto an SSD with Step-by-Step Instructions</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/24-ready-yourself-for-youtube-video-production-finalcut-pro-techniques/"><u>In 2024, Ready Yourself for YouTube Video Production - FinalCut Pro Techniques</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723211840975-solving-your-pdf-printing-issues-in-seconds/"><u>Solving Your PDF Printing Issues in Seconds!</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-battle-of-titans-how-gpt-stands-against-bert-in-ai-language-modeling/"><u>The Battle of Titans: How GPT Stands Against BERT in AI Language Modeling</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-facebook-fiasco-getting-back-to-social-networking/"><u>[Updated] 2024 Approved Facebook Fiasco? Getting Back to Social Networking</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-exposing-the-invisible-voices-of-yt-community/"><u>[Updated] Exposing the Invisible Voices of YT Community</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-how-to-download-hd-facebook-videos/"><u>[Updated] How to Download HD Facebook Videos?</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-fb-flicks-grabber-tool/"><u>[Updated] In 2024, FB Flicks Grabber Tool</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-innovative-broadcasting-leveraging-monitor-screens-in-live-fb-streams/"><u>[Updated] In 2024, Innovative Broadcasting Leveraging Monitor Screens in Live Fb Streams</u></a></li>
+<li><a href="https://win-brilliant.techidaily.com/20233/"><u>2023年流行的3種保存和重置垃圾篋技巧：最新教學指南</u></a></li>
+<li><a href="https://win-dash.techidaily.com/hp-laserjet-pro-mfp-m127fn-driver-download-best-practices-and-tips/"><u>HP LaserJet Pro MFP M127FN Driver Download: Best Practices and Tips</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-from-novice-to-pro-steps-for-social-success/"><u>In 2024, From Novice to Pro Steps for Social Success</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/samsung-galaxy-note-9-the-definitive-guide-to-choosing-the-best-large-screen-phone-on-the-market/"><u>Samsung Galaxy Note 9 - The Definitive Guide to Choosing the Best Large Screen Phone on the Market</u></a></li>
+<li><a href="https://media-tips.techidaily.com/seamless-media-sharing-airplay-on-macos-monterey/"><u>Seamless Media Sharing: AirPlay on macOS Monterey</u></a></li>
 </ul></div>
 

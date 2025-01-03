@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Fix for Persistent Microsoft Edge Crashing on New Windows 11 Devices
-date: 2024-12-23T19:38:22.769Z
-updated: 2024-12-25T08:05:15.594Z
+date: 2024-12-29T16:32:39.050Z
+updated: 2025-01-03T18:44:16.846Z
 tags:
   - win11
   - win10
@@ -30,6 +30,10 @@ Recently, we’ve seen many players reporting that**Dirt 5 keeps crashing** on t
 5. **[Set launch options on Steam](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Stop overclocking](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 1: Update your graphics driver
 
 The outdated or broken graphics driver often crashes the game.
@@ -53,6 +57,10 @@ The outdated or broken graphics driver often crashes the game.
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 4. Restart your PC after you finished updating your graphics driver.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  See if the latest graphics driver stops the Dirt 5 from crashing. If not, don’t worry. Try the next fix, below.
 
 ## Fix 2: Verify the game files
@@ -65,15 +73,7 @@ The outdated or broken graphics driver often crashes the game.
 
 ![LOCAL FILES>VERIFY INTEGRITY OF GAME CACHE...](https://images.drivereasy.com/wp-content/uploads/2019/04/image-120.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  It may take some time to finish verifying the game files. Launch the game after the verifying process completed to see if this fix works. If not, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 3: Install the latest game patch
 
@@ -91,16 +91,16 @@ The outdated or broken graphics driver often crashes the game.
 ![Steam->properties](https://images.drivereasy.com/wp-content/uploads/2019/04/image-122.png)
 2. Uncheck**Enable Steam Overlay while in-game** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Disable Steam Overlay](https://images.drivereasy.com/wp-content/uploads/2021/04/Disable-Steam-Overlay.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Launch Dirt 5 to see if the game crashes. If the issue persists, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 5: Set launch options on Steam
@@ -112,13 +112,13 @@ The outdated or broken graphics driver often crashes the game.
 ![Steam set launch options](https://images.drivereasy.com/wp-content/uploads/2021/04/Modify-Steam-set-launch-options.jpg)
 3. Copy and paste the commands below and click **OK** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 `-useallavailablecores -high`
 
  Launch the game to see if it crashes again. If it still crashes, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 6: Stop overclocking
 
@@ -150,17 +150,20 @@ The outdated or broken graphics driver often crashes the game.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-optimal-budget-free-fb-picturemotion-designer/"><u>[New] In 2024, Optimal Budget-Free FB Picture/Motion Designer</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-pinterest-avatar-recording-resolution-frame-rate-length/"><u>[New] Pinterest Avatar Recording Resolution, Frame Rate, Length</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-group-gallery-gatherer-for-2024/"><u>[Updated] Group Gallery Gatherer for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-high-speed-windows-photo-explorer-tool/"><u>[Updated] High-Speed Window's Photo Explorer Tool</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/2024-approved-for-the-tech-sleuth-dissecting-the-best-top-10-fb-videos-downloaders/"><u>2024 Approved For the Tech Sleuth Dissecting the Best Top 10 FB Videos Downloaders</u></a></li>
-<li><a href="https://program-issues.techidaily.com/a-players-manual-to-overcome-graphics-hiccups-and-improve-flow-in-aoe-4-gaming/"><u>A Player's Manual to Overcome Graphics Hiccups and Improve Flow in AoE 4 Gaming</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/from-basics-to-advanced-selecting-premium-components-with-toms-hardware-guidance/"><u>From Basics to Advanced: Selecting Premium Components with Tom's Hardware Guidance</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-pinpoint-and-eliminate-android-video-glitches/"><u>In 2024, Pinpoint & Eliminate Android Video Glitches</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/interpreting-the-significance-of-blue-emojis-on-messenger-for-2024/"><u>Interpreting the Significance of Blue Emojis on Messenger for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/snapchats-my-ai-or-chatgpt-a-comparative-guide-to-select-the-best-for-you/"><u>Snapchat’s My AI or ChatGPT? A Comparative Guide to Select the Best for You</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/the-essentials-of-expertly-editing-images-at-home/"><u>The Essentials of Expertly Editing Images at Home</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-save-on-filmora-expert-tips-to-find-working-coupon-codes-for-2024/"><u>Updated Save on Filmora Expert Tips to Find Working Coupon Codes for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-proven-screenshot-solutions-for-the-cost-conscious-techie/"><u>[New] 2024 Approved Proven Screenshot Solutions for the Cost-Conscious Techie</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-a-step-by-step-process-to-upgrade-and-update-video-covers-on-social-media/"><u>[New] In 2024, A Step-by-Step Process to Upgrade and Update Video Covers on Social Media</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-reclaim-your-vanished-youtube-success-with-these-key-12-steps-for-fb-2023/"><u>[New] In 2024, Reclaim Your Vanished YouTube Success with These Key 12 Steps for FB, 2023</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-innovation-in-action-reviewing-vidmas-new-screen-recording-features-for-2024/"><u>[New] Innovation in Action? Reviewing Vidma's New Screen Recording Features for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-unveiling-history-watching-older-facebook-content-on-your-device-for-2024/"><u>[New] Unveiling History Watching Older Facebook Content on Your Device for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-convert-avi-videos-into-high-impact-gifs-using-filmora-for-windowsmacos/"><u>[Updated] Convert AVI Videos Into High Impact GIFs Using Filmora for Windows/MacOS</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-unleashing-creativity-crafting-compelling-fb-video-campaigns/"><u>[Updated] In 2024, Unleashing Creativity Crafting Compelling FB Video Campaigns</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-the-secret-to-stability-overcoming-handheld-videography-challenges/"><u>[Updated] The Secret to Stability Overcoming Handheld Videography Challenges</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-perfecting-profile-playlists-on-facebook-through-mobile/"><u>2024 Approved Perfecting Profile Playlists on Facebook Through Mobile</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/five-premier-extensions-to-hoard-fb-videos/"><u>Five Premier Extensions to Hoard FB Videos</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-get-your-uncooperative-usb-mouse-back-on-track-with-these-fixes/"><u>How to Get Your Uncooperative USB Mouse Back on Track with These Fixes!</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-android-deluxe-playtime-top-gb-games-on-your-phone/"><u>In 2024, Android Deluxe Playtime Top GB Games on Your Phone</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-tailored-approach-boosting-fans-via-page-ranking/"><u>In 2024, Tailored Approach Boosting Fans via Page Ranking</u></a></li>
+<li><a href="https://article-posts.techidaily.com/stunning-iphone-portraits-through-water-imagery-techniques/"><u>Stunning iPhone Portraits Through Water Imagery Techniques</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/top-rated-microphone-software-optimized-for-macos-users/"><u>Top-Rated Microphone Software Optimized for macOS Users</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"Inventory  Types of FB Video Ratios for 2024\""
-date: 2024-11-17T18:53:02.326Z
-updated: 2024-11-24T17:19:32.534Z
+date: 2024-12-27T18:11:15.899Z
+updated: 2025-01-03T16:04:16.589Z
 tags:
   - ai video
   - ai facebook
@@ -65,558 +65,6 @@ Use MP4, MOV, or GIF format, with a maximum 4GB file and 241 min length.
 
 ![Facebook Article Videos](https://images.wondershare.com/filmora/article-images/2021/fb-aspect-ratio-3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-**●** Resolution: at least 1080 x 1080 px
-
-**●** Video Ratio: 9:16 to 16:9
-
-**●** Video File Size: 4GB max
-
-**●** Minimum Video Length: 1 second
-
-**●** Maximum Video Length: 240 minutes
-
-### 3\. Facebook In-Stream Videos
-
-![Facebook In-Stream Videos](https://images.wondershare.com/filmora/article-images/2021/fb-aspect-ratio-4.jpg)
-
-**●** Resolution: at least 1080 x 1080 px
-
-**●** Recommended Video Ratio: 16:9 or 1:1 (but supports from 9:16 to 9:16)
-
-**●** Video File Size: 4GB max
-
-**●** Minimum Video Length: 5 seconds
-
-**●** Maximum Video Length: 10 minutes (limit varies based on objective)
-
-### 4\. Facebook Marketplace Video Ads
-
-![Facebook Marketplace Video Ads](https://images.wondershare.com/filmora/article-images/2021/fb-aspect-ratio-5.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-**●** Recommended: Highest resolution available (at least 1080 x 1080 px)
-
-**●** Video Ratio: 4:5 (but 9:16 to 16:9 is supported)
-
-**●** Video File Size: 4GB max
-
-**●** Minimum Video Length: 1 second
-
-**●** Maximum Video Length: 240 minutes
-
-### 5\. Facebook Stories Ads
-
-![Facebook Stories Ads](https://images.wondershare.com/filmora/article-images/2021/fb-aspect-ratio-6.jpg)
-
-**●** Recommended: Highest resolution available (at least 1080 x 1080 px)
-
-**●** Video Ratio: 9:16 (1.91 to 9:16 supported)
-
-**●** Video File Size: 4GB max
-
-**●** Maximum Video Length: 2 minutes
-
-### 6\. Facebook Video Feeds
-
-![Facebook Video Feeds](https://images.wondershare.com/filmora/article-images/2021/fb-aspect-ratio-7.jpg)
-
-Facebook video feeds and in-stream videos are different. Also, there is a difference between video feeds and newsfeed videos. When you click a video in your feed, it will open up in a video player with some other video feeds.
-
-**●** Recommended: Highest resolution available (at least 1080 x 1080 px)
-
-**●** Video Ratio: 4:5 (16:9 to 9:16 supported)
-
-**●** Video File Size: 4GB max
-
-**●** Minimum Video Length: 1 second
-
-**●** Maximum Video Length: 240 minutes
-
-## Part 2 What is the Best Video Size for Facebook?
-
-The right Facebook video size can make or break your post’s success. Below are some best videos sizes for Facebook:
-
-![Facebook Content Size](https://images.wondershare.com/filmora/article-images/2021/fb-aspect-ratio-8.jpg)
-
-Facebook videos are pretty flexible, and you can upload them in square, horizontal, or vertical aspect ratios.
-
-![Facebook Video Posts Size](https://images.wondershare.com/filmora/article-images/2021/fb-aspect-ratio-9.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-Use a mobile-first approach for optimal viewing. For a streamlined and enjoyable experience on a smartphone for the audience, choose the 9:16 aspect ratio.
-
-For square videos, the 1:1 is the best aspect ratio and for horizontal videos, select the 16:9 aspect ratio.
-
-**●** Supported Ratios: 1.91:1 to 4:5
-
-**●** Recommended Ratio: 4:5
-
-**●** Recommended Size: 1080px x 1350px
-
-**●** Maximum Length: 240 minutes
-
-**●** Minimum Video Length: 1 second
-
-**●** Video File Size: 4GB max
-
-## Part 3 How to Adjust your Facebook Video in Proper Aspect Ratios?
-
-Videos are powerful in the case of marketing, and they reach large audiences all over the globe. Moreover, marketers have to optimise the videos as per specifications. Aspect ratio is most important to make sure that videos fit Facebook and look best.
-
-You might have seen that different social media platforms need various aspect ratios. Unfortunately, editing these videos is a time-consuming task. Luckily, there are several cost-effective tools to adjust videos.
-
-### 1\. Wondershars Filmora Video Editor
-
-Wondershare Filmora is a reliable and cost-effective tool that can help you to adjust the video aspect ratio easily. It comes with drop and drag effects, audio, templates, soundtracks, filters, and other options.
-
-You will access various features, such as split-screen, green screen, motion tracking, etc. For example, the keyframing feature lets you include custom animations, while motion tracking helps you track objects.
-
-Then, the color matching feature enables you to copy the color settings of one video and apply them to another clip. You can even assign hotkeys shortcuts for various tools to save your time.
-
-#### Wondershare Filmora
-
-Get started easily with Filmora's powerful performance, intuitive interface, and countless effects!
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More about Filmora>](https://tools.techidaily.com/wondershare/filmora/download/)
-
-![download](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
-
-Some other features are:
-
-**●** Speed control
-
-**●** Color grading
-
-**●** Upload videos directly on social media by Filmora
-
-![Upload on Social Media](https://images.wondershare.com/filmora/article-images/2021/fb-aspect-ratio-10.jpg)
-
-**●** Experience fast editing
-
-**●** Keyboards shortcuts
-
-The following are different methods to adjust the aspect ratio in Wondershare Filmora:
-
-#### Method 1: Adjust Aspect Ratio at the Starting Interface
-
-Wondershare Filmora helps you to adjust the video aspect ratio once you launch the editor program. To begin, go to the "drop-down" menu button. Now, press on it to check some commonly used photo ratios such as 16:9, 1:1, 4:3, 9:16, or 21:9.
-
-Choose the ratio that you want by simply clicking on it.
-
-![Starting Interface](https://images.wondershare.com/filmora/article-images/change-aspect-ratio-at-filmora-start-interface.jpg)
-
-#### Method 2: Adjust Aspect Ratio under Project Settings
-
-#### Wondershare Filmora
-
-Get started easily with Filmora's powerful performance, intuitive interface, and countless effects!
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More about Filmora>](https://tools.techidaily.com/wondershare/filmora/download/)
-
-![download](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
-
-You can adjust the aspect ratio by clicking on the "Project Settings." Then, decide the target aspect ratio depending on the aspect ratio of the media source.
-
-![Project Settings](https://images.wondershare.com/filmora/article-images/filmora-project-settings-window.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-#### Method 3: Adjust Aspect Ratio during Editing
-
-Once you import the videos into the timeline of the Wondershare Filmora, you can easily adjust the ratio from the Crop and Zoom tool.
-
-**●** Go to timeline and right-click on the video clip. Then, select "Crop and Zoom." You will see the pop-up window.
-
-**●** Click on 16:9, 4:3, 1:1, or 9:16 manually at the bottom to change the video aspect ratio.
-
-**●** You can also manually enter the video aspect ratio. Then, click on the "Ok" button.
-
-![Crop and Zoom Tool](https://images.wondershare.com/filmora/article-images/crop-zoom-interface.jpg)
-
-Once you make the adjustments in the aspect ratio, add background blur effects if you notice a black bar.
-
-![Video Enhancing](https://images.wondershare.com/filmora/article-images/background-blur-changing-aspect-ratio.jpg)
-
-#### Method 4: Adjust Video Aspect Ratio with Auto-Reframe
-
-If you use the latest versions of Filmora, you will see Auto Reframe helps adjust the aspect ratio. Other than cropping, it will find the object in clips and crop it automatically if needed.
-
-##### Step1
-
-Once you upload the video clips to the media library, right-click on it and select the Auto-Reframe option.
-
-![Choose Auto-Reframe option](https://images.wondershare.com/filmora/article-images/convert-vertical-to-horizontal-auto-reframe-option.jpg)
-
-##### Step2
-
-You will see the Auto Reframe window appear on the screen. Replace the existing video with a new clip. Then, change the video aspect ratio and video motion speed.
-
-![Select the Aspect Ratio](https://images.wondershare.com/filmora/article-images/change-video-aspect-ratio-filmora-auto-reframe.jpg)
-
-##### Step3
-
-Once you select the aspect ratio, click on the "Analyze" button. Filmora will Auto-Reframe the video itself. Once the process completes, you can see results in the preview window.
-
-![Drag Box](https://images.wondershare.com/filmora/article-images/adjust-frame-box-auto-reframe.jpg)
-
-##### Step4
-
-After completing adjustment or reframing, click on the "Export" button to save your video. Change the name of the video and select the location where you want to save the video. Now, click on the "Export" again to save.
-
-![Click Export Button](https://images.wondershare.com/filmora/article-images/auto-reframe-save-video.jpg)
-
-#### Method 5: Adjust Aspect Ratio at Exporting
-
-You can save the clip to your system or smartphones, depending on your requirements. Then, upload them directly to Youtube or burn them into DVD by clicking on the "Export button." In this way, you can watch it on widescreen or standard TV whenever you want.
-
-![Upload or Burn by Clicking on Export Button](https://images.wondershare.com/filmora/article-images/output-format.jpg)
-
-### 2\. Animaker
-
-![Animaker](https://images.wondershare.com/filmora/article-images/2021/fb-aspect-ratio-11.jpg)
-
-Animaker video resizer is an easy and reliable tool that quickly changes or resizes the video aspect ratio. Moreover, it lets you download some watermark-free videos. It helps you to make a video that perfectly fit the required dimensions.
-
-Animaker’s video editing suite offers tools that you can use to edit videos online. Moreover, you can work on it even if you don’t have video editing experience.
-
-This software has been created explicitly for marketers, non-designers, or anyone who wants to edit social media or web videos.
-
-### 3\. VEED.IO
-
-![VEED.IO](https://images.wondershare.com/filmora/article-images/2021/fb-aspect-ratio-12.jpg)
-
-VEED is a great software that offers subtitling, effect/text encoding, editing, and other features. This tool allows you to use some incredible video effects, brightness, color grading, rotate your videos, exposure, and more.
-
-So, it is all-in-one editing tool that can make the video adjustment process easy.
-
-## Conclusion
-
-**●** Hopefully, the above mentioned tips and tools allow you to adjust the Facebook video ratio quickly and efficiently. In addition, it will enable you to enhance the video quality.
-
-02 [What is the Best Video Size for Facebook?](#Part 2)
-
-03 [How to Adjust your Facebook Video in Proper Aspect Ratios?](#Part 3)
-
-## Part 1 Types of Facebook Video Aspect Ratios
-
-When you talk about videos, Facebook always recommends to upload videos with square (1:1) or vertical (9:16, 4:5, and 16:9) aspect ratios. As a result, it increases the compatibility on mobile and desktop screens.
-
-Facebook also suggests you upload short videos (15 seconds or less) and design videos that work both without and with sound. It would be best if you enable the captions. For the best results, choose the following specifications for videos:
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-### 1\. Facebook Feed Videos
-
-![Facebook Feed Videos](https://images.wondershare.com/filmora/article-images/2021/fb-aspect-ratio-1.jpg)
-
-**●** Minimum Width: 120 px
-
-**●** Minimum Height: 120 px
-
-**●** Resolution: at least 1080 x 1080 px
-
-**●** Video Ratio: 4:5
-
-**●** Video File Size: 4GB max
-
-**●** Minimum Video Length: 1 second
-
-**●** Maximum Video Length: 241 minutes
-
-For video ads, Facebook suggests you to upload the video with the highest resolution source available without pillar or letter boxing. Facebook gives the aspect ratios list and provides features available for every type of ad.
-
-![Facebook Aspect Ratios](https://images.wondershare.com/filmora/article-images/2021/fb-aspect-ratio-2.jpg)
-
-Use MP4, MOV, or GIF format, with a maximum 4GB file and 241 min length.
-
-### 2\. Facebook Article Videos
-
-![Facebook Article Videos](https://images.wondershare.com/filmora/article-images/2021/fb-aspect-ratio-3.jpg)
-
-**●** Resolution: at least 1080 x 1080 px
-
-**●** Video Ratio: 9:16 to 16:9
-
-**●** Video File Size: 4GB max
-
-**●** Minimum Video Length: 1 second
-
-**●** Maximum Video Length: 240 minutes
-
-### 3\. Facebook In-Stream Videos
-
-![Facebook In-Stream Videos](https://images.wondershare.com/filmora/article-images/2021/fb-aspect-ratio-4.jpg)
-
-**●** Resolution: at least 1080 x 1080 px
-
-**●** Recommended Video Ratio: 16:9 or 1:1 (but supports from 9:16 to 9:16)
-
-**●** Video File Size: 4GB max
-
-**●** Minimum Video Length: 5 seconds
-
-**●** Maximum Video Length: 10 minutes (limit varies based on objective)
-
-### 4\. Facebook Marketplace Video Ads
-
-![Facebook Marketplace Video Ads](https://images.wondershare.com/filmora/article-images/2021/fb-aspect-ratio-5.jpg)
-
-**●** Recommended: Highest resolution available (at least 1080 x 1080 px)
-
-**●** Video Ratio: 4:5 (but 9:16 to 16:9 is supported)
-
-**●** Video File Size: 4GB max
-
-**●** Minimum Video Length: 1 second
-
-**●** Maximum Video Length: 240 minutes
-
-### 5\. Facebook Stories Ads
-
-![Facebook Stories Ads](https://images.wondershare.com/filmora/article-images/2021/fb-aspect-ratio-6.jpg)
-
-**●** Recommended: Highest resolution available (at least 1080 x 1080 px)
-
-**●** Video Ratio: 9:16 (1.91 to 9:16 supported)
-
-**●** Video File Size: 4GB max
-
-**●** Maximum Video Length: 2 minutes
-
-### 6\. Facebook Video Feeds
-
-![Facebook Video Feeds](https://images.wondershare.com/filmora/article-images/2021/fb-aspect-ratio-7.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-Facebook video feeds and in-stream videos are different. Also, there is a difference between video feeds and newsfeed videos. When you click a video in your feed, it will open up in a video player with some other video feeds.
-
-**●** Recommended: Highest resolution available (at least 1080 x 1080 px)
-
-**●** Video Ratio: 4:5 (16:9 to 9:16 supported)
-
-**●** Video File Size: 4GB max
-
-**●** Minimum Video Length: 1 second
-
-**●** Maximum Video Length: 240 minutes
-
-## Part 2 What is the Best Video Size for Facebook?
-
-The right Facebook video size can make or break your post’s success. Below are some best videos sizes for Facebook:
-
-![Facebook Content Size](https://images.wondershare.com/filmora/article-images/2021/fb-aspect-ratio-8.jpg)
-
-Facebook videos are pretty flexible, and you can upload them in square, horizontal, or vertical aspect ratios.
-
-![Facebook Video Posts Size](https://images.wondershare.com/filmora/article-images/2021/fb-aspect-ratio-9.jpg)
-
-Use a mobile-first approach for optimal viewing. For a streamlined and enjoyable experience on a smartphone for the audience, choose the 9:16 aspect ratio.
-
-For square videos, the 1:1 is the best aspect ratio and for horizontal videos, select the 16:9 aspect ratio.
-
-**●** Supported Ratios: 1.91:1 to 4:5
-
-**●** Recommended Ratio: 4:5
-
-**●** Recommended Size: 1080px x 1350px
-
-**●** Maximum Length: 240 minutes
-
-**●** Minimum Video Length: 1 second
-
-**●** Video File Size: 4GB max
-
-## Part 3 How to Adjust your Facebook Video in Proper Aspect Ratios?
-
-Videos are powerful in the case of marketing, and they reach large audiences all over the globe. Moreover, marketers have to optimise the videos as per specifications. Aspect ratio is most important to make sure that videos fit Facebook and look best.
-
-You might have seen that different social media platforms need various aspect ratios. Unfortunately, editing these videos is a time-consuming task. Luckily, there are several cost-effective tools to adjust videos.
-
-### 1\. Wondershars Filmora Video Editor
-
-Wondershare Filmora is a reliable and cost-effective tool that can help you to adjust the video aspect ratio easily. It comes with drop and drag effects, audio, templates, soundtracks, filters, and other options.
-
-You will access various features, such as split-screen, green screen, motion tracking, etc. For example, the keyframing feature lets you include custom animations, while motion tracking helps you track objects.
-
-Then, the color matching feature enables you to copy the color settings of one video and apply them to another clip. You can even assign hotkeys shortcuts for various tools to save your time.
-
-#### Wondershare Filmora
-
-Get started easily with Filmora's powerful performance, intuitive interface, and countless effects!
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More about Filmora>](https://tools.techidaily.com/wondershare/filmora/download/)
-
-![download](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
-
-Some other features are:
-
-**●** Speed control
-
-**●** Color grading
-
-**●** Upload videos directly on social media by Filmora
-
-![Upload on Social Media](https://images.wondershare.com/filmora/article-images/2021/fb-aspect-ratio-10.jpg)
-
-**●** Experience fast editing
-
-**●** Keyboards shortcuts
-
-The following are different methods to adjust the aspect ratio in Wondershare Filmora:
-
-#### Method 1: Adjust Aspect Ratio at the Starting Interface
-
-Wondershare Filmora helps you to adjust the video aspect ratio once you launch the editor program. To begin, go to the "drop-down" menu button. Now, press on it to check some commonly used photo ratios such as 16:9, 1:1, 4:3, 9:16, or 21:9.
-
-Choose the ratio that you want by simply clicking on it.
-
-![Starting Interface](https://images.wondershare.com/filmora/article-images/change-aspect-ratio-at-filmora-start-interface.jpg)
-
-#### Method 2: Adjust Aspect Ratio under Project Settings
-
-#### Wondershare Filmora
-
-Get started easily with Filmora's powerful performance, intuitive interface, and countless effects!
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More about Filmora>](https://tools.techidaily.com/wondershare/filmora/download/)
-
-![download](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
-
-You can adjust the aspect ratio by clicking on the "Project Settings." Then, decide the target aspect ratio depending on the aspect ratio of the media source.
-
-![Project Settings](https://images.wondershare.com/filmora/article-images/filmora-project-settings-window.jpg)
-
-#### Method 3: Adjust Aspect Ratio during Editing
-
-Once you import the videos into the timeline of the Wondershare Filmora, you can easily adjust the ratio from the Crop and Zoom tool.
-
-**●** Go to timeline and right-click on the video clip. Then, select "Crop and Zoom." You will see the pop-up window.
-
-**●** Click on 16:9, 4:3, 1:1, or 9:16 manually at the bottom to change the video aspect ratio.
-
-**●** You can also manually enter the video aspect ratio. Then, click on the "Ok" button.
-
-![Crop and Zoom Tool](https://images.wondershare.com/filmora/article-images/crop-zoom-interface.jpg)
-
-Once you make the adjustments in the aspect ratio, add background blur effects if you notice a black bar.
-
-![Video Enhancing](https://images.wondershare.com/filmora/article-images/background-blur-changing-aspect-ratio.jpg)
-
-#### Method 4: Adjust Video Aspect Ratio with Auto-Reframe
-
-If you use the latest versions of Filmora, you will see Auto Reframe helps adjust the aspect ratio. Other than cropping, it will find the object in clips and crop it automatically if needed.
-
-##### Step1
-
-Once you upload the video clips to the media library, right-click on it and select the Auto-Reframe option.
-
-![Choose Auto-Reframe option](https://images.wondershare.com/filmora/article-images/convert-vertical-to-horizontal-auto-reframe-option.jpg)
-
-##### Step2
-
-You will see the Auto Reframe window appear on the screen. Replace the existing video with a new clip. Then, change the video aspect ratio and video motion speed.
-
-![Select the Aspect Ratio](https://images.wondershare.com/filmora/article-images/change-video-aspect-ratio-filmora-auto-reframe.jpg)
-
-##### Step3
-
-Once you select the aspect ratio, click on the "Analyze" button. Filmora will Auto-Reframe the video itself. Once the process completes, you can see results in the preview window.
-
-![Drag Box](https://images.wondershare.com/filmora/article-images/adjust-frame-box-auto-reframe.jpg)
-
-##### Step4
-
-After completing adjustment or reframing, click on the "Export" button to save your video. Change the name of the video and select the location where you want to save the video. Now, click on the "Export" again to save.
-
-![Click Export Button](https://images.wondershare.com/filmora/article-images/auto-reframe-save-video.jpg)
-
-#### Method 5: Adjust Aspect Ratio at Exporting
-
-You can save the clip to your system or smartphones, depending on your requirements. Then, upload them directly to Youtube or burn them into DVD by clicking on the "Export button." In this way, you can watch it on widescreen or standard TV whenever you want.
-
-![Upload or Burn by Clicking on Export Button](https://images.wondershare.com/filmora/article-images/output-format.jpg)
-
-### 2\. Animaker
-
-![Animaker](https://images.wondershare.com/filmora/article-images/2021/fb-aspect-ratio-11.jpg)
-
-Animaker video resizer is an easy and reliable tool that quickly changes or resizes the video aspect ratio. Moreover, it lets you download some watermark-free videos. It helps you to make a video that perfectly fit the required dimensions.
-
-Animaker’s video editing suite offers tools that you can use to edit videos online. Moreover, you can work on it even if you don’t have video editing experience.
-
-This software has been created explicitly for marketers, non-designers, or anyone who wants to edit social media or web videos.
-
-### 3\. VEED.IO
-
-![VEED.IO](https://images.wondershare.com/filmora/article-images/2021/fb-aspect-ratio-12.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-VEED is a great software that offers subtitling, effect/text encoding, editing, and other features. This tool allows you to use some incredible video effects, brightness, color grading, rotate your videos, exposure, and more.
-
-So, it is all-in-one editing tool that can make the video adjustment process easy.
-
-## Conclusion
-
-**●** Hopefully, the above mentioned tips and tools allow you to adjust the Facebook video ratio quickly and efficiently. In addition, it will enable you to enhance the video quality.
-
-02 [What is the Best Video Size for Facebook?](#Part 2)
-
-03 [How to Adjust your Facebook Video in Proper Aspect Ratios?](#Part 3)
-
-## Part 1 Types of Facebook Video Aspect Ratios
-
-When you talk about videos, Facebook always recommends to upload videos with square (1:1) or vertical (9:16, 4:5, and 16:9) aspect ratios. As a result, it increases the compatibility on mobile and desktop screens.
-
-Facebook also suggests you upload short videos (15 seconds or less) and design videos that work both without and with sound. It would be best if you enable the captions. For the best results, choose the following specifications for videos:
-
-### 1\. Facebook Feed Videos
-
-![Facebook Feed Videos](https://images.wondershare.com/filmora/article-images/2021/fb-aspect-ratio-1.jpg)
-
-**●** Minimum Width: 120 px
-
-**●** Minimum Height: 120 px
-
-**●** Resolution: at least 1080 x 1080 px
-
-**●** Video Ratio: 4:5
-
-**●** Video File Size: 4GB max
-
-**●** Minimum Video Length: 1 second
-
-**●** Maximum Video Length: 241 minutes
-
-For video ads, Facebook suggests you to upload the video with the highest resolution source available without pillar or letter boxing. Facebook gives the aspect ratios list and provides features available for every type of ad.
-
-![Facebook Aspect Ratios](https://images.wondershare.com/filmora/article-images/2021/fb-aspect-ratio-2.jpg)
-
-Use MP4, MOV, or GIF format, with a maximum 4GB file and 241 min length.
-
-### 2\. Facebook Article Videos
-
-![Facebook Article Videos](https://images.wondershare.com/filmora/article-images/2021/fb-aspect-ratio-3.jpg)
-
 **●** Resolution: at least 1080 x 1080 px
 
 **●** Video Ratio: 9:16 to 16:9
@@ -740,6 +188,10 @@ Some other features are:
 **●** Upload videos directly on social media by Filmora
 
 ![Upload on Social Media](https://images.wondershare.com/filmora/article-images/2021/fb-aspect-ratio-10.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **●** Experience fast editing
 
@@ -851,6 +303,554 @@ When you talk about videos, Facebook always recommends to upload videos with squ
 
 Facebook also suggests you upload short videos (15 seconds or less) and design videos that work both without and with sound. It would be best if you enable the captions. For the best results, choose the following specifications for videos:
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+### 1\. Facebook Feed Videos
+
+![Facebook Feed Videos](https://images.wondershare.com/filmora/article-images/2021/fb-aspect-ratio-1.jpg)
+
+**●** Minimum Width: 120 px
+
+**●** Minimum Height: 120 px
+
+**●** Resolution: at least 1080 x 1080 px
+
+**●** Video Ratio: 4:5
+
+**●** Video File Size: 4GB max
+
+**●** Minimum Video Length: 1 second
+
+**●** Maximum Video Length: 241 minutes
+
+For video ads, Facebook suggests you to upload the video with the highest resolution source available without pillar or letter boxing. Facebook gives the aspect ratios list and provides features available for every type of ad.
+
+![Facebook Aspect Ratios](https://images.wondershare.com/filmora/article-images/2021/fb-aspect-ratio-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+Use MP4, MOV, or GIF format, with a maximum 4GB file and 241 min length.
+
+### 2\. Facebook Article Videos
+
+![Facebook Article Videos](https://images.wondershare.com/filmora/article-images/2021/fb-aspect-ratio-3.jpg)
+
+**●** Resolution: at least 1080 x 1080 px
+
+**●** Video Ratio: 9:16 to 16:9
+
+**●** Video File Size: 4GB max
+
+**●** Minimum Video Length: 1 second
+
+**●** Maximum Video Length: 240 minutes
+
+### 3\. Facebook In-Stream Videos
+
+![Facebook In-Stream Videos](https://images.wondershare.com/filmora/article-images/2021/fb-aspect-ratio-4.jpg)
+
+**●** Resolution: at least 1080 x 1080 px
+
+**●** Recommended Video Ratio: 16:9 or 1:1 (but supports from 9:16 to 9:16)
+
+**●** Video File Size: 4GB max
+
+**●** Minimum Video Length: 5 seconds
+
+**●** Maximum Video Length: 10 minutes (limit varies based on objective)
+
+### 4\. Facebook Marketplace Video Ads
+
+![Facebook Marketplace Video Ads](https://images.wondershare.com/filmora/article-images/2021/fb-aspect-ratio-5.jpg)
+
+**●** Recommended: Highest resolution available (at least 1080 x 1080 px)
+
+**●** Video Ratio: 4:5 (but 9:16 to 16:9 is supported)
+
+**●** Video File Size: 4GB max
+
+**●** Minimum Video Length: 1 second
+
+**●** Maximum Video Length: 240 minutes
+
+### 5\. Facebook Stories Ads
+
+![Facebook Stories Ads](https://images.wondershare.com/filmora/article-images/2021/fb-aspect-ratio-6.jpg)
+
+**●** Recommended: Highest resolution available (at least 1080 x 1080 px)
+
+**●** Video Ratio: 9:16 (1.91 to 9:16 supported)
+
+**●** Video File Size: 4GB max
+
+**●** Maximum Video Length: 2 minutes
+
+### 6\. Facebook Video Feeds
+
+![Facebook Video Feeds](https://images.wondershare.com/filmora/article-images/2021/fb-aspect-ratio-7.jpg)
+
+Facebook video feeds and in-stream videos are different. Also, there is a difference between video feeds and newsfeed videos. When you click a video in your feed, it will open up in a video player with some other video feeds.
+
+**●** Recommended: Highest resolution available (at least 1080 x 1080 px)
+
+**●** Video Ratio: 4:5 (16:9 to 9:16 supported)
+
+**●** Video File Size: 4GB max
+
+**●** Minimum Video Length: 1 second
+
+**●** Maximum Video Length: 240 minutes
+
+## Part 2 What is the Best Video Size for Facebook?
+
+The right Facebook video size can make or break your post’s success. Below are some best videos sizes for Facebook:
+
+![Facebook Content Size](https://images.wondershare.com/filmora/article-images/2021/fb-aspect-ratio-8.jpg)
+
+Facebook videos are pretty flexible, and you can upload them in square, horizontal, or vertical aspect ratios.
+
+![Facebook Video Posts Size](https://images.wondershare.com/filmora/article-images/2021/fb-aspect-ratio-9.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+Use a mobile-first approach for optimal viewing. For a streamlined and enjoyable experience on a smartphone for the audience, choose the 9:16 aspect ratio.
+
+For square videos, the 1:1 is the best aspect ratio and for horizontal videos, select the 16:9 aspect ratio.
+
+**●** Supported Ratios: 1.91:1 to 4:5
+
+**●** Recommended Ratio: 4:5
+
+**●** Recommended Size: 1080px x 1350px
+
+**●** Maximum Length: 240 minutes
+
+**●** Minimum Video Length: 1 second
+
+**●** Video File Size: 4GB max
+
+## Part 3 How to Adjust your Facebook Video in Proper Aspect Ratios?
+
+Videos are powerful in the case of marketing, and they reach large audiences all over the globe. Moreover, marketers have to optimise the videos as per specifications. Aspect ratio is most important to make sure that videos fit Facebook and look best.
+
+You might have seen that different social media platforms need various aspect ratios. Unfortunately, editing these videos is a time-consuming task. Luckily, there are several cost-effective tools to adjust videos.
+
+### 1\. Wondershars Filmora Video Editor
+
+Wondershare Filmora is a reliable and cost-effective tool that can help you to adjust the video aspect ratio easily. It comes with drop and drag effects, audio, templates, soundtracks, filters, and other options.
+
+You will access various features, such as split-screen, green screen, motion tracking, etc. For example, the keyframing feature lets you include custom animations, while motion tracking helps you track objects.
+
+Then, the color matching feature enables you to copy the color settings of one video and apply them to another clip. You can even assign hotkeys shortcuts for various tools to save your time.
+
+#### Wondershare Filmora
+
+Get started easily with Filmora's powerful performance, intuitive interface, and countless effects!
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More about Filmora>](https://tools.techidaily.com/wondershare/filmora/download/)
+
+![download](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
+
+Some other features are:
+
+**●** Speed control
+
+**●** Color grading
+
+**●** Upload videos directly on social media by Filmora
+
+![Upload on Social Media](https://images.wondershare.com/filmora/article-images/2021/fb-aspect-ratio-10.jpg)
+
+**●** Experience fast editing
+
+**●** Keyboards shortcuts
+
+The following are different methods to adjust the aspect ratio in Wondershare Filmora:
+
+#### Method 1: Adjust Aspect Ratio at the Starting Interface
+
+Wondershare Filmora helps you to adjust the video aspect ratio once you launch the editor program. To begin, go to the "drop-down" menu button. Now, press on it to check some commonly used photo ratios such as 16:9, 1:1, 4:3, 9:16, or 21:9.
+
+Choose the ratio that you want by simply clicking on it.
+
+![Starting Interface](https://images.wondershare.com/filmora/article-images/change-aspect-ratio-at-filmora-start-interface.jpg)
+
+#### Method 2: Adjust Aspect Ratio under Project Settings
+
+#### Wondershare Filmora
+
+Get started easily with Filmora's powerful performance, intuitive interface, and countless effects!
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More about Filmora>](https://tools.techidaily.com/wondershare/filmora/download/)
+
+![download](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
+
+You can adjust the aspect ratio by clicking on the "Project Settings." Then, decide the target aspect ratio depending on the aspect ratio of the media source.
+
+![Project Settings](https://images.wondershare.com/filmora/article-images/filmora-project-settings-window.jpg)
+
+#### Method 3: Adjust Aspect Ratio during Editing
+
+Once you import the videos into the timeline of the Wondershare Filmora, you can easily adjust the ratio from the Crop and Zoom tool.
+
+**●** Go to timeline and right-click on the video clip. Then, select "Crop and Zoom." You will see the pop-up window.
+
+**●** Click on 16:9, 4:3, 1:1, or 9:16 manually at the bottom to change the video aspect ratio.
+
+**●** You can also manually enter the video aspect ratio. Then, click on the "Ok" button.
+
+![Crop and Zoom Tool](https://images.wondershare.com/filmora/article-images/crop-zoom-interface.jpg)
+
+Once you make the adjustments in the aspect ratio, add background blur effects if you notice a black bar.
+
+![Video Enhancing](https://images.wondershare.com/filmora/article-images/background-blur-changing-aspect-ratio.jpg)
+
+#### Method 4: Adjust Video Aspect Ratio with Auto-Reframe
+
+If you use the latest versions of Filmora, you will see Auto Reframe helps adjust the aspect ratio. Other than cropping, it will find the object in clips and crop it automatically if needed.
+
+##### Step1
+
+Once you upload the video clips to the media library, right-click on it and select the Auto-Reframe option.
+
+![Choose Auto-Reframe option](https://images.wondershare.com/filmora/article-images/convert-vertical-to-horizontal-auto-reframe-option.jpg)
+
+##### Step2
+
+You will see the Auto Reframe window appear on the screen. Replace the existing video with a new clip. Then, change the video aspect ratio and video motion speed.
+
+![Select the Aspect Ratio](https://images.wondershare.com/filmora/article-images/change-video-aspect-ratio-filmora-auto-reframe.jpg)
+
+##### Step3
+
+Once you select the aspect ratio, click on the "Analyze" button. Filmora will Auto-Reframe the video itself. Once the process completes, you can see results in the preview window.
+
+![Drag Box](https://images.wondershare.com/filmora/article-images/adjust-frame-box-auto-reframe.jpg)
+
+##### Step4
+
+After completing adjustment or reframing, click on the "Export" button to save your video. Change the name of the video and select the location where you want to save the video. Now, click on the "Export" again to save.
+
+![Click Export Button](https://images.wondershare.com/filmora/article-images/auto-reframe-save-video.jpg)
+
+#### Method 5: Adjust Aspect Ratio at Exporting
+
+You can save the clip to your system or smartphones, depending on your requirements. Then, upload them directly to Youtube or burn them into DVD by clicking on the "Export button." In this way, you can watch it on widescreen or standard TV whenever you want.
+
+![Upload or Burn by Clicking on Export Button](https://images.wondershare.com/filmora/article-images/output-format.jpg)
+
+### 2\. Animaker
+
+![Animaker](https://images.wondershare.com/filmora/article-images/2021/fb-aspect-ratio-11.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+Animaker video resizer is an easy and reliable tool that quickly changes or resizes the video aspect ratio. Moreover, it lets you download some watermark-free videos. It helps you to make a video that perfectly fit the required dimensions.
+
+Animaker’s video editing suite offers tools that you can use to edit videos online. Moreover, you can work on it even if you don’t have video editing experience.
+
+This software has been created explicitly for marketers, non-designers, or anyone who wants to edit social media or web videos.
+
+### 3\. VEED.IO
+
+![VEED.IO](https://images.wondershare.com/filmora/article-images/2021/fb-aspect-ratio-12.jpg)
+
+VEED is a great software that offers subtitling, effect/text encoding, editing, and other features. This tool allows you to use some incredible video effects, brightness, color grading, rotate your videos, exposure, and more.
+
+So, it is all-in-one editing tool that can make the video adjustment process easy.
+
+## Conclusion
+
+**●** Hopefully, the above mentioned tips and tools allow you to adjust the Facebook video ratio quickly and efficiently. In addition, it will enable you to enhance the video quality.
+
+02 [What is the Best Video Size for Facebook?](#Part 2)
+
+03 [How to Adjust your Facebook Video in Proper Aspect Ratios?](#Part 3)
+
+## Part 1 Types of Facebook Video Aspect Ratios
+
+When you talk about videos, Facebook always recommends to upload videos with square (1:1) or vertical (9:16, 4:5, and 16:9) aspect ratios. As a result, it increases the compatibility on mobile and desktop screens.
+
+Facebook also suggests you upload short videos (15 seconds or less) and design videos that work both without and with sound. It would be best if you enable the captions. For the best results, choose the following specifications for videos:
+
+### 1\. Facebook Feed Videos
+
+![Facebook Feed Videos](https://images.wondershare.com/filmora/article-images/2021/fb-aspect-ratio-1.jpg)
+
+**●** Minimum Width: 120 px
+
+**●** Minimum Height: 120 px
+
+**●** Resolution: at least 1080 x 1080 px
+
+**●** Video Ratio: 4:5
+
+**●** Video File Size: 4GB max
+
+**●** Minimum Video Length: 1 second
+
+**●** Maximum Video Length: 241 minutes
+
+For video ads, Facebook suggests you to upload the video with the highest resolution source available without pillar or letter boxing. Facebook gives the aspect ratios list and provides features available for every type of ad.
+
+![Facebook Aspect Ratios](https://images.wondershare.com/filmora/article-images/2021/fb-aspect-ratio-2.jpg)
+
+Use MP4, MOV, or GIF format, with a maximum 4GB file and 241 min length.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+### 2\. Facebook Article Videos
+
+![Facebook Article Videos](https://images.wondershare.com/filmora/article-images/2021/fb-aspect-ratio-3.jpg)
+
+**●** Resolution: at least 1080 x 1080 px
+
+**●** Video Ratio: 9:16 to 16:9
+
+**●** Video File Size: 4GB max
+
+**●** Minimum Video Length: 1 second
+
+**●** Maximum Video Length: 240 minutes
+
+### 3\. Facebook In-Stream Videos
+
+![Facebook In-Stream Videos](https://images.wondershare.com/filmora/article-images/2021/fb-aspect-ratio-4.jpg)
+
+**●** Resolution: at least 1080 x 1080 px
+
+**●** Recommended Video Ratio: 16:9 or 1:1 (but supports from 9:16 to 9:16)
+
+**●** Video File Size: 4GB max
+
+**●** Minimum Video Length: 5 seconds
+
+**●** Maximum Video Length: 10 minutes (limit varies based on objective)
+
+### 4\. Facebook Marketplace Video Ads
+
+![Facebook Marketplace Video Ads](https://images.wondershare.com/filmora/article-images/2021/fb-aspect-ratio-5.jpg)
+
+**●** Recommended: Highest resolution available (at least 1080 x 1080 px)
+
+**●** Video Ratio: 4:5 (but 9:16 to 16:9 is supported)
+
+**●** Video File Size: 4GB max
+
+**●** Minimum Video Length: 1 second
+
+**●** Maximum Video Length: 240 minutes
+
+### 5\. Facebook Stories Ads
+
+![Facebook Stories Ads](https://images.wondershare.com/filmora/article-images/2021/fb-aspect-ratio-6.jpg)
+
+**●** Recommended: Highest resolution available (at least 1080 x 1080 px)
+
+**●** Video Ratio: 9:16 (1.91 to 9:16 supported)
+
+**●** Video File Size: 4GB max
+
+**●** Maximum Video Length: 2 minutes
+
+### 6\. Facebook Video Feeds
+
+![Facebook Video Feeds](https://images.wondershare.com/filmora/article-images/2021/fb-aspect-ratio-7.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+Facebook video feeds and in-stream videos are different. Also, there is a difference between video feeds and newsfeed videos. When you click a video in your feed, it will open up in a video player with some other video feeds.
+
+**●** Recommended: Highest resolution available (at least 1080 x 1080 px)
+
+**●** Video Ratio: 4:5 (16:9 to 9:16 supported)
+
+**●** Video File Size: 4GB max
+
+**●** Minimum Video Length: 1 second
+
+**●** Maximum Video Length: 240 minutes
+
+## Part 2 What is the Best Video Size for Facebook?
+
+The right Facebook video size can make or break your post’s success. Below are some best videos sizes for Facebook:
+
+![Facebook Content Size](https://images.wondershare.com/filmora/article-images/2021/fb-aspect-ratio-8.jpg)
+
+Facebook videos are pretty flexible, and you can upload them in square, horizontal, or vertical aspect ratios.
+
+![Facebook Video Posts Size](https://images.wondershare.com/filmora/article-images/2021/fb-aspect-ratio-9.jpg)
+
+Use a mobile-first approach for optimal viewing. For a streamlined and enjoyable experience on a smartphone for the audience, choose the 9:16 aspect ratio.
+
+For square videos, the 1:1 is the best aspect ratio and for horizontal videos, select the 16:9 aspect ratio.
+
+**●** Supported Ratios: 1.91:1 to 4:5
+
+**●** Recommended Ratio: 4:5
+
+**●** Recommended Size: 1080px x 1350px
+
+**●** Maximum Length: 240 minutes
+
+**●** Minimum Video Length: 1 second
+
+**●** Video File Size: 4GB max
+
+## Part 3 How to Adjust your Facebook Video in Proper Aspect Ratios?
+
+Videos are powerful in the case of marketing, and they reach large audiences all over the globe. Moreover, marketers have to optimise the videos as per specifications. Aspect ratio is most important to make sure that videos fit Facebook and look best.
+
+You might have seen that different social media platforms need various aspect ratios. Unfortunately, editing these videos is a time-consuming task. Luckily, there are several cost-effective tools to adjust videos.
+
+### 1\. Wondershars Filmora Video Editor
+
+Wondershare Filmora is a reliable and cost-effective tool that can help you to adjust the video aspect ratio easily. It comes with drop and drag effects, audio, templates, soundtracks, filters, and other options.
+
+You will access various features, such as split-screen, green screen, motion tracking, etc. For example, the keyframing feature lets you include custom animations, while motion tracking helps you track objects.
+
+Then, the color matching feature enables you to copy the color settings of one video and apply them to another clip. You can even assign hotkeys shortcuts for various tools to save your time.
+
+#### Wondershare Filmora
+
+Get started easily with Filmora's powerful performance, intuitive interface, and countless effects!
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More about Filmora>](https://tools.techidaily.com/wondershare/filmora/download/)
+
+![download](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
+
+Some other features are:
+
+**●** Speed control
+
+**●** Color grading
+
+**●** Upload videos directly on social media by Filmora
+
+![Upload on Social Media](https://images.wondershare.com/filmora/article-images/2021/fb-aspect-ratio-10.jpg)
+
+**●** Experience fast editing
+
+**●** Keyboards shortcuts
+
+The following are different methods to adjust the aspect ratio in Wondershare Filmora:
+
+#### Method 1: Adjust Aspect Ratio at the Starting Interface
+
+Wondershare Filmora helps you to adjust the video aspect ratio once you launch the editor program. To begin, go to the "drop-down" menu button. Now, press on it to check some commonly used photo ratios such as 16:9, 1:1, 4:3, 9:16, or 21:9.
+
+Choose the ratio that you want by simply clicking on it.
+
+![Starting Interface](https://images.wondershare.com/filmora/article-images/change-aspect-ratio-at-filmora-start-interface.jpg)
+
+#### Method 2: Adjust Aspect Ratio under Project Settings
+
+#### Wondershare Filmora
+
+Get started easily with Filmora's powerful performance, intuitive interface, and countless effects!
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More about Filmora>](https://tools.techidaily.com/wondershare/filmora/download/)
+
+![download](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
+
+You can adjust the aspect ratio by clicking on the "Project Settings." Then, decide the target aspect ratio depending on the aspect ratio of the media source.
+
+![Project Settings](https://images.wondershare.com/filmora/article-images/filmora-project-settings-window.jpg)
+
+#### Method 3: Adjust Aspect Ratio during Editing
+
+Once you import the videos into the timeline of the Wondershare Filmora, you can easily adjust the ratio from the Crop and Zoom tool.
+
+**●** Go to timeline and right-click on the video clip. Then, select "Crop and Zoom." You will see the pop-up window.
+
+**●** Click on 16:9, 4:3, 1:1, or 9:16 manually at the bottom to change the video aspect ratio.
+
+**●** You can also manually enter the video aspect ratio. Then, click on the "Ok" button.
+
+![Crop and Zoom Tool](https://images.wondershare.com/filmora/article-images/crop-zoom-interface.jpg)
+
+Once you make the adjustments in the aspect ratio, add background blur effects if you notice a black bar.
+
+![Video Enhancing](https://images.wondershare.com/filmora/article-images/background-blur-changing-aspect-ratio.jpg)
+
+#### Method 4: Adjust Video Aspect Ratio with Auto-Reframe
+
+If you use the latest versions of Filmora, you will see Auto Reframe helps adjust the aspect ratio. Other than cropping, it will find the object in clips and crop it automatically if needed.
+
+##### Step1
+
+Once you upload the video clips to the media library, right-click on it and select the Auto-Reframe option.
+
+![Choose Auto-Reframe option](https://images.wondershare.com/filmora/article-images/convert-vertical-to-horizontal-auto-reframe-option.jpg)
+
+##### Step2
+
+You will see the Auto Reframe window appear on the screen. Replace the existing video with a new clip. Then, change the video aspect ratio and video motion speed.
+
+![Select the Aspect Ratio](https://images.wondershare.com/filmora/article-images/change-video-aspect-ratio-filmora-auto-reframe.jpg)
+
+##### Step3
+
+Once you select the aspect ratio, click on the "Analyze" button. Filmora will Auto-Reframe the video itself. Once the process completes, you can see results in the preview window.
+
+![Drag Box](https://images.wondershare.com/filmora/article-images/adjust-frame-box-auto-reframe.jpg)
+
+##### Step4
+
+After completing adjustment or reframing, click on the "Export" button to save your video. Change the name of the video and select the location where you want to save the video. Now, click on the "Export" again to save.
+
+![Click Export Button](https://images.wondershare.com/filmora/article-images/auto-reframe-save-video.jpg)
+
+#### Method 5: Adjust Aspect Ratio at Exporting
+
+You can save the clip to your system or smartphones, depending on your requirements. Then, upload them directly to Youtube or burn them into DVD by clicking on the "Export button." In this way, you can watch it on widescreen or standard TV whenever you want.
+
+![Upload or Burn by Clicking on Export Button](https://images.wondershare.com/filmora/article-images/output-format.jpg)
+
+### 2\. Animaker
+
+![Animaker](https://images.wondershare.com/filmora/article-images/2021/fb-aspect-ratio-11.jpg)
+
+Animaker video resizer is an easy and reliable tool that quickly changes or resizes the video aspect ratio. Moreover, it lets you download some watermark-free videos. It helps you to make a video that perfectly fit the required dimensions.
+
+Animaker’s video editing suite offers tools that you can use to edit videos online. Moreover, you can work on it even if you don’t have video editing experience.
+
+This software has been created explicitly for marketers, non-designers, or anyone who wants to edit social media or web videos.
+
+### 3\. VEED.IO
+
+![VEED.IO](https://images.wondershare.com/filmora/article-images/2021/fb-aspect-ratio-12.jpg)
+
+VEED is a great software that offers subtitling, effect/text encoding, editing, and other features. This tool allows you to use some incredible video effects, brightness, color grading, rotate your videos, exposure, and more.
+
+So, it is all-in-one editing tool that can make the video adjustment process easy.
+
+## Conclusion
+
+**●** Hopefully, the above mentioned tips and tools allow you to adjust the Facebook video ratio quickly and efficiently. In addition, it will enable you to enhance the video quality.
+
+02 [What is the Best Video Size for Facebook?](#Part 2)
+
+03 [How to Adjust your Facebook Video in Proper Aspect Ratios?](#Part 3)
+
+## Part 1 Types of Facebook Video Aspect Ratios
+
+When you talk about videos, Facebook always recommends to upload videos with square (1:1) or vertical (9:16, 4:5, and 16:9) aspect ratios. As a result, it increases the compatibility on mobile and desktop screens.
+
+Facebook also suggests you upload short videos (15 seconds or less) and design videos that work both without and with sound. It would be best if you enable the captions. For the best results, choose the following specifications for videos:
+
 ### 1\. Facebook Feed Videos
 
 ![Facebook Feed Videos](https://images.wondershare.com/filmora/article-images/2021/fb-aspect-ratio-1.jpg)
@@ -903,10 +903,6 @@ Use MP4, MOV, or GIF format, with a maximum 4GB file and 241 min length.
 
 **●** Maximum Video Length: 10 minutes (limit varies based on objective)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 4\. Facebook Marketplace Video Ads
 
 ![Facebook Marketplace Video Ads](https://images.wondershare.com/filmora/article-images/2021/fb-aspect-ratio-5.jpg)
@@ -924,6 +920,10 @@ Use MP4, MOV, or GIF format, with a maximum 4GB file and 241 min length.
 ### 5\. Facebook Stories Ads
 
 ![Facebook Stories Ads](https://images.wondershare.com/filmora/article-images/2021/fb-aspect-ratio-6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **●** Recommended: Highest resolution available (at least 1080 x 1080 px)
 
@@ -1079,10 +1079,6 @@ After completing adjustment or reframing, click on the "Export" button to save y
 
 ![Click Export Button](https://images.wondershare.com/filmora/article-images/auto-reframe-save-video.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 #### Method 5: Adjust Aspect Ratio at Exporting
 
 You can save the clip to your system or smartphones, depending on your requirements. Then, upload them directly to Youtube or burn them into DVD by clicking on the "Export button." In this way, you can watch it on widescreen or standard TV whenever you want.
@@ -1090,12 +1086,16 @@ You can save the clip to your system or smartphones, depending on your requireme
 ![Upload or Burn by Clicking on Export Button](https://images.wondershare.com/filmora/article-images/output-format.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Animaker
 
 ![Animaker](https://images.wondershare.com/filmora/article-images/2021/fb-aspect-ratio-11.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Animaker video resizer is an easy and reliable tool that quickly changes or resizes the video aspect ratio. Moreover, it lets you download some watermark-free videos. It helps you to make a video that perfectly fit the required dimensions.
 
@@ -1136,16 +1136,14 @@ So, it is all-in-one editing tool that can make the video adjustment process eas
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-how-to-autoplay-youtube-videos-on-facebook-for-2024/"><u>[New] How to Autoplay Youtube Videos on Facebook for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-personalize-where-mac-pics-save/"><u>[New] Personalize Where Mac Pics Save</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-resolve-androidios-issues-with-fb-video-playback/"><u>[New] Resolve Android/iOS Issues with FB Video Playback</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-understanding-the-impact-of-igtv-videos-through-analysis/"><u>[Updated] 2024 Approved Understanding the Impact of IGTV Videos Through Analysis</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-transform-your-video-presentation-with-updated-covers/"><u>[Updated] Transform Your Video Presentation with Updated Covers</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-investigating-whether-sns-hdr-offers-superior-ux/"><u>2024 Approved Investigating Whether SNS HDR Offers Superior UX</u></a></li>
-<li><a href="https://extra-information.techidaily.com/bridging-gaps-between-vision-and-execution-in-filmora-editing-for-2024/"><u>Bridging Gaps Between Vision and Execution in Filmora Editing for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/1726028049721-dvdusb/"><u>DVDからUSBへの変換手順完全ガイド</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/elevating-ad-revenue-through-animated-campaigns-on-facebook-for-2024/"><u>Elevating Ad Revenue Through Animated Campaigns on Facebook for 2024</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-nokia-g42-5g-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Nokia G42 5G in 5 Easy Ways | Dr.fone</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-wmv-video-splitter-free-download-top-choices/"><u>Updated WMV Video Splitter Free Download Top Choices</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ssential-youtube-equipment-for-starting-your-channel-what-do-you-really-need/"><u>[New] Essential YouTube Equipment For Starting Your Channel - What Do You Really Need?</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-streamlining-your-360-video-process-for-social-media-platforms/"><u>[Updated] 2024 Approved Streamlining Your 360 Video Process for Social Media Platforms</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-free-easy-hd-download-of-fb-media-library-for-2024/"><u>[Updated] Free, Easy HD Download of FB Media Library for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-top-10-mobile-selections-efficiently-save-facebook-videos-on-android/"><u>[Updated] In 2024, Top 10 Mobile Selections Efficiently Save Facebook Videos on Android</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-reassessing-manycam-search-for-a-top-contender/"><u>[Updated] Reassessing ManyCam Search for a Top Contender</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/5-quick-methods-to-bypass-honor-100-pro-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Honor 100 Pro FRP</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-vivo-y17s-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Vivo Y17s? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-take-flight-with-social-media-dji-drone-streaming-basics/"><u>In 2024, Take Flight with Social Media DJI Drone Streaming Basics</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/the-future-is-now-leveraging-10-innovative-igtv-strategies-to-elevate-your-brand-for-2024/"><u>The Future Is Now Leveraging 10 Innovative IGTV Strategies to Elevate Your Brand for 2024</u></a></li>
 </ul></div>
 

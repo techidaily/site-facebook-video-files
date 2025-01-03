@@ -1,7 +1,7 @@
 ---
 title: "Master Terraria's Performance : Proven Strategies to Avoid System Crashes"
-date: 2024-12-19T22:38:33.388Z
-updated: 2024-12-24T19:57:38.409Z
+date: 2024-12-31T19:39:48.748Z
+updated: 2025-01-03T18:25:27.022Z
 tags:
   - win11
   - win10
@@ -19,6 +19,10 @@ _Dead by Daylight (DBD)_ keeps crashing on startup, or it constantly closes to d
 
  This is extremely frustrating, and you’re certainly not alone. Many players are reporting it, but the good news is that you can fix it. Here is a list of fixes that have proved useful to many players.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Select your gaming platform
 
 Before you move on, select your gaming platform first:
@@ -30,10 +34,6 @@ Before you move on, select your gaming platform first:
 ### PC
 
  If you’re experiencing_Dead by Daylight_ crashing issue on your PC, check the fixes below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Try these fixes
 
@@ -69,6 +69,10 @@ Before you move on, select your gaming platform first:
 
 ![](https://www.drivereasy.com/wp-content/uploads/2019/09/image-91.png)
 3. Click the **Display** tab, and then check your graphics card’s information.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2019/08/image-132.png)
 
@@ -146,6 +150,10 @@ If your issue persists, then move on and try the next fix.
 ![](https://www.drivereasy.com/wp-content/uploads/2019/09/image-190.png)
 4. Click the box, and then select**Dead by Daylight** from the drop-down list.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2019/09/image-191.png)
 5. Click**Repair Service** .  
 
@@ -162,10 +170,6 @@ If your issue persists, then move on and try the next fix.
 
 ![Steam - how to verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2023/10/Steam-verify-integrity-of-game-files-properties.jpg)
 3. Select the**Installed Files** tab and click on the**Verified integrity of game files** button.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![Steam - how to verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2023/10/Steam-verify-integrity-of-game-files.jpg)
 4. Steam will verify the game’s files – this process may take several minutes.
@@ -200,11 +204,19 @@ Follow the instructions below to see how to fix it:
 ![](https://www.drivereasy.com/wp-content/uploads/2019/09/image-215.png)
 2. Click the **Compatibility**  tab. Then check the box next to **Run this program in compatibility mode for** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2019/08/image-264.png)
 3. Click the list box below to select **Windows 8** , then click **OK** .  
 
 ![](https://www.drivereasy.com/wp-content/uploads/2019/08/image-267.png)
 4. Relaunch your game to check if your issue had been resolved.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If your game crashes again under Windows 8 mode, repeat **steps 1 – 3** and select **Windows 7**  from the list box.
 
@@ -226,10 +238,6 @@ If this didn’t work for you, check the fix, below.
 ![](https://www.drivereasy.com/wp-content/uploads/2019/05/image-720.png)
 5. Select **Uninstall a program** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2019/05/image-889.png)
 6. Right-click **Steam** , and then click **Uninstall** .  
 
@@ -243,7 +251,7 @@ If this didn’t work for you, check the fix, below.
 10. Move the backup **steamapps folder**  you create before to your current directory location.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2019/05/image-893.png)
@@ -319,14 +327,10 @@ If this didn’t work for you, check the fix, below.
 6. Select **Reset and keep my games & apps** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2019/08/image-99.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  After resetting your console, restart Dead by Daylight to test your issue. If your problem persists, check the fix below.
 
@@ -342,10 +346,6 @@ If this didn’t work for you, check the fix, below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-95.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)**  Press the **A button** on your controller.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/xbox-one-controller-2206687_1920-1-1024x671.jpg)
@@ -353,6 +353,10 @@ If this didn’t work for you, check the fix, below.
 **4)** Highlight your game, then press the **☰ button** on your controller.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-175-1024x439.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **5)**  Select **Uninstall** .
 
@@ -365,10 +369,6 @@ If this didn’t work for you, check the fix, below.
 ### PlayStation 4
 
  If the Dead by Daylight crashing issue happens while gaming on your PlayStation 4, try the fixes below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Try these fixes
 
@@ -409,17 +409,21 @@ If this didn’t work for you, check the fix, below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1080.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)** Select **Settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1077-1024x217.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Select **System Software Update,** and then follow the on-screen instructions to update the system software for your PS4.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1076.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **4)**  Restart your game to see if this resolved your issues.
 
@@ -438,10 +442,6 @@ If this didn’t work for you, check the fix, below.
 **4)** Connect your controller to your PS4 with a USB cable.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1099.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **5)**  Press the **PS button** on your controller.
 
@@ -482,22 +482,18 @@ If this didn’t work for you, check the fix, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-perfected-framing-for-fb-videos-implement-letterbox-and-dark-frame/"><u>[New] 2024 Approved Perfected Framing for FB Videos Implement Letterbox & Dark Frame</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-effortless-guide-to-exporting-and-archiving-snapshot-files/"><u>[New] In 2024, Effortless Guide to Exporting and Archiving SnapShot Files</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-proven-ways-to-enhance-your-fb-presence-and-boost-engagement/"><u>[New] In 2024, Proven Ways to Enhance Your FB Presence and Boost Engagement</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-stream-like-a-pro-fb-live-tips-2023/"><u>[New] In 2024, Stream Like a Pro FB Live Tips 2023</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-traversing-the-terrain-of-facebooks-video-hub-for-2024/"><u>[New] Traversing the Terrain of Facebook’s Video Hub for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-achieving-peak-audience-interaction-with-wirecast-on-facebook-for-2024/"><u>[Updated] Achieving Peak Audience Interaction with Wirecast on Facebook for 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-mastering-fb-reel-creation-step-by-step-guide-for-2024/"><u>[Updated] Mastering FB Reel Creation Step-by-Step Guide for 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-mobile-guide-embedding-songs-on-your-facebook-page/"><u>[Updated] Mobile Guide Embedding Songs on Your Facebook Page</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/2024-approved-linkedin-profile-video-introduction-scope-dimensions-minutes/"><u>2024 Approved LinkedIn Profile Video Introduction Scope, Dimensions, Minutes</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024s-ultimate-monitor-matches-for-professional-photographers/"><u>2024’S Ultimate Monitor Matches for Professional Photographers</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/best-concealed-vids-2023s-selective-8-software-guide-for-2024/"><u>Best Concealed Vids - 2023'S Selective 8 Software Guide for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/calls-on-motorola-g24-power-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Motorola G24 Power Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-infinix-note-30-drfone-by-drfone-virtual-android/"><u>Can I use iTools gpx file to catch the rare Pokemon On Infinix Note 30 | Dr.fone</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/comprehensively-understanding-instagram-video-restrictions/"><u>Comprehensively Understanding Instagram Video Restrictions</u></a></li>
-<li><a href="https://extra-support.techidaily.com/lifelike-linkage-logistics-softwares-substance-over-hardwares-hustle-for-2024/"><u>Lifelike Linkage Logistics Software's Substance over Hardware's Hustle for 2024</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/maximizing-system-speed-and-stability-by-updating-driver-software-tips-and-techniques-by-yl-software-experts/"><u>Maximizing System Speed & Stability by Updating Driver Software – Tips & Techniques by YL Software Experts</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-strategies-to-stream-and-save-your-ps4-gaming-highlights/"><u>Step-by-Step Strategies to Stream and Save Your PS4 Gaming Highlights</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-fb-content-ban-know-your-rights-when-videos-get-pulled/"><u>[New] 2024 Approved FB Content Ban Know Your Rights When Videos Get Pulled</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-propel-your-vlogs-forward-top-seo-tech-unveiled/"><u>[New] In 2024, Propel Your Vlogs Forward – Top SEO Tech Unveiled</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-premium-video-boosts-the-9-finest-webcam-effects/"><u>[New] Premium Video Boosts The 9 Finest Webcam Effects</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-profile-pictorialism-designing-your-exaggerated-visage-for-2024/"><u>[New] Profile Pictorialism Designing Your Exaggerated Visage for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-the-best-5-programs-for-snagging-facebook-feeds/"><u>[Updated] 2024 Approved The Best 5 Programs for Snagging Facebook Feeds</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-perfectly-preserve-facebook-films-with-top-5-chrome-plugs-for-2024/"><u>[Updated] Perfectly Preserve Facebook Films with Top 5 Chrome Plugs for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-survivals-thrill-top-picks-for-heart-pounding-zombie-games/"><u>2024 Approved Survival's Thrill Top Picks for Heart-Pounding Zombie Games</u></a></li>
+<li><a href="https://solve-manuals.techidaily.com/enhanced-personalization-with-our-cookiebot-enabled-solutions/"><u>Enhanced Personalization with Our Cookiebot-Enabled Solutions</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-breaking-into-the-market-a-guide-to-facebook-video-content/"><u>In 2024, Breaking Into the Market A Guide to Facebook Video Content</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-easy-to-understand-copywriting-tactics-for-fb-campaigns/"><u>In 2024, Easy-to-Understand Copywriting Tactics for FB Campaigns</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/list-of-pokemon-go-joysticks-on-honor-x50iplus-drfone-by-drfone-virtual-android/"><u>List of Pokémon Go Joysticks On Honor X50i+ | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/nighttime-narratives-in-pixels/"><u>Nighttime Narratives in Pixels</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-free-video-compressing-tools-of-2024-the-best-choices-for-your-mac/"><u>Top Free Video Compressing Tools of 2024: The Best Choices for Your Mac</u></a></li>
 </ul></div>
 

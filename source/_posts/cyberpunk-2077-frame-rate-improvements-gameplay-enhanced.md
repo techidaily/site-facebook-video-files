@@ -1,7 +1,7 @@
 ---
 title: Cyberpunk 2077 Frame Rate Improvements - Gameplay Enhanced
-date: 2024-12-20T23:05:20.343Z
-updated: 2024-12-24T23:46:12.825Z
+date: 2024-12-27T16:55:46.540Z
+updated: 2025-01-03T16:36:58.622Z
 tags:
   - win11
   - win10
@@ -19,6 +19,10 @@ Cyberpunk 2077 is finally here! After several hours of gameplay, did you feel yo
 
 Don’t worry, here’re fixes may help you solve the issue.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -28,7 +32,7 @@ Don’t worry, here’re fixes may help you solve the issue.
 3. [Update the device driver](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Change the in-game settings
@@ -61,12 +65,16 @@ If you’re not using the controller, check the below settings.
 6. Set the**Static FidelityFX CAS** to**ON** and lower the Resolution Scaling.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-15_15-59-50.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Some users have reported that by disabling all the aim assist options in settings, the issue has been improved a lot.
 
 If this fix doesn’t work, move to the next one.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Change the mouse setting
@@ -80,10 +88,6 @@ If this fix doesn’t work, move to the next one.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-15_16-00-50.jpg)
 4. Make sure you uncheck the**Enhance pointer precision** . Click**Apply > OK** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-15_16-01-18.jpg)
 5. Launch the game and check.
@@ -118,15 +122,11 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you need assistance, please contact **Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
@@ -152,24 +152,24 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-perfecting-your-photos-from-the-sky-how-to-select-the-right-drone-gimbal/"><u>[New] 2024 Approved Perfecting Your Photos From the Sky How To Select The Right Drone Gimbal</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-the-ultimate-list-of-ios-compatible-fb-videos-downloader-apps/"><u>[New] 2024 Approved The Ultimate List of iOS-Compatible FB Videos Downloader Apps</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-operational-update-troubled-obs-camera-for-2024/"><u>[New] Operational Update Troubled OBS Camera for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-rapid-photo-reader-for-windows-users-for-2024/"><u>[New] Rapid Photo Reader for Windows Users for 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-discover-the-best-fb-movie-tools-no-8-in-23/"><u>[Updated] 2024 Approved Discover the Best FB Movie Tools No. 8 in '23</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-autonomy-in-speech/"><u>[Updated] Autonomy in Speech</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-content-creation-on-facebook-aspect-ratio-choice/"><u>[Updated] In 2024, Content Creation on Facebook Aspect Ratio Choice</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-the-ultimate-guide-resurrecting-non-displayed-fb-video-posts-2023/"><u>[Updated] The Ultimate Guide Resurrecting Non-Displayed FB Video Posts, 2023</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-haste-assessment-of-windows-documents/"><u>2024 Approved Haste Assessment of Windows Documents</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-making-every-photo-on-iphone-blurry-with-4-tricks-up-your-sleeve/"><u>2024 Approved Making Every Photo on iPhone Blurry with 4 Tricks Up Your Sleeve</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-quickly-resolve-speaker-problems-on-windows-10-a-step-by-step-approach/"><u>How to Quickly Resolve Speaker Problems on Windows 10 - A Step-by-Step Approach</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-music-on-motorola-edgeplus-2023-by-fonelab-android-recover-music/"><u>How to restore wiped music on Motorola Edge+ (2023)</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/in-2024-boost-your-online-presence-tips-and-techniques-for-exceptional-fb-profiles/"><u>In 2024, Boost Your Online Presence Tips and Techniques for Exceptional FB Profiles</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/in-2024-crucial-collections-8-innovative-products-to-boost-your-professional-edge/"><u>In 2024, Crucial Collections 8 Innovative Products to Boost Your Professional Edge</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-full-tutorial-to-bypass-your-infinix-smart-7-face-lock-by-drfone-android/"><u>In 2024, Full Tutorial to Bypass Your Infinix Smart 7 Face Lock?</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-circle-everything-you-need-to-know-on-apple-iphone-xr-drfone-by-drfone-virtual-ios/"><u>In 2024, Life360 Circle Everything You Need to Know On Apple iPhone XR | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/in-2024-mastering-momentum-go-from-zero-to-viral-in-fb/"><u>In 2024, Mastering Momentum Go From Zero to Viral in FB</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/resolve-your-apple-iphone-xs-keeps-asking-for-outlook-password-drfone-by-drfone-ios/"><u>Resolve Your Apple iPhone XS Keeps Asking for Outlook Password | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/the-essential-pathway-to-creating-attractive-video-covers-on-facebook/"><u>The Essential Pathway to Creating Attractive Video Covers on Facebook</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-elevating-your-online-empire-a-guide-to-massive-facebook-following/"><u>[New] 2024 Approved Elevating Your Online Empire A Guide to Massive Facebook Following</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-access-exclusive-video-artwork-free-flawless-and-fast/"><u>[New] In 2024, Access Exclusive Video Artwork – Free, Flawless, and Fast</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-digital-dollars-at-a-click-monetization-made-simple-on-fb/"><u>[New] In 2024, Digital Dollars at a Click Monetization Made Simple on FB</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-photoshop-hdr-mastery-from-basics-to-advanced-strategies/"><u>[New] In 2024, Photoshop HDR Mastery From Basics to Advanced Strategies</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-seamless-integration-of-fb-and-whatsapp-for-video-sharing/"><u>[New] In 2024, Seamless Integration of FB & WhatsApp for Video Sharing</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-unveiling-techniques-to-extract-fb-content/"><u>[New] In 2024, Unveiling Techniques to Extract FB Content</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-crafting-captivating-stories-on-fb-a-comprehensive-guide-to-bio-crafting/"><u>[Updated] Crafting Captivating Stories on FB A Comprehensive Guide to Bio Crafting</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-youtube-success-starts-here-best-tutorials-for-starters/"><u>[Updated] In 2024, YouTube Success Starts Here Best Tutorials for Starters</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-mirth-mechanics-gratis-tools-to-amuse-and-entertain/"><u>[Updated] Mirth Mechanics Gratis Tools to Amuse and Entertain</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-skype-meeting-recording-made-easy-for-both-oses/"><u>2024 Approved Skype Meeting Recording Made Easy for Both OSes</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/5-prime-fb-video-extractor-guide-for-2024/"><u>5 Prime FB Video Extractor Guide for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/cross-platform-soundtrack-strategy-for-facebook-profiles-for-2024/"><u>Cross-Platform Soundtrack Strategy for Facebook Profiles for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/direct-tweet-transfers-to-facebook-feed-for-2024/"><u>Direct Tweet Transfers to Facebook Feed for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-vivo-v30-pro-location-by-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Vivo V30 Pro Location by Number | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-mastering-soundtrack-addition-to-social-media-videos-on-facebook/"><u>In 2024, Mastering Soundtrack Addition to Social Media Videos on Facebook</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-unlock-high-quality-viewing-with-youtubes-latest-av1-feature/"><u>In 2024, Unlock High-Quality Viewing with YouTube’s Latest AV1 Feature</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/ready-set-fly-dji-spark-reviewed-for-selfie-enthusiasts-and-photographers-alike-for-2024/"><u>Ready, Set, Fly DJI Spark Reviewed for Selfie Enthusiasts and Photographers Alike for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/resolving-the-blue-screen-of-death-a-guide-to-fixing-stop-error-0x0000007b/"><u>Resolving the Blue Screen of Death: A Guide to Fixing Stop Error 0X0000007B</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/trending-topics-the-best-10-music-videos-on-fb/"><u>Trending Topics The Best 10 Music Videos on FB</u></a></li>
 </ul></div>
 
