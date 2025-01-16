@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Made Easy: How to Prevent Assassin's Creed Valhalla Crashes on PC"
-date: 2025-01-08T03:32:48.664Z
-updated: 2025-01-10T03:17:27.824Z
+date: 2025-01-11T05:24:39.355Z
+updated: 2025-01-15T17:04:08.606Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/6816402dd23c56a105ec64bc0a33bec17942a9ec3
 [Assassin’s Creed Valhalla](https://www.epicgames.com/store/en-US/p/assassins-creed-valhalla?epic%5Fcreator%5Fid=28725b529b5346a38a080b6a920aa97a&epic%5Fgame%5Fid=400347196e674de89c23cc2a7f2121db) , another Ubisoft blockbuster in 2020, is finally here.
 
  And just like what happened with the release of[Watch Dogs: Legion](https://www.epicgames.com/store/en-US/p/watch-dogs-legion?epic%5Fcreator%5Fid=28725b529b5346a38a080b6a920aa97a&epic%5Fgame%5Fid=0a84818055e740a7be21a2e5b6162703) , many gamers start reporting the**constant crashes with AC Valhalla** . But don’t worry if you happen to be one of them. After some diggings on Reddit and YouTube, we’ve gathered several fixes that worked for many Vikings. Try them and get back to Valhalla right away.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fixes to try
 
@@ -67,6 +71,10 @@ thumbnail: https://thmb.techidaily.com/6816402dd23c56a105ec64bc0a33bec17942a9ec3
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/valhalla-verify-1.jpg)
 3. Select **Verify files** . Then wait for the checking to complete.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/valhalla-verify-2.jpg)
 
  Now you can launch Assassin’s Creed Valhalla and check if it crashes again.
@@ -74,7 +82,7 @@ thumbnail: https://thmb.techidaily.com/6816402dd23c56a105ec64bc0a33bec17942a9ec3
  If verifying game files didn’t help your case, simply check out the next method.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Install all Windows updates
@@ -88,13 +96,13 @@ You can use these steps to check for Windows updates manually:
 2. Click **Check for updates** . Windows will automatically download and install all the available updates. This might take up to an hour depending on your Internet speed.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  In some cases, you might need to check several times to get all the updates. Simply repeat these steps until it prompts**You’re up to date** when you click**Check for updates** .
@@ -104,7 +112,7 @@ You can use these steps to check for Windows updates manually:
 If the crash happens again, you can take a look at the next fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Update your graphics driver
@@ -133,10 +141,6 @@ If the crash happens again, you can take a look at the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
@@ -145,10 +149,6 @@ If the crash happens again, you can take a look at the next fix.
  Once you’ve updated your graphics driver, restart your PC and test the gameplay in Assassin’s Creed Valhalla.
 
  If the driver update doesn’t do the trick for you, simply continue to the next fix below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5: Lower in-game graphics settings
 
@@ -196,22 +196,20 @@ If the crash happens again, you can take a look at the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-mastering-multimedia-transfer-facebook-videos-on-whatsapp/"><u>[New] 2024 Approved Mastering Multimedia Transfer Facebook Videos on WhatsApp</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-secrets-unlocked-mastering-the-art-of-facebook-vr-posting/"><u>[New] 2024 Approved Secrets Unlocked Mastering the Art of Facebook VR Posting</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-screen-snip-pro-the-essential-guide-to-win-os/"><u>[New] In 2024, Screen Snip Pro The Essential Guide to Win OS</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-maximizing-viewing-experience-in-android-for-2024/"><u>[New] Maximizing Viewing Experience in Android for 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-crafting-captivating-online-ads-for-facebook-for-2024/"><u>[Updated] Crafting Captivating Online Ads for Facebook for 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-dive-into-digital-friendship-start-your-facebook-journey/"><u>[Updated] In 2024, Dive Into Digital Friendship Start Your Facebook Journey</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-how-to-recall-facebooks-older-episodes-with-your-computer-and-phone/"><u>[Updated] In 2024, How to Recall Facebook's Older Episodes with Your Computer & Phone</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-optimizing-video-playback-for-engaged-audiences-for-2024/"><u>[Updated] Optimizing Video Playback for Engaged Audiences for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-secrets-for-transcribing-and-converting-video-tweets-into-audio-files-mp3/"><u>[Updated] Secrets for Transcribing & Converting Video Tweets Into Audio Files (MP3)</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-shutterbug-secrets-iphone-night-photography/"><u>[Updated] Shutterbug Secrets IPhone Night Photography</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/2024-approved-recover-missing-social-media-icon-in-facebook-watch/"><u>2024 Approved Recover Missing Social Media Icon in Facebook Watch</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-memory-speed-and-latency-affect-your-pc/"><u>How Memory Speed and Latency Affect Your PC</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/immediate-mp3-download-from-facebook-media-posts-for-2024/"><u>Immediate MP3 Download From Facebook Media Posts for 2024</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-unlock-your-samsungs-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>In 2024, Unlock Your Samsungs Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
-<li><a href="https://fox-info.techidaily.com/mastering-360-degree-edits-in-adobe-premiere-pro/"><u>Mastering 360-Degree Edits in Adobe Premiere Pro</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/top-5-exhilarating-virtual-track-gaming-experiences/"><u>Top 5 Exhilarating Virtual Track Gaming Experiences</u></a></li>
-<li><a href="https://win-brilliant.techidaily.com/1728495714414-usb/"><u>スピーディ転送! USBメモリーにオペレーティングシステムの簡単バックアップ</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-how-to-do-screen-recording-on-ipad/"><u>[New] 2024 Approved How to Do Screen Recording on iPad?</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-fb-chronicles-merging-music-and-memories/"><u>[New] In 2024, FB Chronicles Merging Music and Memories</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-unveiling-secrets-to-broadcast-recordings-on-facebook-live/"><u>[New] In 2024, Unveiling Secrets to Broadcast Recordings on Facebook Live</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-unlock-premium-quality-streaming-on-the-worlds-largest-network/"><u>[New] Unlock Premium Quality Streaming on the World's Largest Network</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-best-zoom-webcams-top-picks-of-the-season/"><u>[Updated] Best Zoom Webcams – Top Picks of the Season</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-dissecting-reversed-photo-searches-in-the-virtual-cosmos-fb/"><u>[Updated] Dissecting Reversed Photo Searches in the Virtual Cosmos (FB)</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-vidcollector-social-media-to-device/"><u>[Updated] In 2024, VidCollector Social Media to Device</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-melodic-freedom-fbs-music-library/"><u>[Updated] Melodic Freedom FB's Music Library</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-origami-inspired-miniature-asian-abodes-in-mc-for-2024/"><u>[Updated] Origami-Inspired, Miniature Asian Abodes in MC for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/cant-access-the-control-center-on-your-iphone-try-these-8-effective-remedies-now/"><u>Can't Access the Control Center on Your iPhone? Try These 8 Effective Remedies Now!</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/chatcam-video-saver-app/"><u>ChatCam Video Saver App</u></a></li>
+<li><a href="https://some-tips.techidaily.com/comparing-fitness-features-can-apple-watchs-new-sync-capabilities-replace-your-beloved-garmin-gadget/"><u>Comparing Fitness Features: Can Apple Watch's New Sync Capabilities Replace Your Beloved Garmin Gadget?</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-three-ways-to-sim-unlock-honor-magic-5-pro-by-drfone-android/"><u>In 2024, Three Ways to Sim Unlock Honor Magic 5 Pro</u></a></li>
+<li><a href="https://some-skills.techidaily.com/understanding-camera-shake-in-photographyvideo-for-2024/"><u>Understanding Camera Shake in Photography/Video for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/unleash-your-creative-potential-with-zooms-step-by-step-filter-guide/"><u>Unleash Your Creative Potential with Zoom's Step-by-Step Filter Guide</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Fix for Persistent Microsoft Edge Crashing on New Windows 11 Devices
-date: 2025-01-04T04:21:18.244Z
-updated: 2025-01-10T06:14:04.267Z
+date: 2025-01-08T17:25:44.035Z
+updated: 2025-01-15T18:17:02.830Z
 tags:
   - win11
   - win10
@@ -20,7 +20,7 @@ Recently, we’ve seen many players reporting that**Dirt 5 keeps crashing** on t
  Here we’ve gathered the latest fixes that helped other players resolve the Dirt 5 crashing issue. Whether Dirt 5 crashes on startup or crashes in the middle of the game, you can find a fix to try in this article.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -57,14 +57,10 @@ The outdated or broken graphics driver often crashes the game.
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 4. Restart your PC after you finished updating your graphics driver.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  See if the latest graphics driver stops the Dirt 5 from crashing. If not, don’t worry. Try the next fix, below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 2: Verify the game files
@@ -75,7 +71,15 @@ The outdated or broken graphics driver often crashes the game.
 ![Steam->properties](https://images.drivereasy.com/wp-content/uploads/2019/04/image-122.png)
 2. Click **the LOCAL FILES tab** , then click **VERIFY INTEGRITY OF GAME CACHE…** . After that, click **CLOSE** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![LOCAL FILES>VERIFY INTEGRITY OF GAME CACHE...](https://images.drivereasy.com/wp-content/uploads/2019/04/image-120.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  It may take some time to finish verifying the game files. Launch the game after the verifying process completed to see if this fix works. If not, try the next fix, below.
 
@@ -88,7 +92,7 @@ The outdated or broken graphics driver often crashes the game.
  Run Dirt 5 again to check whether the game crash issue has been resolved. If it didn’t work, or there was no new game patch available, move on to next fix, below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 4: Disable Steam Overlay
@@ -102,10 +106,6 @@ The outdated or broken graphics driver often crashes the game.
 ![Disable Steam Overlay](https://images.drivereasy.com/wp-content/uploads/2021/04/Disable-Steam-Overlay.jpg)
 
  Launch Dirt 5 to see if the game crashes. If the issue persists, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 5: Set launch options on Steam
 
@@ -150,18 +150,20 @@ The outdated or broken graphics driver often crashes the game.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-direct-connection-navigating-desktop-display-integration-on-facebook/"><u>[New] 2024 Approved Direct Connection Navigating Desktop Display Integration on Facebook</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/new-cutting-edge-voice-altering-apps-for-vloggers/"><u>[New] Cutting-Edge Voice Altering Apps for Vloggers</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-deciphering-online-videography-a-facebook-journey-for-2024/"><u>[New] Deciphering Online Videography A Facebook Journey for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ippy-zenith-the-quickest-youtube-playlist-share/"><u>[New] Zippy Zenith The Quickest Youtube Playlist Share</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-conquering-chaos-muting-tactics-for-seamless-gmeet-participation/"><u>2024 Approved Conquering Chaos Muting Tactics for Seamless GMeet Participation</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/2024-approved-spin-and-share-easy-iphone-filmmaking-techniques/"><u>2024 Approved Spin and Share Easy iPhone Filmmaking Techniques</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-updated-compilation-prime-top-10-android-apps-for-facebook-video-download/"><u>2024 Approved Updated Compilation Prime Top 10 Android Apps for Facebook Video Download</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/best-anti-tracker-software-for-samsung-galaxy-a05s-drfone-by-drfone-virtual-android/"><u>Best Anti Tracker Software For Samsung Galaxy A05s | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/best-in-the-shadows-vids-2023s-prime-8-app-list-for-2024/"><u>Best In-The-Shadows Vids - 2023'S Prime 8 App List for 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/in-2024-inquiry-exploring-shared-videos-and-images-in-direct-conversations/"><u>In 2024, Inquiry Exploring Shared Videos & Images in Direct Conversations</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-samsung-galaxy-m54-5gfrp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Samsung Galaxy M54 5GFRP Lock</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/in-2024-overcoming-facebook-algorithm-change-hurdles/"><u>In 2024, Overcoming Facebook Algorithm Change Hurdles</u></a></li>
-<li><a href="https://win-answers.techidaily.com/mastering-disco-elysium-overcoming-pc-system-crashes-and-glitches/"><u>Mastering 'Disco Elysium': Overcoming PC System Crashes and Glitches</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-accessing-premium-facebook-videos-offline/"><u>[New] Accessing Premium Facebook Videos Offline</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-swiftly-overcome-video-send-errors-in-facebook-chat-for-iphones-android/"><u>[New] In 2024, Swiftly Overcome Video Send Errors in Facebook Chat for iPhones, Android</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-access-and-organize-fb-pages-easily-with-top-8-tools/"><u>[Updated] Access and Organize FB Pages Easily with Top 8 Tools</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-facebook-media-extractor-music-mode/"><u>[Updated] In 2024, Facebook Media Extractor – Music Mode</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-live-stream-to-file-top-performing-obs-recording-tools/"><u>[Updated] In 2024, Live Stream to File Top Performing OBS Recording Tools</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-seamless-facebook-broadcast-integrating-obs-with-devices/"><u>2024 Approved Seamless Facebook Broadcast Integrating OBS with Devices</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/bright-ideas-maximizing-iphone-camera-exposure-for-2024/"><u>Bright Ideas Maximizing iPhone Camera Exposure for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/elevate-visual-storytelling-in-ar-integrating-downloadable-lut-techniques/"><u>Elevate Visual Storytelling in AR Integrating Downloadable LUT Techniques</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-oneplus-open-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your OnePlus Open</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-tecno-phantom-v-fold-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from Tecno Phantom V Fold Devices</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-is-fake-gps-location-spoofer-a-good-choice-on-nokia-c22-drfone-by-drfone-virtual-android/"><u>In 2024, Is Fake GPS Location Spoofer a Good Choice On Nokia C22? | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-leveraging-video-conferencing-a-guide-to-zipping-up-zoom-and-gmail-integration/"><u>In 2024, Leveraging Video Conferencing A Guide to Zipping Up Zoom and Gmail Integration</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/mastering-video-placement-on-social-media-platforms-for-2024/"><u>Mastering Video Placement on Social Media Platforms for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/step-by-step-guide-to-linking-obs-and-streamlabs-mac/"><u>Step-by-Step Guide to Linking OBS & Streamlabs (Mac)</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/understanding-common-reasons-behind-non-functioning-vehicle-audio-systems/"><u>Understanding Common Reasons Behind Non-Functioning Vehicle Audio Systems</u></a></li>
 </ul></div>
 

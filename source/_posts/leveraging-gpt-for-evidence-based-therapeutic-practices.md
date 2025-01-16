@@ -1,7 +1,7 @@
 ---
 title: Leveraging GPT for Evidence-Based Therapeutic Practices
-date: 2025-01-03T04:53:58.588Z
-updated: 2025-01-10T03:11:45.670Z
+date: 2025-01-14T01:33:05.125Z
+updated: 2025-01-15T19:31:13.219Z
 tags:
   - chatgpt
   - open-ai
@@ -32,7 +32,7 @@ thumbnail: https://thmb.techidaily.com/162b2aac03e354d0551440e420920822fdecda676
  A whole new world of prompt engineering is springing into life, all dedicated to crafting and perfecting the art of AI prompting. But you can skip the tricky bits and improve your AI prompting game with these tips and tricks.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1 Be as Specific as Possible
@@ -57,19 +57,19 @@ thumbnail: https://thmb.techidaily.com/162b2aac03e354d0551440e420920822fdecda676
 
 ![An itinerary generated with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-13-06-24.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  However, I wanted to get further information that wasn't included. So, I asked for hotel recommendations within a customized budget:
 
 ![An expanded answer with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-13-11-12.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  As a general rule of thumb, ask as many questions as you feel necessary to get all the information you're looking for. You may also want to determine[whether premium AI prompts are worth the money](https://www.makeuseof.com/should-you-buy-ai-prompts/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3 Explain What Hasn't Worked When You've Prompted in the Past
 
@@ -83,6 +83,10 @@ thumbnail: https://thmb.techidaily.com/162b2aac03e354d0551440e420920822fdecda676
 
 ![chatgpt logo and message on smartphone feature](https://thmb.techidaily.com/7dd47039b908f15adfac56204ff22ad7becb8a002a35f04201c966ce7066b460.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Ascannio/[Shutterstock](https://www.shutterstock.com/image-photo/chatgpt-chat-bot-screen-seen-on-2237655785)
 
 [Avoiding common mistakes when using AI prompting tools](https://www.makeuseof.com/mistakes-generative-ai-tools/) isn't always easy, but one of the main issues you'll encounter is trying to make the tool multitask. AI programs will often generate your results within a few minutes, but they can only do one thing at a time. If you try to ask too many things in one go, you won't get the results you want.
@@ -92,7 +96,7 @@ thumbnail: https://thmb.techidaily.com/162b2aac03e354d0551440e420920822fdecda676
  Once you've received one prompt's results, you can move on to the next one until you're happy with everything. Doing things this way might seem more time-consuming, but[single-tasking often improves productivity](https://www.makeuseof.com/master-single-tasking-using-technology-improve-productivity/) , and it's the same for your AI, too.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5 Tell Your AI Tool What You Don't Want in Your Answer
@@ -102,10 +106,6 @@ thumbnail: https://thmb.techidaily.com/162b2aac03e354d0551440e420920822fdecda676
  When designing your prompt, be very specific about what you don't want in your results. For example, if you're planning a trip, you may want to mention that you don't want to join tours or would prefer to avoid popular spots.
 
 ![Answer options from ChatGPT, based on what the user did and didn't want ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-13-38-46.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Sometimes, your AI tool will give you multiple options in your answers. You can then choose whichever one works best for you.
 
@@ -142,14 +142,16 @@ thumbnail: https://thmb.techidaily.com/162b2aac03e354d0551440e420920822fdecda676
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-amplify-your-message-facebook-engagement-secrets/"><u>[New] 2024 Approved Amplify Your Message Facebook Engagement Secrets</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-deciphering-disguised-dialogues-with-youtube-viewers/"><u>[New] 2024 Approved Deciphering Disguised Dialogues with YouTube Viewers</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-uncover-collective-media-on-messenger-networks/"><u>[New] 2024 Approved Uncover Collective Media on Messenger Networks</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-elevate-your-presentations-with-voiceovers/"><u>[Updated] In 2024, Elevate Your Presentations with Voiceovers</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/2024-approved-clearer-facebook-audio-addressing-half-volume-problems/"><u>2024 Approved Clearer Facebook Audio Addressing Half-Volume Problems</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/2024-approved-mastering-facebook-visuals-adding-text-boxes-and-dark-bar-overlays/"><u>2024 Approved Mastering Facebook Visuals Adding Text Boxes & Dark Bar Overlays</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlock-apple-id-on-your-apple-iphone-15-pro-without-security-questions-by-drfone-ios/"><u>In 2024, How to Unlock Apple ID On your Apple iPhone 15 Pro without Security Questions?</u></a></li>
-<li><a href="https://windows11.techidaily.com/new-assistant-horizons-after-cortanas-exit/"><u>New Assistant Horizons After Cortana's Exit</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/gif-bmp-gif/"><u>무료 GIF화: BMP 이미지에서 GIF 만들기 - 원형 라이브 웹 도구</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-layout-layers-elevating-your-youtube-videos/"><u>[New] Layout Layers Elevating Your YouTube Videos</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-resolve-ineffective-fb-content-distribution-for-2024/"><u>[New] Resolve Ineffective FB Content Distribution for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-crafting-success-on-facebook-a-beginners-and-pro-guide-compilation/"><u>[Updated] Crafting Success on Facebook A Beginner's & Pro Guide Compilation</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-unifying-social-media-platforms-tiktok-and-fb-connected/"><u>[Updated] In 2024, Unifying Social Media Platforms TikTok & FB Connected</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-whats-encrypted-exploring-the-role-of-facebooks-blue-icon/"><u>[Updated] In 2024, What's Encrypted Exploring the Role of Facebook's Blue Icon?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-6-plus-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-by-drfone-ios/"><u>How to Unlock iPhone 6 Plus With an Apple Watch & What to Do if It Doesnt Work</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-cut-the-clutter-ultimate-guide-to-trimming-down-oversized-tiktoks/"><u>In 2024, Cut the Clutter Ultimate Guide to Trimming Down Oversized TikToks</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-no-fluff-just-facts-the-verdict-on-recordcast/"><u>In 2024, No Fluff, Just Facts The Verdict on RecordCast</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-tailoring-tutorials-for-square-shaped-video-sharing/"><u>In 2024, Tailoring Tutorials for Square-Shaped Video Sharing</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/laravel-and-vuejs-combined-for-a-powerful-ui-dashboard-design-by-updivision-and-creative-tim/"><u>Laravel and Vue.js Combined for a Powerful UI Dashboard Design by Updivision & Creative Tim</u></a></li>
+<li><a href="https://games-able.techidaily.com/master-system-performance-5-techniques-to-limit-steams-ram-usage/"><u>Master System Performance: 5 Techniques to Limit Steam's RAM Usage</u></a></li>
 </ul></div>
 

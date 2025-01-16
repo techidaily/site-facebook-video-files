@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Incorporating Tracks Into Online Visual Narratives\""
-date: 2025-01-03T08:51:50.934Z
-updated: 2025-01-10T14:25:03.956Z
+date: 2025-01-14T03:00:53.210Z
+updated: 2025-01-16T03:35:00.686Z
 tags:
   - ai video
   - ai facebook
@@ -58,6 +58,10 @@ Click done on the right corner to post the music story. Your story will be avail
 
 Note: Currently, you can add music stories on Facebook mobile app only. On a desktop, you can only create a photo story or text story.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: How to Add Music to Facebook Photo/Video Story?
 
 Serene music on a video background adds feeling to the story and makes it more attractive. Music adds life to a boring video and keeps the viewer's attention on it for longer. It is easy to add music to your video or photo story directly in a few simple steps. Here is how to do it:
@@ -72,15 +76,15 @@ After clicking a picture or making a video, tap on the sticker icon. Select the 
 
 ![add music sticker on FB](https://images.wondershare.com/filmora/article-images/add-music-sticker-facebook.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  **Step 3: Add music**   **and**   **post**
 
 After tapping on the music sticker, click on the song you want to play with your story. When you are done editing the sticker and your story, click   **Done** on the top right corner to post it.
 
 ![add music sticker](https://images.wondershare.com/filmora/article-images/add-music-with-facebook-music-sticker.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: How to Add My Own Music to Facebook Story?
 
@@ -117,7 +121,7 @@ _For more details about editing videos on Filmora, you can check [How to Edit Vi
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 4: How to Customize the Appearance of Your Facebook Story Song?
@@ -137,10 +141,6 @@ Tap and hold the sticker; move your finger on the screen to place the sticker an
 A user can also select elements from the given options. You can add a poll, emojis, and GIFs to interact with viewers. Click on done on the top right corner to post.
 
 ![edit FB music story lyric](https://images.wondershare.com/filmora/article-images/edit-facebook-music-sticker-color-elements.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## FAQs About Adding Music to Facebook Story
 
@@ -330,10 +330,6 @@ Click done on the right corner to post the music story. Your story will be avail
 
 ![Edit FB Music](https://images.wondershare.com/filmora/article-images/edit-facebook-music-sticker.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Note: Currently, you can add music stories on Facebook mobile app only. On a desktop, you can only create a photo story or text story.
 
 ## Part 2: How to Add Music to Facebook Photo/Video Story?
@@ -357,11 +353,7 @@ After tapping on the music sticker, click on the song you want to play with your
 ![add music sticker](https://images.wondershare.com/filmora/article-images/add-music-with-facebook-music-sticker.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 3: How to Add My Own Music to Facebook Story?
@@ -398,10 +390,6 @@ _For more details about editing videos on Filmora, you can check [How to Edit Vi
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 4: How to Customize the Appearance of Your Facebook Story Song?
 
 If you don't know already, you can also edit the music sticker on your story to make it look more attractive. There are various features such as editing the music sticker image, changing color, selecting the 30-second part of the song, and enabling lyrics.
@@ -436,10 +424,6 @@ Facebook story feature is one of the best options that one can use to gain visib
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Shanoon Cox
 
 Shanoon Cox is a writer and a lover of all things video.
@@ -472,6 +456,10 @@ When you open the Facebook Desktop or mobile app, you will see   **Create Story*
 When creating a story, you will see a music option on the top along with text and boomerang; click on the music icon. You have the option to browse through the music to select one that you like or simply write the song's name in the search bar. With the song's name, you will see lyrics written on the side, which tells you to post particular music with its lyrics.
 
 ![Add music to FB Story on Mobile](https://images.wondershare.com/filmora/article-images/add-music-to-facebook-story.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  **Step 3 : Edit music sticker and post**
 
@@ -519,10 +507,6 @@ Drag video to timeline, hover the cursor over the audio and video file until a +
 
 ![edit FB music story](https://images.wondershare.com/filmora/article-images/add-facebook-story-video-filmora.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 3: Edit the audio**
 
 Double click on the audio file within the panel given on the top of the Filmora screen. You will find a few options to edit audio, such as fade-in, fade-out, equalizer, volume, etc.
@@ -530,7 +514,7 @@ Double click on the audio file within the panel given on the top of the Filmora 
 ![edit FB music story](https://images.wondershare.com/filmora/article-images/edit-facebook-story-music-filmora.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  **Step 4: Export edited file**
@@ -545,6 +529,10 @@ _For more details about editing videos on Filmora, you can check [How to Edit Vi
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 4: How to Customize the Appearance of Your Facebook Story Song?
 
 If you don't know already, you can also edit the music sticker on your story to make it look more attractive. There are various features such as editing the music sticker image, changing color, selecting the 30-second part of the song, and enabling lyrics.
@@ -555,6 +543,10 @@ You can click on the play button after selecting the song, and it will appear in
 
 ![enable FB music story lyric](https://images.wondershare.com/filmora/article-images/enable-facebook-music-sticker-lyric-mode.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  **Step**  2: Change the color **and**   **add elements**
 
 Tap and hold the sticker; move your finger on the screen to place the sticker anywhere you like. You can also click on the rainbow-colored dot on the screen to change the background and lyrics color.
@@ -562,6 +554,10 @@ Tap and hold the sticker; move your finger on the screen to place the sticker an
 A user can also select elements from the given options. You can add a poll, emojis, and GIFs to interact with viewers. Click on done on the top right corner to post.
 
 ![edit FB music story lyric](https://images.wondershare.com/filmora/article-images/edit-facebook-music-sticker-color-elements.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## FAQs About Adding Music to Facebook Story
 
@@ -578,6 +574,10 @@ There are a few ways to fix the music sticker issue if it is not popping up in y
 Facebook story feature is one of the best options that one can use to gain visibility and increase interaction. Everyone should know how to add music to Facebook story as it makes the viewer focus more on your story content. We are sure you must have learned how to add music to enhance your stories.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Shanoon Cox
 
@@ -606,16 +606,20 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-unlock-content-premier-iphoneipad-apps-for-fb-video-loading/"><u>[New] 2024 Approved Unlock Content Premier iPhone/iPad Apps for FB Video Loading</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-how-to-do-a-poll-on-instagram-stories-a-complete-guide-for-2024/"><u>[New] How to Do a Poll on Instagram Stories - a Complete Guide for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-journey-to-wellness-discovering-the-best-yoga-vloggers/"><u>[Updated] 2024 Approved Journey to Wellness - Discovering the Best Yoga Vloggers</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-enlarge-your-feed-footprint-with-full-screen-videos/"><u>[Updated] In 2024, Enlarge Your Feed Footprint with Full-Screen Videos</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-the-unboxing-gurus-toolkit-amplifying-video-likes-on-tiktok-for-2024/"><u>[Updated] The Unboxing Guru's Toolkit Amplifying Video Likes on TikTok for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/all-inclusive-understanding-on-how-openai-works-what-you-need-to-know/"><u>All-Inclusive Understanding on How OpenAI Works - What You Need to Know</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-a-detailed-vpna-fake-gps-location-free-review-on-infinix-note-30-vip-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed VPNa Fake GPS Location Free Review On Infinix Note 30 VIP | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/in-2024-unleash-your-fb-potential-a-strategic-plan-for-more-likes-and-shares/"><u>In 2024, Unleash Your FB Potential A Strategic Plan for More Likes and Shares</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/secret-social-scrolls-best-kept-facebook-memes-for-2024/"><u>Secret Social Scrolls Best-Kept Facebook Memes for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-real-eco-friendliness-a-deep-dive-into-electric-vehicle-sustainability/"><u>The Real 'Eco-Friendliness': A Deep Dive Into Electric Vehicle Sustainability</u></a></li>
-<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-honor-v-purse-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Honor V Purse Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-grasp-the-art-of-steadiness-in-photography/"><u>[New] 2024 Approved Grasp the Art of Steadiness in Photography</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-troubleshooting-tips-unearth-hidden-facebook-content/"><u>[New] 2024 Approved Troubleshooting Tips Unearth Hidden Facebook Content</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-crafting-spectaculous-fb-ad-videos-with-creativity/"><u>[Updated] 2024 Approved Crafting Spectaculous Fb Ad Videos with Creativity</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-digital-footprints-lead-to-facebook-video-gold-for-2024/"><u>[Updated] Digital Footprints Lead to Facebook Video Gold for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-movavi-plus-unveiled-the-latest-edition/"><u>[Updated] In 2024, Movavi Plus Unveiled – The Latest Edition</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-the-blueprint-to-youtube-wealth-smart-strategies-for-facebook-video-marketing/"><u>2024 Approved The Blueprint to YouTube Wealth Smart Strategies for Facebook Video Marketing</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/crucial-8-points-to-ponder-prior-to-investing-in-a-desktop-workstation/"><u>Crucial 8 Points to Ponder Prior to Investing in a Desktop Workstation</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/digital-pioneers-guide-combining-pcmac-dslr-for-engaging-streams/"><u>Digital Pioneer's Guide Combining PC/Mac, DSLR for Engaging Streams</u></a></li>
+<li><a href="https://article-posts.techidaily.com/expert-advice-best-mobile-melody-crafters/"><u>Expert Advice Best Mobile Melody Crafters</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/gaming-evolved-streaming-xbox-content-on-facebook-for-2024/"><u>Gaming Evolved Streaming Xbox Content on Facebook for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-navigate-the-social-sphere-10-techniques-for-triumphant-fb-growth/"><u>In 2024, Navigate the Social Sphere 10 Techniques for Triumphant FB Growth</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-blueprint-to-acquire-clean-images/"><u>In 2024, The Blueprint to Acquire Clean Images</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unlocking-vlc-potentials-the-top-10-undiscovered-features/"><u>In 2024, Unlocking VLC Potentials The Top 10 Undiscovered Features</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/ultimate-guide-blu-ray-extraction-using-handbrake-step-by-step-for-windows-and-mac/"><u>Ultimate Guide: Blu-Ray Extraction Using Handbrake - Step by Step for Windows & Mac</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-reinstall-your-drivers-in-windows-11-and-10-by-drivereasy-guide/"><u>Use Device Manager to reinstall your drivers in Windows 11 & 10</u></a></li>
 </ul></div>
 

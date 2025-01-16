@@ -1,7 +1,7 @@
 ---
 title: "PC Gamers Rejoice: God of War FPS Set to Launch Soon"
-date: 2025-01-09T15:02:14.466Z
-updated: 2025-01-10T14:24:55.477Z
+date: 2025-01-08T20:25:43.744Z
+updated: 2025-01-16T07:06:27.055Z
 tags:
   - win11
   - win10
@@ -18,10 +18,6 @@ thumbnail: https://thmb.techidaily.com/a13a6e974ab2cc36089a6059bc5652aa7fea08489
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/civ-6-bot-launching-featured.jpg)
 
  Looks like the recent update of[Civilization VI](https://www.epicgames.com/store/en-US/p/sid-meiers-civilization-vi?epic%5Fcreator%5Fid=28725b529b5346a38a080b6a920aa97a&epic%5Fgame%5Fid=cd14dcaa4f3443f19f7169a980559c62) didn’t go so well, and many gamers start reporting a**game not launching** issue. But annoying as the problem may be, it might not be so hard to fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -46,7 +42,15 @@ Here’s how to do it on the Epic Games client:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/epic-1-2.jpg)
 2. Click the**ellipses** at the bottom right corner of Sid Meier’s Civilization VI. Then select**Verify** and wait for the process to complete.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/civ-6-verify.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Now you can try again and see if Civ 6 launches.
 
@@ -64,7 +68,7 @@ If this doesn’t help, you can take a look at the next fix below.
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
@@ -76,6 +80,10 @@ If this doesn’t help, you can take a look at the next fix below.
 
  If the latest graphics driver doesn’t do the charm, you can check out the next fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 3: Install all Windows updates
 
  Civ 6 has been out for several years now, so it’s possible it’ll run into compatibility issues with the latest Windows 10\. Microsoft releases system updates for Windows 10 on a regular basis. It’s important to**make sure you install all the system updates** .
@@ -86,15 +94,15 @@ If this doesn’t help, you can take a look at the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  To confirm you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** .
 
  Once you’ve installed all the system updates, check if you can get Civ 6 working now.
 
 If this solution doesn’t help, you can continue to the next one.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Perform a clean boot
 
@@ -104,16 +112,8 @@ If this solution doesn’t help, you can continue to the next one.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/msconfig-clean-boot-1.jpg)
 2. In the pop-up window, navigate to the **Services**  tab and check the box next to **Hide all Microsoft services** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-hide-all-windows-services.jpg)
 3. **Uncheck**  all the services EXCEPT those belong to your hardware manufacturers, such as **Realtek** , **AMD** , **NVIDIA** ,**Logitech** and **Intel** . Then click **OK**  to apply the changes.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-disable-services-except-gpu-audio.jpg)
 4. On your keyboard, press **Ctrl** , **Shift**  and **Esc**  at the same time to open Task Manager, then navigate to the **Startup**  tab.  
@@ -123,10 +123,6 @@ If this solution doesn’t help, you can continue to the next one.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup-disable-startup-program.jpg)
 6. Restart your PC.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Now you can try to launch Civ 6\. If it’s working this time, repeat these steps and disable only half of the services and programs to root out the offenders.
 
@@ -143,7 +139,7 @@ If a clean boot doesn’t help, you can check out the next fix.
  You can also uninstall all the Visual C++ redistributable in**Programs and Features** , then reinstall them one by one. Be sure to choose the latest 64-bit installer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 6: Switch your DirectX version
@@ -151,6 +147,10 @@ If a clean boot doesn’t help, you can check out the next fix.
  According to some,**running Civ 6 on another version of DirectX** might be a potential fix. Normally you’re prompted to select the DirectX version at startup. But you can also use the .exe file directly. By default, you can the .exe files in _C:\\Program Files (x86)\\Steam\\steamapps\\common\\Sid Meier’s Civilization VI\\Base\\Binaries\\Win64Steam_ . Use_CivilizationVI\_DX12.exe_ for DirectX 12 and_CivilizationVI.exe_ for DirectX 11.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/civ-6-directx.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -173,17 +173,21 @@ If a clean boot doesn’t help, you can check out the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-easily-create-compelling-fb-video-ads-with-no-cost-kit/"><u>[New] In 2024, Easily Create Compelling FB Video Ads with No-Cost Kit</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-mastering-the-art-of-audio-with-zoom-your-complete-guidebook/"><u>[New] In 2024, Mastering the Art of Audio with Zoom Your Complete Guidebook</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-sculpting-digital-landscapes-with-windows-10s-latest-features/"><u>[New] Sculpting Digital Landscapes with Windows 10'S Latest Features</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-the-leading-selection-of-tools-to-download-facebook-lite-videos/"><u>[New] The Leading Selection of Tools to Download Facebook Lite Videos</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-editorial-expertise-counteract-dimness-in-iphone-hdr-with-four-premiere-techniques/"><u>[Updated] [Editorial Expertise] Counteract Dimness in iPhone HDR with Four Premiere Techniques</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-exclusive-insights-into-top-8-facebook-film-extractors/"><u>[Updated] 2024 Approved Exclusive Insights Into Top 8 Facebook Film Extractors</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-maximizing-profile-video-attraction-strategies/"><u>[Updated] 2024 Approved Maximizing Profile Video Attraction Strategies</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-unlock-facebook-ad-success-with-these-3-adapted-writing-techniques-for-2024/"><u>[Updated] Unlock Facebook Ad Success with These 3 Adapted Writing Techniques for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-unveiling-the-latest-in-sony-blu-ray-s6700-for-2024/"><u>[Updated] Unveiling the Latest in Sony Blu-Ray S6700 for 2024</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/1728501682523-acronis/"><u>最善の無料 Acronis クローニングアプリケーション - 選択肢を比較してみましょう</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/decoding-facebook-capturing-and-keeping-status-videos-for-2024/"><u>Decoding Facebook Capturing and Keeping Status Videos for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/from-frame-to-script-innovative-ways-of-integrating-text-in-images-for-2024/"><u>From Frame to Script Innovative Ways of Integrating Text in Images for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-smart-strategies-for-entrepreneurial-video-marketing/"><u>[New] 2024 Approved SMART Strategies for Entrepreneurial Video Marketing</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/irect-youtube-video-capture-guide/"><u>[New] Direct YouTube Video Capture Guide</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-get-facebook-links-no-cash-required/"><u>[New] In 2024, Get Facebook Links, No Cash Required</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-scooping-tech-step-by-step-guide-to-screen-recording/"><u>[New] Scooping Tech Step-by-Step Guide to Screen Recording</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-unveiling-the-steps-for-instant-video-playback-from-youtube-to-facebook-pages-for-2024/"><u>[New] Unveiling the Steps for Instant Video Playback From Youtube to Facebook Pages for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-webscraper-pro-facebook-live-grabs/"><u>[Updated] 2024 Approved WebScraper Pro Facebook Live Grabs</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-concealed-chorus-capturers-6-discreet-audio-recorders-for-devices/"><u>[Updated] Concealed Chorus Capturers 6 Discreet Audio Recorders for Devices</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-crucial-techniques-for-documenting-lol-wars/"><u>[Updated] Crucial Techniques for Documenting LOL Wars</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-social-media-savvy-capturing-spherical-photos-with-iphone/"><u>2024 Approved Social Media Savvy Capturing Spherical Photos with iPhone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/a-comprehensive-look-at-benq-sw320s-4k-features/"><u>A Comprehensive Look at BenQ SW320's 4K Features</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/enhanced-connectivity-sending-social-media-content-between-facebook-and-whatsapp-for-2024/"><u>Enhanced Connectivity Sending Social Media Content Between Facebook & WhatsApp for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-does-chatgpt-adapt-based-on-customer-dialogues/"><u>How Does ChatGPT Adapt Based On Customer Dialogues?</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-airborne-broadcasting-how-to-stream-with-dji-drones/"><u>In 2024, Airborne Broadcasting How to Stream with DJI Drones</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-15-apps-to-hack-wifi-password-on-realme-v30-by-drfone-android/"><u>In 2024, Top 15 Apps To Hack WiFi Password On Realme V30</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/navigating-to-facebooks-story-archives-quickly/"><u>Navigating to Facebook's Story Archives Quickly</u></a></li>
+<li><a href="https://techidaily.com/video-file-repair-how-to-fix-corrupted-video-files-of-xiaomi-redmi-k70-by-stellar-video-repair-mobile-video-repair/"><u>Video File Repair - How to Fix Corrupted video files of Xiaomi Redmi K70?</u></a></li>
 </ul></div>
 
