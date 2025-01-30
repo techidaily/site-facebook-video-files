@@ -1,7 +1,7 @@
 ---
 title: "Quick Fixes for Unheard Music: USB Headphone Problems Resolved on Windows 7"
-date: 2025-01-17T21:22:16.653Z
-updated: 2025-01-22T05:30:36.048Z
+date: 2025-01-27T17:50:27.126Z
+updated: 2025-01-29T16:06:26.926Z
 tags:
   - win11
   - win10
@@ -31,10 +31,6 @@ The headphone jack is not working on Windows 10 after an upgrade or performing a
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 1: Plug the headphone in and restart your computer
 
  Simple as this fix seems, it did help many people out. Only two steps are required:
@@ -57,17 +53,9 @@ The headphone jack is not working on Windows 10 after an upgrade or performing a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-101.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) If your headphone is not listed n the**Playback** tab, right-click the blank area and select**Show Disabled Devices** . Then your device should show up.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/02/image-22.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) Right-click your headphone and select**Enabled** .
 
@@ -76,6 +64,10 @@ The headphone jack is not working on Windows 10 after an upgrade or performing a
  Once complete, check to see if your headphone problem goes away. In case it still remains, please head over to Fix 3.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Fix 3: Set your headphone as the default device**
 
@@ -91,17 +83,21 @@ The headphone jack is not working on Windows 10 after an upgrade or performing a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5adee837b737e.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Click **Sound** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5adee85f51f54.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  5) On the**Playback** tab, select**Headphones** and click**Set default** .
 
 ![Headphones](https://images.drivereasy.com/wp-content/uploads/2016/08/img_57a1b8408bb79.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Note** : You may see  “Speaker/Headphones” instead of just “Headphones”. If that’s the case, select**Speakers/Headphones** and click**Set Default** .
 
@@ -112,6 +108,10 @@ The headphone jack is not working on Windows 10 after an upgrade or performing a
  Still no luck? Don’t panic, let’s take a stab at the next fix.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Fix 4: Update your audio driver**
 
@@ -131,10 +131,6 @@ The headphone jack is not working on Windows 10 after an upgrade or performing a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-505.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Note:** you can do it for free if you like, but it’s partly manual.
 
  If you have any problems using**Driver Easy Pro** to update your driver, please feel free to email us at **<support@drivereasy.com>** . We’re always here to help.
@@ -142,10 +138,6 @@ The headphone jack is not working on Windows 10 after an upgrade or performing a
  Check to see if you continue to experience the headphone not working issue. If you do, move on to Fix 5.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Fix 5: Change the settings in Realtek HD Audio Manager**
 
@@ -159,6 +151,10 @@ The headphone jack is not working on Windows 10 after an upgrade or performing a
 
 ![Realtek HD Audio Manager](https://images.drivereasy.com/wp-content/uploads/2016/08/img_57a1bb3f18c6d.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Check**Disable front panel jack detection** .
 
 ![Disable front panel jack detection](https://images.drivereasy.com/wp-content/uploads/2016/08/img_57a1c10cd4f32.png)
@@ -168,6 +164,10 @@ The headphone jack is not working on Windows 10 after an upgrade or performing a
 If this fix didn’t help, proceed to the next one.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Fix 6: Uninstall the IDT audio device**
 
@@ -179,10 +179,6 @@ If this fix didn’t help, proceed to the next one.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5adee74b8283b.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Change your view to **Large icons** and click **Programs and Features**  .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5adee88ed0afe.jpg)
@@ -193,12 +189,16 @@ If this fix didn’t help, proceed to the next one.
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 7: Switch to ChromeOS
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/03/ChromeOSDesktop.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Windows is a very old technology. Sure, Windows 10 is relatively new, but it’s still just the latest iteration of a decades-old operating system, designed for a bygone era (pre-internet).
@@ -245,20 +245,19 @@ And that’s just the start of the benefits…
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-cutting-edge-convenience-smartwatch-mac-access-for-2024/"><u>[New] Cutting-Edge Convenience Smartwatch, Mac Access for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-frame-by-frame-top-picks-for-home-studios/"><u>[New] Frame by Frame Top Picks for Home Studios</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-maximize-page-reach-on-facebook/"><u>[New] Maximize Page Reach on Facebook</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-securely-snap-fb-video-conversations-4-methods/"><u>[New] Securely Snap FB Video Conversations [4 Methods]</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-achieve-visual-dominance-with-facebooks-full-screen-capability-for-2024/"><u>[Updated] Achieve Visual Dominance with Facebook's Full-Screen Capability for 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-facebooks-mystery-the-blue-icon-in-messaging/"><u>[Updated] In 2024, Facebook's Mystery The Blue Icon in Messaging</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-stop-and-start-strategies-fb-livestream-recovery-methods-for-2024/"><u>[Updated] Stop and Start Strategies FB Livestream Recovery Methods for 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/2024-approved-uniting-social-media-and-television-with-fb-live/"><u>2024 Approved Uniting Social Media & Television with FB Live</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/2024-approved-whats-your-payout-per-view-on-sponsored-content-in-youtube/"><u>2024 Approved What's Your Payout Per View on Sponsored Content in Youtube?</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/24-earning-insights-average-adsense-earning-for-every-1000-youtube-views/"><u>In 2024, Earning Insights Average AdSense Earning for Every 1,000 YouTube Views</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/navigating-social-feed-anomalies-missing-video-ideas-for-2024/"><u>Navigating Social Feed Anomalies Missing Video Ideas for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-tech-scoop-in-depth-reviews-from-toms-equipment-examiner/"><u>The Tech Scoop: In-Depth Reviews From Tom’s Equipment Examiner</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1723862775724-toms-computer-components-in-depth-reviews-and-insights/"><u>Tom's Computer Components: In-Depth Reviews and Insights</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unlocking-the-power-of-ai-servicenows-essential-four-core-tenets-explained-boost-your-enterprise-success/"><u>Unlocking the Power of AI: ServiceNow's Essential Four Core Tenets Explained - Boost Your Enterprise Success!</u></a></li>
-<li><a href="https://network-issues.techidaily.com/win11-display-anomaly-cleared/"><u>Win11 Display Anomaly Cleared</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-quick-online-mp3-generator-from-fb-videos-2023-updates/"><u>[New] 2024 Approved Quick Online MP3 Generator From FB Videos, 2023 Updates</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-exposure-boost-for-your-social-media-visuals-for-2024/"><u>[New] Exposure Boost for Your Social Media Visuals for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-achieve-perfect-proportions-in-your-fb-videos-through-ratio-knowledge/"><u>[Updated] 2024 Approved Achieve Perfect Proportions in Your FB Videos Through Ratio Knowledge</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-broad-spectrum-of-uavs/"><u>[Updated] Broad Spectrum of UAVs</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-harness-the-power-of-fb-lives-selecting-the-top-5-downloading-apps-for-2024/"><u>[Updated] Harness the Power of FB Lives Selecting the Top 5 Downloading Apps for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-television-transformation-via-social-media-platforms-like-fb-live/"><u>[Updated] In 2024, Television Transformation via Social Media Platforms Like FB Live</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-melody-seeker-find-mp3-on-fb-for-2024/"><u>[Updated] Melody Seeker Find MP3 on FB for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-the-ultimate-selection-for-captivating-youtube-content-starts/"><u>[Updated] The Ultimate Selection for Captivating YouTube Content Starts</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/decoding-truthgpt-coin-insights-into-its-authenticity-as-a-digital-asset/"><u>Decoding TruthGPT Coin: Insights Into Its Authenticity as a Digital Asset</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-voice-input-problems-on-your-iphone-discover-5-essential-steps/"><u>Fixing Voice Input Problems on Your iPhone – Discover 5 Essential Steps</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-google-play-location-on-tecno-pop-7-pro-drfone-by-drfone-virtual-android/"><u>How to Change Google Play Location On Tecno Pop 7 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-infinix-note-30-vip-racing-edition-drfone-by-drfone-virtual-android/"><u>In 2024, Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Infinix Note 30 VIP Racing Edition | Dr.fone</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/step-by-step-tutorial-on-copying-content-from-samsung-galaxy-s21-smartphone-to-windows-or-macpc/"><u>Step-by-Step Tutorial on Copying Content From Samsung Galaxy S21 Smartphone to Windows or MacPC</u></a></li>
+<li><a href="https://techidaily.com/vivo-v27-pro-video-recovery-recover-deleted-videos-from-vivo-v27-pro-by-fonelab-android-recover-video/"><u>Vivo V27 Pro Video Recovery - Recover Deleted Videos from Vivo V27 Pro</u></a></li>
 </ul></div>
 

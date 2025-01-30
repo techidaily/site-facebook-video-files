@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Top 5 Methods  Capturing Facebook Stories on Devices\""
-date: 2025-01-21T02:01:36.401Z
-updated: 2025-01-22T10:20:31.386Z
+date: 2025-01-25T23:29:52.492Z
+updated: 2025-01-29T17:28:00.906Z
 tags:
   - ai video
   - ai facebook
@@ -65,7 +65,7 @@ If you want to keep your Facebook stories around for longer than a day, you can 
 ![filmora12](https://images.wondershare.com/filmora/12-filmora/img/filmora12-01.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\.  Downvideo.net
@@ -128,505 +128,9 @@ Paste the URL in the box and click **download**. Select **download in normal qua
 
 Chrome extensions facilitate Chrome browsing in many ways. Extensions usually help in using features that are not usable in their original application. For instance, if you want to download a story from Facebook, there is no such option on Facebook. So, you might have to use the Facebook story downloader chrome extension to get this done. We have handpicked the following two best extensions for you. Let’s explore them.
 
-### 1\.  Story Saver
-
-Story saver allows you to download and save Facebook stories easily. In addition to Facebook, this extension can also be used to save stories from Instagram and Whatsapp. Let’s see how you can do it by following simple steps.
-
-**Step 1: Install the extension**
-
-Open Chrome web store and search for the extension. Click **Add to Chrome** and select **add extension** when a pop-up message appears.
-
-**Step 2: Open Facebook story**
-
-Navigate to the webpage displaying the story you want to download.
-
-**Step 3: Download story**
-
-Click on the extension manager at the top right corner—select **download symbol** in Story Saver extension box.
-
-### 2\.  Download Facebook Videos
-
-This is another user-friendly extension to download Facebook stories and videos. It enables you to download and save Facebook stories, GIFs, photos, and thumbnails posted on pages and accounts. Want to know how this extension works? If yes, look at the steps below.
-
-**Step 1: Download extension**
-
-Access Chrome Web Store and search for an extension. Click **add to chrome** to install it.
-
-**Step 2: Open Facebook through the extension**
-
-Click on the installed extension and select **open Facebook**.
-
-**Step 3: Download**
-
-Select the **download** button at the top right corner of the video—select options from the quality.
-
-## Part 3: How to Download Facebook Stories on Mobile?
-
-#### 1\. Save Story for Facebook Stories-Download
-
-This is a super-fast and efficient application for downloading Facebook stories. It is incorporated with a user-friendly interface. Plus, its dark theme is also likely to fascinate users. It allows video downloading at a fast speed and in high quality. The app is trendy and can be downloaded from Google Playstore. Follow the simple steps to process Facebook stories in this application.
-
-**Step 1: Download the application and launch it**
-
-Open Google Playstore and press the **install** button. Click on the application’s icon to launch it.
-
-**Step 2: Download desired story**
-
-Log in to Facebook in the app and open the story you want to download. Click on the two dots at the bottom and select download.
-
-#### 2\. Story Saver FB
-
-Story saver is a secured platform for downloading Facebook stories. It allows you to save videos on your mobile device with just a few clicks. The process is easy and fast in this application. It supports videos in High-definition. Enjoy downloading Facebook stories by following the step-by-step guide.
-
-**Step 1: Download software and configure**
-
-Click install after navigating the application on Google Playstore. Launch app after installation is completed.
-
-**Step 2: Open in-built Facebook video downloader**
-
-Click on the Facebook downloader from the menu on the application’s home page. Press the yellow download button with the story desired Facebook story opened.
-
-#### 3\. Facebook Story Saver
-
-Facebook is one of the lightweight applications that allow mobile users to save stories from Facebook. It incorporates a modern and simple interface. So, the layman can also use this application on their smartphone. All you have to do is copy-paste the link of the desired Facebook story to download the video.
-
-**Step 1: Download and launch the application**
-
-Install the application and click on its **icon** to launch it.
-
-**Note:** App can be also be directly opened in the Google Playstore by clicking on the **open** option.
-
-**Step 2: Copy-paste the link**
-
-Right-click on the Facebook story and select copy link address. Paste the copied link in the app to download the video.
-
-## Part 4: How to Download a Facebook Story with Music?
-
-There is no default option to download or save stories on Facebook. So, you have to use third-party apps for downloading Facebook stories. However, some apps only allow you to download the visual in the story without its audio. If you are looking for a Facebook story download with music, the following section will help you.
-
-**Step 1: Install story saver extension**
-
-Find Story Saver extension on Chrome web store **and click add to chrome.**
-
-**Step 2: Use the extension to download the video**
-
-Open Click on the extension symbol at the top right corner of the screen. Click save button
-
-**Step 3: Locate the file**
-
-Open the download folder and play the video in your media player to check the video with music.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-
-## Part 5: How to Download Facebook Stories Anonymously?
-
-External applications can help you download Facebook stories anonymously. All you need is a trusted application on your phone or PC to save FB stories. One such notable platform is a friendly social browser. Here’s how you can save stories anonymously using this application.
-
-**Step 1: Download the application**
-
-Search Friendly Social Browser on your phone or PC to get started.
-
-**Step 2: Download Story**
-
-Tap any video or photo in Facebook Story and click download
-
-![Filmora logo](https://images.wondershare.com/filmora/logo_icon/wondershare-filmora-logo-horizontal.png) ![filmora product interface](https://images.wondershare.com/filmora/images/common/filmora-product-banner.png)
-
-### Best Tool to Edit Facebook Videos - Filmora
-
-* Cut, trim, split, rotate Facebook videos easily
-* Add filters, background music, magic effects
-* [Edit the video](https://tools.techidaily.com/wondershare/filmora/download/) with thousands tools and templates
-* Export to MP4, MOV, MKV, GIF and multiple formats
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For Win 7 or later (64-bit)
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For macOS 10.12 or later
-
-![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg) Secure Download
-
-[![iOS](https://images.wondershare.com/assets/images-common/badges-apple.svg)](https://app.adjust.com/w06dr6m%5F19za1f6) [![Android](https://images.wondershare.com/assets/images-common/badges-google.svg)](https://app.adjust.com/w06dr6m%5F19za1f6)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-[Try It Free >>](https://tools.techidaily.com/wondershare/filmora/download/)
-
-## Conclusion
-
-You may like a photo or video in a Facebook story to save it on your PC or smartphone. Facebook does not allow its users to download stories by default. So, **Facebook story download** can be challenging. We have handpicked few easy and simple methods to help you in this process. Options covered in this article mainly include web-based tools, Chrome extensions, and third-party applications. However, all of them do not allow to save stories from private accounts. Thus, choose the tool that best fits your preferences and start downloading your favorite stories.
-
-![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-Shanoon Cox
-
-Shanoon Cox is a writer and a lover of all things video.
-
-Follow @Shanoon Cox
-
-##### Shanoon Cox
-
- Mar 27, 2024• Proven solutions
-
-Facebook is one of the most popular social media platforms out there today, used by billions of people around the world to stay connected. One feature of Facebook that you may not be familiar with is called "stories," which are essentially photos or videos that can be shared for a 24-hour period before they disappear.
-
-If you want to keep your Facebook stories around for longer than a day, you can do so by downloading them. Let’s dive in together to know more about downloading Facebook stories.
-
-* [Part 1: Download Facebook Story Online](#part1)
-* [Part 2: Download Facebook Story with Chrome Extensions](#part2)
-* [Part 3: Download Facebook Story on Mobile](#part3)
-* [Part 4: Download a Facebook Story with Music](#part4)
-* [Part 5: Download Facebook Story Anonymously](#part5)
-
----
-
-## Part 1: How to Download Facebook Story Online?
-
-**Facebook Story download** becomes very easy with online tools. They enable you to download stories without signing up or registering an account. Plus, you also don’t need any external application. If you are interested in knowing more about Facebook story download online, we have handpicked the following three online tools. Here is how you can use them to download Facebook stories.
-
-![filmora logo](https://neveragain.allstatics.com/2019/assets/icon/logo/filmora-horizontal.svg)
-
-## A cross-platform for making videos anywhere for all creators
-
-![filmora-02](https://images.wondershare.com/filmora/filmora12/side_brand_filmora12.png)
-
- Why your video editing isn't good enough? How about some creative inspo?
-
-* 100 Million+ Users
-* 150+ Countries and Regions
-* 4 Million+ Social Media Followers
-* 5 Million+ Stock Media for Use
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-[Try It Free](https://apps.apple.com/app/apple-store/id1459336970?pt=169436&ct=official-website&mt=8)
-
-[Try It Free](https://app.adjust.com/b0k9hf2%5F4bsu85t)
-
- \* Secure Download
-
-![filmora12](https://images.wondershare.com/filmora/12-filmora/img/filmora12-01.png)
-
-### 1\.  Downvideo.net
-
-Downvideo.net enables you to download Facebook stories with just a few clicks. This online tool is accessible for everyone and is free of cost. You need access to its webpage to begin downloading stories from Facebook. The simple steps below summarize how you can use Downvideo.net.
-
-**Step 1: Access Webpage**
-
-Type the URL <https://downvideo.net/> in your browser to access the webpage of the online downloader.
-
-**Step 2: Paste the Facebook video link and download**
-
-Copy the link from the Facebook window showing a story. Paste the link in the link box and click **download.**
-
-**Step 3: Choose video quality**
-
-Select the desired video quality for downloading the Facebook story.
-
-![how to download facebook story](https://images.wondershare.com/filmora/article-images/2022/03/download-facebook-story-1.jpg)
-
-### 2\.  Fbdownloader.net
-
-It’s another fast and efficient Facebook video downloader. You can use it to download Facebook videos that you want to save on your device for viewing offline. This tool works comfortably with all internet browsers. Want to learn to download videos with fbdownloader.net? Follow the step-by-step guide.
-
-**Step 1: Copy the story link**
-
-Right-click on the story and select the **copy link** from the list of options.
-
-**Step 2: Open Fbdownloader.net**
-
-Access the Fbdownloader.net website and paste the story link in the box.
-
-**Step 3: Download the video**
-
-Click on the **go** and wait for the software to process the video. Select the desired video quality
-
-Note: Software may not allow you to download stories from private accounts. So, only video links copied from the public account can be processed.
-
-![how to download facebook story - Fbdownloader.net](https://images.wondershare.com/filmora/article-images/2022/03/download-facebook-story-2.jpg)
-
-### 3\.  Getvid
-
-It is one of the best online free tools to download Facebook stories and save them in MP4 format. It incorporates a simple yet intuitive interface. It takes only a couple of minutes to download a Facebook story using Getvid. Follow the simple steps below to know to save Facebook stories through this software.
-
-**Step 1: Launch Getvid**
-
-Open the Getvid webpage in your browser
-
-**Step 2: Copy URL**
-
-Open Facebook story and copy its link from the URL bar
-
-**Step 3: Download**
-
-Paste the URL in the box and click **download**. Select **download in normal quality** to get the story video.
-
-![how to download facebook story - getvid](https://images.wondershare.com/filmora/article-images/2022/03/download-facebook-story-3.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-## Part 2: How to Download Facebook Story with Chrome Extensions?
-
-Chrome extensions facilitate Chrome browsing in many ways. Extensions usually help in using features that are not usable in their original application. For instance, if you want to download a story from Facebook, there is no such option on Facebook. So, you might have to use the Facebook story downloader chrome extension to get this done. We have handpicked the following two best extensions for you. Let’s explore them.
-
-### 1\.  Story Saver
-
-Story saver allows you to download and save Facebook stories easily. In addition to Facebook, this extension can also be used to save stories from Instagram and Whatsapp. Let’s see how you can do it by following simple steps.
-
-**Step 1: Install the extension**
-
-Open Chrome web store and search for the extension. Click **Add to Chrome** and select **add extension** when a pop-up message appears.
-
-**Step 2: Open Facebook story**
-
-Navigate to the webpage displaying the story you want to download.
-
-**Step 3: Download story**
-
-Click on the extension manager at the top right corner—select **download symbol** in Story Saver extension box.
-
-### 2\.  Download Facebook Videos
-
-This is another user-friendly extension to download Facebook stories and videos. It enables you to download and save Facebook stories, GIFs, photos, and thumbnails posted on pages and accounts. Want to know how this extension works? If yes, look at the steps below.
-
-**Step 1: Download extension**
-
-Access Chrome Web Store and search for an extension. Click **add to chrome** to install it.
-
-**Step 2: Open Facebook through the extension**
-
-Click on the installed extension and select **open Facebook**.
-
-**Step 3: Download**
-
-Select the **download** button at the top right corner of the video—select options from the quality.
-
-## Part 3: How to Download Facebook Stories on Mobile?
-
-#### 1\. Save Story for Facebook Stories-Download
-
-This is a super-fast and efficient application for downloading Facebook stories. It is incorporated with a user-friendly interface. Plus, its dark theme is also likely to fascinate users. It allows video downloading at a fast speed and in high quality. The app is trendy and can be downloaded from Google Playstore. Follow the simple steps to process Facebook stories in this application.
-
-**Step 1: Download the application and launch it**
-
-Open Google Playstore and press the **install** button. Click on the application’s icon to launch it.
-
-**Step 2: Download desired story**
-
-Log in to Facebook in the app and open the story you want to download. Click on the two dots at the bottom and select download.
-
-#### 2\. Story Saver FB
-
-Story saver is a secured platform for downloading Facebook stories. It allows you to save videos on your mobile device with just a few clicks. The process is easy and fast in this application. It supports videos in High-definition. Enjoy downloading Facebook stories by following the step-by-step guide.
-
-**Step 1: Download software and configure**
-
-Click install after navigating the application on Google Playstore. Launch app after installation is completed.
-
-**Step 2: Open in-built Facebook video downloader**
-
-Click on the Facebook downloader from the menu on the application’s home page. Press the yellow download button with the story desired Facebook story opened.
-
-#### 3\. Facebook Story Saver
-
-Facebook is one of the lightweight applications that allow mobile users to save stories from Facebook. It incorporates a modern and simple interface. So, the layman can also use this application on their smartphone. All you have to do is copy-paste the link of the desired Facebook story to download the video.
-
-**Step 1: Download and launch the application**
-
-Install the application and click on its **icon** to launch it.
-
-**Note:** App can be also be directly opened in the Google Playstore by clicking on the **open** option.
-
-**Step 2: Copy-paste the link**
-
-Right-click on the Facebook story and select copy link address. Paste the copied link in the app to download the video.
-
-## Part 4: How to Download a Facebook Story with Music?
-
-There is no default option to download or save stories on Facebook. So, you have to use third-party apps for downloading Facebook stories. However, some apps only allow you to download the visual in the story without its audio. If you are looking for a Facebook story download with music, the following section will help you.
-
-**Step 1: Install story saver extension**
-
-Find Story Saver extension on Chrome web store **and click add to chrome.**
-
-**Step 2: Use the extension to download the video**
-
-Open Click on the extension symbol at the top right corner of the screen. Click save button
-
-**Step 3: Locate the file**
-
-Open the download folder and play the video in your media player to check the video with music.
-
-## Part 5: How to Download Facebook Stories Anonymously?
-
-External applications can help you download Facebook stories anonymously. All you need is a trusted application on your phone or PC to save FB stories. One such notable platform is a friendly social browser. Here’s how you can save stories anonymously using this application.
-
-**Step 1: Download the application**
-
-Search Friendly Social Browser on your phone or PC to get started.
-
-**Step 2: Download Story**
-
-Tap any video or photo in Facebook Story and click download
-
-![Filmora logo](https://images.wondershare.com/filmora/logo_icon/wondershare-filmora-logo-horizontal.png) ![filmora product interface](https://images.wondershare.com/filmora/images/common/filmora-product-banner.png)
-
-### Best Tool to Edit Facebook Videos - Filmora
-
-* Cut, trim, split, rotate Facebook videos easily
-* Add filters, background music, magic effects
-* [Edit the video](https://tools.techidaily.com/wondershare/filmora/download/) with thousands tools and templates
-* Export to MP4, MOV, MKV, GIF and multiple formats
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For Win 7 or later (64-bit)
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For macOS 10.12 or later
-
-![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg) Secure Download
-
-[![iOS](https://images.wondershare.com/assets/images-common/badges-apple.svg)](https://app.adjust.com/w06dr6m%5F19za1f6) [![Android](https://images.wondershare.com/assets/images-common/badges-google.svg)](https://app.adjust.com/w06dr6m%5F19za1f6)
-
-[Try It Free >>](https://tools.techidaily.com/wondershare/filmora/download/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-## Conclusion
-
-You may like a photo or video in a Facebook story to save it on your PC or smartphone. Facebook does not allow its users to download stories by default. So, **Facebook story download** can be challenging. We have handpicked few easy and simple methods to help you in this process. Options covered in this article mainly include web-based tools, Chrome extensions, and third-party applications. However, all of them do not allow to save stories from private accounts. Thus, choose the tool that best fits your preferences and start downloading your favorite stories.
-
-![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
-
-Shanoon Cox
-
-Shanoon Cox is a writer and a lover of all things video.
-
-Follow @Shanoon Cox
-
-##### Shanoon Cox
-
- Mar 27, 2024• Proven solutions
-
-Facebook is one of the most popular social media platforms out there today, used by billions of people around the world to stay connected. One feature of Facebook that you may not be familiar with is called "stories," which are essentially photos or videos that can be shared for a 24-hour period before they disappear.
-
-If you want to keep your Facebook stories around for longer than a day, you can do so by downloading them. Let’s dive in together to know more about downloading Facebook stories.
-
-* [Part 1: Download Facebook Story Online](#part1)
-* [Part 2: Download Facebook Story with Chrome Extensions](#part2)
-* [Part 3: Download Facebook Story on Mobile](#part3)
-* [Part 4: Download a Facebook Story with Music](#part4)
-* [Part 5: Download Facebook Story Anonymously](#part5)
-
----
-
-## Part 1: How to Download Facebook Story Online?
-
-**Facebook Story download** becomes very easy with online tools. They enable you to download stories without signing up or registering an account. Plus, you also don’t need any external application. If you are interested in knowing more about Facebook story download online, we have handpicked the following three online tools. Here is how you can use them to download Facebook stories.
-
-![filmora logo](https://neveragain.allstatics.com/2019/assets/icon/logo/filmora-horizontal.svg)
-
-## A cross-platform for making videos anywhere for all creators
-
-![filmora-02](https://images.wondershare.com/filmora/filmora12/side_brand_filmora12.png)
-
- Why your video editing isn't good enough? How about some creative inspo?
-
-* 100 Million+ Users
-* 150+ Countries and Regions
-* 4 Million+ Social Media Followers
-* 5 Million+ Stock Media for Use
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-[Try It Free](https://apps.apple.com/app/apple-store/id1459336970?pt=169436&ct=official-website&mt=8)
-
-[Try It Free](https://app.adjust.com/b0k9hf2%5F4bsu85t)
-
- \* Secure Download
-
-![filmora12](https://images.wondershare.com/filmora/12-filmora/img/filmora12-01.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-### 1\.  Downvideo.net
-
-Downvideo.net enables you to download Facebook stories with just a few clicks. This online tool is accessible for everyone and is free of cost. You need access to its webpage to begin downloading stories from Facebook. The simple steps below summarize how you can use Downvideo.net.
-
-**Step 1: Access Webpage**
-
-Type the URL <https://downvideo.net/> in your browser to access the webpage of the online downloader.
-
-**Step 2: Paste the Facebook video link and download**
-
-Copy the link from the Facebook window showing a story. Paste the link in the link box and click **download.**
-
-**Step 3: Choose video quality**
-
-Select the desired video quality for downloading the Facebook story.
-
-![how to download facebook story](https://images.wondershare.com/filmora/article-images/2022/03/download-facebook-story-1.jpg)
-
-### 2\.  Fbdownloader.net
-
-It’s another fast and efficient Facebook video downloader. You can use it to download Facebook videos that you want to save on your device for viewing offline. This tool works comfortably with all internet browsers. Want to learn to download videos with fbdownloader.net? Follow the step-by-step guide.
-
-**Step 1: Copy the story link**
-
-Right-click on the story and select the **copy link** from the list of options.
-
-**Step 2: Open Fbdownloader.net**
-
-Access the Fbdownloader.net website and paste the story link in the box.
-
-**Step 3: Download the video**
-
-Click on the **go** and wait for the software to process the video. Select the desired video quality
-
-Note: Software may not allow you to download stories from private accounts. So, only video links copied from the public account can be processed.
-
-![how to download facebook story - Fbdownloader.net](https://images.wondershare.com/filmora/article-images/2022/03/download-facebook-story-2.jpg)
-
-### 3\.  Getvid
-
-It is one of the best online free tools to download Facebook stories and save them in MP4 format. It incorporates a simple yet intuitive interface. It takes only a couple of minutes to download a Facebook story using Getvid. Follow the simple steps below to know to save Facebook stories through this software.
-
-**Step 1: Launch Getvid**
-
-Open the Getvid webpage in your browser
-
-**Step 2: Copy URL**
-
-Open Facebook story and copy its link from the URL bar
-
-**Step 3: Download**
-
-Paste the URL in the box and click **download**. Select **download in normal quality** to get the story video.
-
-![how to download facebook story - getvid](https://images.wondershare.com/filmora/article-images/2022/03/download-facebook-story-3.jpg)
-
-## Part 2: How to Download Facebook Story with Chrome Extensions?
-
-Chrome extensions facilitate Chrome browsing in many ways. Extensions usually help in using features that are not usable in their original application. For instance, if you want to download a story from Facebook, there is no such option on Facebook. So, you might have to use the Facebook story downloader chrome extension to get this done. We have handpicked the following two best extensions for you. Let’s explore them.
 
 ### 1\.  Story Saver
 
@@ -757,6 +261,510 @@ You may like a photo or video in a Facebook story to save it on your PC or smart
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+Shanoon Cox
+
+Shanoon Cox is a writer and a lover of all things video.
+
+Follow @Shanoon Cox
+
+##### Shanoon Cox
+
+ Mar 27, 2024• Proven solutions
+
+Facebook is one of the most popular social media platforms out there today, used by billions of people around the world to stay connected. One feature of Facebook that you may not be familiar with is called "stories," which are essentially photos or videos that can be shared for a 24-hour period before they disappear.
+
+If you want to keep your Facebook stories around for longer than a day, you can do so by downloading them. Let’s dive in together to know more about downloading Facebook stories.
+
+* [Part 1: Download Facebook Story Online](#part1)
+* [Part 2: Download Facebook Story with Chrome Extensions](#part2)
+* [Part 3: Download Facebook Story on Mobile](#part3)
+* [Part 4: Download a Facebook Story with Music](#part4)
+* [Part 5: Download Facebook Story Anonymously](#part5)
+
+---
+
+## Part 1: How to Download Facebook Story Online?
+
+**Facebook Story download** becomes very easy with online tools. They enable you to download stories without signing up or registering an account. Plus, you also don’t need any external application. If you are interested in knowing more about Facebook story download online, we have handpicked the following three online tools. Here is how you can use them to download Facebook stories.
+
+![filmora logo](https://neveragain.allstatics.com/2019/assets/icon/logo/filmora-horizontal.svg)
+
+## A cross-platform for making videos anywhere for all creators
+
+![filmora-02](https://images.wondershare.com/filmora/filmora12/side_brand_filmora12.png)
+
+ Why your video editing isn't good enough? How about some creative inspo?
+
+* 100 Million+ Users
+* 150+ Countries and Regions
+* 4 Million+ Social Media Followers
+* 5 Million+ Stock Media for Use
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+[Try It Free](https://apps.apple.com/app/apple-store/id1459336970?pt=169436&ct=official-website&mt=8)
+
+[Try It Free](https://app.adjust.com/b0k9hf2%5F4bsu85t)
+
+ \* Secure Download
+
+![filmora12](https://images.wondershare.com/filmora/12-filmora/img/filmora12-01.png)
+
+### 1\.  Downvideo.net
+
+Downvideo.net enables you to download Facebook stories with just a few clicks. This online tool is accessible for everyone and is free of cost. You need access to its webpage to begin downloading stories from Facebook. The simple steps below summarize how you can use Downvideo.net.
+
+**Step 1: Access Webpage**
+
+Type the URL <https://downvideo.net/> in your browser to access the webpage of the online downloader.
+
+**Step 2: Paste the Facebook video link and download**
+
+Copy the link from the Facebook window showing a story. Paste the link in the link box and click **download.**
+
+**Step 3: Choose video quality**
+
+Select the desired video quality for downloading the Facebook story.
+
+![how to download facebook story](https://images.wondershare.com/filmora/article-images/2022/03/download-facebook-story-1.jpg)
+
+### 2\.  Fbdownloader.net
+
+It’s another fast and efficient Facebook video downloader. You can use it to download Facebook videos that you want to save on your device for viewing offline. This tool works comfortably with all internet browsers. Want to learn to download videos with fbdownloader.net? Follow the step-by-step guide.
+
+**Step 1: Copy the story link**
+
+Right-click on the story and select the **copy link** from the list of options.
+
+**Step 2: Open Fbdownloader.net**
+
+Access the Fbdownloader.net website and paste the story link in the box.
+
+**Step 3: Download the video**
+
+Click on the **go** and wait for the software to process the video. Select the desired video quality
+
+Note: Software may not allow you to download stories from private accounts. So, only video links copied from the public account can be processed.
+
+![how to download facebook story - Fbdownloader.net](https://images.wondershare.com/filmora/article-images/2022/03/download-facebook-story-2.jpg)
+
+### 3\.  Getvid
+
+It is one of the best online free tools to download Facebook stories and save them in MP4 format. It incorporates a simple yet intuitive interface. It takes only a couple of minutes to download a Facebook story using Getvid. Follow the simple steps below to know to save Facebook stories through this software.
+
+**Step 1: Launch Getvid**
+
+Open the Getvid webpage in your browser
+
+**Step 2: Copy URL**
+
+Open Facebook story and copy its link from the URL bar
+
+**Step 3: Download**
+
+Paste the URL in the box and click **download**. Select **download in normal quality** to get the story video.
+
+![how to download facebook story - getvid](https://images.wondershare.com/filmora/article-images/2022/03/download-facebook-story-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+## Part 2: How to Download Facebook Story with Chrome Extensions?
+
+Chrome extensions facilitate Chrome browsing in many ways. Extensions usually help in using features that are not usable in their original application. For instance, if you want to download a story from Facebook, there is no such option on Facebook. So, you might have to use the Facebook story downloader chrome extension to get this done. We have handpicked the following two best extensions for you. Let’s explore them.
+
+### 1\.  Story Saver
+
+Story saver allows you to download and save Facebook stories easily. In addition to Facebook, this extension can also be used to save stories from Instagram and Whatsapp. Let’s see how you can do it by following simple steps.
+
+**Step 1: Install the extension**
+
+Open Chrome web store and search for the extension. Click **Add to Chrome** and select **add extension** when a pop-up message appears.
+
+**Step 2: Open Facebook story**
+
+Navigate to the webpage displaying the story you want to download.
+
+**Step 3: Download story**
+
+Click on the extension manager at the top right corner—select **download symbol** in Story Saver extension box.
+
+### 2\.  Download Facebook Videos
+
+This is another user-friendly extension to download Facebook stories and videos. It enables you to download and save Facebook stories, GIFs, photos, and thumbnails posted on pages and accounts. Want to know how this extension works? If yes, look at the steps below.
+
+**Step 1: Download extension**
+
+Access Chrome Web Store and search for an extension. Click **add to chrome** to install it.
+
+**Step 2: Open Facebook through the extension**
+
+Click on the installed extension and select **open Facebook**.
+
+**Step 3: Download**
+
+Select the **download** button at the top right corner of the video—select options from the quality.
+
+## Part 3: How to Download Facebook Stories on Mobile?
+
+#### 1\. Save Story for Facebook Stories-Download
+
+This is a super-fast and efficient application for downloading Facebook stories. It is incorporated with a user-friendly interface. Plus, its dark theme is also likely to fascinate users. It allows video downloading at a fast speed and in high quality. The app is trendy and can be downloaded from Google Playstore. Follow the simple steps to process Facebook stories in this application.
+
+**Step 1: Download the application and launch it**
+
+Open Google Playstore and press the **install** button. Click on the application’s icon to launch it.
+
+**Step 2: Download desired story**
+
+Log in to Facebook in the app and open the story you want to download. Click on the two dots at the bottom and select download.
+
+#### 2\. Story Saver FB
+
+Story saver is a secured platform for downloading Facebook stories. It allows you to save videos on your mobile device with just a few clicks. The process is easy and fast in this application. It supports videos in High-definition. Enjoy downloading Facebook stories by following the step-by-step guide.
+
+**Step 1: Download software and configure**
+
+Click install after navigating the application on Google Playstore. Launch app after installation is completed.
+
+**Step 2: Open in-built Facebook video downloader**
+
+Click on the Facebook downloader from the menu on the application’s home page. Press the yellow download button with the story desired Facebook story opened.
+
+#### 3\. Facebook Story Saver
+
+Facebook is one of the lightweight applications that allow mobile users to save stories from Facebook. It incorporates a modern and simple interface. So, the layman can also use this application on their smartphone. All you have to do is copy-paste the link of the desired Facebook story to download the video.
+
+**Step 1: Download and launch the application**
+
+Install the application and click on its **icon** to launch it.
+
+**Note:** App can be also be directly opened in the Google Playstore by clicking on the **open** option.
+
+**Step 2: Copy-paste the link**
+
+Right-click on the Facebook story and select copy link address. Paste the copied link in the app to download the video.
+
+## Part 4: How to Download a Facebook Story with Music?
+
+There is no default option to download or save stories on Facebook. So, you have to use third-party apps for downloading Facebook stories. However, some apps only allow you to download the visual in the story without its audio. If you are looking for a Facebook story download with music, the following section will help you.
+
+**Step 1: Install story saver extension**
+
+Find Story Saver extension on Chrome web store **and click add to chrome.**
+
+**Step 2: Use the extension to download the video**
+
+Open Click on the extension symbol at the top right corner of the screen. Click save button
+
+**Step 3: Locate the file**
+
+Open the download folder and play the video in your media player to check the video with music.
+
+## Part 5: How to Download Facebook Stories Anonymously?
+
+External applications can help you download Facebook stories anonymously. All you need is a trusted application on your phone or PC to save FB stories. One such notable platform is a friendly social browser. Here’s how you can save stories anonymously using this application.
+
+**Step 1: Download the application**
+
+Search Friendly Social Browser on your phone or PC to get started.
+
+**Step 2: Download Story**
+
+Tap any video or photo in Facebook Story and click download
+
+![Filmora logo](https://images.wondershare.com/filmora/logo_icon/wondershare-filmora-logo-horizontal.png) ![filmora product interface](https://images.wondershare.com/filmora/images/common/filmora-product-banner.png)
+
+### Best Tool to Edit Facebook Videos - Filmora
+
+* Cut, trim, split, rotate Facebook videos easily
+* Add filters, background music, magic effects
+* [Edit the video](https://tools.techidaily.com/wondershare/filmora/download/) with thousands tools and templates
+* Export to MP4, MOV, MKV, GIF and multiple formats
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For Win 7 or later (64-bit)
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For macOS 10.12 or later
+
+![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg) Secure Download
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+[![iOS](https://images.wondershare.com/assets/images-common/badges-apple.svg)](https://app.adjust.com/w06dr6m%5F19za1f6) [![Android](https://images.wondershare.com/assets/images-common/badges-google.svg)](https://app.adjust.com/w06dr6m%5F19za1f6)
+
+[Try It Free >>](https://tools.techidaily.com/wondershare/filmora/download/)
+
+## Conclusion
+
+You may like a photo or video in a Facebook story to save it on your PC or smartphone. Facebook does not allow its users to download stories by default. So, **Facebook story download** can be challenging. We have handpicked few easy and simple methods to help you in this process. Options covered in this article mainly include web-based tools, Chrome extensions, and third-party applications. However, all of them do not allow to save stories from private accounts. Thus, choose the tool that best fits your preferences and start downloading your favorite stories.
+
+![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+Shanoon Cox
+
+Shanoon Cox is a writer and a lover of all things video.
+
+Follow @Shanoon Cox
+
+##### Shanoon Cox
+
+ Mar 27, 2024• Proven solutions
+
+Facebook is one of the most popular social media platforms out there today, used by billions of people around the world to stay connected. One feature of Facebook that you may not be familiar with is called "stories," which are essentially photos or videos that can be shared for a 24-hour period before they disappear.
+
+If you want to keep your Facebook stories around for longer than a day, you can do so by downloading them. Let’s dive in together to know more about downloading Facebook stories.
+
+* [Part 1: Download Facebook Story Online](#part1)
+* [Part 2: Download Facebook Story with Chrome Extensions](#part2)
+* [Part 3: Download Facebook Story on Mobile](#part3)
+* [Part 4: Download a Facebook Story with Music](#part4)
+* [Part 5: Download Facebook Story Anonymously](#part5)
+
+---
+
+## Part 1: How to Download Facebook Story Online?
+
+**Facebook Story download** becomes very easy with online tools. They enable you to download stories without signing up or registering an account. Plus, you also don’t need any external application. If you are interested in knowing more about Facebook story download online, we have handpicked the following three online tools. Here is how you can use them to download Facebook stories.
+
+![filmora logo](https://neveragain.allstatics.com/2019/assets/icon/logo/filmora-horizontal.svg)
+
+## A cross-platform for making videos anywhere for all creators
+
+![filmora-02](https://images.wondershare.com/filmora/filmora12/side_brand_filmora12.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+ Why your video editing isn't good enough? How about some creative inspo?
+
+* 100 Million+ Users
+* 150+ Countries and Regions
+* 4 Million+ Social Media Followers
+* 5 Million+ Stock Media for Use
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+[Try It Free](https://apps.apple.com/app/apple-store/id1459336970?pt=169436&ct=official-website&mt=8)
+
+[Try It Free](https://app.adjust.com/b0k9hf2%5F4bsu85t)
+
+ \* Secure Download
+
+![filmora12](https://images.wondershare.com/filmora/12-filmora/img/filmora12-01.png)
+
+### 1\.  Downvideo.net
+
+Downvideo.net enables you to download Facebook stories with just a few clicks. This online tool is accessible for everyone and is free of cost. You need access to its webpage to begin downloading stories from Facebook. The simple steps below summarize how you can use Downvideo.net.
+
+**Step 1: Access Webpage**
+
+Type the URL <https://downvideo.net/> in your browser to access the webpage of the online downloader.
+
+**Step 2: Paste the Facebook video link and download**
+
+Copy the link from the Facebook window showing a story. Paste the link in the link box and click **download.**
+
+**Step 3: Choose video quality**
+
+Select the desired video quality for downloading the Facebook story.
+
+![how to download facebook story](https://images.wondershare.com/filmora/article-images/2022/03/download-facebook-story-1.jpg)
+
+### 2\.  Fbdownloader.net
+
+It’s another fast and efficient Facebook video downloader. You can use it to download Facebook videos that you want to save on your device for viewing offline. This tool works comfortably with all internet browsers. Want to learn to download videos with fbdownloader.net? Follow the step-by-step guide.
+
+**Step 1: Copy the story link**
+
+Right-click on the story and select the **copy link** from the list of options.
+
+**Step 2: Open Fbdownloader.net**
+
+Access the Fbdownloader.net website and paste the story link in the box.
+
+**Step 3: Download the video**
+
+Click on the **go** and wait for the software to process the video. Select the desired video quality
+
+Note: Software may not allow you to download stories from private accounts. So, only video links copied from the public account can be processed.
+
+![how to download facebook story - Fbdownloader.net](https://images.wondershare.com/filmora/article-images/2022/03/download-facebook-story-2.jpg)
+
+### 3\.  Getvid
+
+It is one of the best online free tools to download Facebook stories and save them in MP4 format. It incorporates a simple yet intuitive interface. It takes only a couple of minutes to download a Facebook story using Getvid. Follow the simple steps below to know to save Facebook stories through this software.
+
+**Step 1: Launch Getvid**
+
+Open the Getvid webpage in your browser
+
+**Step 2: Copy URL**
+
+Open Facebook story and copy its link from the URL bar
+
+**Step 3: Download**
+
+Paste the URL in the box and click **download**. Select **download in normal quality** to get the story video.
+
+![how to download facebook story - getvid](https://images.wondershare.com/filmora/article-images/2022/03/download-facebook-story-3.jpg)
+
+## Part 2: How to Download Facebook Story with Chrome Extensions?
+
+Chrome extensions facilitate Chrome browsing in many ways. Extensions usually help in using features that are not usable in their original application. For instance, if you want to download a story from Facebook, there is no such option on Facebook. So, you might have to use the Facebook story downloader chrome extension to get this done. We have handpicked the following two best extensions for you. Let’s explore them.
+
+### 1\.  Story Saver
+
+Story saver allows you to download and save Facebook stories easily. In addition to Facebook, this extension can also be used to save stories from Instagram and Whatsapp. Let’s see how you can do it by following simple steps.
+
+**Step 1: Install the extension**
+
+Open Chrome web store and search for the extension. Click **Add to Chrome** and select **add extension** when a pop-up message appears.
+
+**Step 2: Open Facebook story**
+
+Navigate to the webpage displaying the story you want to download.
+
+**Step 3: Download story**
+
+Click on the extension manager at the top right corner—select **download symbol** in Story Saver extension box.
+
+### 2\.  Download Facebook Videos
+
+This is another user-friendly extension to download Facebook stories and videos. It enables you to download and save Facebook stories, GIFs, photos, and thumbnails posted on pages and accounts. Want to know how this extension works? If yes, look at the steps below.
+
+**Step 1: Download extension**
+
+Access Chrome Web Store and search for an extension. Click **add to chrome** to install it.
+
+**Step 2: Open Facebook through the extension**
+
+Click on the installed extension and select **open Facebook**.
+
+**Step 3: Download**
+
+Select the **download** button at the top right corner of the video—select options from the quality.
+
+## Part 3: How to Download Facebook Stories on Mobile?
+
+#### 1\. Save Story for Facebook Stories-Download
+
+This is a super-fast and efficient application for downloading Facebook stories. It is incorporated with a user-friendly interface. Plus, its dark theme is also likely to fascinate users. It allows video downloading at a fast speed and in high quality. The app is trendy and can be downloaded from Google Playstore. Follow the simple steps to process Facebook stories in this application.
+
+**Step 1: Download the application and launch it**
+
+Open Google Playstore and press the **install** button. Click on the application’s icon to launch it.
+
+**Step 2: Download desired story**
+
+Log in to Facebook in the app and open the story you want to download. Click on the two dots at the bottom and select download.
+
+#### 2\. Story Saver FB
+
+Story saver is a secured platform for downloading Facebook stories. It allows you to save videos on your mobile device with just a few clicks. The process is easy and fast in this application. It supports videos in High-definition. Enjoy downloading Facebook stories by following the step-by-step guide.
+
+**Step 1: Download software and configure**
+
+Click install after navigating the application on Google Playstore. Launch app after installation is completed.
+
+**Step 2: Open in-built Facebook video downloader**
+
+Click on the Facebook downloader from the menu on the application’s home page. Press the yellow download button with the story desired Facebook story opened.
+
+#### 3\. Facebook Story Saver
+
+Facebook is one of the lightweight applications that allow mobile users to save stories from Facebook. It incorporates a modern and simple interface. So, the layman can also use this application on their smartphone. All you have to do is copy-paste the link of the desired Facebook story to download the video.
+
+**Step 1: Download and launch the application**
+
+Install the application and click on its **icon** to launch it.
+
+**Note:** App can be also be directly opened in the Google Playstore by clicking on the **open** option.
+
+**Step 2: Copy-paste the link**
+
+Right-click on the Facebook story and select copy link address. Paste the copied link in the app to download the video.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+## Part 4: How to Download a Facebook Story with Music?
+
+There is no default option to download or save stories on Facebook. So, you have to use third-party apps for downloading Facebook stories. However, some apps only allow you to download the visual in the story without its audio. If you are looking for a Facebook story download with music, the following section will help you.
+
+**Step 1: Install story saver extension**
+
+Find Story Saver extension on Chrome web store **and click add to chrome.**
+
+**Step 2: Use the extension to download the video**
+
+Open Click on the extension symbol at the top right corner of the screen. Click save button
+
+**Step 3: Locate the file**
+
+Open the download folder and play the video in your media player to check the video with music.
+
+## Part 5: How to Download Facebook Stories Anonymously?
+
+External applications can help you download Facebook stories anonymously. All you need is a trusted application on your phone or PC to save FB stories. One such notable platform is a friendly social browser. Here’s how you can save stories anonymously using this application.
+
+**Step 1: Download the application**
+
+Search Friendly Social Browser on your phone or PC to get started.
+
+**Step 2: Download Story**
+
+Tap any video or photo in Facebook Story and click download
+
+![Filmora logo](https://images.wondershare.com/filmora/logo_icon/wondershare-filmora-logo-horizontal.png) ![filmora product interface](https://images.wondershare.com/filmora/images/common/filmora-product-banner.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+### Best Tool to Edit Facebook Videos - Filmora
+
+* Cut, trim, split, rotate Facebook videos easily
+* Add filters, background music, magic effects
+* [Edit the video](https://tools.techidaily.com/wondershare/filmora/download/) with thousands tools and templates
+* Export to MP4, MOV, MKV, GIF and multiple formats
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For Win 7 or later (64-bit)
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For macOS 10.12 or later
+
+![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg) Secure Download
+
+[![iOS](https://images.wondershare.com/assets/images-common/badges-apple.svg)](https://app.adjust.com/w06dr6m%5F19za1f6) [![Android](https://images.wondershare.com/assets/images-common/badges-google.svg)](https://app.adjust.com/w06dr6m%5F19za1f6)
+
+[Try It Free >>](https://tools.techidaily.com/wondershare/filmora/download/)
+
+## Conclusion
+
+You may like a photo or video in a Facebook story to save it on your PC or smartphone. Facebook does not allow its users to download stories by default. So, **Facebook story download** can be challenging. We have handpicked few easy and simple methods to help you in this process. Options covered in this article mainly include web-based tools, Chrome extensions, and third-party applications. However, all of them do not allow to save stories from private accounts. Thus, choose the tool that best fits your preferences and start downloading your favorite stories.
+
+![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
+
 Shanoon Cox
 
 Shanoon Cox is a writer and a lover of all things video.
@@ -845,7 +853,7 @@ Note: Software may not allow you to download stories from private accounts. So, 
 ![how to download facebook story - Fbdownloader.net](https://images.wondershare.com/filmora/article-images/2022/03/download-facebook-story-2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\.  Getvid
@@ -885,10 +893,6 @@ Navigate to the webpage displaying the story you want to download.
 **Step 3: Download story**
 
 Click on the extension manager at the top right corner—select **download symbol** in Story Saver extension box.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\.  Download Facebook Videos
 
@@ -945,10 +949,6 @@ Install the application and click on its **icon** to launch it.
 **Step 2: Copy-paste the link**
 
 Right-click on the Facebook story and select copy link address. Paste the copied link in the app to download the video.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 4: How to Download a Facebook Story with Music?
 
@@ -1034,20 +1034,21 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-setting-up-a-memorable-social-media-presence-with-covers/"><u>[New] In 2024, Setting Up a Memorable Social Media Presence with Covers</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-premier-hype-booster-maker-for-2024/"><u>[New] Premier Hype Booster Maker for 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-direct-video-streaming-sending-fb-vids-straight-into-whatsapp/"><u>[Updated] 2024 Approved Direct Video Streaming Sending FB Vids Straight Into WhatsApp</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-how-can-you-air-facebook-videos-on-your-television-set/"><u>[Updated] How Can You Air Facebook Videos on Your Television Set?</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-mastering-audio-transitions-audacity-guide/"><u>[Updated] In 2024, Mastering Audio Transitions Audacity Guide</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-rotating-reality-in-visuals-the-art-of-spinning-images-for-instagram-triumphs-for-2024/"><u>[Updated] Rotating Reality in Visuals The Art of Spinning Images for Instagram Triumphs for 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-turning-tides-in-photographic-history-retrieval-on-facebook-for-2024/"><u>[Updated] Turning Tides in Photographic History Retrieval on Facebook for 2024</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/4-easy-ways-for-your-zte-axon-40-lite-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>4 Easy Ways for Your ZTE Axon 40 Lite Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/building-a-robust-360-video-broadcast-framework-for-fb-for-2024/"><u>Building a Robust 360 Video Broadcast Framework for FB for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/effective-solutions-for-patching-up-outpost-armageddons-pc-shutdown-glitches/"><u>Effective Solutions for Patching Up Outpost: Armageddon's PC Shutdown Glitches</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-without-jailbreak-on-vivo-y56-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location without Jailbreak On Vivo Y56 5G | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/maximizing-your-earnings-how-to-monetize-facebook-videos-successfully-for-2024/"><u>Maximizing Your Earnings How to Monetize Facebook Videos Successfully for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/top-tested-ultraportable-laptop-with-extended-battery-performance-discover-why-it-stands-out-zdnet/"><u>Top Tested Ultraportable Laptop with Extended Battery Performance: Discover Why It Stands Out | ZDNet</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/troubleshooting-windows-7-starting-successfully-in-safe-mode-overcoming-failures-with-normal-boot/"><u>Troubleshooting Windows 7: Starting Successfully in Safe Mode, Overcoming Failures with Normal Boot</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/unlock-social-media-8-free-fb-extractors/"><u>Unlock Social Media 8 FREE FB Extractors</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-digital-disappointment-unexpected-deletion/"><u>[New] Digital Disappointment Unexpected Deletion</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-latest-insights-on-facebook-whats-new-for-2024/"><u>[New] Latest Insights on Facebook - What's New for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-comprehensive-list-of-top-6-facebook-video-downloader-apps/"><u>[Updated] 2024 Approved Comprehensive List of Top 6 Facebook Video Downloader Apps</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-enhancing-televisual-engagement-through-fb-live/"><u>[Updated] 2024 Approved Enhancing Televisual Engagement Through FB Live</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-the-ultimate-list-of-5-chrome-addons-to-download-facebook-videos/"><u>[Updated] 2024 Approved The Ultimate List of 5 Chrome Addons to Download Facebook Videos</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-how-to-step-into-a-tiktok-event-like-a-pro/"><u>[Updated] How to Step Into a TikTok Event Like a Pro</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-navigating-netizen-networks-examining-your-and-competing-channels/"><u>[Updated] In 2024, Navigating Netizen Networks Examining Your and Competing Channels</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/back-track-technique-reverse-video-in-ios-devices-for-2024/"><u>Back-Track Technique Reverse Video in iOS Devices for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/becoming-a-social-media-storyteller-on-facebook/"><u>Becoming a Social Media Storyteller on Facebook</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/downloading-vimeo-media-direct-conversion-to-mp3-format-for-2024/"><u>Downloading Vimeo Media Direct Conversion to MP3 Format for 2024</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-or-downgrade-apple-iphone-12-mini-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade Apple iPhone 12 mini Without Data Loss? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-check-distance-and-radius-on-google-maps-for-your-poco-x5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Check Distance and Radius on Google Maps For your Poco X5 Pro | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-understanding-the-evolution-of-facebook-videos/"><u>In 2024, Understanding the Evolution of Facebook Videos</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/locating-and-unveiling-your-personalized-melodic-repository-on-youtube-for-2024/"><u>Locating and Unveiling Your Personalized Melodic Repository on Youtube for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/remedying-not-verified-http-warnings-secure-your-browser-experience/"><u>Remedying 'Not Verified' HTTP Warnings – Secure Your Browser Experience</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/spring-into-savings-wondershare-filmora-coupon-code-march-2024/"><u>Spring Into Savings Wondershare Filmora Coupon Code - March 2024</u></a></li>
 </ul></div>
 

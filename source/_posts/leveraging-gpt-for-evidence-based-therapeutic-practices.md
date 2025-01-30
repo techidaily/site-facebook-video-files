@@ -1,7 +1,7 @@
 ---
 title: Leveraging GPT for Evidence-Based Therapeutic Practices
-date: 2025-01-17T21:07:33.415Z
-updated: 2025-01-22T04:08:55.512Z
+date: 2025-01-26T18:00:57.986Z
+updated: 2025-01-29T23:35:59.181Z
 tags:
   - chatgpt
   - open-ai
@@ -16,7 +16,7 @@ thumbnail: https://thmb.techidaily.com/162b2aac03e354d0551440e420920822fdecda676
 ## AI Mastery Through Improved Prompting: Learn the 7 Best Practices and Tricks That Work
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -58,17 +58,21 @@ thumbnail: https://thmb.techidaily.com/162b2aac03e354d0551440e420920822fdecda676
 ![An itinerary generated with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-13-06-24.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  However, I wanted to get further information that wasn't included. So, I asked for hotel recommendations within a customized budget:
 
 ![An expanded answer with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-13-11-12.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  As a general rule of thumb, ask as many questions as you feel necessary to get all the information you're looking for. You may also want to determine[whether premium AI prompts are worth the money](https://www.makeuseof.com/should-you-buy-ai-prompts/) .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3 Explain What Hasn't Worked When You've Prompted in the Past
@@ -91,10 +95,6 @@ thumbnail: https://thmb.techidaily.com/162b2aac03e354d0551440e420920822fdecda676
 
  Once you've received one prompt's results, you can move on to the next one until you're happy with everything. Doing things this way might seem more time-consuming, but[single-tasking often improves productivity](https://www.makeuseof.com/master-single-tasking-using-technology-improve-productivity/) , and it's the same for your AI, too.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5 Tell Your AI Tool What You Don't Want in Your Answer
 
  Do you remember in our first point when we told you to be as specific as possible? This also means you should let your AI tool know what you don't want in your answers. While generative AI can produce some pretty cool results, it can't guess everything for you.
@@ -102,10 +102,6 @@ thumbnail: https://thmb.techidaily.com/162b2aac03e354d0551440e420920822fdecda676
  When designing your prompt, be very specific about what you don't want in your results. For example, if you're planning a trip, you may want to mention that you don't want to join tours or would prefer to avoid popular spots.
 
 ![Answer options from ChatGPT, based on what the user did and didn't want ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-13-38-46.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Sometimes, your AI tool will give you multiple options in your answers. You can then choose whichever one works best for you.
 
@@ -125,6 +121,10 @@ thumbnail: https://thmb.techidaily.com/162b2aac03e354d0551440e420920822fdecda676
 
 ![A LinkedIn post generated with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-13-54-04.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  AI prompting takes some time to become competent with, and you'll need to adjust how you type depending on the tool you use and the information you wish to extract. The good news, however, is that you normally only need small tweaks to make your prompts deliver better results. Having read this guide, you should now be in a much better place to prompt more efficiently.
 
 <ins class="adsbygoogle"
@@ -142,20 +142,20 @@ thumbnail: https://thmb.techidaily.com/162b2aac03e354d0551440e420920822fdecda676
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-reclaim-social-life-overcoming-a-hack-on-facebook/"><u>[New] 2024 Approved Reclaim Social Life Overcoming a Hack on Facebook</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/new-backdrop-bassline-tunes-to-enhance-media/"><u>[New] Backdrop Bassline Tunes to Enhance Media</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-perfect-past-moments-on-fb-a-look-back-edition/"><u>[New] In 2024, Perfect Past Moments on FB A Look Back Edition</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-navigate-the-social-media-lands-cookie-with-youtubes-automatic-play-feature/"><u>[Updated] 2024 Approved Navigate the Social Media Lands Cookie with YouTube's Automatic Play Feature</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-a-step-by-step-guide-to-professionalizing-your-personal-brand-on-fb-stories/"><u>[Updated] In 2024, A Step-by-Step Guide to Professionalizing Your Personal Brand on FB Stories</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-intrinsic-insights-for-instant-identification-in-fb/"><u>[Updated] Intrinsic Insights for Instant Identification in FB</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-avoiding-fuzzy-edges-in-picart-picture-processing/"><u>2024 Approved Avoiding Fuzzy Edges in PicArt Picture Processing</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/buy-winx-complete-suite-online-get-your-ultimate-protection-now/"><u>Buy WinX Complete Suite Online - Get Your Ultimate Protection Now!</u></a></li>
-<li><a href="https://win-info.techidaily.com/can-refreshing-your-systems-software-and-device-drivers-boost-your-computers-performance-insights-from-yl-computing/"><u>Can Refreshing Your System's Software & Device Drivers Boost Your Computer's Performance? - Insights From YL Computing</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-htc-u23-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from HTC U23 to iPad | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/in-2024-access-all-areas-steps-for-securing-facebook-live-files/"><u>In 2024, Access All Areas Steps for Securing Facebook Live Files</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-automate-calendar-events-to-zoom-on-mobile-devices/"><u>In 2024, Automate Calendar Events to Zoom on Mobile Devices</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/inside-the-scoring-of-toolwizs-photography-software-for-2024/"><u>Inside the Scoring of Toolwiz's Photography Software for 2024</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/lenovo-ideapad-320-review/"><u>Lenovo Ideapad 320 Review</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/networked-narratives-recorder-for-2024/"><u>Networked Narratives Recorder for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-effective-social-crossposting-from-twitch-to-fb/"><u>[New] 2024 Approved Effective Social Crossposting From Twitch to FB</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-harvest-happiness-best-agricultural-titles-to-play-with-friends/"><u>[New] Harvest Happiness Best Agricultural Titles to Play With Friends</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-broadcasting-with-gopro-tips-for-facebookperiscope-integration/"><u>[New] In 2024, Broadcasting with GoPro Tips for Facebook/Periscope Integration</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-harness-free-fb-link-downloaders/"><u>[Updated] 2024 Approved Harness Free FB Link Downloaders</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-unlocking-smooth-streams-facebooks-buffering-breakthrough/"><u>[Updated] 2024 Approved Unlocking Smooth Streams - Facebook's Buffering Breakthrough</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-harnessing-microsoft-teams-power-with-simple-snap-camera-use-for-2024/"><u>[Updated] Harnessing Microsoft Teams' Power with Simple Snap Camera Use for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-fbstream-viewer-extractor/"><u>[Updated] In 2024, FbStream Viewer Extractor</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-captureelite-pro-windows-enhanced/"><u>2024 Approved CaptureElite Pro Windows Enhanced</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/convert-asf-files-to-mp4-for-free-with-movavis-online-toolbox/"><u>Convert ASF Files to MP4 For Free with Movavi's Online Toolbox</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exclusive-offer-alert-secure-your-online-privacy-and-productivity-tools-for-just-40-snag-nordvpn-plus-microsoft-365-now/"><u>Exclusive Offer Alert! Secure Your Online Privacy and Productivity Tools for Just $40 - Snag NordVPN + Microsoft 365 Now!</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/future-proof-your-facebook-strategy-with-2024s-top-trends/"><u>Future-Proof Your Facebook Strategy with 2024'S Top Trends</u></a></li>
+<li><a href="https://win-latest.techidaily.com/how-to-reorder-images-during-the-flipbook-creation-process-on-flipbuildercom/"><u>How to Reorder Images During the FlipBook Creation Process on FlipBuilder.com</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-pioneering-posts-a-facebook-guide-to-going-viral/"><u>In 2024, Pioneering Posts A Facebook Guide to Going Viral</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/top-choices-360-video-equipment-for-livestreaming-platforms/"><u>Top Choices 360° Video Equipment for Livestreaming Platforms</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-most-economical-mobile-network-offers-a-top-7-list/"><u>Unveiling the Most Economical Mobile Network Offers : A Top 7 List</u></a></li>
 </ul></div>
 

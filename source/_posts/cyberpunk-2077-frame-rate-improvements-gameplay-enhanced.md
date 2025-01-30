@@ -1,7 +1,7 @@
 ---
 title: Cyberpunk 2077 Frame Rate Improvements - Gameplay Enhanced
-date: 2025-01-18T09:18:10.043Z
-updated: 2025-01-21T17:47:54.105Z
+date: 2025-01-28T22:13:32.951Z
+updated: 2025-01-29T23:59:25.172Z
 tags:
   - win11
   - win10
@@ -18,10 +18,6 @@ thumbnail: https://thmb.techidaily.com/a087050a8f216b62187c0a193212a1a2be3253c5f
 Cyberpunk 2077 is finally here! After several hours of gameplay, did you feel your mouse/keyboard/controller wired during the game? If so, your device may encounter an input lag issue.
 
 Don’t worry, here’re fixes may help you solve the issue.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -42,7 +38,7 @@ Don’t worry, here’re fixes may help you solve the issue.
 2. Click the**CONTROLS** tab.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3. Under the**First-Person** Camera (Controller) section, find**Show Advanced Options** and click**ON** .  
@@ -69,6 +65,10 @@ If you’re not using the controller, check the below settings.
 
 If this fix doesn’t work, move to the next one.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Change the mouse setting
 
  If you’re suffering mouse lagging, and the first fix not work, you can try to change mouse settings.
@@ -79,18 +79,18 @@ If this fix doesn’t work, move to the next one.
 3. Go to the**Mouse** tab, click**Additional mouse options** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-15_16-00-50.jpg)
 4. Make sure you uncheck the**Enhance pointer precision** . Click**Apply > OK** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-15_16-01-18.jpg)
 5. Launch the game and check.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 If it doesn’t work, move to the next fix.
 
@@ -122,12 +122,12 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If you need assistance, please contact **Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
@@ -152,21 +152,21 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-converting-stored-content-into-real-time-livestreams-on-social-media-for-2024/"><u>[New] Converting Stored Content Into Real-Time Livestreams on Social Media for 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-fb-video-hacks-instant-mp4-downloads/"><u>[New] In 2024, FB Video Hacks Instant MP4 Downloads</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-guide-to-captivating-gmeet-audiences-with-flawless-ppt-presentations/"><u>[Updated] Guide to Captivating GMeet Audiences with Flawless PPT Presentations</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-celebratory-closures-from-bare-bones-to-full-featured/"><u>2024 Approved Celebratory Closures From Bare-Bones to Full-Featured</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/crafting-viral-content-made-simple-top-8-techniques-for-recording-on-tiktok-across-all-gadgets-using-movavi/"><u>Crafting Viral Content Made Simple: Top 8 Techniques for Recording on TikTok Across All Gadgets Using Movavi</u></a></li>
-<li><a href="https://location-social.techidaily.com/does-gionee-f3-pro-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Gionee F3 Pro Have Find My Friends? | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exploring-toms-tech-universe-a-comprehensive-guide/"><u>Exploring Tom’s Tech Universe: A Comprehensive Guide</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/how-to-find-videos-on-facebook-in-2024/"><u>How to Find Videos on Facebook, In 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-expert-audio-guide-for-vloggers/"><u>In 2024, Expert Audio Guide for Vloggers</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-fix-pokemon-go-route-not-working-on-nokia-150-2023-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Pokemon Go Route Not Working On Nokia 150 (2023)? | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-honor-x8b-location-by-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Honor X8b Location by Number | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/in-2024-proven-3-step-framework-for-creating-persuasive-facebook-ad-content/"><u>In 2024, Proven 3-Step Framework for Creating Persuasive Facebook Ad Content</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/in-2024-revealing-the-12-paths-fixing-non-appearing-fb-video-posts-now/"><u>In 2024, Revealing The 12 Paths Fixing Non-Appearing FB Video Posts, Now</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/in-2024-seamless-facebook-broadcast-integrating-obs-with-devices/"><u>In 2024, Seamless Facebook Broadcast Integrating OBS with Devices</u></a></li>
-<li><a href="https://win-forum.techidaily.com/no-cost-file-conversion-to-wmv-with-movavis-reliable-online-service/"><u>No Cost File Conversion to WMV with Movavi's Reliable Online Service</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/quick-fix-guide-successful-transmission-of-videos-on-the-social-networking-app-messenger-for-2024/"><u>Quick Fix Guide Successful Transmission of Videos on the Social Networking App Messenger for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-capture-and-share-immedienas-unprecedented-journey-with-dslr-and-facebook-live/"><u>[New] 2024 Approved Capture and Share Immedienas Unprecedented Journey with DSLR & Facebook LIVE</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-echoes-of-music-in-video-landscapes/"><u>[New] 2024 Approved Echoes of Music in Video Landscapes</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-pro-photo-expertise-at-your-fingertips-with-these-tips/"><u>[New] 2024 Approved Pro Photo Expertise at Your Fingertips with These Tips</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-digital-diaries-blending-visuals-with-audio-threads/"><u>[New] In 2024, Digital Diaries Blending Visuals with Audio Threads</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-save-space-and-time-with-fb-video-conversion-tools-for-2024/"><u>[New] Save Space & Time with FB Video Conversion Tools for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-skillful-conversion-of-youtube-videos-to-interactive-gif-artistry/"><u>[New] Skillful Conversion of YouTube Videos to Interactive GIF Artistry</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-unseen-navigators-of-fb-moments/"><u>[Updated] 2024 Approved Unseen Navigators of FB Moments</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-fb-sounds-unlimited-grab-and-go/"><u>[Updated] FB Sounds Unlimited Grab & Go</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-beyond-the-basics-transformative-tactics-for-facebook-advertising/"><u>[Updated] In 2024, Beyond the Basics Transformative Tactics for Facebook Advertising</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-raucous-revelations-top-10-scenarios-for-comedy-driven-videography/"><u>[Updated] Raucous Revelations Top 10 Scenarios for Comedy-Driven Videography</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-revisit-facebooks-top-watches-a-step-by-step-for-2024/"><u>[Updated] Revisit Facebook's Top Watches A Step-by-Step for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-social-media-mastery-surpassing-the-competition-in-popularity-rankings/"><u>[Updated] Social Media Mastery Surpassing the Competition in Popularity Rankings</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-poco-f5-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How does the stardust trade cost In pokemon go On Poco F5 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/navigating-german-letters-and-phonetics-for-beginners/"><u>Navigating German Letters and Phonetics for Beginners</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/optimize-your-interviewing-techniques-with-chatgpt/"><u>Optimize Your Interviewing Techniques with ChatGPT</u></a></li>
+<li><a href="https://discover-great.techidaily.com/top-strategies-for-efficiently-freeing-up-ram-in-your-windows-machine-insights-by-yl-computing/"><u>Top Strategies for Efficiently Freeing Up RAM in Your Windows Machine - Insights by YL Computing</u></a></li>
 </ul></div>
 

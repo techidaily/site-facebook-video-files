@@ -1,7 +1,7 @@
 ---
 title: "Resolving Issues with Non-Functional Logitech Webcam Microphones: A Step-by-Step Guide"
-date: 2025-01-14T20:52:53.872Z
-updated: 2025-01-22T06:38:21.723Z
+date: 2025-01-25T22:35:42.649Z
+updated: 2025-01-29T17:02:11.873Z
 tags:
   - win11
   - win10
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/74ac13432c01dd5c17161c9b4a52f81e0b445cdf2
 ## Logitech WebCam & Microphone Malfunctions? Here's How to Resolve Them
 
 Objectively, external webcams such as Logitech webcams offer better video quality, plus a range of features. But there are some situations where you may run into issues like the built-in microphone (**it could be your C920 webcame** ) not working all of a sudden. Instead of investing in another expensive webcam, there are several things you can do to reclaim your own voice.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -40,10 +44,6 @@ Here’s how you can do this:
 
 ![how to download and install Windows updates](https://images.drivereasy.com/wp-content/uploads/2021/01/check-for-updates.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Click on the **Check for updates**  tab. If there are any updates available, it’ll automatically start to download and install it. Simply wait for it to complete and you should be asked to restart your computer.
 
 ![how to download and install Windows updates](https://images.drivereasy.com/wp-content/uploads/2021/01/click-on-the-Check-for-updates-tab.png)
@@ -53,7 +53,7 @@ Here’s how you can do this:
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Update your webcam driver
@@ -80,7 +80,7 @@ Here’s how to update your drivers with Driver Easy:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/logitech-C920-1200x906.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -88,6 +88,10 @@ Here’s how to update your drivers with Driver Easy:
  After updating your drivers, restart your computer and do a mic test to check if the problem is solved. If not, then continue trying the fixes below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Allow access to your webcam built-in microphone
 
@@ -103,12 +107,16 @@ Here’s how to update your drivers with Driver Easy:
   
 ![turn on app permissions on your microphone](https://images.drivereasy.com/wp-content/uploads/2021/02/turn-on-app-permissions-for-your-micropho0ne.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Under the **Allow apps to access your microphone**  section, make sure it’s turned **On** .  
   
 ![allow apps to access your microphone](https://images.drivereasy.com/wp-content/uploads/2021/02/allow-apps-to-access-your-microphone.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  5) Once you’ve allowed the microphone to access your apps, you can change the settings for each app. Simply head to the **Choose which Microsoft apps can access your microphone** , and turn on apps you want to use with it. For desktop apps, make sure that **Allow desktop apps to access your microphone**  is turned **On** .
@@ -133,16 +141,12 @@ Here’s how to update your drivers with Driver Easy:
   
 ![make sure your device isn't disabled](https://images.drivereasy.com/wp-content/uploads/2021/03/make-sure-your-headset-isnt-disabled.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  After you’ve confirmed that the microphone is enabled, try to speak something to see if it’s now back to the normal state. If the microphone is still not working, try the next fix below.
 
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Set your device as default
@@ -153,13 +157,13 @@ Here’s how to update your drivers with Driver Easy:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/open-sound-settings.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Scroll down to the section of **Related Settings** and click **Sound Control Panel** .  
   
 ![Open Sound Control Panel](https://images.drivereasy.com/wp-content/uploads/2021/02/sound-control-panel.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Select the **Recording**  tab. Select your microphone and then click **Set Default > OK** .  
   
@@ -170,10 +174,6 @@ Here’s how to update your drivers with Driver Easy:
  1) In the Sound window (shown as the picture above), right-click the microphone and select**Properties** .
 
  2) Go to the**Levels** tab. Then, drag the slider to adjust the volume. While performing this step, you need to do a mic test at the same time.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## If your microphone is still not working properly…
 
@@ -210,19 +210,21 @@ Here’s how to update your drivers with Driver Easy:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-enhancing-images-on-smartphones-for-creatives-for-2024/"><u>[New] Enhancing Images on Smartphones for Creatives for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-how-to-effortlessly-record-and-share-snapchat-videos-for-2024/"><u>[New] How to Effortlessly Record and Share Snapchat Videos for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-from-isolated-snaps-to-awe-inspiring-mosaic-symphony/"><u>[New] In 2024, From Isolated Snaps to Awe-Inspiring Mosaic Symphony</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-boost-your-e-commerce-strategy-with-these-top-15-fb-analyzers/"><u>[Updated] 2024 Approved Boost Your E-Commerce Strategy with These Top 15 FB Analyzers</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-fb-call-video-logging-essential-steps-in-4-ways-for-2024/"><u>[Updated] FB Call Video Logging - Essential Steps in 4 Ways for 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-perfect-playback-overcoming-mutes-on-linkedin-video-posts-for-2024/"><u>[Updated] Perfect Playback Overcoming Mutes on LinkedIn Video Posts for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-prime-virtual-classroom-creation-tool/"><u>[Updated] Prime Virtual Classroom Creation Tool</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-top-choice-for-fb-vids-mp4-download-toolkit/"><u>[Updated] Top Choice for FB Vids – MP4 Download Toolkit</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/boosting-sales-via-high-roi-animated-fb-ad-campaigns/"><u>Boosting Sales via High-ROI Animated FB Ad Campaigns</u></a></li>
-<li><a href="https://fox-that.techidaily.com/enhance-your-iphone-experience-with-effective-battery-calibration-learn-how/"><u>Enhance Your iPhone Experience with Effective Battery Calibration – Learn How</u></a></li>
-<li><a href="https://common-error.techidaily.com/frozen-function-computer-wont-leave-win1110-snooze/"><u>Frozen Function: Computer Won't Leave Win11/10 Snooze</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-unbrick-a-dead-realme-c51-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Realme C51 | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-lava-yuva-2-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos From Lava Yuva 2 to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/unveiling-the-cyberpower-cp685avrg-ups-the-unsung-hero-of-essential-power-continuity-for-beginners/"><u>Unveiling the Cyberpower CP685AVRG UPS - The Unsung Hero of Essential Power Continuity for Beginners</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-decrypting-fb-chat-videography-a-detailed-approach/"><u>[New] Decrypting FB Chat Videography A Detailed Approach</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-youtube-alternative-free-conversion-of-fb-videos-to-mp4-format-hd-quality/"><u>[New] In 2024, YouTube Alternative Free Conversion of FB Videos to MP4 Format (HD Quality)</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-navigating-through-the-top-5-new-facebook-shifts-for-2024/"><u>[New] Navigating Through the Top 5 New Facebook Shifts for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-flutter-free-your-videos-a-selection-of-excellent-converters/"><u>[Updated] 2024 Approved Flutter Free Your Videos A Selection of Excellent Converters</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-transforming-social-media-videography-to-hd-clarity-fb/"><u>[Updated] 2024 Approved Transforming Social Media Videography to HD Clarity (FB)</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-digital-disappointment-unexpected-deletion/"><u>[Updated] Digital Disappointment Unexpected Deletion</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-how-to-amplify-your-social-media-reach-through-judicious-use-of-hash-tags-on-facebook/"><u>[Updated] How to Amplify Your Social Media Reach Through Judicious Use of Hash Tags on Facebook</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-exclusive-drone-visuals-free-luts-for-dji-drones/"><u>[Updated] In 2024, Exclusive Drone Visuals Free LUTS for DJI Drones</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-insight-into-how-luts-transform-your-digital-canvas/"><u>[Updated] Insight Into How LUTs Transform Your Digital Canvas</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-navigating-windows-11-a-deep-dive-into-zoom-usage/"><u>2024 Approved Navigating Windows 11 A Deep Dive Into Zoom Usage</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-top-tier-mp4-director-for-facebook/"><u>2024 Approved Top-Tier MP4 Director for Facebook</u></a></li>
+<li><a href="https://network-issues.techidaily.com/correcting-win11-monitors-absence-of-fullscreen/"><u>Correcting Win11 Monitor's Absence of Fullscreen</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/guide-to-enjoying-pokemon-unite-battles-from-your-desktop-pc/"><u>Guide to Enjoying Pokémon Unite Battles From Your Desktop PC</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-seamlessly-enhancing-content-learn-video-filter-techniques-on-pcmobile/"><u>In 2024, Seamlessly Enhancing Content Learn Video Filter Techniques on PC/Mobile</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/streamline-your-youtube-watch-with-no-black-or-white-edges-for-2024/"><u>Streamline Your YouTube Watch with No Black or White Edges for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-ultimate-smart-lock-solution-for-iphones-stylish-and-secure/"><u>The Ultimate Smart Lock Solution for iPhones – Stylish & Secure!</u></a></li>
 </ul></div>
 

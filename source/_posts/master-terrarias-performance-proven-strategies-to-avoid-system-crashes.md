@@ -1,7 +1,7 @@
 ---
 title: "Master Terraria's Performance : Proven Strategies to Avoid System Crashes"
-date: 2025-01-18T11:50:50.422Z
-updated: 2025-01-22T02:43:16.944Z
+date: 2025-01-27T22:17:09.532Z
+updated: 2025-01-29T18:27:44.967Z
 tags:
   - win11
   - win10
@@ -26,10 +26,6 @@ Before you move on, select your gaming platform first:
 * **[PC](https://tools.techidaily.com/drivereasy/download/)**
 * **[Xbox One](https://tools.techidaily.com/drivereasy/download/)**
 * **[PlayStation 4](https://tools.techidaily.com/drivereasy/download/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### PC
 
@@ -70,11 +66,11 @@ Before you move on, select your gaming platform first:
 ![](https://www.drivereasy.com/wp-content/uploads/2019/09/image-91.png)
 3. Click the **Display** tab, and then check your graphics card’s information.  
 
-![](https://www.drivereasy.com/wp-content/uploads/2019/08/image-132.png)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://www.drivereasy.com/wp-content/uploads/2019/08/image-132.png)
 
  Make sure your computer meets the minimum requirements to run_DBD_ , then read on and check the fix, below.
 
@@ -128,10 +124,6 @@ OR
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/05/NVIDIA-GeForce-RTX-3090-Ti.jpg)
 4. After updating, restart your computer to take effect.
@@ -148,6 +140,10 @@ If your issue persists, then move on and try the next fix.
 ![](https://www.drivereasy.com/wp-content/uploads/2019/07/image-428.png)
 2. Type **easyanticheat**  in the search box and press **Enter**  on your keyboard.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2019/07/image-458.png)
 3. Right-click **EasyAntiCheat\_Setup.exe** , and then select **Run as administrator** . If you’re prompted about permissions, select Continue.  
 
@@ -156,10 +152,6 @@ If your issue persists, then move on and try the next fix.
 
 ![](https://www.drivereasy.com/wp-content/uploads/2019/09/image-191.png)
 5. Click**Repair Service** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2019/09/image-192.png)
 
@@ -174,10 +166,6 @@ If your issue persists, then move on and try the next fix.
 
 ![Steam - how to verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2023/10/Steam-verify-integrity-of-game-files-properties.jpg)
 3. Select the**Installed Files** tab and click on the**Verified integrity of game files** button.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![Steam - how to verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2023/10/Steam-verify-integrity-of-game-files.jpg)
 4. Steam will verify the game’s files – this process may take several minutes.
@@ -202,10 +190,6 @@ Follow the instructions below to see how to fix it:
 
 ![](https://www.drivereasy.com/wp-content/uploads/2019/05/image-738.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Restart your computer and your game to see if this worked for you. If your problem persists, try the fix below.
 
 #### Fix 8: Run your game in compatibility mode
@@ -222,6 +206,10 @@ Follow the instructions below to see how to fix it:
 ![](https://www.drivereasy.com/wp-content/uploads/2019/08/image-267.png)
 4. Relaunch your game to check if your issue had been resolved.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If your game crashes again under Windows 8 mode, repeat **steps 1 – 3** and select **Windows 7**  from the list box.
 
 If this didn’t work for you, check the fix, below.
@@ -234,8 +222,16 @@ If this didn’t work for you, check the fix, below.
 ![](https://www.drivereasy.com/wp-content/uploads/2019/05/image-885.png)
 2. Right-click the **steamapps folder** and select **Copy.** Then, place the copy in another location to back it up.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2019/05/image-886.png)
 3. On your keyboard, press the **Windows logo** key and type **control** . Then, click **Control panel** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2019/05/image-737.png)
 4. Under **View by,** click **Large icons** .  
@@ -247,6 +243,11 @@ If this didn’t work for you, check the fix, below.
 
 ![](https://www.drivereasy.com/wp-content/uploads/2019/05/image-890.png)
 7. Follow the on-screen instructions to uninstall your Steam.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2019/05/image-891.png)
 8. **[Download](https://store.steampowered.com/about/)**  and install Steam.
 
@@ -262,6 +263,10 @@ If this didn’t work for you, check the fix, below.
 ### Xbox One
 
  If you’re playing_Dead by Daylight_ on Xbox One, check the solutions below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Try these fixes
 
@@ -300,12 +305,13 @@ If this didn’t work for you, check the fix, below.
 ![](https://www.drivereasy.com/wp-content/uploads/2019/08/image-92.png)
 3. Select **System** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2019/08/image-90.png)
 4. Select **Update console.**  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2019/08/image-93.png)
 
  After the update is complete, restart Dead by Daylight to see if it runs correctly now. If your problem still exists, read on and try the fix below.
@@ -321,6 +327,10 @@ If this didn’t work for you, check the fix, below.
 ![](https://www.drivereasy.com/wp-content/uploads/2019/08/image-92.png)
 3. Select **System** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2019/08/image-90.png)
 4. Select **Console info.**  
 
@@ -331,10 +341,6 @@ If this didn’t work for you, check the fix, below.
 6. Select **Reset and keep my games & apps** .  
 
 ![](https://www.drivereasy.com/wp-content/uploads/2019/08/image-99.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  After resetting your console, restart Dead by Daylight to test your issue. If your problem persists, check the fix below.
 
@@ -354,10 +360,6 @@ If this didn’t work for you, check the fix, below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/xbox-one-controller-2206687_1920-1-1024x671.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **4)** Highlight your game, then press the **☰ button** on your controller.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-175-1024x439.png)
@@ -369,10 +371,6 @@ If this didn’t work for you, check the fix, below.
 **6)** After the game is uninstalled, insert **the game disc** into the drive to download and install Dead by Daylight.
 
  Hope one of the solutions here worked for you. Feel free to leave a comment below if you have any questions.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### PlayStation 4
 
@@ -451,6 +449,10 @@ If this didn’t work for you, check the fix, below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1095.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **7)**  Select **Yes**  and wait for the process to be complete.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1096.png)
@@ -482,22 +484,16 @@ If this didn’t work for you, check the fix, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-key-components-to-a-smooth-watching-experience-facebook-livestream/"><u>[New] 2024 Approved Key Components to a Smooth Watching Experience Facebook Livestream</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-fb-video-grabber-win-mac-and-mobile/"><u>[New] FB Video Grabber - Win, Mac & Mobile</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-free-up-your-time-with-these-5-chrome-plugins-for-fb-video-downloads/"><u>[New] Free Up Your Time with These 5 Chrome Plugins for FB Video Downloads</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-mastering-after-effects-with-top-rated-text-tools/"><u>[New] Mastering After Effects with Top-Rated Text Tools</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-celebrating-the-best-ten-music-video-lives/"><u>[Updated] 2024 Approved Celebrating the Best Ten Music Video Lives</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-seamless-mp4-extraction-your-fb-video-fix/"><u>[Updated] 2024 Approved Seamless MP4 Extraction – Your FB Video Fix</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-enabling-youtube-and-facebook-on-apple-tv-for-2024/"><u>[Updated] Enabling YouTube and Facebook on Apple TV for 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-unlock-premium-quality-streaming-on-the-worlds-largest-network/"><u>[Updated] In 2024, Unlock Premium Quality Streaming on the World's Largest Network</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/2024-approved-download-fb-content-windows-and-mac-guide/"><u>2024 Approved Download FB Content Windows & Mac Guide</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-wave-riders-picks-premium-action-cameras-2023/"><u>2024 Approved Wave Riders’ Picks Premium Action Cameras 2023</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/converting-sdr-video-to-hdr-a-comprehensive-tutorial-for-2024/"><u>Converting SDR Video to HDR - A Comprehensive Tutorial for 2024</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/data-rescue-guide-4-powerful-techniques-to-retrieve-information-from-corrupted-disk-sections/"><u>Data Rescue Guide: 4 Powerful Techniques to Retrieve Information From Corrupted Disk Sections</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/expert-techniques-for-transforming-mp4-files-with-vlc-for-2024/"><u>Expert Techniques for Transforming MP4 Files with VLC for 2024</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-lock-your-vivo-x100-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>In 2024, Lock Your Vivo X100 Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-unfolding-the-world-on-iphone-perfect-fb-video-sharing/"><u>In 2024, Unfolding the World on iPhone Perfect FB Video Sharing</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/techies-guide-best-non-gaming-screen-capture-tech/"><u>Techie's Guide Best Non-Gaming Screen Capture Tech</u></a></li>
-<li><a href="https://windows11.techidaily.com/thriving-on-windows-11-essential-methods/"><u>Thriving on Windows 11: Essential Methods</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-harness-the-hype-tactics-to-supercharge-your-social-media-status-for-2024/"><u>[New] Harness the Hype Tactics to Supercharge Your Social Media Status for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-revamp-your-social-media-presence-essential-online-image-makers-for-fb-covers/"><u>[New] Revamp Your Social Media Presence Essential Online Image Makers for FB Covers</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-navigating-previewed-fb-activity-is-it-safe-or-not/"><u>[Updated] 2024 Approved Navigating Previewed FB Activity Is It Safe or Not?</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-a-2023-survival-guide-seeking-fb-videos-on-every-tab/"><u>[Updated] A 2023 Survival Guide Seeking FB Videos on Every Tab</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-the-art-of-persuasion-on-facebook-a-beginners-and-expert-playbook-for-2024/"><u>[Updated] The Art of Persuasion on Facebook A Beginner’s & Expert Playbook for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-update-iphone-se-2022-to-the-latest-iosipados-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update iPhone SE (2022) to the Latest iOS/iPadOS Version? | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/quick-and-simple-driver-update-for-enhanced-performance-on-surface-docks/"><u>Quick and Simple Driver Update for Enhanced Performance on Surface Docks</u></a></li>
+<li><a href="https://win-blog.techidaily.com/simplifying-business-operations-the-impact-of-enterprise-search-systems/"><u>Simplifying Business Operations: The Impact of Enterprise Search Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-the-0x80072efd-issue-in-windows-11-expert-fixes-and-tips/"><u>Troubleshooting the 0X80072EFD Issue in Windows 11: Expert Fixes and Tips</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/ultimate-guide-to-convert-srt-to-txt-in-minutes-2023/"><u>Ultimate Guide to Convert SRT to TXT in Minutes 2023</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlock-unlimited-potential-generate-images-using-dall-e-3-on-bing-without-cost/"><u>Unlock Unlimited Potential: Generate Images Using DALL-E 3 on Bing Without Cost</u></a></li>
 </ul></div>
 

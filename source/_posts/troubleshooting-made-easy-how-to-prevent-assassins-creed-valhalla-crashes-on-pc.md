@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Made Easy: How to Prevent Assassin's Creed Valhalla Crashes on PC"
-date: 2025-01-18T08:37:10.463Z
-updated: 2025-01-22T01:25:43.105Z
+date: 2025-01-27T23:11:25.408Z
+updated: 2025-01-29T20:42:28.752Z
 tags:
   - win11
   - win10
@@ -33,7 +33,7 @@ thumbnail: https://thmb.techidaily.com/6816402dd23c56a105ec64bc0a33bec17942a9ec3
 8. **[Reinstall Assassin’s Creed Valhalla](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Make sure your specs meet the requirements
@@ -71,10 +71,14 @@ thumbnail: https://thmb.techidaily.com/6816402dd23c56a105ec64bc0a33bec17942a9ec3
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/valhalla-verify-1.jpg)
 3. Select **Verify files** . Then wait for the checking to complete.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/valhalla-verify-2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Now you can launch Assassin’s Creed Valhalla and check if it crashes again.
@@ -125,16 +129,8 @@ If the crash happens again, you can take a look at the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -154,7 +150,7 @@ If the crash happens again, you can take a look at the next fix.
 3. Continue your game and check if it crashes again.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If this trick failed to solve your problem, you can move on to the next one.
@@ -166,12 +162,16 @@ If the crash happens again, you can take a look at the next fix.
  If disabling peripherals doesn’t work for you, or you’re not using any at the first place, you can take a look at the next fix below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 7: Check the launcher log
 
  If you’re a tech-savvy player, one effective way to troubleshoot is to check the**launcher\_log.txt** after crashing. The default location to find your log files is:**C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\logs** . In the file named**launcher\_log.txt** , you should see what happened exactly. Check if the crash involves certain game files. If yes, delete them and run a**Scan and Repair** to re-download the latest files.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 8: Reinstall Assassin’s Creed Valhalla
 
@@ -196,21 +196,19 @@ If the crash happens again, you can take a look at the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-unveiling-techniques-to-harvest-gif-images-directly-from-fb/"><u>[New] 2024 Approved Unveiling Techniques to Harvest GIF Images Directly From FB</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-exploring-the-monetization-framework-of-tseries-via-youtube-for-2024/"><u>[New] Exploring the Monetization Framework of TSeries via YouTube for 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-from-planning-to-performance-tips-for-wirecast-and-facebook-livestreaming/"><u>[New] In 2024, From Planning to Performance Tips for Wirecast & Facebook Livestreaming</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-the-essential-guide-free-youtube-image-saving/"><u>[New] In 2024, The Essential Guide FREE YouTube Image Saving</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-social-spectacle-snatcher/"><u>[New] Social Spectacle Snatcher</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-instant-media-transformation-enhance-fb-videos-to-hdmp4-on-the-fly/"><u>[Updated] 2024 Approved Instant Media Transformation Enhance FB Videos to HD/MP4 on the Fly</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-spin-and-share-easy-iphone-filmmaking-techniques/"><u>[Updated] 2024 Approved Spin and Share Easy iPhone Filmmaking Techniques</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-youtubes-buzzing-titles-roundup-1-8/"><u>[Updated] YouTube's Buzzing Titles Roundup #1-#8</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-zooming-in-a-guide-to-tight-shots-in-microsoft-teams-for-2024/"><u>[Updated] Zooming In A Guide to Tight Shots in Microsoft Teams for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/crafting-a-complete-media-experience-mixing-music-and-video-in-premiere-pro/"><u>Crafting a Complete Media Experience Mixing Music and Video in Premiere Pro</u></a></li>
-<li><a href="https://win-best.techidaily.com/discover-your-video-storage-locations-finding-and-retrieving-lost-footage-on-windows-and-ios-devices/"><u>Discover Your Video Storage Locations: Finding and Retrieving Lost Footage on Windows and iOS Devices</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/endless-desire-to-purchase-earphones-is-it-my-fault-or-a-habit/"><u>Endless Desire to Purchase Earphones - Is It My Fault or a Habit?</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/instantly-stream-youtube-content-on-facebook-auto-play-guide-for-2024/"><u>Instantly Stream YouTube Content on Facebook Auto-Play Guide for 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/restore-lost-watch-icon-on-facebook-for-2024/"><u>Restore Lost Watch Icon on Facebook for 2024</u></a></li>
-<li><a href="https://facebook.techidaily.com/scam-or-savvy-the-double-edged-sword-of-fb-cloning/"><u>Scam or Savvy? The Double-Edged Sword of FB Cloning</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/seamlessly-integrate-pip-on-microsoft-edge-for-2024/"><u>Seamlessly Integrate PIP on Microsoft Edge for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-exploring-manycams-latest-video-capture-innovations/"><u>[New] 2024 Approved Exploring ManyCam's Latest Video Capture Innovations</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-exploring-fantasy-realms-best-vr-games-across-devices/"><u>[New] Exploring Fantasy Realms Best VR Games Across Devices</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-the-ultimate-playbook-for-youtube-brand-development-and-expansion/"><u>[New] In 2024, The Ultimate Playbook for YouTube Brand Development and Expansion</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/aximize-impact-with-these-11-economical-youtube-naming-tools-for-2024/"><u>[New] Maximize Impact with These 11 Economical YouTube Naming Tools for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-unleashing-the-power-of-tales-complimentary-apps-galore-for-2024/"><u>[New] Unleashing the Power of Tales Complimentary Apps Galore for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-integrated-story-spread-4-simple-steps-on-fb/"><u>[Updated] In 2024, Integrated Story Spread 4 Simple Steps on FB</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-tips-for-making-facebook-ad-videos-memorable/"><u>[Updated] In 2024, Tips for Making Facebook Ad Videos Memorable</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-unraveling-why-your-facebooks-newsfeed-fails-to-suggest-movies/"><u>[Updated] Unraveling Why Your Facebook's Newsfeed Fails to Suggest Movies</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/best-buys-prime-day-hot-deals-for-october-202n4-top-picks-still-on-sale-zdnet-insights/"><u>Best Buy's Prime Day Hot Deals for October 202N4: Top Picks Still on Sale | ZDNET Insights</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/capture-connections-real-time-recordings/"><u>Capture Connections Real Time Recordings</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-update-amd-radeon-drivers-solutions-and-tips/"><u>How to Update AMD Radeon Drivers - Solutions and Tips</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-flipping-filmmaking-on-your-android-device/"><u>In 2024, Flipping Filmmaking on Your Android Device</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-simplify-screen-views-transforming-fb-content-for-televisions/"><u>In 2024, Simplify Screen Views Transforming FB Content for Televisions</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/space-requirements-for-hd-video-on-64gb-for-2024/"><u>Space Requirements for HD Video on 64GB for 2024</u></a></li>
 </ul></div>
 

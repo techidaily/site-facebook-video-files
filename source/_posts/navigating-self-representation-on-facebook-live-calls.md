@@ -1,7 +1,7 @@
 ---
 title: "\"Navigating Self-Representation on Facebook Live Calls\""
-date: 2025-01-20T06:53:26.199Z
-updated: 2025-01-22T09:42:43.306Z
+date: 2025-01-25T16:28:34.296Z
+updated: 2025-01-29T18:06:26.089Z
 tags:
   - ai video
   - ai facebook
@@ -59,6 +59,10 @@ This form of the virus has turned out to be a conventional virus type; however, 
 
 Hackers are quite successful in displaying such video scams as YouTube links that opened would redirect towards downloading a malicious file. Many people have reportedly explained the similarity with the original content, making the **Facebook video scam** one of the most threatening Facebook viruses.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fake Facebook Applications
 
 People with little knowledge of Facebook applications have even breached their privacy with fake Facebook applications. The renowned icon has been copied and utilized in different forms, which, if downloaded, traps the user into the virus. If installed and opened, this virus leads you into one of the biggest and most threatening conditions.
@@ -70,6 +74,222 @@ The user who gives authorized permissions to such applications gets their phones
 Unusual posts across Facebook's timeline are another form of gaining access to your account credentials. Posts that seem too good to be true or have unrealistic patterns usually put people's profiles at risk if accessed potentially. If clicked across these posts, these online links and spam links are the killers to your profile.
 
 Users are usually advised to report these posts on observing such suspicious activities. Although, a few put their profile at risk for winning a chance in the "online lottery."
+
+## Part 2: What is the “Is That You” Facebook Virus and What Does it Do?
+
+The main idea of the "Is That You" Facebook video virus is to breach the users' privacy and take in potential information that would effectively harm the image or the profile security. There is a need to look into the **“It’s You in this Video” Facebook message** and dissect all the possibilities that associate the situation and the possibilities it brings for the hackers behind it.
+
+![is that you fb scam](https://images.wondershare.com/filmora/article-images/2022/02/facebook-video-scam-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+### What Happens After You Click the Link or Message
+
+This Facebook virus propagates under the narrative of gaining access to personal information or putting malicious software into the targeted system that accesses the link. While circulated as a question, this virus operates over clicking the video link usually inserted across the message. Over clicking the link, a fake YouTube page or another significant look-alike platform opens up in a window that tricks the view of the people.
+
+Most people believe in the originality of this fake platform and enter their credentials across it to give away their passwords to the hackers behind it. This imitation puts in a consistent threat of getting their remote server controlled by hackers. This malicious threat is all that puts your complete profile under an imminent threat.
+
+What looks like an original Facebook login page is just a randomly generated URL that can be recognized in many ways. The sites utilize HTTP instead of HTTPS, which is one of the simplest techniques to assume the link is a fake page to get out your information. The scam, however, extends to something beyond just getting personal information out of the user.
+
+### What Does the Virus Do After Leading Into the Account Credentials?
+
+This malicious software or viruses associated with the links are making money out of these potential scams. Users are tricked into giving their confidential credit card details, leading to monetary threats and scams. It has been reported that users have potentially lost money due to this mistake of letting hackers go into the account.
+
+The developers of these viruses have an objective of personal gains out of these kinds of viruses, which can be quite a botheration for the users. The only explanation for users to stay safe from such viruses is to avoid clicking links without a clear understanding of what they are accessing. Such links lead to imitations of renowned websites, which can put you in excessive difficulties if confused with the original.
+
+## Part 3: What Are the Prevention Techniques and Follow-Ups After This Issue?
+
+Considering you have been victim to such a **Facebook video scam** virus, or you wish to take preventive measures to save yourselves from such problems, there are a set of different techniques which should be followed to make your life free from such deceptive and destructive viruses. Look into the following discussion in this part to understand what you should do before or after you face such issues within your profile.
+
+### Use Two-Factor Authentication
+
+One of the most effective systems to protect your account is to use 2FA across your account. This acts as a roadblock to cybercriminals, which prevents hackers from accessing your account and accessing the passwords.
+
+### Password Managers
+
+There are many ways that a password manager can be a convenient form to protect your accounts from being hacked. Password managers use techniques that change the credentials of your account for every site or get passwords that are random and cannot be guessed. The use of these managers is quite swift and makes it harder for hackers to break through it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+### Anti-Viruses with Built-In Web Filters
+
+People can get tricked into having their accounts breached with such malware; however, the use of proper software can get you safely from the threats they pose. It is advised to use anti-viruses containing web filters so that URLs with malicious content cannot be accessed; thus, protecting your account integrity.
+
+### Let Your Friends Know
+
+If you think your account has been breached, you should take up a different channel to let your friends know of the problem. This would potentially help you ensure that nothing problematic occurs within your profile that would set problems for you.
+
+## Conclusion
+
+This article has described all the potential explanations associated with the **“It’s You In this Video” Facebook message**. There has been a lot that is taken into consideration, including the types of different viruses associated with it. Along with that, the complete virus and the exclusive follow-ups, which provide details of what it does, are also explained in the article. Different prevention techniques have been put into the discussion to prevent users from getting into such a menace.
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+Facebook has been around the corner as a social media platform for quite a while now. Having billions of users within the platform, Facebook has gained a lot of traction over the years. Understanding the diversity of the market within the platform, there are a lot of problems that are associated with the system too. One unethical explanation of the problems faced by people is the virus associating the Facebook message of “Is That You.”
+
+Facebook viruses are generally computer viruses that are countered by your device; however, there are also other viruses referred to as a social engineering scam people fall into within the platform. This article is subjectively discussing the **“It’s You in this Video” Facebook message** and provides a detailed explanation of how people are facing such threatful circumstances, putting their accounts and privacy under threat.
+
+#### In this article
+
+Part 1: [Types of Facebook Viruses that Can be Spotted](#step1)
+
+Part 2: [What is the “Is That You” Facebook Virus and What Does it Do?](#step2)
+
+Part 3: [What Are the Prevention Techniques and Follow-Ups After This Issue?](#step3)
+
+## Part 1: Types of Facebook Viruses that Can be Spotted
+
+There is a numerous variety of Facebook viruses that we can think of; however, the **Facebook video scam,** in general, is focused on breaching the user's privacy. These viruses are easily recognized and tracked, making it simple for people to protect themselves on this social platform. These malware and viruses are given the room to barge into the platform with the bugs countered.
+
+![types of facebook scam](https://images.wondershare.com/filmora/article-images/2022/02/facebook-video-scam-1.jpg)
+
+However, the only responsibility of recognizing and reporting the viruses is to look into the types, which would explain quite much to the users how they need to assess the situation and protect themselves from the problems this can cause.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+### Personal Messages with Urgency
+
+Social engineers utilize their skills to express urgency across Facebook messages to gain users' personal information. Although **Facebook video scam** is different kind of scam, such types are more confusing and irritating to counter. Urgent personal messages have been an effective form of viruses fraudsters have used to gain personal information from Facebook messages.
+
+This form of the virus has turned out to be a conventional virus type; however, only a single download was what could breach your personal information. Your account would be breached over a single click, and you'll be countering a problem that might never get easy on you.
+
+### Facebook Video Scam Viruses
+
+**Facebook video scam** has been at the forefront of viruses, where it has breached a lot of users' privacy with its simple yet effective technique of gaining personal information. Facebook warns its users of the possible risks before redirecting to another website; however, this has been one of the most confusing viruses. Users usually fail to realize the threats associated with moving towards other websites.
+
+Hackers are quite successful in displaying such video scams as YouTube links that opened would redirect towards downloading a malicious file. Many people have reportedly explained the similarity with the original content, making the **Facebook video scam** one of the most threatening Facebook viruses.
+
+### Fake Facebook Applications
+
+People with little knowledge of Facebook applications have even breached their privacy with fake Facebook applications. The renowned icon has been copied and utilized in different forms, which, if downloaded, traps the user into the virus. If installed and opened, this virus leads you into one of the biggest and most threatening conditions.
+
+The user who gives authorized permissions to such applications gets their phones breached to the root. A single click to installation puts your complete profile under an inadvertent threat.
+
+### Spam Posts
+
+Unusual posts across Facebook's timeline are another form of gaining access to your account credentials. Posts that seem too good to be true or have unrealistic patterns usually put people's profiles at risk if accessed potentially. If clicked across these posts, these online links and spam links are the killers to your profile.
+
+Users are usually advised to report these posts on observing such suspicious activities. Although, a few put their profile at risk for winning a chance in the "online lottery."
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+## Part 2: What is the “Is That You” Facebook Virus and What Does it Do?
+
+The main idea of the "Is That You" Facebook video virus is to breach the users' privacy and take in potential information that would effectively harm the image or the profile security. There is a need to look into the **“It’s You in this Video” Facebook message** and dissect all the possibilities that associate the situation and the possibilities it brings for the hackers behind it.
+
+![is that you fb scam](https://images.wondershare.com/filmora/article-images/2022/02/facebook-video-scam-2.jpg)
+
+### What Happens After You Click the Link or Message
+
+This Facebook virus propagates under the narrative of gaining access to personal information or putting malicious software into the targeted system that accesses the link. While circulated as a question, this virus operates over clicking the video link usually inserted across the message. Over clicking the link, a fake YouTube page or another significant look-alike platform opens up in a window that tricks the view of the people.
+
+Most people believe in the originality of this fake platform and enter their credentials across it to give away their passwords to the hackers behind it. This imitation puts in a consistent threat of getting their remote server controlled by hackers. This malicious threat is all that puts your complete profile under an imminent threat.
+
+What looks like an original Facebook login page is just a randomly generated URL that can be recognized in many ways. The sites utilize HTTP instead of HTTPS, which is one of the simplest techniques to assume the link is a fake page to get out your information. The scam, however, extends to something beyond just getting personal information out of the user.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+### What Does the Virus Do After Leading Into the Account Credentials?
+
+This malicious software or viruses associated with the links are making money out of these potential scams. Users are tricked into giving their confidential credit card details, leading to monetary threats and scams. It has been reported that users have potentially lost money due to this mistake of letting hackers go into the account.
+
+The developers of these viruses have an objective of personal gains out of these kinds of viruses, which can be quite a botheration for the users. The only explanation for users to stay safe from such viruses is to avoid clicking links without a clear understanding of what they are accessing. Such links lead to imitations of renowned websites, which can put you in excessive difficulties if confused with the original.
+
+## Part 3: What Are the Prevention Techniques and Follow-Ups After This Issue?
+
+Considering you have been victim to such a **Facebook video scam** virus, or you wish to take preventive measures to save yourselves from such problems, there are a set of different techniques which should be followed to make your life free from such deceptive and destructive viruses. Look into the following discussion in this part to understand what you should do before or after you face such issues within your profile.
+
+### Use Two-Factor Authentication
+
+One of the most effective systems to protect your account is to use 2FA across your account. This acts as a roadblock to cybercriminals, which prevents hackers from accessing your account and accessing the passwords.
+
+### Password Managers
+
+There are many ways that a password manager can be a convenient form to protect your accounts from being hacked. Password managers use techniques that change the credentials of your account for every site or get passwords that are random and cannot be guessed. The use of these managers is quite swift and makes it harder for hackers to break through it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+### Anti-Viruses with Built-In Web Filters
+
+People can get tricked into having their accounts breached with such malware; however, the use of proper software can get you safely from the threats they pose. It is advised to use anti-viruses containing web filters so that URLs with malicious content cannot be accessed; thus, protecting your account integrity.
+
+### Let Your Friends Know
+
+If you think your account has been breached, you should take up a different channel to let your friends know of the problem. This would potentially help you ensure that nothing problematic occurs within your profile that would set problems for you.
+
+## Conclusion
+
+This article has described all the potential explanations associated with the **“It’s You In this Video” Facebook message**. There has been a lot that is taken into consideration, including the types of different viruses associated with it. Along with that, the complete virus and the exclusive follow-ups, which provide details of what it does, are also explained in the article. Different prevention techniques have been put into the discussion to prevent users from getting into such a menace.
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+Facebook has been around the corner as a social media platform for quite a while now. Having billions of users within the platform, Facebook has gained a lot of traction over the years. Understanding the diversity of the market within the platform, there are a lot of problems that are associated with the system too. One unethical explanation of the problems faced by people is the virus associating the Facebook message of “Is That You.”
+
+Facebook viruses are generally computer viruses that are countered by your device; however, there are also other viruses referred to as a social engineering scam people fall into within the platform. This article is subjectively discussing the **“It’s You in this Video” Facebook message** and provides a detailed explanation of how people are facing such threatful circumstances, putting their accounts and privacy under threat.
+
+#### In this article
+
+Part 1: [Types of Facebook Viruses that Can be Spotted](#step1)
+
+Part 2: [What is the “Is That You” Facebook Virus and What Does it Do?](#step2)
+
+Part 3: [What Are the Prevention Techniques and Follow-Ups After This Issue?](#step3)
+
+## Part 1: Types of Facebook Viruses that Can be Spotted
+
+There is a numerous variety of Facebook viruses that we can think of; however, the **Facebook video scam,** in general, is focused on breaching the user's privacy. These viruses are easily recognized and tracked, making it simple for people to protect themselves on this social platform. These malware and viruses are given the room to barge into the platform with the bugs countered.
+
+![types of facebook scam](https://images.wondershare.com/filmora/article-images/2022/02/facebook-video-scam-1.jpg)
+
+However, the only responsibility of recognizing and reporting the viruses is to look into the types, which would explain quite much to the users how they need to assess the situation and protect themselves from the problems this can cause.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+### Personal Messages with Urgency
+
+Social engineers utilize their skills to express urgency across Facebook messages to gain users' personal information. Although **Facebook video scam** is different kind of scam, such types are more confusing and irritating to counter. Urgent personal messages have been an effective form of viruses fraudsters have used to gain personal information from Facebook messages.
+
+This form of the virus has turned out to be a conventional virus type; however, only a single download was what could breach your personal information. Your account would be breached over a single click, and you'll be countering a problem that might never get easy on you.
+
+### Facebook Video Scam Viruses
+
+**Facebook video scam** has been at the forefront of viruses, where it has breached a lot of users' privacy with its simple yet effective technique of gaining personal information. Facebook warns its users of the possible risks before redirecting to another website; however, this has been one of the most confusing viruses. Users usually fail to realize the threats associated with moving towards other websites.
+
+Hackers are quite successful in displaying such video scams as YouTube links that opened would redirect towards downloading a malicious file. Many people have reportedly explained the similarity with the original content, making the **Facebook video scam** one of the most threatening Facebook viruses.
+
+### Fake Facebook Applications
+
+People with little knowledge of Facebook applications have even breached their privacy with fake Facebook applications. The renowned icon has been copied and utilized in different forms, which, if downloaded, traps the user into the virus. If installed and opened, this virus leads you into one of the biggest and most threatening conditions.
+
+The user who gives authorized permissions to such applications gets their phones breached to the root. A single click to installation puts your complete profile under an inadvertent threat.
+
+### Spam Posts
+
+Unusual posts across Facebook's timeline are another form of gaining access to your account credentials. Posts that seem too good to be true or have unrealistic patterns usually put people's profiles at risk if accessed potentially. If clicked across these posts, these online links and spam links are the killers to your profile.
+
+Users are usually advised to report these posts on observing such suspicious activities. Although, a few put their profile at risk for winning a chance in the "online lottery."
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: What is the “Is That You” Facebook Virus and What Does it Do?
 
@@ -137,231 +357,7 @@ There is a numerous variety of Facebook viruses that we can think of; however, t
 
 ![types of facebook scam](https://images.wondershare.com/filmora/article-images/2022/02/facebook-video-scam-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 However, the only responsibility of recognizing and reporting the viruses is to look into the types, which would explain quite much to the users how they need to assess the situation and protect themselves from the problems this can cause.
-
-### Personal Messages with Urgency
-
-Social engineers utilize their skills to express urgency across Facebook messages to gain users' personal information. Although **Facebook video scam** is different kind of scam, such types are more confusing and irritating to counter. Urgent personal messages have been an effective form of viruses fraudsters have used to gain personal information from Facebook messages.
-
-This form of the virus has turned out to be a conventional virus type; however, only a single download was what could breach your personal information. Your account would be breached over a single click, and you'll be countering a problem that might never get easy on you.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-### Facebook Video Scam Viruses
-
-**Facebook video scam** has been at the forefront of viruses, where it has breached a lot of users' privacy with its simple yet effective technique of gaining personal information. Facebook warns its users of the possible risks before redirecting to another website; however, this has been one of the most confusing viruses. Users usually fail to realize the threats associated with moving towards other websites.
-
-Hackers are quite successful in displaying such video scams as YouTube links that opened would redirect towards downloading a malicious file. Many people have reportedly explained the similarity with the original content, making the **Facebook video scam** one of the most threatening Facebook viruses.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-### Fake Facebook Applications
-
-People with little knowledge of Facebook applications have even breached their privacy with fake Facebook applications. The renowned icon has been copied and utilized in different forms, which, if downloaded, traps the user into the virus. If installed and opened, this virus leads you into one of the biggest and most threatening conditions.
-
-The user who gives authorized permissions to such applications gets their phones breached to the root. A single click to installation puts your complete profile under an inadvertent threat.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-### Spam Posts
-
-Unusual posts across Facebook's timeline are another form of gaining access to your account credentials. Posts that seem too good to be true or have unrealistic patterns usually put people's profiles at risk if accessed potentially. If clicked across these posts, these online links and spam links are the killers to your profile.
-
-Users are usually advised to report these posts on observing such suspicious activities. Although, a few put their profile at risk for winning a chance in the "online lottery."
-
-## Part 2: What is the “Is That You” Facebook Virus and What Does it Do?
-
-The main idea of the "Is That You" Facebook video virus is to breach the users' privacy and take in potential information that would effectively harm the image or the profile security. There is a need to look into the **“It’s You in this Video” Facebook message** and dissect all the possibilities that associate the situation and the possibilities it brings for the hackers behind it.
-
-![is that you fb scam](https://images.wondershare.com/filmora/article-images/2022/02/facebook-video-scam-2.jpg)
-
-### What Happens After You Click the Link or Message
-
-This Facebook virus propagates under the narrative of gaining access to personal information or putting malicious software into the targeted system that accesses the link. While circulated as a question, this virus operates over clicking the video link usually inserted across the message. Over clicking the link, a fake YouTube page or another significant look-alike platform opens up in a window that tricks the view of the people.
-
-Most people believe in the originality of this fake platform and enter their credentials across it to give away their passwords to the hackers behind it. This imitation puts in a consistent threat of getting their remote server controlled by hackers. This malicious threat is all that puts your complete profile under an imminent threat.
-
-What looks like an original Facebook login page is just a randomly generated URL that can be recognized in many ways. The sites utilize HTTP instead of HTTPS, which is one of the simplest techniques to assume the link is a fake page to get out your information. The scam, however, extends to something beyond just getting personal information out of the user.
-
-### What Does the Virus Do After Leading Into the Account Credentials?
-
-This malicious software or viruses associated with the links are making money out of these potential scams. Users are tricked into giving their confidential credit card details, leading to monetary threats and scams. It has been reported that users have potentially lost money due to this mistake of letting hackers go into the account.
-
-The developers of these viruses have an objective of personal gains out of these kinds of viruses, which can be quite a botheration for the users. The only explanation for users to stay safe from such viruses is to avoid clicking links without a clear understanding of what they are accessing. Such links lead to imitations of renowned websites, which can put you in excessive difficulties if confused with the original.
-
-## Part 3: What Are the Prevention Techniques and Follow-Ups After This Issue?
-
-Considering you have been victim to such a **Facebook video scam** virus, or you wish to take preventive measures to save yourselves from such problems, there are a set of different techniques which should be followed to make your life free from such deceptive and destructive viruses. Look into the following discussion in this part to understand what you should do before or after you face such issues within your profile.
-
-### Use Two-Factor Authentication
-
-One of the most effective systems to protect your account is to use 2FA across your account. This acts as a roadblock to cybercriminals, which prevents hackers from accessing your account and accessing the passwords.
-
-### Password Managers
-
-There are many ways that a password manager can be a convenient form to protect your accounts from being hacked. Password managers use techniques that change the credentials of your account for every site or get passwords that are random and cannot be guessed. The use of these managers is quite swift and makes it harder for hackers to break through it.
-
-### Anti-Viruses with Built-In Web Filters
-
-People can get tricked into having their accounts breached with such malware; however, the use of proper software can get you safely from the threats they pose. It is advised to use anti-viruses containing web filters so that URLs with malicious content cannot be accessed; thus, protecting your account integrity.
-
-### Let Your Friends Know
-
-If you think your account has been breached, you should take up a different channel to let your friends know of the problem. This would potentially help you ensure that nothing problematic occurs within your profile that would set problems for you.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-## Conclusion
-
-This article has described all the potential explanations associated with the **“It’s You In this Video” Facebook message**. There has been a lot that is taken into consideration, including the types of different viruses associated with it. Along with that, the complete virus and the exclusive follow-ups, which provide details of what it does, are also explained in the article. Different prevention techniques have been put into the discussion to prevent users from getting into such a menace.
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-Facebook has been around the corner as a social media platform for quite a while now. Having billions of users within the platform, Facebook has gained a lot of traction over the years. Understanding the diversity of the market within the platform, there are a lot of problems that are associated with the system too. One unethical explanation of the problems faced by people is the virus associating the Facebook message of “Is That You.”
-
-Facebook viruses are generally computer viruses that are countered by your device; however, there are also other viruses referred to as a social engineering scam people fall into within the platform. This article is subjectively discussing the **“It’s You in this Video” Facebook message** and provides a detailed explanation of how people are facing such threatful circumstances, putting their accounts and privacy under threat.
-
-#### In this article
-
-Part 1: [Types of Facebook Viruses that Can be Spotted](#step1)
-
-Part 2: [What is the “Is That You” Facebook Virus and What Does it Do?](#step2)
-
-Part 3: [What Are the Prevention Techniques and Follow-Ups After This Issue?](#step3)
-
-## Part 1: Types of Facebook Viruses that Can be Spotted
-
-There is a numerous variety of Facebook viruses that we can think of; however, the **Facebook video scam,** in general, is focused on breaching the user's privacy. These viruses are easily recognized and tracked, making it simple for people to protect themselves on this social platform. These malware and viruses are given the room to barge into the platform with the bugs countered.
-
-![types of facebook scam](https://images.wondershare.com/filmora/article-images/2022/02/facebook-video-scam-1.jpg)
-
-However, the only responsibility of recognizing and reporting the viruses is to look into the types, which would explain quite much to the users how they need to assess the situation and protect themselves from the problems this can cause.
-
-### Personal Messages with Urgency
-
-Social engineers utilize their skills to express urgency across Facebook messages to gain users' personal information. Although **Facebook video scam** is different kind of scam, such types are more confusing and irritating to counter. Urgent personal messages have been an effective form of viruses fraudsters have used to gain personal information from Facebook messages.
-
-This form of the virus has turned out to be a conventional virus type; however, only a single download was what could breach your personal information. Your account would be breached over a single click, and you'll be countering a problem that might never get easy on you.
-
-### Facebook Video Scam Viruses
-
-**Facebook video scam** has been at the forefront of viruses, where it has breached a lot of users' privacy with its simple yet effective technique of gaining personal information. Facebook warns its users of the possible risks before redirecting to another website; however, this has been one of the most confusing viruses. Users usually fail to realize the threats associated with moving towards other websites.
-
-Hackers are quite successful in displaying such video scams as YouTube links that opened would redirect towards downloading a malicious file. Many people have reportedly explained the similarity with the original content, making the **Facebook video scam** one of the most threatening Facebook viruses.
-
-### Fake Facebook Applications
-
-People with little knowledge of Facebook applications have even breached their privacy with fake Facebook applications. The renowned icon has been copied and utilized in different forms, which, if downloaded, traps the user into the virus. If installed and opened, this virus leads you into one of the biggest and most threatening conditions.
-
-The user who gives authorized permissions to such applications gets their phones breached to the root. A single click to installation puts your complete profile under an inadvertent threat.
-
-### Spam Posts
-
-Unusual posts across Facebook's timeline are another form of gaining access to your account credentials. Posts that seem too good to be true or have unrealistic patterns usually put people's profiles at risk if accessed potentially. If clicked across these posts, these online links and spam links are the killers to your profile.
-
-Users are usually advised to report these posts on observing such suspicious activities. Although, a few put their profile at risk for winning a chance in the "online lottery."
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-## Part 2: What is the “Is That You” Facebook Virus and What Does it Do?
-
-The main idea of the "Is That You" Facebook video virus is to breach the users' privacy and take in potential information that would effectively harm the image or the profile security. There is a need to look into the **“It’s You in this Video” Facebook message** and dissect all the possibilities that associate the situation and the possibilities it brings for the hackers behind it.
-
-![is that you fb scam](https://images.wondershare.com/filmora/article-images/2022/02/facebook-video-scam-2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-### What Happens After You Click the Link or Message
-
-This Facebook virus propagates under the narrative of gaining access to personal information or putting malicious software into the targeted system that accesses the link. While circulated as a question, this virus operates over clicking the video link usually inserted across the message. Over clicking the link, a fake YouTube page or another significant look-alike platform opens up in a window that tricks the view of the people.
-
-Most people believe in the originality of this fake platform and enter their credentials across it to give away their passwords to the hackers behind it. This imitation puts in a consistent threat of getting their remote server controlled by hackers. This malicious threat is all that puts your complete profile under an imminent threat.
-
-What looks like an original Facebook login page is just a randomly generated URL that can be recognized in many ways. The sites utilize HTTP instead of HTTPS, which is one of the simplest techniques to assume the link is a fake page to get out your information. The scam, however, extends to something beyond just getting personal information out of the user.
-
-### What Does the Virus Do After Leading Into the Account Credentials?
-
-This malicious software or viruses associated with the links are making money out of these potential scams. Users are tricked into giving their confidential credit card details, leading to monetary threats and scams. It has been reported that users have potentially lost money due to this mistake of letting hackers go into the account.
-
-The developers of these viruses have an objective of personal gains out of these kinds of viruses, which can be quite a botheration for the users. The only explanation for users to stay safe from such viruses is to avoid clicking links without a clear understanding of what they are accessing. Such links lead to imitations of renowned websites, which can put you in excessive difficulties if confused with the original.
-
-## Part 3: What Are the Prevention Techniques and Follow-Ups After This Issue?
-
-Considering you have been victim to such a **Facebook video scam** virus, or you wish to take preventive measures to save yourselves from such problems, there are a set of different techniques which should be followed to make your life free from such deceptive and destructive viruses. Look into the following discussion in this part to understand what you should do before or after you face such issues within your profile.
-
-### Use Two-Factor Authentication
-
-One of the most effective systems to protect your account is to use 2FA across your account. This acts as a roadblock to cybercriminals, which prevents hackers from accessing your account and accessing the passwords.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-### Password Managers
-
-There are many ways that a password manager can be a convenient form to protect your accounts from being hacked. Password managers use techniques that change the credentials of your account for every site or get passwords that are random and cannot be guessed. The use of these managers is quite swift and makes it harder for hackers to break through it.
-
-### Anti-Viruses with Built-In Web Filters
-
-People can get tricked into having their accounts breached with such malware; however, the use of proper software can get you safely from the threats they pose. It is advised to use anti-viruses containing web filters so that URLs with malicious content cannot be accessed; thus, protecting your account integrity.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-### Let Your Friends Know
-
-If you think your account has been breached, you should take up a different channel to let your friends know of the problem. This would potentially help you ensure that nothing problematic occurs within your profile that would set problems for you.
-
-## Conclusion
-
-This article has described all the potential explanations associated with the **“It’s You In this Video” Facebook message**. There has been a lot that is taken into consideration, including the types of different viruses associated with it. Along with that, the complete virus and the exclusive follow-ups, which provide details of what it does, are also explained in the article. Different prevention techniques have been put into the discussion to prevent users from getting into such a menace.
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-Facebook has been around the corner as a social media platform for quite a while now. Having billions of users within the platform, Facebook has gained a lot of traction over the years. Understanding the diversity of the market within the platform, there are a lot of problems that are associated with the system too. One unethical explanation of the problems faced by people is the virus associating the Facebook message of “Is That You.”
-
-Facebook viruses are generally computer viruses that are countered by your device; however, there are also other viruses referred to as a social engineering scam people fall into within the platform. This article is subjectively discussing the **“It’s You in this Video” Facebook message** and provides a detailed explanation of how people are facing such threatful circumstances, putting their accounts and privacy under threat.
-
-#### In this article
-
-Part 1: [Types of Facebook Viruses that Can be Spotted](#step1)
-
-Part 2: [What is the “Is That You” Facebook Virus and What Does it Do?](#step2)
-
-Part 3: [What Are the Prevention Techniques and Follow-Ups After This Issue?](#step3)
-
-## Part 1: Types of Facebook Viruses that Can be Spotted
-
-There is a numerous variety of Facebook viruses that we can think of; however, the **Facebook video scam,** in general, is focused on breaching the user's privacy. These viruses are easily recognized and tracked, making it simple for people to protect themselves on this social platform. These malware and viruses are given the room to barge into the platform with the bugs countered.
-
-![types of facebook scam](https://images.wondershare.com/filmora/article-images/2022/02/facebook-video-scam-1.jpg)
-
-However, the only responsibility of recognizing and reporting the viruses is to look into the types, which would explain quite much to the users how they need to assess the situation and protect themselves from the problems this can cause.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Personal Messages with Urgency
 
@@ -406,6 +402,10 @@ What looks like an original Facebook login page is just a randomly generated URL
 This malicious software or viruses associated with the links are making money out of these potential scams. Users are tricked into giving their confidential credit card details, leading to monetary threats and scams. It has been reported that users have potentially lost money due to this mistake of letting hackers go into the account.
 
 The developers of these viruses have an objective of personal gains out of these kinds of viruses, which can be quite a botheration for the users. The only explanation for users to stay safe from such viruses is to avoid clicking links without a clear understanding of what they are accessing. Such links lead to imitations of renowned websites, which can put you in excessive difficulties if confused with the original.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: What Are the Prevention Techniques and Follow-Ups After This Issue?
 
@@ -454,24 +454,14 @@ This article has described all the potential explanations associated with the **
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-share-a-world-view-iphone-360-film-techniques/"><u>[New] 2024 Approved Share a World View IPhone 360 Film Techniques</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-building-a-vivid-world-with-animated-clips-in-movie-maker-for-2024/"><u>[New] Building a Vivid World with Animated Clips in Movie Maker for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-choosing-frame-rate-wisely-is-30-or-60-fps-better-for-2024/"><u>[New] Choosing Frame Rate Wisely Is 30 or 60 FPS Better for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ssential-insights-for-youtube-content-protection-for-2024/"><u>[New] Essential Insights for YouTube Content Protection for 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-boost-engagement-sharing-streams-from-twitch-on-fb/"><u>[New] In 2024, Boost Engagement Sharing Streams From Twitch on FB</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-elevate-your-content-expert-tips-on-facebook-video-playbacks/"><u>[New] In 2024, Elevate Your Content Expert Tips on Facebook Video Playbacks</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-latest-pulse-of-facebooks-evolution/"><u>[New] Latest Pulse of Facebook's Evolution</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-the-art-of-creating-compelling-youtube-video-outlines/"><u>[Updated] 2024 Approved The Art of Creating Compelling YouTube Video Outlines</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-sculptive-strategies-in-creating-striking-fb-video-ads/"><u>[Updated] In 2024, Sculptive Strategies in Creating Striking Fb Video Ads</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-mastering-content-propagation-on-vimeo/"><u>[Updated] Mastering Content Propagation on Vimeo</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-the-perfect-playback-top-strategies-to-record-and-share-your-vr-experiences/"><u>[Updated] The Perfect Playback Top Strategies to Record and Share Your VR Experiences</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-ultimate-ranking-of-top-internet-recording-tools-2023/"><u>2024 Approved Ultimate Ranking of Top Internet Recording Tools 2023</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/crafting-squares-for-viral-videos-in-a-social-media-world/"><u>Crafting Squares for Viral Videos in a Social Media World</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/guia-sencilla-para-la-configuracion-segura-y-facil-del-servidor-de-arranque-pxe-en-windows/"><u>Guía Sencilla Para La Configuración Segura Y Fácil Del Servidor De Arranque PXE en Windows</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/important-warning-the-hidden-dangers-of-online-mkvwebm-converters-find-out-before-you-convert/"><u>Important Warning: The Hidden Dangers of Online MKV/WebM Converters - Find Out Before You Convert!</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/in-2024-enhance-your-medias-exposure-on-the-platform/"><u>In 2024, Enhance Your Media's Exposure on the Platform</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/in-2024-integrate-playlist-into-facebook-cross-platform-method/"><u>In 2024, Integrate Playlist Into Facebook - Cross-Platform Method</u></a></li>
-<li><a href="https://facebook.techidaily.com/mastering-social-media-turn-off-algorithms-on-twitter-instagram-and-facebook/"><u>Mastering Social Media: Turn Off Algorithms on Twitter, Instagram, & Facebook</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/maximizing-roi-setting-up-and-assessing-fb-instream-ads-for-2024/"><u>Maximizing ROI Setting Up & Assessing FB Instream Ads for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-avoid-boredom-learn-to-shuffle-youtube-lists/"><u>[New] 2024 Approved Avoid Boredom Learn to Shuffle YouTube Lists</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-facebook-today-changes-and-what-they-mean-for-you/"><u>[New] Facebook Today Changes and What They Mean for You</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-swift-strategies-to-silence-social-media-videos/"><u>[New] Swift Strategies to Silence Social Media Videos</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/empo-treasure-trove-compiling-the-best-dj-visuals-download-for-2024/"><u>[New] Tempo Treasure Trove Compiling the Best DJ Visuals Download for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-rock-your-facebook-profile-add-pin-play-and-manage-music-iphone-and-android/"><u>[Updated] Rock Your Facebook Profile Add, Pin, Play, & Manage Music (iPhone & Android)</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-effortless-video-capture-expert-tips-for-obs-on-android/"><u>2024 Approved Effortless Video Capture Expert Tips for OBS on Android</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-premium-camcorders-head-on-video-sharing/"><u>2024 Approved Premium Camcorders Head-On Video Sharing</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/did-your-apple-iphone-13-passcode-change-itself-unlock-it-now-by-drfone-ios/"><u>Did Your Apple iPhone 13 Passcode Change Itself? Unlock It Now</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-access-fb-urls-at-free-optimal-downloader-tools-of-the-year/"><u>In 2024, Access FB URLs at FREE Optimal Downloader Tools of the Year</u></a></li>
 </ul></div>
 

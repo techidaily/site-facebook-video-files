@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Tips: How to Correctly Fix Scanner Malfunctions"
-date: 2025-01-15T23:04:57.913Z
-updated: 2025-01-22T00:18:08.943Z
+date: 2025-01-27T00:23:16.283Z
+updated: 2025-01-29T16:53:38.133Z
 tags:
   - win11
   - win10
@@ -18,7 +18,7 @@ thumbnail: https://thmb.techidaily.com/2b0be1d254da9a28eb7fb0462b3c66de235332cf8
 Trying to play**Madden 20** but**it keeps crashing** ? You’re certainly not alone! While this is a very frustrating issue, it can be fixed…
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to fix**Madden 20** crashing
@@ -46,7 +46,7 @@ Trying to play**Madden 20** but**it keeps crashing** ? You’re certainly not al
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-439.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click the **Update**  button next to a flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
@@ -56,7 +56,7 @@ Trying to play**Madden 20** but**it keeps crashing** ? You’re certainly not al
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4) Restart your computer for the changes to take effect.
@@ -99,6 +99,10 @@ Trying to play**Madden 20** but**it keeps crashing** ? You’re certainly not al
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-526.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the **Display** tab and you can check what **graphics card** your PC is using.
 
  4) Close DirectX.
@@ -138,7 +142,7 @@ Here is how to do it:
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 5: Reinstall Origin and Madden 20
@@ -150,10 +154,6 @@ Here are the steps:
  1) On your keyboard, press the **Windows logo key** and **R** at the same time, then type **appwiz.cpl** and press**Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-174.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) In the program list, locate **Origin** , then right-click on it and click**Uninstall** .
 
@@ -190,18 +190,18 @@ Here are the steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-digital-footprints-lead-to-facebook-video-gold/"><u>[New] 2024 Approved Digital Footprints Lead to Facebook Video Gold</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-optimize-tv-viewership-via-facebook-live-streaming/"><u>[New] In 2024, Optimize TV Viewership via Facebook Live Streaming</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-view-all-sharing-media-in-messenger-conversations/"><u>[New] In 2024, View All Sharing Media in Messenger Conversations</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-perfecting-your-content-understanding-facebook-video-sizes-and-ratios-for-2024/"><u>[New] Perfecting Your Content Understanding Facebook Video Sizes and Ratios for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-unlock-youtubes-potential-key-strategies-from-creator-studio-manual/"><u>[New] Unlock YouTube's Potential Key Strategies From Creator Studio Manual</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-facebook-verification-how-to-get-the-blue-verified-badge-easily-for-2024/"><u>[Updated] Facebook Verification How to Get the Blue Verified Badge (Easily) for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-mastering-channel-growth-the-5-key-youtube-strategies/"><u>[Updated] Mastering Channel Growth The 5 Key YouTube Strategies</u></a></li>
-<li><a href="https://blog-min.techidaily.com/in-2024-how-to-teleport-your-gps-location-on-apple-iphone-6s-drfone-by-drfone-virtual-ios/"><u>In 2024, How To Teleport Your GPS Location On Apple iPhone 6s? | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-open-gallery-timeless-visuals-no-rights-to-claim/"><u>In 2024, Open Gallery Timeless Visuals No Rights to Claim</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/in-2024-reclaim-your-vanished-youtube-success-with-these-key-12-steps-for-fb-2023/"><u>In 2024, Reclaim Your Vanished YouTube Success with These Key 12 Steps for FB, 2023</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-softening-the-edges-a-guide-to-dimmed-audio-in-logic-pro/"><u>In 2024, Softening the Edges A Guide to Dimmed Audio in Logic Pro</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/problemlosungsguide-clonezilla-auf-nicht-gleichen-gpt-und-mbr-partitionen-beheben/"><u>Problemlösungsguide: Clonezilla Auf Nicht Gleichen GPT Und MBR-Partitionen Beheben</u></a></li>
-<li><a href="https://fox-http.techidaily.com/virtual-world-bliss-an-lg-360-vr-reveal/"><u>Virtual World Bliss An LG 360 VR Reveal</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-essential-fb-video-loader-apps-ranked-5-for-2024/"><u>[New] Essential FB Video Loader Apps Ranked #5 for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-mp4-conversion-magic-for-fb-videos-online/"><u>[New] MP4 Conversion Magic for FB Videos Online</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-uncovering-the-best-apps-to-transform-your-speech-for-2024/"><u>[New] Uncovering the Best Apps to Transform Your Speech for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-a-guide-to-profitable-animated-fb-advertising-techniques/"><u>[Updated] A Guide to Profitable, Animated FB Advertising Techniques</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-live-streaming-capture-services/"><u>[Updated] In 2024, Live-Streaming Capture Services</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1726225671593-nef-movavi/"><u>無需金錢的網路NEF傳輸服務 - Movavi</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/bridging-the-gap-syncing-multi-speaker-systems-through-bluetooth-technology/"><u>Bridging the Gap: Syncing Multi-Speaker Systems Through Bluetooth Technology</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/cambio-gratuito-de-imagenes-bmp-a-formato-tiff-guia-paso-a-paso-con-movavi/"><u>Cambio Gratuito De Imágenes BMP a Formato TIFF: Guía Paso a Paso Con Movavi</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-incorporating-tracks-into-online-visual-narratives/"><u>In 2024, Incorporating Tracks Into Online Visual Narratives</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/the-artisans-approach-to-profiling-brilliance/"><u>The Artisan's Approach to Profiling Brilliance</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/95771982-9781515414933-the-writings-of-thomas-troward-vol-i/"><u>The Writings of Thomas Troward, Vol I | Free Book</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/top-10-password-cracking-tools-for-motorola-edge-2023-by-drfone-android/"><u>Top 10 Password Cracking Tools For Motorola Edge 2023</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-made-simple-learn-to-softly-restart-your-iphone/"><u>Troubleshooting Made Simple: Learn to Softly Restart Your iPhone</u></a></li>
 </ul></div>
 
