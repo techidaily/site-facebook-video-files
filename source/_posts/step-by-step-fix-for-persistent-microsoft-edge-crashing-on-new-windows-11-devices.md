@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Fix for Persistent Microsoft Edge Crashing on New Windows 11 Devices
-date: 2025-01-25T20:24:35.809Z
-updated: 2025-01-29T22:55:22.334Z
+date: 2025-02-03T17:16:21.499Z
+updated: 2025-02-10T05:12:42.139Z
 tags:
   - win11
   - win10
@@ -30,10 +30,6 @@ Recently, we’ve seen many players reporting that**Dirt 5 keeps crashing** on t
 5. **[Set launch options on Steam](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Stop overclocking](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 1: Update your graphics driver
 
 The outdated or broken graphics driver often crashes the game.
@@ -54,7 +50,7 @@ The outdated or broken graphics driver often crashes the game.
 3. Click the **Update** button next to a device to automatically download the correct version of their driver, then you can manually install the driver (you can do this with the FREE version).  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Or click **Update All**  to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
@@ -62,7 +58,7 @@ The outdated or broken graphics driver often crashes the game.
 4. Restart your PC after you finished updating your graphics driver.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  See if the latest graphics driver stops the Dirt 5 from crashing. If not, don’t worry. Try the next fix, below.
@@ -74,6 +70,10 @@ The outdated or broken graphics driver often crashes the game.
 1. In Steam, navigate to **the LIBRARY tab** and **right-click** on _DIRT 5_ . Then select **Properties** .  
 ![Steam->properties](https://images.drivereasy.com/wp-content/uploads/2019/04/image-122.png)
 2. Click **the LOCAL FILES tab** , then click **VERIFY INTEGRITY OF GAME CACHE…** . After that, click **CLOSE** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![LOCAL FILES>VERIFY INTEGRITY OF GAME CACHE...](https://images.drivereasy.com/wp-content/uploads/2019/04/image-120.png)
 
@@ -98,14 +98,10 @@ The outdated or broken graphics driver often crashes the game.
 ![Disable Steam Overlay](https://images.drivereasy.com/wp-content/uploads/2021/04/Disable-Steam-Overlay.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Launch Dirt 5 to see if the game crashes. If the issue persists, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 5: Set launch options on Steam
 
@@ -119,6 +115,10 @@ The outdated or broken graphics driver often crashes the game.
 `-useallavailablecores -high`
 
  Launch the game to see if it crashes again. If it still crashes, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 6: Stop overclocking
 
@@ -150,22 +150,16 @@ The outdated or broken graphics driver often crashes the game.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-mastering-facebook-live-embedding-techniques-on-websites/"><u>[New] In 2024, Mastering Facebook Live Embedding Techniques on Websites</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-can-i-view-all-shared-videos-and-photos-on-messenger-for-2024/"><u>[Updated] Can I View All Shared Videos And Photos on Messenger for 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-guaranteeing-your-stream-uninterrupted-by-ads-on-fb/"><u>[Updated] In 2024, Guaranteeing Your Stream Uninterrupted by Ads on FB</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-tweeted-vids-to-mp4wav-conversion/"><u>[Updated] In 2024, Tweeted Vids to MP4/WAV Conversion</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-revolutionizing-color-with-the-precision-of-4k-blade-cameras/"><u>[Updated] Revolutionizing Color with the Precision of 4K Blade Cameras</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/2024-approved-interlinked-networks-transferring-fb-videos-to-whatsapp/"><u>2024 Approved Interlinked Networks Transferring FB Videos to WhatsApp</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/cut-out-facebook-video-2023-edition-mobile-friendly-for-2024/"><u>Cut Out Facebook Video 2023 Edition, Mobile-Friendly for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/mac-studio-to-youtube-stream-imovie-video-upload-guide-for-2024/"><u>From Mac Studio to YouTube Stream IMovie Video Upload Guide for 2024</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-and-where-to-find-a-shiny-stone-pokemon-for-oneplus-12r-drfone-by-drfone-virtual-android/"><u>How and Where to Find a Shiny Stone Pokémon For OnePlus 12R? | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/indulge-in-fun-the-best-10-game-apps-for-androidios-free/"><u>Indulge in Fun: The Best 10 Game Apps for Android/iOS (Free!)</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/infinix-smart-8-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Infinix Smart 8 Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/mastering-memory-card-rescue-a-comprehensive-tutorial-on-restoring-images-and-videos-from-digital-cameras/"><u>Mastering Memory Card Rescue: A Comprehensive Tutorial on Restoring Images and Videos From Digital Cameras</u></a></li>
-<li><a href="https://facebook.techidaily.com/negative-feedback-in-cyberspace-a-necessary-evil/"><u>Negative Feedback in Cyberspace: A Necessary Evil?</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/streamlining-facebook-content-for-tv-platforms/"><u>Streamlining Facebook Content for TV Platforms</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/top-15-convertitori-video-per-mac-gratis-ultime-novita-settembre-2024/"><u>Top 15 Convertitori Video Per Mac Gratis - Ultime Novità Settembre 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/unlock-your-fb-potential-with-these-video-engagement-techniques/"><u>Unlock Your FB Potential with These Video Engagement Techniques</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/unveiling-mystery-behind-invisible-facebook-vids-with-12-steps-for-2024/"><u>Unveiling Mystery Behind Invisible Facebook Vids with 12 Steps for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-becoming-a-greenscreen-specialist-in-kinemasters-vfx-realm/"><u>[Updated] 2024 Approved Becoming a Greenscreen Specialist in KineMaster's VFX Realm</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-merge-moments-seamlessly-from-tiktok-to-facebook/"><u>[Updated] 2024 Approved Merge Moments Seamlessly From TikTok, To Facebook</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-boundless-realms-discovering-new-worlds-in-top-10-sci-fi-epics/"><u>[Updated] Boundless Realms Discovering New Worlds in Top 10 Sci-Fi Epics</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-captivate-and-convert-creating-high-roi-animated-ads-on-facebook/"><u>[Updated] Captivate and Convert Creating High-ROI Animated Ads on Facebook</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-cutting-edge-notebooks-and-tools-to-elevate-your-editing-game-for-2024/"><u>[Updated] Cutting Edge Notebooks and Tools to Elevate Your Editing Game for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-social-scanning-shorthand-efficient-profile-hunting-on-fb/"><u>[Updated] In 2024, Social Scanning Shorthand Efficient Profile Hunting on FB</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-perfect-pairings-of-sound-and-sight-on-social-platforms-for-2024/"><u>[Updated] Perfect Pairings of Sound and Sight on Social Platforms for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/facebooks-viral-video-hits-compilation/"><u>Facebook's Viral Video Hits Compilation</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-beat-matchers-playlist-selecting-flawless-dj-videos/"><u>In 2024, Beat Matcher's Playlist Selecting Flawless DJ Videos</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/instant-communication-using-rtx-ai-on-your-computer/"><u>Instant Communication: Using RTX AI on Your Computer</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-chatgpt-enhancing-work-efficiency/"><u>Mastering ChatGPT: Enhancing Work Efficiency</u></a></li>
 </ul></div>
 

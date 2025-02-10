@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Facebook Slideshow  How to Create a Slideshow on Facebook\""
-date: 2025-01-25T20:49:33.521Z
-updated: 2025-01-29T16:01:08.904Z
+date: 2025-02-04T08:43:02.984Z
+updated: 2025-02-10T02:42:56.159Z
 tags:
   - ai video
   - ai facebook
@@ -57,11 +57,27 @@ First of all, you need to open the Facebook application on iOS and Android phone
 
 ![start create facebook slideshow](https://images.wondershare.com/filmora/article-images/facebook-slideshow-update-status.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Step 2: Now choose one theme
 
 Now select photos that you wish to add to your slideshow, you can also add videos. It is best to know [how to choose high-quality photos to make a video slideshow on Facebook](https://www.pholody.com/blog/best-practices-to-make-high-quality-photo-slideshow). Note that the selected photos or videos will have a blue box around them in your gallery and you need to select at least 3 photos & videos. There are 13 unique and stunning themes that you can choose for your slideshow. The collection includes all popular flavors like a night out, jazzy, celebration, romantic, pets, and kids. Pick any of these themes and then start adding transitions, effects, or desired background music as per the emotions attached to your slideshow. As soon as you tap on the screen, it will show you a preview of your slideshow theme. Adjust audio settings from the top left-hand corner of your screen.
 
 ![facebook slideshow library](https://images.wondershare.com/filmora/article-images/facebook-slideshow-library.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Step 3: Edit Facebook slideshow
 
@@ -70,7 +86,7 @@ The Edit option allows you to delete an image and adjust the order of the photos
 ![how to create a slideshow on facebook](https://images.wondershare.com/filmora/filmorapro/edit-facebook-slideshow.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Step 4: Publish Facebook slideshow
@@ -148,7 +164,7 @@ Now select photos that you wish to add to your slideshow, you can also add video
 ![facebook slideshow library](https://images.wondershare.com/filmora/article-images/facebook-slideshow-library.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Step 3: Edit Facebook slideshow
@@ -156,10 +172,6 @@ Now select photos that you wish to add to your slideshow, you can also add video
 The Edit option allows you to delete an image and adjust the order of the photos and videos that you want them to appear in the slideshow. In case if you want to remove any of your added images from the slideshow then simply tap on that particular image and you will find a trash icon on the screen. Tap that option. There is a More button on your screen, using this button you can easily add titles at the beginning of your slideshow as well as put your friends in the tag list. Now go to the preview option and check the quality of your slide show. You can also watch videos in any editing stage and all changes can be updated immediately. Note that adding more photos or videos to the slideshow means you are going to have a lengthy slideshow.
 
 ![how to create a slideshow on facebook](https://images.wondershare.com/filmora/filmorapro/edit-facebook-slideshow.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Step 4: Publish Facebook slideshow
 
@@ -176,6 +188,10 @@ Everyone can create a slideshow but not everyone can create appealing slideshows
       * Never forget to use captions and titles for your slideshow stories as they add an engaging impact.
 
 ![tips for making slideshow on facebook](https://images.wondershare.com/filmora/filmorapro/slideshow-example.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Conclusion
 
@@ -219,20 +235,12 @@ You can develop slideshow videos using the Facebook application but in case if y
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Check the ultimate guide about [Making a slideshow with music and titles in Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2: How to Create a Slideshow on Facebook Easily
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Step 1: Start making a Facebook slideshow
@@ -240,10 +248,6 @@ Check the ultimate guide about [Making a slideshow with music and titles in Film
 First of all, you need to open the Facebook application on iOS and Android phones and then move to the Status Update section. Here you will find the slideshow option near the frequently used photo upload option. The second option is, whenever you find a new slideshow sharing from any of your friends on your Facebook timeline, you can tap the “Try it” button over this post, it will immediately take you to the slideshow creation section.
 
 ![start create facebook slideshow](https://images.wondershare.com/filmora/article-images/facebook-slideshow-update-status.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Step 2: Now choose one theme
 
@@ -258,7 +262,7 @@ The Edit option allows you to delete an image and adjust the order of the photos
 ![how to create a slideshow on facebook](https://images.wondershare.com/filmora/filmorapro/edit-facebook-slideshow.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Step 4: Publish Facebook slideshow
@@ -323,6 +327,10 @@ Check the ultimate guide about [Making a slideshow with music and titles in Film
 
 ## Part 2: How to Create a Slideshow on Facebook Easily
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Step 1: Start making a Facebook slideshow
 
 First of all, you need to open the Facebook application on iOS and Android phones and then move to the Status Update section. Here you will find the slideshow option near the frequently used photo upload option. The second option is, whenever you find a new slideshow sharing from any of your friends on your Facebook timeline, you can tap the “Try it” button over this post, it will immediately take you to the slideshow creation section.
@@ -335,19 +343,11 @@ Now select photos that you wish to add to your slideshow, you can also add video
 
 ![facebook slideshow library](https://images.wondershare.com/filmora/article-images/facebook-slideshow-library.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Step 3: Edit Facebook slideshow
 
 The Edit option allows you to delete an image and adjust the order of the photos and videos that you want them to appear in the slideshow. In case if you want to remove any of your added images from the slideshow then simply tap on that particular image and you will find a trash icon on the screen. Tap that option. There is a More button on your screen, using this button you can easily add titles at the beginning of your slideshow as well as put your friends in the tag list. Now go to the preview option and check the quality of your slide show. You can also watch videos in any editing stage and all changes can be updated immediately. Note that adding more photos or videos to the slideshow means you are going to have a lengthy slideshow.
 
 ![how to create a slideshow on facebook](https://images.wondershare.com/filmora/filmorapro/edit-facebook-slideshow.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Step 4: Publish Facebook slideshow
 
@@ -402,19 +402,24 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-breaking-into-the-digital-age-mobile-streaming-on-facebook/"><u>[New] Breaking Into the Digital Age Mobile Streaming on Facebook</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-comprehensible-guide-to-shifting-photosvideos-in-ios-world-for-2024/"><u>[New] Comprehensible Guide to Shifting Photos/Videos in iOS World for 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-setting-up-seamless-auto-play-for-fb-content/"><u>[New] In 2024, Setting Up Seamless Auto-Play for FB Content</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-premium-selection-top-8-tripods-for-clear-4k-videos/"><u>[New] Premium Selection Top 8 Tripods for Clear 4K Videos</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-maximizing-your-social-reach-with-dual-display-facebook-streaming/"><u>[Updated] 2024 Approved Maximizing Your Social Reach with Dual Display Facebook Streaming</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/2024-approved-dive-into-high-definition-fb-streaming-in-1080p/"><u>2024 Approved Dive Into High Definition FB Streaming in 1080P</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/8-safe-and-effective-methods-to-unlock-your-iphone-14-pro-max-without-a-passcode-drfone-by-drfone-ios/"><u>8 Safe and Effective Methods to Unlock Your iPhone 14 Pro Max Without a Passcode | Dr.fone</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/comprehensive-evaluation-of-the-cat-s42-durable-smartphone-high-security-at-low-speeds/"><u>Comprehensive Evaluation of the CAT S42 Durable Smartphone: High Security at Low Speeds</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/discover-the-top-30-cost-free-1tbplus-cloud-service-picks/"><u>Discover the Top 30 Cost-Free, 1TB+ Cloud Service Picks</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/in-2024-cutting-edge-mp4-transformer-share-to-facebook/"><u>In 2024, Cutting-Edge MP4 Transformer Share to Facebook</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-realme-12-proplus-5g-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Realme 12 Pro+ 5G Phone</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/in-2024-top-score-facebooks-1-10-music-video-showcase/"><u>In 2024, Top Score Facebook’s #1-#10 Music Video Showcase</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/indigenous-australian-cultures/"><u>Indigenous Australian Cultures</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-discover-the-best-3d-animation-makers-for-stunning-videos/"><u>New Discover the Best 3D Animation Makers for Stunning Videos</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-best-solutions-to-record-video-without-sound-for-2024/"><u>[New] Best Solutions to Record Video Without Sound for 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-can-you-receive-a-monthly-check-from-youtube/"><u>[New] Can You Receive a Monthly Check From YouTube?</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-ipad-audio-excellence-top-3-techniques-for-2024/"><u>[New] IPad Audio Excellence Top 3 Techniques for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-masterful-fb-watching-essential-top-10-players/"><u>[New] Masterful FB Watching Essential Top 10 Players</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-from-silent-screens-to-captivating-media-instantly-create-captions-on-fb/"><u>[Updated] In 2024, From Silent Screens to Captivating Media Instantly Create Captions on FB</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-mp3-repository-from-fb-posts/"><u>[Updated] MP3 Repository From Fb Posts</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-smart-guide-top-picks-for-6-fb-lite-videos-for-2024/"><u>[Updated] Smart Guide Top Picks for 6 FB Lite Videos for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-ultimate-selection-of-free-streaming-options-reviewed/"><u>[Updated] Ultimate Selection of Free Streaming Options Reviewed</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-chatcam-save-extractor-for-facebook/"><u>2024 Approved ChatCam Save Extractor for Facebook</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/2024s-ultimate-selection-of-ipad-air-cases-vetted-by-pro-reviews/"><u>2024'S Ultimate Selection of iPad Air Cases Vetted by Pro Reviews</u></a></li>
+<li><a href="https://driver-download.techidaily.com/getting-started-with-your-hp-840-g3-essential-driver-downloads/"><u>Getting Started with Your HP 840 G3 – Essential Driver Downloads</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-to-optimize-content-a-comprehensive-guide-to-effective-activation-strategies/"><u>How to Optimize Content: A Comprehensive Guide to Effective Activation Strategies</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-from-shoots-to-screens-dslr-setup-for-youtubefacebook-live/"><u>In 2024, From Shoots to Screens DSLR Setup for YouTube/Facebook Live</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-seamless-video-sharing-from-youtube-to-fb/"><u>In 2024, Seamless Video Sharing From YouTube to FB</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-top-10-fb-videos-to-mp4-converter-toolkit/"><u>In 2024, Top 10 FB Videos to MP4 Converter Toolkit</u></a></li>
+<li><a href="https://article-tips.techidaily.com/metaverse-masterpieces-top-ten-films-that-reimagine-realities/"><u>Metaverse Masterpieces Top Ten Films That Reimagine Realities</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/secrets-of-facebook-cover-vids-for-aspiring-social-media-stars-for-2024/"><u>Secrets of Facebook Cover Vids for Aspiring Social Media Stars for 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/top-5-infinix-zero-30-5g-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>Top 5 Infinix Zero 30 5G Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/trouver-des-solutions-pour-la-restauration-de-windows-server-2012-r2-perdues/"><u>Trouver Des Solutions Pour La Restauration De Windows Server 2012 (R2) Perdues</u></a></li>
 </ul></div>
 
