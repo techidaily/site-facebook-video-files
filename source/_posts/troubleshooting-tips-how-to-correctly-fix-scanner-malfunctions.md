@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Tips: How to Correctly Fix Scanner Malfunctions"
-date: 2025-02-04T04:49:31.271Z
-updated: 2025-02-10T07:00:53.139Z
+date: 2025-02-17T11:35:20.634Z
+updated: 2025-02-20T10:57:17.045Z
 tags:
   - win11
   - win10
@@ -18,7 +18,7 @@ thumbnail: https://thmb.techidaily.com/2b0be1d254da9a28eb7fb0462b3c66de235332cf8
 Trying to play**Madden 20** but**it keeps crashing** ? You’re certainly not alone! While this is a very frustrating issue, it can be fixed…
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to fix**Madden 20** crashing
@@ -30,6 +30,10 @@ Trying to play**Madden 20** but**it keeps crashing** ? You’re certainly not al
 3. **[Repair Madden 20](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Install the latest game patch](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Reinstall Origin and Madden 20](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Update your device drivers
 
@@ -45,15 +49,15 @@ Trying to play**Madden 20** but**it keeps crashing** ? You’re certainly not al
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-439.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click the **Update**  button next to a flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4) Restart your computer for the changes to take effect.
 
@@ -91,13 +95,13 @@ Trying to play**Madden 20** but**it keeps crashing** ? You’re certainly not al
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-13.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Under the **System** tab and you can check the **Operating System**  and **Memory** information on your PC.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-526.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click the **Display** tab and you can check what **graphics card** your PC is using.
 
@@ -110,10 +114,6 @@ Trying to play**Madden 20** but**it keeps crashing** ? You’re certainly not al
  Hardware components up-to-date but M20 still crashes? Don’t worry – here are a few more fixes for you to try.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Repair Madden 20
 
@@ -151,13 +151,13 @@ Here are the steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-174.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) In the program list, locate **Origin** , then right-click on it and click**Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-175-1024x499.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) Locate **Madden 20** and uninstall it too.
 
@@ -190,18 +190,19 @@ Here are the steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-unveil-the-secrets-of-successful-fb-strategies-in-these-top-15-insight-tools/"><u>[New] In 2024, Unveil the Secrets of Successful FB Strategies in These Top 15 Insight Tools</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-navigate-to-notoriety-on-facebook-with-10-effective-tactics/"><u>[New] Navigate to Notoriety on Facebook with 10 Effective Tactics</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/nraveling-mukbang-the-art-of-feast-filled-vlogs-for-2024/"><u>[New] Unraveling Mukbang The Art of Feast-Filled Vlogs for 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-capture-360-degree-scenes-on-iphone-share-with-fb-for-2024/"><u>[Updated] Capture 360-Degree Scenes on iPhone, Share with FB for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-unveiling-virtual-excellence-top-5-upcoming-playstation-vr-titles/"><u>[Updated] In 2024, Unveiling Virtual Excellence Top 5 Upcoming PlayStation VR Titles</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-optimal-plot-generation-portal-for-2024/"><u>[Updated] Optimal Plot Generation Portal for 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/2024-approved-facebook-faulty-login-recover-your-account-today/"><u>2024 Approved Facebook Faulty Login? Recover Your Account Today</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/descubre-los-mejores-convertidores-de-video-gratuitos-para-windows-11-y-entiende-su-exito-en-la-optimizacion-multimedia/"><u>Descubre Los Mejores Convertidores De Vídeo Gratuitos Para Windows 11 Y Entiende Su Éxito en La Optimización Multimedia</u></a></li>
-<li><a href="https://extra-information.techidaily.com/expert-techniques-for-crafting-stunning-collage-photos-on-iphone/"><u>Expert Techniques for Crafting Stunning Collage Photos on iPhone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-how-to-engage-with-snapchat-luminaries/"><u>In 2024, How to Engage with Snapchat Luminaries</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/in-2024-networked-narratives-recorder/"><u>In 2024, Networked Narratives Recorder</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/trending-titles-navigating-through-facebooks-hot-takes/"><u>Trending Titles Navigating Through Facebook's Hot Takes</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/visual-language-warp-the-photographic-transformers-guide/"><u>Visual Language Warp The Photographic Transformer's Guide</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-implementing-video-timelines-on-youtube/"><u>[New] Implementing Video Timelines on YouTube</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-unlocking-the-archive-of-yesteryear-how-to-view-facebook-past-content/"><u>[Updated] 2024 Approved Unlocking the Archive of Yesteryear How To View Facebook Past Content</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-audio-visual-transcript-maker/"><u>[Updated] Audio Visual Transcript Maker</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-from-likes-to-leads-top-30-tactics-for-social-media-success-for-2024/"><u>[Updated] From Likes to Leads Top 30 Tactics for Social Media Success for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-mastery-in-media-download-from-facebook-platforms/"><u>[Updated] In 2024, Mastery in Media Download From Facebook Platforms</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-reach-optimal-timestamp-in-fb-posting/"><u>[Updated] In 2024, Reach Optimal Timestamp in Fb Posting</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-picarts-quick-shield-for-facial-features/"><u>[Updated] PicArt's Quick Shield for Facial Features</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/elevate-your-content-game-with-professional-facebook-slideshow-techniques/"><u>Elevate Your Content Game with Professional Facebook Slideshow Techniques</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-resolve-lava-blaze-2-pro-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Lava Blaze 2 Pro Screen Not Working | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-9-best-phone-monitoring-apps-for-infinix-zero-30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Best Phone Monitoring Apps for Infinix Zero 30 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-anything-from-oneplus-11-5g-to-apple-tv-drfone-by-drfone-android/"><u>In 2024, How To Stream Anything From OnePlus 11 5G to Apple TV | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-poco-c51-phone-without-password-by-drfone-android/"><u>In 2024, How To Unlock Poco C51 Phone Without Password?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-iphone-14-pro-asking-for-passcode-after-ios-1714-update-what-to-do-by-drfone-ios/"><u>In 2024, iPhone 14 Pro Asking for Passcode after iOS 17/14 Update, What to Do?</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/maximizing-engagement-with-dual-screen-broadcasting-techniques-in-facebook-for-2024/"><u>Maximizing Engagement with Dual-Screen Broadcasting Techniques in Facebook for 2024</u></a></li>
 </ul></div>
 

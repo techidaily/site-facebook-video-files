@@ -1,7 +1,7 @@
 ---
 title: "Resolving Issues with Non-Functional Logitech Webcam Microphones: A Step-by-Step Guide"
-date: 2025-02-09T03:56:49.560Z
-updated: 2025-02-10T08:53:20.305Z
+date: 2025-02-15T07:53:09.462Z
+updated: 2025-02-20T09:54:49.428Z
 tags:
   - win11
   - win10
@@ -17,10 +17,6 @@ thumbnail: https://thmb.techidaily.com/74ac13432c01dd5c17161c9b4a52f81e0b445cdf2
 
 Objectively, external webcams such as Logitech webcams offer better video quality, plus a range of features. But there are some situations where you may run into issues like the built-in microphone (**it could be your C920 webcame** ) not working all of a sudden. Instead of investing in another expensive webcam, there are several things you can do to reclaim your own voice.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  You may not need to try them all; simply work your way down the list until you find the one that works.
@@ -33,6 +29,10 @@ Objectively, external webcams such as Logitech webcams offer better video qualit
 6. **[If your microphone is still not working properly…](https://tools.techidaily.com/drivereasy/download/)**
 
 ![how to fix Logitech webcam mic not working](https://images.drivereasy.com/wp-content/uploads/2021/03/logitech-webcam-mic-not-working.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Install all Windows updates
 
@@ -49,7 +49,7 @@ Here’s how you can do this:
 ![how to download and install Windows updates](https://images.drivereasy.com/wp-content/uploads/2021/01/click-on-the-Check-for-updates-tab.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once you’ve installed the latest Windows updates, try to use the microphone to check if it’s working now. If not, try the next fix below.
@@ -74,10 +74,6 @@ Here’s how to update your drivers with Driver Easy:
 
 ![update drivers automatically](https://images.drivereasy.com/wp-content/uploads/2020/09/scan-now-driver-easy-1.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them.)
 
@@ -90,7 +86,7 @@ Here’s how to update your drivers with Driver Easy:
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Allow access to your webcam built-in microphone
@@ -107,19 +103,23 @@ Here’s how to update your drivers with Driver Easy:
   
 ![turn on app permissions on your microphone](https://images.drivereasy.com/wp-content/uploads/2021/02/turn-on-app-permissions-for-your-micropho0ne.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) Under the **Allow apps to access your microphone**  section, make sure it’s turned **On** .  
   
 ![allow apps to access your microphone](https://images.drivereasy.com/wp-content/uploads/2021/02/allow-apps-to-access-your-microphone.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  5) Once you’ve allowed the microphone to access your apps, you can change the settings for each app. Simply head to the **Choose which Microsoft apps can access your microphone** , and turn on apps you want to use with it. For desktop apps, make sure that **Allow desktop apps to access your microphone**  is turned **On** .
 
  After you’ve done all of these, try to use your webcam microphone and check if it’s working properly. If the issue persists, try the next fix below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Make sure your mic isn’t disabled
 
@@ -128,6 +128,10 @@ Here’s how to update your drivers with Driver Easy:
  1) Right-click on the Speaker icon on the bottom-right corner of your screen. Then select **Open Sound settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/open-sound-settings.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) Under the **Input**  section, make sure that your device is showing. Then click **Device Properties** .  
   
@@ -153,13 +157,13 @@ Here’s how to update your drivers with Driver Easy:
   
 ![Open Sound Control Panel](https://images.drivereasy.com/wp-content/uploads/2021/02/sound-control-panel.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Select the **Recording**  tab. Select your microphone and then click **Set Default > OK** .  
   
 ![set your device as the default](https://images.drivereasy.com/wp-content/uploads/2021/03/microphone.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After applying changes, do a mic test to check if this method did the trick. If the microphone is still not working, you need to check the input sensitivity of your mic to ensure it is not too low or too high which could cause issues. Here’s how you can do this:
 
@@ -175,10 +179,6 @@ Here’s how to update your drivers with Driver Easy:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Run Fortect and it will run a FREE scan of your PC. Once the scan is finished, you’ll see a complete overview of your system and issues.
 
  3) Click **Start Repair** to start the repair process and wait for Fortect to fix the problem.
@@ -186,7 +186,7 @@ Here’s how to update your drivers with Driver Easy:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
@@ -210,22 +210,21 @@ Here’s how to update your drivers with Driver Easy:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-video-recordings.techidaily.com/new-9-youtube-video-extraction-tools-for-android-reviewed/"><u>[New] 9 YouTube Video Extraction Tools for Android Reviewed</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-professional-recorder-capture-studio-win10-edition/"><u>[New] In 2024, Professional Recorder Capture Studio Win10 Edition</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-action-cam-audio-winners-in-a-nutshell/"><u>[Updated] Action Cam Audio Winners in a Nutshell</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/banishing-audio-disturbances-in-outriders-step-by-step-restoration-techniques/"><u>Banishing Audio Disturbances in Outriders: Step-by-Step Restoration Techniques</u></a></li>
-<li><a href="https://driver-error.techidaily.com/blank-screen-for-external-drives-on-w10w11/"><u>Blank Screen for External Drives on W10/W11</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/comprehensive-guide-to-fixing-not-working-problems-on-vrchat-platform/"><u>Comprehensive Guide to Fixing 'Not Working' Problems on VRChat Platform</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/create-visual-narratives-install-microsofts-movie-maker-on-w11-for-2024/"><u>Create Visual Narratives Install Microsoft's Movie Maker on W11 for 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/cyberpunk-2077-frame-rate-improvements-gameplay-enhanced/"><u>Cyberpunk 2077 Frame Rate Improvements - Gameplay Enhanced</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/discover-6-compelling-benefits-that-make-the-chatgpt-ios-app-superior-to-its-web-counterpart/"><u>Discover 6 Compelling Benefits That Make the ChatGPT iOS App Superior to Its Web Counterpart</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/fixing-the-update-error-code-0x80070422-in-windows-10-complete-guide/"><u>Fixing the 'Update Error: Code 0X80070422' In Windows 10 – Complete Guide</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/navigating-the-use-of-modified-chatgpt-versions-risks-and-rewards/"><u>Navigating the Use of Modified ChatGPT Versions: Risks and Rewards</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/nook-glowlight-3-in-depth-review-perfect-for-your-evening-reads/"><u>Nook GlowLight 3 In Depth Review: Perfect For Your Evening Reads</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/quick-fixes-for-unheard-music-usb-headphone-problems-resolved-on-windows-7/"><u>Quick Fixes for Unheard Music: USB Headphone Problems Resolved on Windows 7</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/solving-the-cannot-connect-to-world-problem-in-minecraft-for-seamless-gameplay/"><u>Solving the 'Cannot Connect to World' Problem in Minecraft for Seamless Gameplay</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/the-pathway-to-pro-youtube-earnings-on-every-device-for-2024/"><u>The Pathway to Pro Youtube Earnings on Every Device for 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/troubleshooting-made-easy-how-to-prevent-assassins-creed-valhalla-crashes-on-pc/"><u>Troubleshooting Made Easy: How to Prevent Assassin's Creed Valhalla Crashes on PC</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/unveiling-limitations-in-the-pioneer-bdr-xd05b-blu-ray-writer-a-detailed-review/"><u>Unveiling Limitations in The Pioneer BDR-XD05B Blu-Ray Writer: A Detailed Review</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-download-facebook-stories-with-ease-essential-tips-and-tricks-mobiledesktop/"><u>[New] 2024 Approved Download Facebook Stories with Ease Essential Tips and Tricks (Mobile/Desktop)</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-elevate-your-virtual-identity-expert-tips-for-memorable-fb-bios/"><u>[New] 2024 Approved Elevate Your Virtual Identity Expert Tips for Memorable FB Bios</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-maximizing-profile-video-attraction-strategies/"><u>[New] Maximizing Profile Video Attraction Strategies</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-the-essential-guide-for-gopro-live-streams-to-social-media-hubs/"><u>[New] The Essential Guide for GoPro Live Streams to Social Media Hubs</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-mastering-fbs-viral-hits-10-songs-that-scored-big/"><u>2024 Approved Mastering FB's Viral Hits - 10 Songs That Scored Big</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/captivating-your-network-streamlining-content-via-wirecast-to-facebook-for-2024/"><u>Captivating Your Network Streamlining Content via Wirecast to Facebook for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/capturing-the-thrill-hero5-black-against-hero4-silver/"><u>Capturing the Thrill Hero5 Black Against Hero4 Silver</u></a></li>
+<li><a href="https://games-able.techidaily.com/guide-to-rectify-roblox-error-262/"><u>Guide to Rectify Roblox Error 262</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-xiaomi-redmi-12-phone-without-pin-by-drfone-android/"><u>In 2024, How to Unlock Xiaomi Redmi 12 Phone without PIN</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlock-iphone-14-without-passcode-easily-by-drfone-ios/"><u>In 2024, Unlock iPhone 14 Without Passcode Easily</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/is-antivirus-protection-running-on-your-system-learn-more-from-yl-computings-solutions/"><u>Is Antivirus Protection Running on Your System? Learn More From YL Computing's Solutions</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722971371680-latest-audio-drivers-available-free-sound-blaster-audigy-fx-pack/"><u>Latest Audio Drivers Available – Free Sound Blaster Audigy FX Pack.</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/o-guia-definitivo-para-ajuste-de-taxa-de-bits-no-audio-transformando-mp3-com-sucesso/"><u>O Guia Definitivo Para Ajuste De Taxa De Bits No Audio: Transformando MP3 Com Sucesso</u></a></li>
+<li><a href="https://windows11.techidaily.com/reinventing-tech-windows-leap-from-version-11/"><u>Reinventing Tech: Windows' Leap From Version 11</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/videography-on-fb-horizontal-or-vertical-placement-for-2024/"><u>Videography on FB Horizontal or Vertical Placement for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-when-oppo-k11x-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Oppo K11x Has Black Screen of Death? | Dr.fone</u></a></li>
 </ul></div>
 

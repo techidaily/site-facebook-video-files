@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Made Easy: How to Prevent Assassin's Creed Valhalla Crashes on PC"
-date: 2025-02-03T23:29:12.421Z
-updated: 2025-02-09T18:54:22.866Z
+date: 2025-02-14T21:32:41.114Z
+updated: 2025-02-19T21:23:54.114Z
 tags:
   - win11
   - win10
@@ -58,10 +58,6 @@ thumbnail: https://thmb.techidaily.com/6816402dd23c56a105ec64bc0a33bec17942a9ec3
 
  If you’re sure that your gaming rig is ready for the game, you can take a look at the next fix below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 2: Verify the integrity of game files
 
  So let’s start from some easy troubleshooting. The in-game crashes or crashing at clicking “New Game” might indicate**an integrity issue with your game files** . It’s a common issue when you encounter network glitches. You can follow these steps to check and repair any corrupted files:
@@ -71,14 +67,10 @@ thumbnail: https://thmb.techidaily.com/6816402dd23c56a105ec64bc0a33bec17942a9ec3
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/valhalla-verify-1.jpg)
 3. Select **Verify files** . Then wait for the checking to complete.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/valhalla-verify-2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Now you can launch Assassin’s Creed Valhalla and check if it crashes again.
@@ -86,7 +78,7 @@ thumbnail: https://thmb.techidaily.com/6816402dd23c56a105ec64bc0a33bec17942a9ec3
  If verifying game files didn’t help your case, simply check out the next method.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Install all Windows updates
@@ -99,6 +91,10 @@ You can use these steps to check for Windows updates manually:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-setting-app-security-update.jpg)
 2. Click **Check for updates** . Windows will automatically download and install all the available updates. This might take up to an hour depending on your Internet speed.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
  In some cases, you might need to check several times to get all the updates. Simply repeat these steps until it prompts**You’re up to date** when you click**Check for updates** .
@@ -106,6 +102,10 @@ You can use these steps to check for Windows updates manually:
  Once you’ve fully updated your system, restart your PC and check if Assassin’s Creed Valhalla becomes stable.
 
 If the crash happens again, you can take a look at the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Update your graphics driver
 
@@ -136,15 +136,15 @@ If the crash happens again, you can take a look at the next fix.
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Once you’ve updated your graphics driver, restart your PC and test the gameplay in Assassin’s Creed Valhalla.
 
  If the driver update doesn’t do the trick for you, simply continue to the next fix below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5: Lower in-game graphics settings
 
@@ -166,7 +166,7 @@ If the crash happens again, you can take a look at the next fix.
  If disabling peripherals doesn’t work for you, or you’re not using any at the first place, you can take a look at the next fix below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 7: Check the launcher log
@@ -196,18 +196,20 @@ If the crash happens again, you can take a look at the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/new-sizzling-social-hot-food-trends-on-tiktok-for-2024/"><u>[New] Sizzling Social Hot Food Trends on TikTok for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-mastering-screencapture-essential-techniques/"><u>[Updated] In 2024, Mastering ScreenCapture Essential Techniques</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-unleash-the-experience-top-9-streams/"><u>2024 Approved Unleash the Experience Top 9 Streams</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/expert-guide-overcoming-the-obstacles-of-fortnites-ls-0013-deployment-issue/"><u>Expert Guide: Overcoming the Obstacles of Fortnite's LS-0013 Deployment Issue</u></a></li>
-<li><a href="https://win11.techidaily.com/keyboard-kinks-how-to-awaken-sleeping-windows-1011-pcs/"><u>Keyboard Kinks: How to Awaken Sleeping Windows 10/11 PCs</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/mastering-lithuanian-language-via-internet-methods/"><u>Mastering Lithuanian Language via Internet Methods</u></a></li>
-<li><a href="https://extra-support.techidaily.com/perfected-pixelated-photos-follow-the-10-key-composition-guidelines-for-2024/"><u>Perfected Pixelated Photos Follow the 10 Key Composition Guidelines for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/premium-pc-liquid-coolers-often-fall-short-investigation-uncovers-low-copper-use-in-over-half-the-products-on-market/"><u>Premium PC Liquid Coolers Often Fall Short: Investigation Uncovers Low Copper Use in Over Half the Products on Market</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/should-you-invest-in-the-apple-vision-pro-heres-our-take/"><u>Should You Invest in the Apple Vision Pro? Here’s Our Take</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/step-by-step-fix-for-persistent-microsoft-edge-crashing-on-new-windows-11-devices/"><u>Step-by-Step Fix for Persistent Microsoft Edge Crashing on New Windows 11 Devices</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/trailblazing-tripod-your-global-journey-partner/"><u>Trailblazing Tripod: Your Global Journey Partner</u></a></li>
-<li><a href="https://meme-emoji.techidaily.com/updated-the-essential-guide-to-emoji-memoji-animoji-and-bitmoji-for-2024/"><u>Updated The Essential Guide to Emoji, Memoji, Animoji, and Bitmoji for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/44oe44kw44on44od44oi44oq44oz44kv44go44oi44os44oz44oi77ya44oa44km44oz44ot44o844oj44ox44ot44k744k544gu6kej6kqs/"><u>マグネットリンクとトレント：ダウンロードプロセスの解説</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-highest-watched-online-clips-list/"><u>[New] 2024 Approved Highest-Watched Online Clips List</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-seeking-entertainment-a-guide-to-watching-fb-videos/"><u>[New] In 2024, Seeking Entertainment A Guide to Watching FB Videos</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-technique-to-capture-fb-videos-flawlessly-on-both-systems/"><u>[New] In 2024, Technique to Capture FB Videos Flawlessly on Both Systems</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-mastering-culinary-cinematography-essential-food-film-techniques-for-2024/"><u>[New] Mastering Culinary Cinematography Essential Food Film Techniques for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-unveiling-the-secrets-of-facebook-story-filming-and-editing-for-2024/"><u>[Updated] Unveiling the Secrets of Facebook Story Filming and Editing for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-whats-encrypted-exploring-the-role-of-facebooks-blue-icon/"><u>2024 Approved What's Encrypted Exploring the Role of Facebook's Blue Icon?</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/leading-list-of-budget-video-call-apps-with-live-sharing/"><u>Leading List of Budget Video Call Apps with Live Sharing</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ring-freefire-the-30-best-tag-strategies-to-increase-views/"><u>Mastering FreeFire The 30 Best Tag Strategies to Increase Views</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/premium-free-fb-media-designer-toolkit-for-2024/"><u>Premium Free FB Media Designer Toolkit for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reducing-resource-grab-taming-windows-ums-consumption-by-vanguard/"><u>Reducing Resource Grab: Taming Windows' UMS Consumption by Vanguard</u></a></li>
+<li><a href="https://some-tips.techidaily.com/securing-your-future-in-tech-master-the-top-3-languages-every-developer-needs-according-to-zdnet/"><u>Securing Your Future in Tech: Master the Top 3 Languages Every Developer Needs, According to ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-definitive-selection-of-favorite-free-email-services/"><u>The Definitive Selection of Favorite Free Email Services</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unbeatable-moms-day-promotions-you-cant-miss-insights-from-zdnet/"><u>Unbeatable Mom’s Day Promotions You Can’t Miss - Insights From ZDNet</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/unravel-the-mysteries-of-efficient-story-connectivity-for-2024/"><u>Unravel the Mysteries of Efficient Story Connectivity for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/ways-to-trade-pokemon-go-from-far-away-on-vivo-y78-5g-drfone-by-drfone-virtual-android/"><u>Ways to trade pokemon go from far away On Vivo Y78 5G? | Dr.fone</u></a></li>
 </ul></div>
 

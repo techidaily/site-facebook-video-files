@@ -1,7 +1,7 @@
 ---
 title: Cyberpunk 2077 Frame Rate Improvements - Gameplay Enhanced
-date: 2025-02-04T19:07:05.890Z
-updated: 2025-02-10T03:20:23.673Z
+date: 2025-02-13T19:49:04.027Z
+updated: 2025-02-19T22:11:05.815Z
 tags:
   - win11
   - win10
@@ -19,6 +19,10 @@ Cyberpunk 2077 is finally here! After several hours of gameplay, did you feel yo
 
 Don’t worry, here’re fixes may help you solve the issue.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -26,10 +30,6 @@ Don’t worry, here’re fixes may help you solve the issue.
 1. [Change the in-game settings](https://tools.techidaily.com/drivereasy/download/)
 2. [Change the mouse setting](https://tools.techidaily.com/drivereasy/download/)
 3. [Update the device driver](https://tools.techidaily.com/drivereasy/download/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: Change the in-game settings
 
@@ -41,9 +41,17 @@ Don’t worry, here’re fixes may help you solve the issue.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-15_15-48-13.jpg)
 2. Click the**CONTROLS** tab.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Under the**First-Person** Camera (Controller) section, find**Show Advanced Options** and click**ON** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-15_15-48-52.jpg)
 4. In the open section, change**Response Curve** to**Raw** , and set**Horizontal Turning Bonus** and**Vertical Turning Bonus** to**0** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-15_15-50-02.jpg)
 
@@ -75,24 +83,20 @@ If this fix doesn’t work, move to the next one.
 3. Go to the**Mouse** tab, click**Additional mouse options** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-15_16-00-50.jpg)
 4. Make sure you uncheck the**Enhance pointer precision** . Click**Apply > OK** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-15_16-01-18.jpg)
 5. Launch the game and check.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 If it doesn’t work, move to the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Update the device driver
 
@@ -122,10 +126,6 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 
@@ -152,19 +152,20 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-game-changers-gear-essentials-every-business-needs-to-stay-ahead-of-the-curve/"><u>[New] 2024 Approved Game Changers Gear Essentials Every Business Needs to Stay Ahead of the Curve</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-discover-top-ios-video-downloads-facebook-edition-for-2024/"><u>[New] Discover Top iOS Video Downloads Facebook Edition for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-live-streaming-on-mac-os-costless-option/"><u>[New] In 2024, Live Streaming on Mac OS - Costless Option</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-smart-social-media-strategies-from-youtube-to-facebook-for-2024/"><u>[New] Smart Social Media Strategies From YouTube To Facebook for 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-strategies-to-attain-facebooks-prestige-blue-icon-for-2024/"><u>[New] Strategies to Attain Facebook’s Prestige Blue Icon for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-best-practices-in-winning-tv-recording-with-software/"><u>[Updated] 2024 Approved Best Practices in Winning TV Recording with Software</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-baleful-blackness-clashing-with-splendid-silverliness/"><u>[Updated] Baleful Blackness Clashing with Splendid Silverliness</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-hacky-yet-effective-face-blurring-on-piscart-for-2024/"><u>[Updated] Hacky Yet Effective Face-Blurring on PiscArt for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-in-2024-how-to-add-subtitles-to-windows-media-player/"><u>[Updated] In 2024, How to Add Subtitles to Windows Media Player</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/breaking-down-gopros-burst-capture-feature/"><u>Breaking Down GoPro's Burst Capture Feature</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/how-to-fix-statusdevicepowerfailure-bluetooth-error-on-windows-10/"><u>How to Fix Status_Device_Power_Failure Bluetooth Error on Windows 10</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-unlock-icloud-lock-on-your-iphone-12-pro-max-and-ipad-by-drfone-ios/"><u>How to Unlock iCloud lock on your iPhone 12 Pro Max and iPad?</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-3-effective-ways-to-unlock-icloud-account-without-password-from-iphone-14-plus-by-drfone-ios/"><u>In 2024, 3 Effective Ways to Unlock iCloud Account Without Password From iPhone 14 Plus</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/leveraging-visuals-for-profile-dominance-for-2024/"><u>Leveraging Visuals for Profile Dominance for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-seize-your-social-media-videos-top-extensions-and-downloaders-for-firefox/"><u>[New] 2024 Approved Seize Your Social Media Videos! Top Extensions and Downloaders for Firefox</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-harmony-at-hand-free-audio-from-fb/"><u>[New] Harmony at Hand Free Audio From FB</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-find-your-favorites-ranking-of-8-preferred-mp3-extractors-android/"><u>[New] In 2024, Find Your Favorites Ranking of 8 Preferred MP3 Extractors (Android)</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-in-2024-revolutionize-your-tiktok-with-these-top-analytic-instruments/"><u>[New] In 2024, Revolutionize Your TikTok with These Top Analytic Instruments</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-premier-5-film-scraper-apps-for-2024/"><u>[New] Premier 5 Film Scraper Apps for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-effortless-fb-stream-setup-using-obs-on-laptops-mac-and-pc/"><u>[Updated] 2024 Approved Effortless FB Stream Setup Using OBS on Laptops, Mac & PC</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-prime-choices-selecting-best-6-fb-lite-vids/"><u>[Updated] 2024 Approved Prime Choices Selecting Best 6 FB Lite Vids</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-breaking-barriers-how-to-enjoy-virtual-journeys/"><u>[Updated] Breaking Barriers How to Enjoy Virtual Journeys</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-fast-and-furious-the-prime-5-video-clipping-tools-in-chromes/"><u>[Updated] Fast & Furious The Prime 5 Video Clipping Tools in Chromes</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-turn-off-find-my-iphone-7-when-phone-is-broken-drfone-by-drfone-ios/"><u>How to Turn Off Find My iPhone 7 when Phone is Broken? | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-asus-proart-review-pushing-boundaries-in-color-accuracy/"><u>In 2024, ASUS ProArt Review Pushing Boundaries in Color Accuracy</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/navigating-through-challenges-with-non-functional-fb-video-share/"><u>Navigating Through Challenges with Non-Functional FB Video Share</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-best-free-video-rotation-apps-for-android-iphone-windows-and-mac/"><u>New In 2024, Best Free Video Rotation Apps for Android, iPhone, Windows, and Mac</u></a></li>
+<li><a href="https://fox-that.techidaily.com/restoring-gps-accuracy-fixes-for-when-your-iphone-cant-determine-location/"><u>Restoring GPS Accuracy: Fixes for When Your iPhone Can't Determine Location</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/1728480188350-windows-11/"><u>Windows 11困惑處理:「需要您注意的項目」修正策略 | 三大解決辦法</u></a></li>
 </ul></div>
 

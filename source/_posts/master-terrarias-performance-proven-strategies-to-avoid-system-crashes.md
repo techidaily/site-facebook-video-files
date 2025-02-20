@@ -1,7 +1,7 @@
 ---
 title: "Master Terraria's Performance : Proven Strategies to Avoid System Crashes"
-date: 2025-02-07T10:11:31.334Z
-updated: 2025-02-10T00:21:53.579Z
+date: 2025-02-18T04:26:41.445Z
+updated: 2025-02-20T01:43:41.356Z
 tags:
   - win11
   - win10
@@ -30,6 +30,10 @@ Before you move on, select your gaming platform first:
 ### PC
 
  If you’re experiencing_Dead by Daylight_ crashing issue on your PC, check the fixes below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Try these fixes
 
@@ -120,10 +124,6 @@ OR
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/05/NVIDIA-GeForce-RTX-3090-Ti.jpg)
 4. After updating, restart your computer to take effect.
@@ -184,6 +184,10 @@ Follow the instructions below to see how to fix it:
 ![](https://www.drivereasy.com/wp-content/uploads/2019/05/image-721.png)
 4. Select **High Performance** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2019/05/image-738.png)
 
  Restart your computer and your game to see if this worked for you. If your problem persists, try the fix below.
@@ -195,6 +199,10 @@ Follow the instructions below to see how to fix it:
 1. Right-click the**Dead by Daylight icon** , then select **Properties** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2019/09/image-215.png)
 2. Click the **Compatibility**  tab. Then check the box next to **Run this program in compatibility mode for** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2019/08/image-264.png)
 3. Click the list box below to select **Windows 8** , then click **OK** .  
@@ -217,16 +225,8 @@ If this didn’t work for you, check the fix, below.
 ![](https://www.drivereasy.com/wp-content/uploads/2019/05/image-886.png)
 3. On your keyboard, press the **Windows logo** key and type **control** . Then, click **Control panel** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2019/05/image-737.png)
 4. Under **View by,** click **Large icons** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2019/05/image-720.png)
 5. Select **Uninstall a program** .  
@@ -241,7 +241,7 @@ If this didn’t work for you, check the fix, below.
 8. **[Download](https://store.steampowered.com/about/)**  and install Steam.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 9. Right-click your **Steam icon**  and select **Open file location** .  
@@ -253,13 +253,13 @@ If this didn’t work for you, check the fix, below.
 
  Hopefully, one of the fixes above fixed your issue and you’re now able to actually play! If you have any questions, please leave a comment below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Xbox One
 
  If you’re playing_Dead by Daylight_ on Xbox One, check the solutions below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Try these fixes
 
@@ -295,6 +295,10 @@ If this didn’t work for you, check the fix, below.
 ![](https://www.drivereasy.com/wp-content/uploads/2019/08/xbox-one-controller-2206687_1920.jpg)
 2. Select **Settings** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2019/08/image-92.png)
 3. Select **System** .  
 
@@ -320,20 +324,20 @@ If this didn’t work for you, check the fix, below.
 4. Select **Console info.**  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2019/08/image-94.png)
 5. Select **Reset console** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2019/08/image-97.png)
 6. Select **Reset and keep my games & apps** .  
 
 ![](https://www.drivereasy.com/wp-content/uploads/2019/08/image-99.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After resetting your console, restart Dead by Daylight to test your issue. If your problem persists, check the fix below.
 
@@ -353,10 +357,6 @@ If this didn’t work for you, check the fix, below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/xbox-one-controller-2206687_1920-1-1024x671.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **4)** Highlight your game, then press the **☰ button** on your controller.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-175-1024x439.png)
@@ -364,6 +364,10 @@ If this didn’t work for you, check the fix, below.
 **5)**  Select **Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-108.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **6)** After the game is uninstalled, insert **the game disc** into the drive to download and install Dead by Daylight.
 
@@ -416,10 +420,6 @@ If this didn’t work for you, check the fix, below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1077-1024x217.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)** Select **System Software Update,** and then follow the on-screen instructions to update the system software for your PS4.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1076.png)
@@ -442,6 +442,10 @@ If this didn’t work for you, check the fix, below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1099.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **5)**  Press the **PS button** on your controller.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1094.png)
@@ -449,10 +453,6 @@ If this didn’t work for you, check the fix, below.
 **6)** Select **Restore to Default Settings** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1095.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **7)**  Select **Yes**  and wait for the process to be complete.
 
@@ -485,22 +485,24 @@ If this didn’t work for you, check the fix, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-2024-approved-best-practices-for-stream-backgrounds/"><u>[New] 2024 Approved Best Practices for Stream Backgrounds</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-exploring-ricoh-theta-s-in-full-review/"><u>[New] Exploring Ricoh Theta S in Full Review</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-fix-chrome-error-with-fb-videos/"><u>[New] In 2024, Fix Chrome Error with FB Videos</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-recording-webinars-for-2024/"><u>[New] Recording Webinars for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-windows-leading-video-chat-pros-top-8-for-2024/"><u>[New] Windows' Leading Video Chat Pros Top 8 for 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-from-silence-to-symphony-transforming-facebook-videos-with-melodies/"><u>[Updated] 2024 Approved From Silence to Symphony Transforming Facebook Videos with Melodies</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-prevent-freezing-of-streamed-videos-in-chrome/"><u>[Updated] 2024 Approved Prevent Freezing of Streamed Videos in Chrome</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-going-back-with-android-video-editing/"><u>[Updated] Going Back with Android Video Editing</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-high-quality-fb-videos-for-ff-browser-users/"><u>[Updated] In 2024, High-Quality FB Videos for FF Browser Users</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-joining-friends-and-family-online-facebook-setup-guide/"><u>[Updated] In 2024, Joining Friends and Family Online (Facebook Setup Guide)</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-streamlining-your-online-impact-with-correct-fb-video-dimensions/"><u>[Updated] In 2024, Streamlining Your Online Impact with Correct FB Video Dimensions</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-the-essential-art-of-editing-boost-your-instagram-videography-for-2024/"><u>[Updated] The Essential Art of Editing Boost Your Instagram Videography for 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-the-essential-tutorial-for-facebook-live-on-roku-tv/"><u>[Updated] The Essential Tutorial for Facebook Live on Roku TV</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/2024-approved-understanding-2023s-push-for-shorter-more-impactful-facebook-videos/"><u>2024 Approved Understanding 2023'S Push for Shorter, More Impactful Facebook Videos</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-easy-tutorial-for-activating-icloud-on-apple-iphone-7-safe-and-legal-by-drfone-ios/"><u>In 2024, Easy Tutorial for Activating iCloud on Apple iPhone 7 Safe and Legal</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-universal-unlock-pattern-for-vivo-y56-5g-by-drfone-android/"><u>In 2024, Universal Unlock Pattern for Vivo Y56 5G</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/rootjunky-apk-to-bypass-google-frp-lock-for-vivo-t2x-5g-by-drfone-android/"><u>Rootjunky APK To Bypass Google FRP Lock For Vivo T2x 5G</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-how-to-add-music-to-facebook-videos/"><u>[New] 2024 Approved How to Add Music to Facebook Videos?</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-seamless-transition-from-tv-to-facebook-lives/"><u>[New] 2024 Approved Seamless Transition From TV to Facebook Lives</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-a-roadmap-for-optimizing-and-tracking-your-fb-in-stream-ad-performance/"><u>[New] In 2024, A Roadmap for Optimizing and Tracking Your FB In-Stream Ad Performance</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-live-stream-success-tackling-common-2023-interruption-cases-in-fb/"><u>[New] Live Stream Success Tackling Common 2023 Interruption Cases in FB</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-tailoring-video-edits-the-reason-for-imovie-cropping/"><u>[New] Tailoring Video Edits The Reason for iMovie Cropping</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-the-complete-mac-book-on-srt-file-handling-for-2024/"><u>[New] The Complete Mac Book on SRT File Handling for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-crafting-an-irresistible-brand-image-on-your-fb-page-for-2024/"><u>[Updated] Crafting an Irresistible Brand Image on Your FB Page for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-end-screen-creation-made-simple-free-templates-and-guides/"><u>[Updated] End Screen Creation Made Simple - Free Templates & Guides</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-fb-content-design-the-right-orientation-for-your-videos/"><u>[Updated] FB Content Design The Right Orientation for Your Videos</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-professional-broadcasts-at-home-integrating-dslr-and-facebook-live/"><u>[Updated] In 2024, Professional Broadcasts at Home Integrating DSLR & Facebook LIVE</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-sharpen-your-scopes-a-comprehensive-guide-to-close-up-roblox/"><u>[Updated] Sharpen Your Scopes A Comprehensive Guide to Close-Up Roblox</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-the-social-media-strategists-guide-to-adjustable-video-sizes-on-fb-for-2024/"><u>[Updated] The Social Media Strategist's Guide to Adjustable Video Sizes on FB for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/exclusive-fb-to-mp3-conversion-just-click-instant-results-for-2024/"><u>Exclusive FB to MP3 Conversion - Just Click, Instant Results for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/from-keys-to-hearts-crafting-the-iconic-symbol-with-your-typing-skills/"><u>From Keys to Hearts: Crafting the Iconic ♥ Symbol with Your Typing Skills</u></a></li>
+<li><a href="https://facebook.techidaily.com/how-ios-145-could-pave-the-way-to-a-privacy-revolution/"><u>How iOS 14.5 Could Pave the Way to a Privacy Revolution</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-8-plus-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 8 Plus without Data Loss? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-tecno-spark-10-pro-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock Tecno Spark 10 Pro PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/instagram-edge-advanced-photo-editing-strategies/"><u>Instagram Edge Advanced Photo Editing Strategies</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/next-level-computing-with-a-twist-discover-the-astonishing-features-and-subtle-quirks-in-our-review-of-the-latest-dell-xps-models-16-9640-and-14-9440/"><u>Next-Level Computing with a Twist: Discover the Astonishing Features & Subtle Quirks in Our Review of the Latest Dell XPS Models - 16 (9640) and 14 (9440)</u></a></li>
 </ul></div>
 
